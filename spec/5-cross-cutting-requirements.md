@@ -1,7 +1,9 @@
-# 5 Cross-Cutting Requirements
+# 4 Cross-Cutting Requirements & Resources
 
 {% hint style="success" %}
-The Cross-cutting requirements described in this section are an extension of the cross-cutting requirements defined in the architecture blueprint and nonfunctional requirements document. This section will describe any additional cross-cutting requirements that apply to this building block.
-
-Cross-cutting requirements will use the same language (MUST or SHOULD) as specified in the architecture document.
+The Cross-cutting requirements described in this section apply to all the phases of playbook. Additionaly, please find linked bellow certain useful links that migh be useful when creating the playbook.
 {% endhint %}
+
+| Sno | Context                                                                                     | Link                                                                                                                                                                                                           |
+| --- | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Creating pages, groups and links. This page descrives the structuring of content in GitBook | [https://docs.gitbook.com/editing-content/content-structure#:\~:text=Page%20groups%20are%20created%20to,cannot%20nest%20groups%20inside%20groups.](https://docs.gitbook.com/editing-content/content-structure) |
