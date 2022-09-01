@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Country Engagement Playbook](README.md)
+* [GovStack Implementation Journey](govstack-implementation-journey.md)
 * [Version History](1-version-history.md)
-* [1. Introduction to GovStack Country Engagement Playbook](readme-1.md)
 * [2 Description](2-description.md)
 * [3 Terminology](3-terminology.md)
 * [4 Cross-Cutting Requirements & Resources](5-cross-cutting-requirements.md)
