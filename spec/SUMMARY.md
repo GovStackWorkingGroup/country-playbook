@@ -32,4 +32,8 @@
     * [Stage 6.3: Validate and agree on the final ranking of services](country-engagement-jounrey/phases-and-stages-of-govstack-country-engagement-journey/stage-6.3-validate-and-agree-on-the-final-ranking-of-services.md)
     * [Stage 7: GovStack Ecosystem Reference Architecture (GERA)](country-engagement-jounrey/phases-and-stages-of-govstack-country-engagement-journey/stage-7-govstack-ecosystem-reference-architecture-gera.md)
     * [Stage 8.1: Understand user needs & detail ‘As-Is’ user journey](country-engagement-jounrey/phases-and-stages-of-govstack-country-engagement-journey/stage-8.1-understand-user-needs-and-detail-as-is-user-journey.md)
+    * [Stage 8.2: Design the ‘To-Be’ user Journey to develop prototype wireframe](country-engagement-jounrey/phases-and-stages-of-govstack-country-engagement-journey/stage-8.2-design-the-to-be-user-journey-to-develop-prototype-wireframe.md)
+    * [Stage 8.3: Identify, customise & integrate BBs to deliver functional prototype in GS Sandbox](country-engagement-jounrey/phases-and-stages-of-govstack-country-engagement-journey/stage-8.3-identify-customise-and-integrate-bbs-to-deliver-functional-prototype-in-gs-sandbox.md)
+    * [Stage 9: Country handover](country-engagement-jounrey/phases-and-stages-of-govstack-country-engagement-journey/stage-9-country-handover.md)
+    * [Stage 10: Scaling & sustainability Strategy  GovStack Excellence Center](country-engagement-jounrey/phases-and-stages-of-govstack-country-engagement-journey/stage-10-scaling-and-sustainability-strategy-govstack-excellence-center.md)
   * [Country Engagement Model](country-engagement-jounrey/country-engagement-model.md)
