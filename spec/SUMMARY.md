@@ -11,6 +11,7 @@
   * [Digital Strategy & Governance](govstack-implementation-playbook/digital-strategy-and-governance.md)
   * [Digital Service Design Standard and Delivery Protocol](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol.md)
   * [GovStack Building Block approach](govstack-implementation-playbook/govstack-building-block-approach.md)
+  * [Digital Teams Composition](govstack-implementation-playbook/digital-teams-composition.md)
   * [Learning and Exchange](govstack-implementation-playbook/learning-and-exchange/README.md)
     * [GovStack Learning Management System](govstack-implementation-playbook/learning-and-exchange/govstack-learning-management-system/README.md)
       * [Module 8 on GovStack LMS: Guide to GERA](govstack-implementation-playbook/learning-and-exchange/govstack-learning-management-system/module-8-on-govstack-lms-guide-to-gera.md)
