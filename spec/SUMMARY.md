@@ -14,6 +14,7 @@
   * [Digital Teams Composition](govstack-implementation-playbook/digital-teams-composition.md)
   * [Learning and Exchange](govstack-implementation-playbook/learning-and-exchange/README.md)
     * [Capacity Development](govstack-implementation-playbook/learning-and-exchange/capacity-development/README.md)
+      * [Academic support to Capacity development](govstack-implementation-playbook/learning-and-exchange/capacity-development/academic-support-to-capacity-development.md)
       * [Assessment of capacity](govstack-implementation-playbook/learning-and-exchange/capacity-development/assessment-of-capacity.md)
       * [Digital skills in relation to capacity building](govstack-implementation-playbook/learning-and-exchange/capacity-development/digital-skills-in-relation-to-capacity-building.md)
       * [Capacity building journey](govstack-implementation-playbook/learning-and-exchange/capacity-development/capacity-building-journey.md)
