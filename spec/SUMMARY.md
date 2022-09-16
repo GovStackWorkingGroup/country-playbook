@@ -13,6 +13,8 @@
   * [GovStack Building Block approach](govstack-implementation-playbook/govstack-building-block-approach.md)
   * [Digital Teams Composition](govstack-implementation-playbook/digital-teams-composition.md)
   * [Learning and Exchange](govstack-implementation-playbook/learning-and-exchange/README.md)
+    * [Capacity Development](govstack-implementation-playbook/learning-and-exchange/capacity-development/README.md)
+      * [Capcity buidling framework](govstack-implementation-playbook/learning-and-exchange/capacity-development/capcity-buidling-framework.md)
     * [GovStack Learning Management System](govstack-implementation-playbook/learning-and-exchange/govstack-learning-management-system/README.md)
       * [Module 8 on GovStack LMS: Guide to GERA](govstack-implementation-playbook/learning-and-exchange/govstack-learning-management-system/module-8-on-govstack-lms-guide-to-gera.md)
     * [Artefacts](govstack-implementation-playbook/learning-and-exchange/artefacts.md)
