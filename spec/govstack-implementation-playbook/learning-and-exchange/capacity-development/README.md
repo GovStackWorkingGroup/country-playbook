@@ -3,9 +3,9 @@
 {% hint style="info" %}
 Describes:
 
-1. Capcity buidling framework
-2. Capcity building joruney
-3. Digital skills in relation to cacity buidling
+1. Capacity building framework
+2. Capacity building journey
+3. Digital skills in relation to capacity building
 4. Assessment of capacity.
 5. Academic support to Capacity development
 {% endhint %}

@@ -1,5 +1,51 @@
 # Capacity building framework
 
+Capacity-building is defined as the process of developing and strengthening the skills, instincts, abilities, processes and resources that organizations and communities need to survive, adapt, and thrive in a fast-changing world. Through capacity building, organizations share knowledge, expertise and good practices to react better and faster to emergencies. GovStack approach is very iterative and co-creation based, through RFI 4 and several workshops the capacity can be assessed and thus needs described. Capacity building includes conducting training needs assessment, engagement of stakeholders on capacity development, assessment the capacity needs and assets, formulation and implementation of capacity development response, and finally evaluation of the capacity development. &#x20;
+
+### **Knowledge Management Ecosystem as a part of Capacity Building**
+
+Digital government services require a robust and active knowledge management cycle. The knowledge management cycle is a continuous where information is identified, created, shared, stored, utilized. GovStack's knowledge management cycle relies on three critical pieces: people, process and technology.&#x20;
+
+The key to knowledge management is sharing of information. Sharing knowledge leads to innovation and improvement of the quality of work. Thus, the result is an efficient learning organization where employees' skill sets are constantly improved.&#x20;
+
+### Knowledge Management Cycle
+
+GovStack supports its governments throughout the knowledge management cycle with different resources and tools.  Internally, Teams, Jira and Confluence are the communication channels for co-creating knowledge pieces. On the other hand, [GitBook](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/c/4Q4PEWGtVCZpBYdPkxe3) and GovStack LMS are the resources used to disseminate to the public, the Technical Specifications and Training materials that aids the GovStack implementation journey.&#x20;
+
+### &#x20;**** ![](<../../../.gitbook/assets/Knowledge Management Cycle (1).png>)****
+
+****
+
+### How GovStack Approach can be supported
+
+While we are talking how GovStack approach can be supported then we often ask questions first such as; how can governments become more open and transparent, while simultaneously dealing with various challenges, such as data sensitivity?  Which technologies are available to make governments more open and to use open government data? How can data be turned into smartness? &#x20;
+
+#### **Reuse and Improve Principle**
+
+The GovStack Initiative strongly believes in the principle to" reuse and improve".  We do not have to reinvent the wheel - when it comes to reusing building blocks, but also regarding education material. Many organizations in the field of government technologies as well as Open Source communities and Governments have published readings, guidelines and training material to support public sector digitization. We would like to make use of all this material and channel it to our partner countries looking into increasing their skills and knowledge. These are a few ways to support GovStack Capacity Building:&#x20;
+
+_Sharing e-learnings, guidelines, toolkits or training material_ &#x20;
+
+Numerous institutions, both governmental and private sector, have created their own learning material to increase skills needed around the digital transformation of government services. We don´t have to reinvent the wheel but build on team members' ideas, share them with other governments and initiatives like GovStack.&#x20;
+
+_Creating new training resources_
+
+There are still gaps for trainings around whole of government approach, developing digital infrastructure. The GovStack Initiative is happy to collaborate on the creation of new learning content with our partners.&#x20;
+
+_Knowledge sharing formats_&#x20;
+
+Participate in Communities of practice and share knowledge and insights into your digitization process. Create forums for exchange within the digital ecosystem in your country or regionally. &#x20;
+
+_Training centers_&#x20;
+
+Establish a training center in your country and link GovStack to the institution(s) responsible for capacity building in your country.&#x20;
+
+_Change management_&#x20;
+
+Foster openness to chance and chance management. Digitizing Government Services is not only about creating digital tools and infrastructure, it is also about changing processes, simplifying them, creating citizen-centered services. This new approach means a lot of change for government processes, and therefore change management is a big part of the digitization journey. &#x20;
+
+&#x20; &#x20;
+
 ### Capacity Building
 
 Capacity-building is defined as the process of developing and strengthening the skills, instincts, abilities, processes and resources that organizations and communities need to survive, adapt, and thrive in a fast-changing world. Through capacity building, organizations share knowledge, expertise and good practices to react better and faster to emergencies. GovStack approach is very iterative and co-creation based, through [RFI 4](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B5E3EDC8E-BC41-478D-9FF7-F6A701D3D8E1%7D\&file=version0.7Country%20Engagement%20Journey.pptx\&action=edit\&mobileredirect=true\&cid=83986c72-9b1b-46c0-99b3-4b4a30a6c1f7) and several workshops the capacity can be assessed and thus needs described. Capacity building includes conducting training needs assessment, engagement of stakeholders on capacity development, assessment the capacity needs and assets, formulation and implementation of capacity development response, and finally evaluation of the capacity development.
@@ -16,7 +62,7 @@ GovStack supports its governments throughout the knowledge management cycle with
 
 Internally, Teams, Jira and Confluence are the communication channels for co-creating knowledge pieces. On the other hand, [GitBook](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/c/4Q4PEWGtVCZpBYdPkxe3) and GovStack LMS are the resources used to disseminate to the public, the Technical Specifications and Training materials that aids the GovStack implementation journey.&#x20;
 
-<figure><img src="../../../.gitbook/assets/IS Flow.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IS Flow (1).png" alt=""><figcaption></figcaption></figure>
 
 ###
 
