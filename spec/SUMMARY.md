@@ -16,6 +16,7 @@
     * [Make logical process blue print (BPMN) and map BB use cases](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/make-logical-process-blue-print-bpmn-and-map-bb-use-cases.md)
     * [Map integration requirements and develop cross building block interaction diagram](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/map-integration-requirements-and-develop-cross-building-block-interaction-diagram.md)
     * [Prepare Dev, QA & production environments](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/prepare-dev-qa-and-production-environments.md)
+    * [Develop, test, iterate & release the functional prototype of the service](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/develop-test-iterate-and-release-the-functional-prototype-of-the-service.md)
   * [GovStack Building Block approach](govstack-implementation-playbook/govstack-building-block-approach.md)
   * [Digital Teams Composition](govstack-implementation-playbook/digital-teams-composition.md)
   * [Learning and Exchange](govstack-implementation-playbook/learning-and-exchange/README.md)
