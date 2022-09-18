@@ -23,7 +23,7 @@ Additionally, GovStack has created a supportive environment for capacity buildin
 
 The final piece is the Capacity Building framework, that encompasses the whole Country Implementation Journey, and timeline for all the Capacity Building activities.
 
-<figure><img src="../../../.gitbook/assets/Capacity Building Framework (2).png" alt=""><figcaption><p> <a href="https://miro.com/app/board/uXjVPfe_-C4=/">Capacity Building Framework Journey</a>. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capacity Building Framework (1).png" alt=""><figcaption><p> <a href="https://miro.com/app/board/uXjVPfe_-C4=/">Capacity Building Framework Journey</a>. </p></figcaption></figure>
 
 ### Development and Customization of Capacity Building
 
@@ -42,7 +42,7 @@ For many years, research and practice has recognized differences between how chi
 
 &#x20;The model employs design-thinking and human-centric design methodologies for learning and performance. Thus, instead of focusing on learning a topic or combination of topics, it focuses on solving problems and achieving stated organizational goals. Thus, the organization of this chapter.
 
-<figure><img src="../../../.gitbook/assets/GetImage (1).png" alt=""><figcaption><p>Design Thinking for Learning Experiences</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/GetImage (1) (1).png" alt=""><figcaption><p>Design Thinking for Learning Experiences</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/GetImage (2).png" alt=""><figcaption><p>ADDIE Model of Instructional Design</p></figcaption></figure>
 
