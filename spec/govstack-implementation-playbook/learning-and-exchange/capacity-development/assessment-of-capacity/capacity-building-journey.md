@@ -1,4 +1,4 @@
-# Capacity building framework
+# Capacity building Journey
 
 Capacity-building is defined as the process of developing and strengthening the skills, instincts, abilities, processes and resources that organizations and communities need to survive, adapt, and thrive in a fast-changing world. Through capacity building, organizations share knowledge, expertise and good practices to react better and faster to emergencies. GovStack approach is very iterative and co-creation based, through RFI 4 and several workshops the capacity can be assessed and thus needs described. Capacity building includes conducting training needs assessment, engagement of stakeholders on capacity development, assessment the capacity needs and assets, formulation and implementation of capacity development response, and finally evaluation of the capacity development. &#x20;
 
@@ -12,7 +12,7 @@ The key to knowledge management is sharing of information. Sharing knowledge lea
 
 GovStack supports its governments throughout the knowledge management cycle with different resources and tools.  Internally, Teams, Jira and Confluence are the communication channels for co-creating knowledge pieces. On the other hand, [GitBook](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/c/4Q4PEWGtVCZpBYdPkxe3) and GovStack LMS are the resources used to disseminate to the public, the Technical Specifications and Training materials that aids the GovStack implementation journey.&#x20;
 
-### &#x20;**** ![](<../../../.gitbook/assets/Knowledge Management Cycle (1).png>)****
+### &#x20;**** ![](<../../../../.gitbook/assets/Knowledge Management Cycle (1).png>)****
 
 ****
 
@@ -54,7 +54,7 @@ Capacity-building is defined as the process of developing and strengthening the 
 
 Digital government services require a robust and active knowledge management cycle. The knowledge management cycle is a continuous where information is identified, created, shared, stored, utilized. GovStack's knowledge management cycle relies on three critical pieces: people, process and technology.&#x20;
 
-<figure><img src="../../../.gitbook/assets/KMC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/KMC.png" alt=""><figcaption></figcaption></figure>
 
 The key to knowledge management is sharing of information. Sharing knowledge leads to innovation and improvement of the quality of work. Thus, the result is an efficient learning organization where employees' skill sets are constantly improved.&#x20;
 
@@ -62,7 +62,7 @@ GovStack supports its governments throughout the knowledge management cycle with
 
 Internally, Teams, Jira and Confluence are the communication channels for co-creating knowledge pieces. On the other hand, [GitBook](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/c/4Q4PEWGtVCZpBYdPkxe3) and GovStack LMS are the resources used to disseminate to the public, the Technical Specifications and Training materials that aids the GovStack implementation journey.&#x20;
 
-<figure><img src="../../../.gitbook/assets/IS Flow (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/IS Flow (1).png" alt=""><figcaption></figcaption></figure>
 
 ###
 
@@ -150,7 +150,7 @@ As GovStack approach is very focused on country engagement and involves much col
 
 The academic study programme should serve as an enabler of providing knowledge and skills at the intersection of technology, business and management, design thinking and policy sides. The reason for such an interdisciplinary approach lies in the needs of the labour market.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Academia.png" alt=""><figcaption><p>An interdisciplinary approach of the study programme</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Academia.png" alt=""><figcaption><p>An interdisciplinary approach of the study programme</p></figcaption></figure>
 
 The **expected learning outcomes** should ensure the programme meets the following: &#x20;
 
@@ -241,5 +241,5 @@ Moreover, to complement the practical and theoretical view within knowledge shar
 That ecosystem should contribute also in policy making level by giving valuable insights for the further development of the strategic and policy making standards and documents in terms of digital service design and transformation.\
 &#x20;
 
-<figure><img src="../../../.gitbook/assets/GetImage.jpeg" alt=""><figcaption><p>GovStack Communities of Practice</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/GetImage.jpeg" alt=""><figcaption><p>GovStack Communities of Practice</p></figcaption></figure>
 
