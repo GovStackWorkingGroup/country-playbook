@@ -18,6 +18,8 @@
     * [Prepare Dev, QA & production environments](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/prepare-dev-qa-and-production-environments.md)
     * [Develop, test, iterate & release the functional prototype of the service](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/develop-test-iterate-and-release-the-functional-prototype-of-the-service.md)
     * [Accompany Country team in migration of a functional prototype into the local infrastructure/cloud.](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/accompany-country-team-in-migration-of-a-functional-prototype-into-the-local-infrastructure-cloud..md)
+    * [Assist in procurement of Infrastructure based on the co-design documentation](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/assist-in-procurement-of-infrastructure-based-on-the-co-design-documentation.md)
+    * [Co-design the scaling strategy](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/co-design-the-scaling-strategy.md)
   * [GovStack Building Block approach](govstack-implementation-playbook/govstack-building-block-approach.md)
   * [Digital Teams Composition](govstack-implementation-playbook/digital-teams-composition.md)
   * [Learning and Exchange](govstack-implementation-playbook/learning-and-exchange/README.md)

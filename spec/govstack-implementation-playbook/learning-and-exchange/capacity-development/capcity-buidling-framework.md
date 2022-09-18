@@ -12,7 +12,7 @@ The key to knowledge management is sharing of information. Sharing knowledge lea
 
 GovStack supports its governments throughout the knowledge management cycle with different resources and tools.  Internally, Teams, Jira and Confluence are the communication channels for co-creating knowledge pieces. On the other hand, [GitBook](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/c/4Q4PEWGtVCZpBYdPkxe3) and GovStack LMS are the resources used to disseminate to the public, the Technical Specifications and Training materials that aids the GovStack implementation journey.&#x20;
 
-### &#x20;**** ![](<../../../.gitbook/assets/Knowledge Management Cycle (1).png>)****
+### &#x20;**** ![](<../../../.gitbook/assets/Knowledge Management Cycle.png>)****
 
 ****
 
