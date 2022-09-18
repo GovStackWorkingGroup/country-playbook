@@ -1,5 +1,44 @@
 # Capacity building framework
 
+### Capacity Building
+
+Capacity-building is defined as the process of developing and strengthening the skills, instincts, abilities, processes and resources that organizations and communities need to survive, adapt, and thrive in a fast-changing world. Through capacity building, organizations share knowledge, expertise and good practices to react better and faster to emergencies. GovStack approach is very iterative and co-creation based, through [RFI 4](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B5E3EDC8E-BC41-478D-9FF7-F6A701D3D8E1%7D\&file=version0.7Country%20Engagement%20Journey.pptx\&action=edit\&mobileredirect=true\&cid=83986c72-9b1b-46c0-99b3-4b4a30a6c1f7) and several workshops the capacity can be assessed and thus needs described. Capacity building includes conducting training needs assessment, engagement of stakeholders on capacity development, assessment the capacity needs and assets, formulation and implementation of capacity development response, and finally evaluation of the capacity development.
+
+### Knowledge Management Ecosystem
+
+Digital government services require a robust and active knowledge management cycle. The knowledge management cycle is a continuous where information is identified, created, shared, stored, utilized. GovStack's knowledge management cycle relies on three critical pieces: people, process and technology.&#x20;
+
+<figure><img src="../../../.gitbook/assets/KMC.png" alt=""><figcaption></figcaption></figure>
+
+The key to knowledge management is sharing of information. Sharing knowledge leads to innovation and improvement of the quality of work. Thus, the result is an efficient learning organization where employees' skill sets are constantly improved.&#x20;
+
+GovStack supports its governments throughout the knowledge management cycle with different resources and tools.&#x20;
+
+Internally, Teams, Jira and Confluence are the communication channels for co-creating knowledge pieces. On the other hand, [GitBook](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/c/4Q4PEWGtVCZpBYdPkxe3) and GovStack LMS are the resources used to disseminate to the public, the Technical Specifications and Training materials that aids the GovStack implementation journey.&#x20;
+
+<figure><img src="../../../.gitbook/assets/IS Flow.png" alt=""><figcaption></figcaption></figure>
+
+###
+
+Key Definitions&#x20;
+
+GovStack focuses a lot on process and people within the implementation journey. We have defined capacity building as a process in which individuals, organizations and societies, develop, strengthen and maintain the skills to implement GovStack’s BB. Capacity development is not a single intervention but an iterative process of design-application-learning-adjustment.&#x20;
+
+&#x20;
+
+Relevant adult learning concepts:&#x20;
+
+For many years, research and practice has recognized differences between how children and adults learn. Thus, this section highlight high-level adult learning theory along with recommendations to enhance practice for the effective implementation of GovStack's BB. &#x20;
+
+* Adults need to know the reason for learning something, translating into practice, when adapting content is important that trainers clearly describe the learning objectives and provide spaces to understand participant's motivations (e.g., collecting participant's information during pre-planning stage, facilitating the "participant's expectations" at the beginning of capacity building sessions and make connections throughout the sessions). &#x20;
+* Adult life experiences are a rich resource for learning (or barrier), over the years, adults have accumulated knowledge and experience that can be leverage as a resource for learning. In fact, cognitive science has shown that adults tend to refer back to past knowledge first. This experiences can be sourced through pairing exercises, group discussion, and problem solving exercises. &#x20;
+
+
+
+### &#x20;Specialized Communities of Practice
+
+
+
 ### How Academia can help to build capacity?
 
 To understand the current state of education in the digital transformation domain, it is useful to take a look through the lens of established competences and qualifications frameworks. These frameworks help to identify the necessary skills in a certain career path related to GovStack Implementation journey. It is useful for education institutions in the process of designing curriculum and ensuring the students get the necessary skills to support GovStack approach. Additionally, when designing the curriculum, several issues need to be addressed, as a first step to supporting the long term development of capacity building in the country [Digital skills](onenote:https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/General/Country%20Engagement/Country%20Engagement%20Playbook/Chapter%201%20-%20Governance%20and%20Strategy/Chapter%201%20Governance%20and%20Strategy/Readiness%20assessment.one#Digital%20skills\&section-id=882b8633-13a3-4a26-bb96-b683c5fc3937\&page-id=95a6eeaa-8bfd-4cb6-97c7-d574d4e4fb0c\&end) ([Web view](https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc={9e9fdba0-3f52-4af6-8c3c-0bcf9e0b338e}\&action=edit\&wd=target%28Readiness%20assessment.one%7C882b8633-13a3-4a26-bb96-b683c5fc3937%2FDigital%20skills%7C95a6eeaa-8bfd-4cb6-97c7-d574d4e4fb0c%2F%29\&wdorigin=703\&wdpreservelink=1)).&#x20;
