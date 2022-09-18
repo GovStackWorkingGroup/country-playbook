@@ -60,7 +60,7 @@ What to do next&#x20;
 * Draw on your research to help your team articulate a concise problem statement, create an inspirational vision, and develop a strategy for achieving their desired [future state](https://product-guide.18f.gov/define/).&#x20;
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Resorces" %}
 LMS: Modules 1,2,3 &#x20;
 
 * Use the GovStack "As-Is" user journey Miro Board template and adapt it to your service context and needs &#x20;
