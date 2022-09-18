@@ -156,7 +156,7 @@ The main activities within GovStack approach are as follows:&#x20;
 
 The process of these activities and main tools used can be found here [Capacity Building Framework Journey](https://miro.com/app/board/uXjVPfe\_-C4=/).&#x20;
 
-<figure><img src="../../../.gitbook/assets/Capacity Building Framework (3).png" alt=""><figcaption><p>Capacity Building Framework Journey</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capacity Building Framework (2).png" alt=""><figcaption><p>Capacity Building Framework Journey</p></figcaption></figure>
 
 Additionally, GovStack has created a supportive environment for capacity building by creating various training materials collected in GovStack LMS. It consists of different modules which are aimed towards supporting capacity building phases during the whole [GovStack implementation Journey](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B5E3EDC8E-BC41-478D-9FF7-F6A701D3D8E1%7D\&file=version0.7Country%20Engagement%20Journey.pptx\&action=edit\&mobileredirect=true\&cid=83986c72-9b1b-46c0-99b3-4b4a30a6c1f7)&#x20;
 
@@ -187,7 +187,7 @@ Additionally, GovStack has created a supportive environment for capacity buildin
 
 The final piece is the Capacity Building framework, that encompasses the whole Country Implementation Journey, and timeline for all the Capacity Building activities.
 
-<figure><img src="../../../.gitbook/assets/Capacity Building Framework (4).png" alt=""><figcaption><p> <a href="https://miro.com/app/board/uXjVPfe_-C4=/">Capacity Building Framework Journey</a>. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capacity Building Framework (3).png" alt=""><figcaption><p> <a href="https://miro.com/app/board/uXjVPfe_-C4=/">Capacity Building Framework Journey</a>. </p></figcaption></figure>
 
 ### Development and Customization of Capacity Building
 
@@ -341,6 +341,6 @@ The process of these activities and main tools used can be found here [Capacity 
 
 Additionally, GovStack has created a supportive environment for capacity building by creating various training materials collected in GovStack LMS. It consists of different modules which are aimed towards supporting capacity building phases during the whole [GovStack implementation Journey](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B5E3EDC8E-BC41-478D-9FF7-F6A701D3D8E1%7D\&file=version0.7Country%20Engagement%20Journey.pptx\&action=edit\&mobileredirect=true\&cid=83986c72-9b1b-46c0-99b3-4b4a30a6c1f7)&#x20;
 
-<figure><img src="../../../.gitbook/assets/Capacity Building Framework (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capacity Building Framework.png" alt=""><figcaption></figcaption></figure>
 
 In order to maintain the whole documentation during the GovStack Implementation process the harmonized [Knowledge Management Strategy](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/General/Knowledge%20Management/GovStack%20Knowledge%20Management%20Strategy.pptx?d=w405c5b507aae421196f31aa43b24828b\&csf=1\&web=1\&e=NGYiGR) has been created &#x20;
