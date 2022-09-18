@@ -1,0 +1,7 @@
+# Artefacts
+
+| Stages of implementation                | Artefacts                                                                                                                                                            | LMS module associated with the artefact                                                        |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Understanding Country Context and needs | <ul><li><a href="https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/">RFI-1</a></li><li>RFI-2</li><li>RFI-3</li><li>RFI-4</li><li>RFI-5</li></ul> | <ul><li>Module 2</li><li>Module 2</li><li>Module 3</li><li>Module 4</li><li>Module 4</li></ul> |
+| Understand User Needs                   | <ul><li>As-Is User Journey</li></ul>                                                                                                                                 | Module 3                                                                                       |
+| Co-design the new service               | <ul><li>To-Be User Jounrey</li></ul>                                                                                                                                 | Module 3                                                                                       |
