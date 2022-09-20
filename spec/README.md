@@ -1,19 +1,19 @@
+---
+coverY: 0
+---
+
 # GovStack Overview
 
+<figure><img src=".gitbook/assets/version0.7Country .png" alt=""><figcaption></figcaption></figure>
 
+## What is it?&#x20;
 
-{% hint style="success" %}
-Throughout this template are a series of these info callouts. They are designed to guide the type of content to add in each section and often contain example content from other building blocks. Delete them as no longer required.
-{% endhint %}
+GovStack initiative is an expert community-driven multistakeholder effort aimed at deriving common technical practice and understanding of the Building Blocks approach as seen in implemented countries.&#x20;
 
-\
-Developed by: `Ingrid Pappel, Neil Roy, Vikash Madduri, Hossam Ragheb, Brenda Maday, Nora Hauptmann, Josephine Lusi, Varun Basu, Ransford Mensah` in cooperation with GIZ, ITU, DIAL, and the Government of Estonia
+## What does it aim to achieve?&#x20;
 
-{% hint style="success" %}
-Set the context of the Country Engagement Playbook for the reader. The description should not assume that the reader has any experience of the GovStack system other than that found on the GovStack website. This section is to include:
+By unpacking and simplifying the technical approach that goes into building holistic digital government, GovStack aims to accelerate countries’ ownership of e-gov. solutions and in doing so improve services for social well-being.&#x20;
 
-1. Introdcution to GovStack and its Building Block approach&#x20;
-2. Explaination of the User Journey Phases and Stages
-3. Capacity Building stages and prerequists.
-4. GS LMS – how it supports implementation activities (additionally to explanation to whom and what we can put here the table with the modules descriptions and direct links to the stages) &#x20;
-{% endhint %}
+## Where did it come from?&#x20;
+
+GovStack model is an extension of the SDG Digital Investment Framework, an earlier effort by the Digital Impact Alliance (DIAL) at the UN Foundation and the International Telecommunication Union (ITU).

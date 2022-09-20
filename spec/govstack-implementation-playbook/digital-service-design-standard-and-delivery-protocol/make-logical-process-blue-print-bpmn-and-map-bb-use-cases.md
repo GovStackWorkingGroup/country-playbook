@@ -46,7 +46,7 @@ Who does what&#x20;
 * Logical process blueprint (process narrative)&#x20;
 {% endtab %}
 
-{% tab title="Incorporation" %}
+{% tab title="Next steps" %}
 What to do next
 
 * Present logical process blue print (BPMN) to service digital team &#x20;

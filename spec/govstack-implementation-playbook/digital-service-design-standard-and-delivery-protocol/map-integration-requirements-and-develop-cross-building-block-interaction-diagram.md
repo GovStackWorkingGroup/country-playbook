@@ -31,7 +31,7 @@ Who does what&#x20;
 * Cross building block interaction diagram &#x20;
 {% endtab %}
 
-{% tab title="Incorporation" %}
+{% tab title="Next steps" %}
 What to do next
 
 * Present Integration Requirements Map &  cross building block integration &#x20;

@@ -73,7 +73,7 @@ UX/UI style guide &#x20;
 * Stabilization and maintenance routine &#x20;
 {% endtab %}
 
-{% tab title="Incorporation" %}
+{% tab title="Next steps" %}
 What to do next&#x20;
 
 * Present functional prototype with users, the service community and relevant stakeholders &#x20;

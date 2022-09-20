@@ -2,7 +2,7 @@
 
 
 
-GovStack has the following overacrching guiding prinicples to guide the development and delivery of Government Digital services:&#x20;
+GovStack design principles guide our design & delivery work. They are based on the [Principles for Digital Development](https://digitalprinciples.org/)  and offer specific best practices to make our digital work better. As you engage in implementing a GovStack approach to citizen-centric digitization of government services you will see these principles embedded on our iteration processes, tools & methods. We invite you to embrace them and make this your way of work at your organization and digital team.  &#x20;
 
 1. **Design with the user**: User-centered design starts with getting to know the people you are designing for through conversation, observation and co-creation. Click [here](onenote:Digitize%20the%20service.one#section-id={aad96891-9b48-4890-b293-590890b3b645}\&end) to know more.&#x20;
 2. **Understand the existing ecosystem**: Well-designed initiatives and digital tools consider the particular structures and needs that exist in each country, region and community.&#x20;

@@ -46,7 +46,7 @@ Who does what
 * Who is who report &#x20;
 {% endtab %}
 
-{% tab title="Incorporation" %}
+{% tab title="Next steps" %}
 What to do next
 
 * Present the "to-be" user journey to the service community, and relevant stakeholders. &#x20;

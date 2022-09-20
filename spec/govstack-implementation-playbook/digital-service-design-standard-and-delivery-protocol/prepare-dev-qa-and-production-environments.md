@@ -24,7 +24,7 @@ Who does what
 * Production environment set up &#x20;
 {% endtab %}
 
-{% tab title="Incorporation" %}
+{% tab title="Next steps" %}
 What to do next&#x20;
 
 * Developed, test & iterate the functional prototype of the service
