@@ -1,4 +1,4 @@
-# Module 8 on GovStack LMS: Guide to GERA
+# Module 9 on GovStack LMS: How to use Digital Service Design toolkit
 
 
 
