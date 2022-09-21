@@ -1,8 +1,6 @@
 # Leadership and Governance
 
-The trend towards a digital society has caused many governments to adapt their position and &#x20;
-
-their role in order to be able to provide adequate digital government services.&#x20;
+The trend towards a digital society has caused many governments to adapt their position and their role in order to be able to provide adequate digital government services.&#x20;
 
 Digital government transformation therefore often comes with the need for changes especially in  legal, institutional, technological, and cultural matters. High-level political commitment is critical to helping the government make necessary reforms in a timely and effective manner. &#x20;
 
