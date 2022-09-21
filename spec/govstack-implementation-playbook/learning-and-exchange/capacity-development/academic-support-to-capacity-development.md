@@ -2,27 +2,280 @@
 
 ### How Academia can help to build capacity?
 
-To understand the current state of education in the digital transformation domain, it is useful to take a look through the lens of established competences and qualifications frameworks. These frameworks help to identify the necessary skills in a certain career path related to GovStack Implementation journey. It is useful for education institutions in the process of designing curriculum and ensuring the students get the necessary skills to support GovStack approach. Additionally, when designing the curriculum, several issues need to be addressed, as a first step to supporting the long term development of capacity building in the country [Digital skills](onenote:https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/General/Country%20Engagement/Country%20Engagement%20Playbook/Chapter%201%20-%20Governance%20and%20Strategy/Chapter%201%20Governance%20and%20Strategy/Readiness%20assessment.one#Digital%20skills\&section-id=882b8633-13a3-4a26-bb96-b683c5fc3937\&page-id=95a6eeaa-8bfd-4cb6-97c7-d574d4e4fb0c\&end) ([Web view](https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc={9e9fdba0-3f52-4af6-8c3c-0bcf9e0b338e}\&action=edit\&wd=target%28Readiness%20assessment.one%7C882b8633-13a3-4a26-bb96-b683c5fc3937%2FDigital%20skills%7C95a6eeaa-8bfd-4cb6-97c7-d574d4e4fb0c%2F%29\&wdorigin=703\&wdpreservelink=1)).&#x20;
+To understand the current state of education in the digital transformation domain, it is useful to take a look through the lens of established competences and qualifications frameworks. These frameworks help to identify the necessary skills in a certain career path related to [GovStack Implementation journey](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B5E3EDC8E-BC41-478D-9FF7-F6A701D3D8E1%7D\&file=version0.7Country%20Engagement%20Journey.pptx\&action=edit\&mobileredirect=true\&cid=83986c72-9b1b-46c0-99b3-4b4a30a6c1f7). It is useful for education institutions in the process of designing curriculum and ensuring the students get the necessary skills to support GovStack approach. Additionally, when designing the curriculum, several issues need to be addressed, as a first step to supporting the long term development of capacity building in the country [Digital skills](onenote:https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/General/Country%20Engagement/Country%20Engagement%20Playbook/Chapter%201%20-%20Governance%20and%20Strategy/Chapter%201%20Governance%20and%20Strategy/Readiness%20assessment.one#Digital%20skills\&section-id=882b8633-13a3-4a26-bb96-b683c5fc3937\&page-id=95a6eeaa-8bfd-4cb6-97c7-d574d4e4fb0c\&end) ([Web view](https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc={9e9fdba0-3f52-4af6-8c3c-0bcf9e0b338e}\&action=edit\&wd=target%28Readiness%20assessment.one%7C882b8633-13a3-4a26-bb96-b683c5fc3937%2FDigital%20skills%7C95a6eeaa-8bfd-4cb6-97c7-d574d4e4fb0c%2F%29\&wdorigin=703\&wdpreservelink=1)).&#x20;
 
 The multidisciplinary approach should be considered as it allows students to increase their strengths as well as fill in gaps in their knowledge in the areas of technical skills, service design, ethics, creative problem solving, the regulation of technologies, legislation, and generally in the digital transformation.&#x20;
 
 The university education should help to improve knowledge of public services design with the use of new technologies. Through gaining an understanding of co-creation, the design process, creative problem solving, human-centric approach in public services, and prototyping the graduates should use to apply new ways to design and implement services with along the new technologies and process re-design.&#x20;
 
-GovStack Approach supportive curricula are following the European Qualification framework based on the following stakeholder categories:&#x20;
+GovStack Approach supportive curricula are following the [European Qualification framework](https://www.cedefop.europa.eu/en/projects/european-qualifications-framework-eqf) based on the following stakeholder categories:&#x20;
 
-e-1 Top Management/ Policy Makers&#x20;
+1_**.**_ Management/ Policy Makers \*ESCO definition
 
-e-2 Trainers&#x20;
+Managers and policy makers plan, direct, coordinate and evaluate the overall activities of enterprises, governments and other organizations, or of organizational units within them, and formulate and review their policies, laws, rules and regulations.
 
-e-3 Service Designers&#x20;
+Tasks performed by managers usually include: formulating and advising on the policy, budgets, laws and regulations of enterprises, governments and other organizational units; establishing objectives and standards and formulating and evaluating programmes and policies and procedures for their implementation; ensuring appropriate systems and procedures are developed and implemented to provide budgetary control; authorizing material, human and financial resources to implement policies and programmes; monitoring and evaluating performance of the organization or enterprise and of its staff; selecting or approving the selection of staff; ensuring compliance with health and safety requirements; planning and directing daily operations; representing and negotiating on behalf of the government, enterprise or organizational unit managed in meetings and other forums.
 
-e-4 IT staff&#x20;
+2\. Trainers \* ESCO definition
 
-e-5 End Users&#x20;
+Trainers conduct training-needs analysis and design programs to train, coach, and guide learners in order to improve their skills, competences and knowledge accordingly. They create and update existing training materials (content and method), deliver effective training in classroom, online or informally, monitor, evaluate and report effectiveness of training.&#x20;
 
-Table showing the relevant e-competencies recommended for the five stakeholder groups&#x20;
+3\. Service Designers \* UK government Digital Service definition
 
-&#x20;(Recommended Curriculum Skills Matrix based on [CEN e-CF Framework](https://itprofessionalism.org/about-it-professionalism/competences/the-e-competence-framework/))&#x20;
+Service designers design the end-to-end journey of a service. This involves the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.
+
+4\. IT personnel \* SFIA definition
+
+IT personnel perform a wide range of activities related to the Information Technology and Cybersecurity of the government ranging from information security and technology, information security operations and maintenance, information security overseeing and governance, cyber security infrastructure, defense, analysis and investigations.
+
+5\. End Users.&#x20;
+
+End users are the private citizens who use the government services, and the government employees who are in charge of providing the services.
+
+_**Table Showing e-CF Stages, and Relevant Competencies recommended for the Stakeholders Involved**_
+
+{% tabs %}
+{% tab title="Plan" %}
+The following are the relevant e-competencies for this phase
+
+| Relevant e-Competencies                                  | Stakeholders Involved                                               |
+| -------------------------------------------------------- | ------------------------------------------------------------------- |
+| A.1. Information systems and Business Strategy Alignment | Management/Policy makers, Service Designers, IT personnel           |
+| A.2. Service level management                            | Management/Policy makers, IT personnel                              |
+| A.3. Business Plan Development                           | Management/Policy makers, IT personnel                              |
+| A.4. Product/Service Planning                            | Management/Policy makers, Service Designers, IT personnel           |
+| A.5. Architecture Design                                 | Management/Policy makers, Service Designers, IT personnel           |
+| A.6. Application Design                                  | Management/Policy makers, Service Designers, IT personnel           |
+| A.7. Technology Trend Monitoring                         | Management/Policy makers, Service Designers, IT personnel           |
+| A.8. Sustainability Management                           | Management/Policy makers, Service Designers, IT personnel           |
+| A.9. Innovating                                          | Management/Policy makers, Service Designers, IT personnel           |
+| A.10. User Experience                                    | Management/Policy makers, Service Designers, IT personnel, Trainers |
+{% endtab %}
+
+{% tab title="Build" %}
+The building phase is the second step
+
+The following are the relevant e-competencies for this phase.
+
+| Relevant e-Competencies       | Stakeholders Involved                                     |
+| ----------------------------- | --------------------------------------------------------- |
+| B.1. Application Development  | IT personnel, Service Designers                           |
+| B.2 Component Integration     | IT personnel, Service Designers                           |
+| B.3 Testing                   | IT personnel, Service Designers                           |
+| B.4 Solution Deployment       | IT personnel, Service Designers                           |
+| B.5. Documentation Production | Management/Policy makers, IT personnel, Service Designers |
+| B.6. ICT Systems Engineering  | Management/Policy makers, IT personnel                    |
+{% endtab %}
+
+{% tab title="Run" %}
+The running phase is the third phase
+
+The following are the relevant e-competencies for this phase.
+
+| Relevant e-Competencies  | Stakeholders Involved                           |
+| ------------------------ | ----------------------------------------------- |
+| C.1. User Support        | IT personnel, End Users                         |
+| C.2. Change Support      | Management/policy makers, IT personnel Trainers |
+| C.3. Service Delivery    | Management/policy makers, IT personnel Trainers |
+| C.4. Problem Management  | Management/policy makers, IT personnel          |
+| C.5. Systems Management  | Management/policy makers, IT personnel          |
+{% endtab %}
+
+{% tab title="Enable" %}
+The enabling phase is the fourth phase
+
+The following are the relevant e-competencies for this phase.
+
+| Relevant e-Competencies                        | Stakeholders Involved                                     |
+| ---------------------------------------------- | --------------------------------------------------------- |
+| D.1. Information Security Strategy Development | Management/Policy makers, IT personnel                    |
+| D.2. ICT Quality Strategy Development          | Management/Policy makers, Service Designers, IT personnel |
+| D.3. Education and Training Provision          | Management/Policy makers, Trainers                        |
+| D.4. Purchasing                                | Management/Policy makers                                  |
+| D.5. Sales Development                         | Management/Policy makers                                  |
+| D.6. Digital Marketing                         | Management/Policy makers                                  |
+| D.7. Data Science and Analytics                | Management/Policy makers, Service Designers, IT personnel |
+| D.8 Contract Management                        | Management/Policy makers                                  |
+| D.9. Personnel Development                     | Management/Policy makers, Trainers                        |
+| D.10. Information and Knowledge Management     | Management/Policy makers, Trainers                        |
+| D.11. Needs Identification                     | Management/Policy makers, Trainers                        |
+{% endtab %}
+
+{% tab title="Manage" %}
+The managing phase is the last phase
+
+The following are the relevant e-competencies for this phase.
+
+| Relevant e-Competencies               | Stakeholders Involved                                     |
+| ------------------------------------- | --------------------------------------------------------- |
+| E.1. Forecast Development             | Management/Policy makers, Service Designers               |
+| E.2. Project and Portfolio Management | Management/Policy makers, Service Designers               |
+| E.3. Risk Management                  | Management/Policy makers, Service Designers, IT personnel |
+| E.4. Relationship Management          | Management/Policy makers, Service Designers               |
+| E.5. Process Improvement              | Management/Policy makers, Service Designers, IT personnel |
+| E.6. ICT Quality Management           | Management/Policy makers, IT personnel                    |
+| E.7. Business Change Management       | Management/Policy makers, Trainers, IT personnel          |
+| E.8. Information Security Management  | Management/Policy makers, IT personnel                    |
+| E.9. Information Systems Governance   | Management/Policy makers, IT personnel                    |
+{% endtab %}
+{% endtabs %}
+
+Management/Policy makers, Service Designers, IT personnel (Recommended Curriculum Skills Matrix based on [CEN e-CF Framework](https://itprofessionalism.org/about-it-professionalism/competences/the-e-competence-framework/))&#x20;
+
+
+
+Additionally to [EQF](https://www.cedefop.europa.eu/en/projects/european-qualifications-framework-eqf) the study programmes should follow the Computing Curricula 2020, CC2020 approach in terms of the elements of knowledge.&#x20;
+
+<figure><img src="../../../.gitbook/assets/GetImage (3).png" alt=""><figcaption><p>Elements of knowledge based on (<a href="https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf">CC2020</a>)  </p></figcaption></figure>
+
+This knowledge dimension of competency represents foundational and technical components that are very relevant in order to implement GovStack's vision of digitalization.
+
+In order to sustain a digital society, it is equally important to continuously monitor industry trends and emerging new technologies. There is need to establish a digital talent archive that will ensure continuous sustainability in a country's capacity strength.
+
+### Skills and Competences to support academic programmes
+
+In terms of the GovStack approach, the country should consider the long term strategy for digitalization and that means that academic support must be considered. In short term perspective to keep things up and running within the GovStack eco-system, the general GovStack approach is sufficient. However, in order to create sustainability within country digital teams, academic support is very valuable. &#x20;
+
+While developing university programmes for Masters' level, universities should consider in addition to theoretical approaches also labour market needs based on different competency and qualification frameworks. These frameworks mirror clearly the skills what are needed in different domains.&#x20;
+
+&#x20; \
+EAPC [Competency framework](http://eapc.gencat.cat/web/.content/home/publicacions/col\_leccio\_eines\_per\_als\_recursos\_humans/11\_Marc\_competencial/Eines-11\_angles.pdf) is meant for innovative professionals in public administrations. It describes the eight key skills that are necessary to tackle innovation in the public sector: self-organization, independent learning, creativity, communication, teamwork, networking, capturing trends and risk management. The publication reflects three primary vectors, the individual, the team, and the organization. To achieve innovation, the individual needs to be action-oriented; the team needs to be cooperative; and the organization must be sustainable.&#x20;
+
+<figure><img src="../../../.gitbook/assets/GetImage (4).png" alt=""><figcaption><p>Competency framework for innovative professionals in public administrations. Source: Public Administration School of Catalonia</p></figcaption></figure>
+
+This type of competency framework serves well GovStack approach as it supports co-design and agile way of thinking. In that way it is easy to combine iterative style with the training plans which are meant for the capacity building. Additionally there are several frameworks which should be considered while developing the curriculum for Masters' level. These include:
+
+<details>
+
+<summary><a href="https://www.ilo.org/public/english/bureau/stat/isco/">International Standard Classification of Occupations (ISCO)</a></summary>
+
+_**Description**_
+
+(ISCO) is one of the main international classifications for which ILO is responsible. ISCO is a tool for organizing jobs into a clearly defined set of groups according to the tasks and duties undertaken in the job. ISCO-08 is a four-level hierarchically structured classification that allows all jobs to be classified into 436 unit groups. They are aggregated into 130 minor groups, 43 sub-major groups and 10 major groups.[\[1\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn1)&#x20;
+
+_**Link**_
+
+[\[1\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref1)[https://www.ilo.org/wcmsp5/groups/public/@dgreports/@dcomm/@publ/documents/publication/wcms\_172572.pdf](https://www.ilo.org/wcmsp5/groups/public/@dgreports/@dcomm/@publ/documents/publication/wcms\_172572.pdf) &#x20;
+
+</details>
+
+<details>
+
+<summary><a href="https://itprofessionalism.org/about-it-professionalism/competences/the-e-competence-framework/">E-competence Framework (e-CF)</a> </summary>
+
+_**Description**_
+
+Created by the European Committee for Standardization (CEN), it has been designed to communicate the competencies required by ICT professionals. &#x20;
+
+It establishes 41 competences across 5 proficiency levels and provides knowledge and skills examples. The framework distinguishes 5 e-competence areas based on the IT macro processes PLAN –BUILD –RUN – ENABLE – MANAGE.[\[2\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn2)[\[3\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn3)&#x20;
+
+_**Links**_
+
+[\[2\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref2) [https://itprofessionalism.org/app/uploads/2019/11/User-guide-for-the-application-of-the-e-CF-3.0\_CEN\_CWA\_16234-2\_2014.pdf](https://itprofessionalism.org/app/uploads/2019/11/User-guide-for-the-application-of-the-e-CF-3.0\_CEN\_CWA\_16234-2\_2014.pdf) &#x20;
+
+[\[3\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref3) [https://itprofessionalism.org/about-it-professionalism/competences/the-e-competence-framework/](https://itprofessionalism.org/about-it-professionalism/competences/the-e-competence-framework/)&#x20;
+
+</details>
+
+<details>
+
+<summary><a href="https://europa.eu/europass/en/european-qualifications-framework-eqf">The European Qualifications Framework (e-QF)</a> </summary>
+
+_**Description**_
+
+It covers all kinds of competences and is not limited to IT capabilities only. The framework establishes 8 levels of knowledge, skills, and abilities to apply knowledge and skills with autonomy and responsibility. &#x20;
+
+e-QF is considered an instrument of comparing qualifications across countries and institutions. [\[4\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn4) As of September 2021, 35 countries have linked their national qualification systems to e-QF.[\[5\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn5)[\[6\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn6)&#x20;
+
+_**Links**_
+
+[\[4\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref4) [https://europa.eu/europass/en/eqf-brochure-and-infographic](https://europa.eu/europass/en/eqf-brochure-and-infographic) &#x20;
+
+[\[5\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref5) [https://www.cedefop.europa.eu/en/projects/european-qualifications-framework-eqf](https://www.cedefop.europa.eu/en/projects/european-qualifications-framework-eqf) &#x20;
+
+&#x20;[\[6\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref6) [https://europa.eu/europass/en/european-qualifications-framework-eqf](https://europa.eu/europass/en/european-qualifications-framework-eqf)&#x20;
+
+</details>
+
+<details>
+
+<summary><a href="https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf">IEEE/ACM Computing Curricula 2020 (CC2020)</a> </summary>
+
+_**Description**_
+
+It examines undergraduate curricular guidelines in computer engineering, computer science, cybersecurity, information systems, information technology, software engineering, and data science (under development). Taking into account the trends in computing and requirements of the workplaces, the report underlines the transition from knowledge-based learning to competency-based learning. &#x20;
+
+It also recommends including cybersecurity and data science to curricula.[\[7\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn7)  Also, the report creators have come up with the list of draft competencies in each of the researched areas.&#x20;
+
+_**Links**_
+
+[\[7\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref7) [https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf](https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf)&#x20;
+
+</details>
+
+<details>
+
+<summary><a href="https://sfia-online.org/acl_users/credentials_cookie_auth/require_login?came_from=https%3A//sfia-online.org/en/sfia-8/documentation/sfia-8-the-framework-reference-v8-0-sfiaref-en-210928.pdf">SFIA Global Skills and Competency Framework for the Digital world</a> </summary>
+
+_**Description**_
+
+It includes 97 skills across 6 categories: Strategy and architecture, Change and transformation, Development and implementation, Delivery and operation, Skills and quality, Relationships and engagement. &#x20;
+
+SFIA introduces 7 different levels of responsibility, at which skills can be exercised. However, the seven levels are not applicable to all skills, as some are necessary at entry level and some at senior roles.[\[8\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn8) &#x20;
+
+A practical example of using SFIA is Australian work on the creation of [Digital Career Pathways Framework.](https://data.gov.au/data/dataset/aps-digital-career-pathways/resource/760f26e7-41e2-4991-814b-3e168fd80444)[\[9\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn9), which is supposed to help identify career routes and spot the skill gaps.&#x20;
+
+_**Links**_
+
+[\[8\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref8) [https://sfia-online.org/en](https://sfia-online.org/en) &#x20;
+
+[\[9\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref9) [https://www.dta.gov.au/blogs/future-digital-career-pathways-aps](https://www.dta.gov.au/blogs/future-digital-career-pathways-aps)&#x20;
+
+</details>
+
+<details>
+
+<summary><a href="https://www.cigref.fr/wp/wp-content/uploads/2020/06/Cigref-Nomenclature-Information-Systems-Job-profiles-framework-update-2018-EN.pdf">French CIGREF Information Systems job profiles framework </a></summary>
+
+_**Description**_
+
+The framework uses [e-CF](https://itprofessionalism.org/about-it-professionalism/competences/the-e-competence-framework/) to describe professional roles. The roles are described in a unified manner (name. mission, description of significant activities and tasks, list of competences, trends and factors in change for the job-role, example of a typical deliverable).  &#x20;
+
+The roles are divided into 7 families: Organization and management of changes to the information system", Project management, Application life cycle, Provision of infrastructure and maintenance in operational condition, Support and assistance, Security, Operational Management, Data, Supplier relationships.[\[10\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn10)&#x20;
+
+_**Links**_
+
+[\[10\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref10) [https://www.cigref.fr/wp/wp-content/uploads/2020/06/Cigref-Nomenclature-Information-Systems-Job-profiles-framework-update-2018-EN.pdf](https://www.cigref.fr/wp/wp-content/uploads/2020/06/Cigref-Nomenclature-Information-Systems-Job-profiles-framework-update-2018-EN.pdf)&#x20;
+
+</details>
+
+<details>
+
+<summary><a href="https://silo.tips/queue/the-german-advanced-it-training-system?&#x26;queue_id=-1&#x26;v=1640173758&#x26;u=MTkzLjQwLjI1MC4yMzA=">The German Advanced IT Training System</a></summary>
+
+_**Description**_
+
+In addition to German Qualifications Framework[\[11\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn11), which covers a broad scope of qualifications, [The German Advanced IT Training System](https://silo.tips/queue/the-german-advanced-it-training-system?\&queue\_id=-1\&v=1640173758\&u=MTkzLjQwLjI1MC4yMzA=) provides a system of career profiles of specialists in the computer, software and telecommunications sectors.[\[12\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn12)&#x20;
+
+_**Links**_
+
+[\[11\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref11)[https://www.dqr.de/SiteGlobals/Forms/dqr/en/qualifikationssuche/search\_form.html?nn=469104\&resourceId=365954\&input\_=469104\&pageLocale=en\&templateQueryString=information+technology\&submit=](https://www.dqr.de/SiteGlobals/Forms/dqr/en/qualifikationssuche/search\_form.html?nn=469104\&resourceId=365954\&input\_=469104\&pageLocale=en\&templateQueryString=information+technology\&submit=) &#x20;
+
+[\[12\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref12) [https://silo.tips/queue/the-german-advanced-it-training-system?\&queue\_id=-1\&v=1640173758\&u=MTkzLjQwLjI1MC4yMzA=](https://silo.tips/queue/the-german-advanced-it-training-system?\&queue\_id=-1\&v=1640173758\&u=MTkzLjQwLjI1MC4yMzA=)&#x20;
+
+</details>
+
+<details>
+
+<summary><a href="https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FCountry%20Engagement%20Playbook%2FStandards%20and%20regulations%2Fe%5Fgovernance%5Fcompetency%5Fframework%5F1%5FIndia%2Epdf&#x26;parent=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FCountry%20Engagement%20Playbook%2FStandards%20and%20regulations">Indian e-governance Competency Framework</a></summary>
+
+_**Description**_
+
+[e-CGF](https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FCountry%20Engagement%20Playbook%2FStandards%20and%20regulations%2Fe%5Fgovernance%5Fcompetency%5Fframework%5F1%5FIndia%2Epdf\&parent=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FCountry%20Engagement%20Playbook%2FStandards%20and%20regulations) provides along with the toolkit easy steps on how to structure an e-Governance team and how to conduct fact based training needs analysis for competency benchmarking. It includes 19 identified e-governance roles categorized into 2 major roles: 8 administrative and 11 technical roles.&#x20;
+
+It covers all kinds of competences and is not limited to IT capabilities only. The [e-GCF ](https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FCountry%20Engagement%20Playbook%2FStandards%20and%20regulations%2Fe%5Fgovernance%5Fcompetency%5Fframework%5F1%5FIndia%2Epdf\&parent=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FCountry%20Engagement%20Playbook%2FStandards%20and%20regulations)aligns competencies across four dimensions: Professional Skills Set, Knowledge Set, Behavioral Set and Qualifications Set. It also recommends improvements in recruitment processes and outcomes, and performance evaluation.&#x20;
+
+</details>
 
 ### Study Programs Structure
 
@@ -55,7 +308,7 @@ The main areas which should be covered in the masters programmes are the follows
 * **Legal framework** to help students to anticipate the most common barriers related to legal acts and standards which government encounter within real government functions &#x20;
 * **Identity management and security in networked world** where students learn about identity management in data governance – how it to ensure data quality and security through access controls across critical data systems. The topic sums up the policies, processes, standards, metrics, and roles that ensure that data is used effectively to help an organization realize its objectives&#x20;
 
-### Teaching Techniques
+#### Teaching Techniques
 
 As GovStack approach is very focused on country engagement and involves much collaborative tools and techniques, a teaching strategy should follow a logic as listed below:&#x20;
 
