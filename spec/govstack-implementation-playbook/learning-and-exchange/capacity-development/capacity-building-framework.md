@@ -83,15 +83,7 @@ For many years, research and practice has recognized differences between how chi
 
 ### &#x20;Specialized Communities of Practice
 
-
-
-###
-
-### Excellence center and community driven interaction and knowledge sharing
-
-Excellence center, as an umbrella, is a shared facility or an entity that should provide leadership, best practices, research, support and/or training for a focus area to support GovStack approach.&#x20;
-
-Within GovStack approach as a starting point we have developed Communities of Practice in order to share knowledge and experiences between various stakeholders and countries' focal points.&#x20;
+<figure><img src="../../../.gitbook/assets/GetImage.jpeg" alt=""><figcaption><p>GovStack Communities of Practice</p></figcaption></figure>
 
 &#x20;Communities of Practice (CoPs) are topic related or regional exchange forums to share knowledge and experiences related to the GovStack approach. The current CoPs are the following:&#x20;
 
@@ -137,6 +129,8 @@ Aim: Map and identify opportunities to collaborate and extend existing work rela
 
 See the recent work: [GovStack Definitions: Understanding the Relationship between Digital Public Infrastructure, Building Blocks & Digital Public Goods](https://digitalpublicgoods.net/DPI-DPG-BB-Definitions.pdf)&#x20;
 
+### Excellence center and community driven interaction and knowledge sharing
+
 Additionally to CoP, the academia has been involved by involving universities (Taltech  Mexicon university, …,) on board with the different research topics both in Masters' and doctoral levels. That research gives a valuable feedback not only for ongoing projects, but also helps to set a roadmap for future development &#x20;
 
 Moreover, to complement the practical and theoretical view within knowledge sharing, technical support is also needed. Thus, GovStack Tech Community consists of: &#x20;
@@ -145,8 +139,10 @@ Moreover, to complement the practical and theoretical view within knowledge shar
 * Technical & Operations Group &#x20;
 * Technical Committee &#x20;
 
-That ecosystem should contribute also in policy making level by giving valuable insights for the further development of the strategic and policy making standards and documents in terms of digital service design and transformation.\
-&#x20;
+That ecosystem should contribute also in policy making level by giving valuable insights for the further development of the strategic and policy making standards and documents in terms of digital service design and transformation.
 
-<figure><img src="../../../.gitbook/assets/GetImage.jpeg" alt=""><figcaption><p>GovStack Communities of Practice</p></figcaption></figure>
+Excellence center, as an umbrella, is a shared facility or an entity that should provide leadership, best practices, research, support and/or training for a focus area to support GovStack approach.&#x20;
+
+Within GovStack approach as a starting point we have developed Communities of Practice in order to share knowledge and experiences between various stakeholders and countries' focal points. \
+&#x20;
 
