@@ -52,7 +52,7 @@
       * [RFI-4: Digital skill assessment](govstack-implementation-playbook/learning-and-exchange/artefacts/rfi-4-digital-skill-assessment.md)
       * [RFI-5: User journey template](govstack-implementation-playbook/learning-and-exchange/artefacts/rfi-5-user-journey-template.md)
   * [Contributors](govstack-implementation-playbook/contributors.md)
-  * [Annex](govstack-implementation-playbook/annex/README.md)
+  * [Annex](govstack-implementation-playbook/annex.md)
     * [GovStack user profiles taxonomy](govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy.md)
   * [Terminology](govstack-implementation-playbook/3-terminology.md)
   * [Version History](govstack-implementation-playbook/1-version-history/README.md)
