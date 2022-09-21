@@ -1,4 +1,4 @@
-# Copy of Copy of Title of page
+# Governement Reference Architecture
 
 ## Sample Paragraph
 
@@ -23,10 +23,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% tab title="Resources" %}
 * LMS Modules: 1, 2, 3 &#x20;
-* Use the Facilitation PPT for the "To-Be" user journey co-design sessions &#x20;
-* Use the GovStack user journey guideline &#x20;
-* Use the GovStack "To-Be" user journey Miro Board template and adapted to your needs &#x20;
-* Explore the "To-Be" user journeys of Rwanda EPR Use Case&#x20;
-* Explore the  "To-Be" user journeys of Djibouti & Kenya of 5 exemplar government services under the scope of the HoA Initiative.&#x20;
+* [Architecture and non0functional requirements](https://app.gitbook.com/s/Mv07ks4AhtBDCIkO2zgW/building-blocks/architecture-and-nonfunctional-requirements)
+* [GovStack Ecosystem Reference Architecture and Business Guide for Public Digital Platforms](https://docs.google.com/document/d/14iQyWWhH284GEkNvLWlwZOEdOBgYSDQw/edit?usp=sharing\&ouid=107531587157017296326\&rtpof=true\&sd=true),  [The Open Group Standard](https://www.opengroup.org/)
+* [https://www.digital.nsw.gov.au/delivery/digital-service-toolkit/resources/technology-and-tools/reference-architecture](https://www.digital.nsw.gov.au/delivery/digital-service-toolkit/resources/technology-and-tools/reference-architecture)
 {% endtab %}
 {% endtabs %}
