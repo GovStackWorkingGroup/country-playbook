@@ -16,7 +16,7 @@ Become a reference implementation country and transform your government services
 
 Become a Champion Country by sharing Country DPGs & Expertise to other Countries
 
-<figure><img src="../.gitbook/assets/index.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2022-09-22 101729.png" alt=""><figcaption></figcaption></figure>
 
 ## **Technical contribution**
 
