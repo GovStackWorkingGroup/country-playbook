@@ -20,7 +20,7 @@ A good understanding of the users…
 * Distinguishes between those most affected or impacted by the current process and those with a more peripheral interest
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Activities" %}
 How to get there:
 
 
@@ -52,7 +52,7 @@ Who does what:
 * Who is who report &#x20;
 {% endtab %}
 
-{% tab title="Incorporation" %}
+{% tab title="Next steps" %}
 What to do next&#x20;
 
 * Present the "as-is" user journey with qualitative & quantitative findings to organizational stakeholders to build empathy around the current state.&#x20;
