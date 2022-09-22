@@ -8,29 +8,19 @@ The multidisciplinary approach should be considered as it allows students to inc
 
 The university education should help to improve knowledge of public services design with the use of new technologies. Through gaining an understanding of co-creation, the design process, creative problem solving, human-centric approach in public services, and prototyping the graduates should use to apply new ways to design and implement services with along the new technologies and process re-design.&#x20;
 
-GovStack Approach supportive curricula are following the [European Qualification framework](https://www.cedefop.europa.eu/en/projects/european-qualifications-framework-eqf) based on the following stakeholder categories:&#x20;
+GovStack Approach supportive curricula are following the [European Qualification framework](https://www.cedefop.europa.eu/en/projects/european-qualifications-framework-eqf) based on the following [user profiles](../../annex/govstack-user-profiles-taxonomy.md) categories:&#x20;
 
-1_**.**_ Management/ Policy Makers \*ESCO definition
+1_**.**_ Management/ Policy Makers
 
-Managers and policy makers plan, direct, coordinate and evaluate the overall activities of enterprises, governments and other organizations, or of organizational units within them, and formulate and review their policies, laws, rules and regulations.
+2\. Trainers&#x20;
 
-Tasks performed by managers usually include: formulating and advising on the policy, budgets, laws and regulations of enterprises, governments and other organizational units; establishing objectives and standards and formulating and evaluating programmes and policies and procedures for their implementation; ensuring appropriate systems and procedures are developed and implemented to provide budgetary control; authorizing material, human and financial resources to implement policies and programmes; monitoring and evaluating performance of the organization or enterprise and of its staff; selecting or approving the selection of staff; ensuring compliance with health and safety requirements; planning and directing daily operations; representing and negotiating on behalf of the government, enterprise or organizational unit managed in meetings and other forums.
+3\. Service Designers&#x20;
 
-2\. Trainers \* ESCO definition
-
-Trainers conduct training-needs analysis and design programs to train, coach, and guide learners in order to improve their skills, competences and knowledge accordingly. They create and update existing training materials (content and method), deliver effective training in classroom, online or informally, monitor, evaluate and report effectiveness of training.&#x20;
-
-3\. Service Designers \* UK government Digital Service definition
-
-Service designers design the end-to-end journey of a service. This involves the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.
-
-4\. IT personnel \* SFIA definition
-
-IT personnel perform a wide range of activities related to the Information Technology and Cybersecurity of the government ranging from information security and technology, information security operations and maintenance, information security overseeing and governance, cyber security infrastructure, defense, analysis and investigations.
+4\. IT personnel&#x20;
 
 5\. End Users.&#x20;
 
-End users are the private citizens who use the government services, and the government employees who are in charge of providing the services.
+
 
 _**Table Showing e-CF Stages, and Relevant Competencies recommended for the Stakeholders Involved**_
 
@@ -136,14 +126,21 @@ In order to sustain a digital society, it is equally important to continuously m
 
 In terms of the GovStack approach, the country should consider the long term strategy for digitalization and that means that academic support must be considered. In short term perspective to keep things up and running within the GovStack eco-system, the general GovStack approach is sufficient. However, in order to create sustainability within country digital teams, academic support is very valuable. &#x20;
 
-While developing university programmes for Masters' level, universities should consider in addition to theoretical approaches also labour market needs based on different competency and qualification frameworks. These frameworks mirror clearly the skills what are needed in different domains.&#x20;
+While developing university programmes for Masters' level, universities should consider in addition to theoretical approaches also labour market needs based on different competency and qualification frameworks. These frameworks mirror clearly the skills what are needed in different domains. &#x20;
 
-&#x20; \
+<details>
+
+<summary><a href="https://eapc.gencat.cat/web/.content/home/publicacions/col_leccio_eines_per_als_recursos_humans/11_Marc_competencial/Eines-11_angles.pdf">EAPC Competency Framework</a></summary>
+
+_**Description**_
+
 EAPC [Competency framework](http://eapc.gencat.cat/web/.content/home/publicacions/col\_leccio\_eines\_per\_als\_recursos\_humans/11\_Marc\_competencial/Eines-11\_angles.pdf) is meant for innovative professionals in public administrations. It describes the eight key skills that are necessary to tackle innovation in the public sector: self-organization, independent learning, creativity, communication, teamwork, networking, capturing trends and risk management. The publication reflects three primary vectors, the individual, the team, and the organization. To achieve innovation, the individual needs to be action-oriented; the team needs to be cooperative; and the organization must be sustainable.&#x20;
 
-<figure><img src="../../../.gitbook/assets/GetImage (4).png" alt=""><figcaption><p>Competency framework for innovative professionals in public administrations. Source: Public Administration School of Catalonia</p></figcaption></figure>
+![](<../../../.gitbook/assets/GetImage (4).png>)
 
-This type of competency framework serves well GovStack approach as it supports co-design and agile way of thinking. In that way it is easy to combine iterative style with the training plans which are meant for the capacity building. Additionally there are several frameworks which should be considered while developing the curriculum for Masters' level. These include:
+This type of competency framework serves well GovStack approach as it supports co-design and agile way of thinking. In that way it is easy to combine iterative style with the training plans which are meant for the capacity building.
+
+</details>
 
 <details>
 
@@ -286,6 +283,8 @@ The main learning outcomes to support the GovStack's approach will give &#x20;
 * Understanding of the different competencies need for digital journey &#x20;
 * help different co-design techniques and know how to use this knowledge in GovStack approach&#x20;
 
+{% tabs %}
+{% tab title="Learning Objectives" %}
 #### Learning Objectives
 
 Within GovStack approach, it is very important to educate the future leaders of the digital transformation who are able to implement the GovStack vision. As GovStack requires various knowledge in the field of transformation the academic education path should follow the GovStack's standard users profiles:&#x20;
@@ -294,7 +293,9 @@ Within GovStack approach, it is very important to educate the future leaders of 
 * Service Designers&#x20;
 * Top management and Policy makers&#x20;
 * Trainers&#x20;
+{% endtab %}
 
+{% tab title="Learning Content" %}
 The main areas which should be covered in the masters programmes are the follows:&#x20;
 
 * **Digital Government** where the purpose to get students to recognize what is different about governing in an era filled with pervasive digital technologies.&#x20;
@@ -307,43 +308,55 @@ The main areas which should be covered in the masters programmes are the follows
 * **Participatory governance** is to help students understand what it means to ‘work in the open’ in government, and to explain the many different interpretations and manifestations of ‘openness’ that are applied in modern governments.&#x20;
 * **Legal framework** to help students to anticipate the most common barriers related to legal acts and standards which government encounter within real government functions &#x20;
 * **Identity management and security in networked world** where students learn about identity management in data governance – how it to ensure data quality and security through access controls across critical data systems. The topic sums up the policies, processes, standards, metrics, and roles that ensure that data is used effectively to help an organization realize its objectives&#x20;
+{% endtab %}
 
-#### Teaching Techniques
+{% tab title="Teaching Techniques" %}
+**Teaching Techniques**
 
 As GovStack approach is very focused on country engagement and involves much collaborative tools and techniques, a teaching strategy should follow a logic as listed below:&#x20;
 
 * Design thinking approach, to stimulate creative problem solving, teamwork and action research, and guide participants to develop human-centered solutions;&#x20;
 * Project-based learning and team-working on practical projects and real challenges across different types of public institutions, increasing the confidence of students in adopting/procuring the right technology for the relevant societal needs;&#x20;
 * Active learning, encouraging peer exchange, dialogue and debate, to create an extensive ecosystem around the adoption of GovStack approach beyond the duration of the programme, thus aiming in the long run to contribute to a shift in the mindset of public officials and policy makers;&#x20;
-
-The academic study programme should serve as an enabler of providing knowledge and skills at the intersection of technology, business and management, design thinking and policy sides. The reason for such an interdisciplinary approach lies in the needs of the labour market.&#x20;
+{% endtab %}
+{% endtabs %}
 
 <figure><img src="../../../.gitbook/assets/Academia.png" alt=""><figcaption><p>An interdisciplinary approach of the study programme</p></figcaption></figure>
 
 The **expected learning outcomes** should ensure the programme meets the following: &#x20;
 
-1. Knowing the current potential of technology and data and being able to critically assess their social and ethical impacts,&#x20;
+{% tabs %}
+{% tab title="Knowing" %}
+**Knowing** the current potential of technology and data and being able to critically assess their social and ethical impacts,&#x20;
 
 a. Understanding technology that is used in the delivery of the digital state.&#x20;
 
-b. Learning to operate with technology and how to create human centric government e-services. &#x20;
+b. Learning to operate with technology and how to create human centric government e-services.&#x20;
+{% endtab %}
 
-2\. **Understanding** what digital transformation is, what the different applicative domains are with a specific focus on governance and public service transformation, what features it can have and how to convey services to companies and experts, &#x20;
+{% tab title="Understanding" %}
+**Understanding** what digital transformation is, what the different applicative domains are with a specific focus on governance and public service transformation, what features it can have and how to convey services to companies and experts, &#x20;
 
 a. Understanding the state-of-the-art of digital transformation and the available market solutions with a level deep enough to start implementation, &#x20;
 
-b. Learning to manage innovative procurement and public-private partnership in public services design and delivery.  &#x20;
+b. Learning to manage innovative procurement and public-private partnership in public services design and delivery.&#x20;
+{% endtab %}
 
-3\. **Knowing** to design / plan / implement / evaluate a practical digital transformation project for an up-to-date range of public services, &#x20;
+{% tab title="Knowing" %}
+**Knowing** to design / plan / implement / evaluate a practical digital transformation project for an up-to-date range of public services, &#x20;
 
 a. Developing strategic management abilities , &#x20;
 
 b. Learning to analyze and propose  digital concepts for governance and public services.  &#x20;
+{% endtab %}
 
-4\. **Making judgements** - ability to think critically and analyze different use cases for digital transformation through public services in society; ability to create public value through innovative design and implement  projects; &#x20;
+{% tab title="Making judgements " %}
+**Making judgements** is the ability to think critically and analyze different use cases for digital transformation through public services in society; ability to create public value through innovative design and implement projects.
+{% endtab %}
 
-5\. **Project groupwork and communication skills** - autonomously and in groups, students develop the ability to present and discuss their ideas and the attitude to negotiate in teamwork.&#x20;
+{% tab title="Teamwork" %}
+**Project groupwork and communication skills** - autonomously and in groups, students develop the ability to present and discuss their ideas and the attitude to negotiate in teamwork. &#x20;
+{% endtab %}
+{% endtabs %}
 
-&#x20;
-
-[https://www.coloradocollege.edu/other/assessment/how-to-assess-learning/learning-outcomes/blooms-revised-taxonomy.html](https://www.coloradocollege.edu/other/assessment/how-to-assess-learning/learning-outcomes/blooms-revised-taxonomy.html)&#x20;
+The academic study programme should serve as an enabler of providing knowledge and skills at the intersection of technology, business and management, design thinking and policy sides. The reason for such an interdisciplinary approach lies in the needs of the labour market.&#x20;
