@@ -1,9 +1,5 @@
 # GovStack Implementation Playbook
 
-### Contributors
-
-Developed by: `Ingrid Pappel, Neil Roy, Vikash Madduri, Hossam Ragheb, Brenda Maday, Nora Hauptmann, Josephine Lusi, Varun Basu` in cooperation with GIZ, ITU, DIAL, and the Government of Estonia
-
-### GovStack implementation playbook is in continuous iteration according to country implementation feedback on its tools & methods
+#### GovStack implementation playbook is in continuous iteration according to country implementation feedback on its tools & methods. To contribute to the playbook, please refer the instructions provided in the page linked [here](https://app.gitbook.com/s/Mv07ks4AhtBDCIkO2zgW/contributing).&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-09-19 223817.png" alt=""><figcaption></figcaption></figure>
