@@ -27,7 +27,7 @@ To learn more about how to become a Reference Implementation Country please foll
 
 <details>
 
-<summary>Promote Country DPGs</summary>
+<summary>Promote Country Digital Public Goods (DPGs)</summary>
 
 Become a Champion Country by sharing Country DPGs & Expertise to other Countries:
 
