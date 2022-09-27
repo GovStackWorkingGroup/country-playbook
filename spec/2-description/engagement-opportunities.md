@@ -4,7 +4,7 @@ GovStack engagement opportunities allow countries to select that level of involv
 
 <details>
 
-<summary><a href="https://www.govstack.global/join-the-community/#reference-implementation-country">Implement GovStack in your country</a></summary>
+<summary>Implement GovStack in your country</summary>
 
 Become a key partner for regional piloting and incorporating GovStack into country-level digitalization strategies
 
@@ -19,7 +19,7 @@ Become a key partner for regional piloting and incorporating GovStack into
 * Develop digital strategies, strengthen institutional capacity based on BB approach together with digital readiness studies.
 * Participate in knowledge-exchange to strengthen the global GovStack community by joining Forums and high-level panels representing the GovStack initiative.
 
-To learn more about how to become a Reference Implementation Country please follow the [link](https://www.govstack.global/about/).
+To learn more about how to become a Reference Implementation Country please follow the [link](https://www.govstack.global/join-the-community/#reference-implementation-country).
 
 <img src="../.gitbook/assets/Screenshot 2022-09-19 220850.png" alt="" data-size="original">
 
@@ -27,7 +27,7 @@ To learn more about how to become a Reference Implementation Country please foll
 
 <details>
 
-<summary><a href="https://www.govstack.global/join-the-community/#communities-of-practice">Promote Country DPGs</a></summary>
+<summary>Promote Country DPGs</summary>
 
 Become a Champion Country by sharing Country DPGs & Expertise to other Countries:
 
@@ -41,6 +41,8 @@ Become a Champion Country by sharing Country DPGs & Expertise to other Countries
 * Participate in bi-monthly discussion rounds to exchange on DPGs as well as definitions for building blocks and Digital Public Infrastructure (DPI)
 * Share best practices with and learn from other experts
 * Contribute to the publication of GovStack relevant definitions (e.g. building blocks, DPI)
+
+To learn more about becoming a Champion Country please follow the [link](https://www.govstack.global/join-the-community/#communities-of-practice).
 
 <img src="../.gitbook/assets/Screenshot 2022-09-22 101729.png" alt="" data-size="original">
 
