@@ -28,7 +28,7 @@
     * [Understand user needs](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/understand-user-needs.md)
     * [Co-design with the users a memorable digital experience – the "to-be" user journey](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/co-design-with-the-users-a-memorable-digital-experience-the-to-be-user-journey.md)
     * [Develop a prototype of the digital experience/service](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/develop-a-prototype-of-the-digital-experience-service.md)
-    * [Make logical process blue print (BPMN) and map BB use cases](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/make-logical-process-blue-print-bpmn-and-map-bb-use-cases.md)
+    * [Make logical process blue print & map BB use cases](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/make-logical-process-blue-print-and-map-bb-use-cases.md)
     * [Map integration requirements and develop cross building block interaction diagram](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/map-integration-requirements-and-develop-cross-building-block-interaction-diagram.md)
     * [Prepare Dev, QA & production environments](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/prepare-dev-qa-and-production-environments.md)
     * [Develop, test, iterate & release the functional prototype of the service](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/develop-test-iterate-and-release-the-functional-prototype-of-the-service.md)
