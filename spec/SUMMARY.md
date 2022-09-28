@@ -1,7 +1,7 @@
 # Table of contents
 
 * [GovStack Overview](README.md)
-  * [Building block approach](2-description/building-block-approach.md)
+  * [Building block approach](2-description/objectives-and-scope.md)
   * [Governance model](2-description/governance-model.md)
   * [Engagement opportunities](2-description/engagement-opportunities.md)
 * [GovStack Implementation Playbook](govstack-implementation-playbook/README.md)

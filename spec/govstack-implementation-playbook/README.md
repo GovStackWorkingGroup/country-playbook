@@ -22,8 +22,8 @@ The GovStack Implementation Playbook provides a step by step guide on how to inc
 [learning-and-exchange](learning-and-exchange/)
 {% endcontent-ref %}
 
-{% content-ref url="../2-description/building-block-approach.md" %}
-[building-block-approach.md](../2-description/building-block-approach.md)
+{% content-ref url="../2-description/objectives-and-scope.md" %}
+[objectives-and-scope.md](../2-description/objectives-and-scope.md)
 {% endcontent-ref %}
 
 #### Good to know
