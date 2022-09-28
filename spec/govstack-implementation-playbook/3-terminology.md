@@ -4,8 +4,8 @@
 Terminology/glossary used within the specification
 {% endhint %}
 
-
-
+{% tabs %}
+{% tab title="A" %}
 **Access**
 
 A general term that describes the granting and restriction of the right or opportunity to view or use that which has been developed as part of GovStack.
@@ -117,9 +117,9 @@ The process or action of verifying the identity of a user or process. For the pu
 **Authorization**
 
 The granting to a subject of privileges or rights for accessing the various resources hosted by a system.
+{% endtab %}
 
-&#x20;
-
+{% tab title="B" %}
 **Beta**
 
 In software development, an early version of a product which is feature complete but there is a possibility that it could contain some bugs and performance issues.
@@ -159,9 +159,9 @@ An interoperable and open-source software component that, when combined with oth
 **Bulk Payments**
 
 A Payment from a single Payer to multiple Payees, for example cash transfer programs from a government or NGO to a set of beneficiaries.
+{% endtab %}
 
-&#x20;
-
+{% tab title="C" %}
 **Capability**
 
 The ability to execute a specified course of action or to achieve certain outcomes.
@@ -321,9 +321,9 @@ An API to get access and update the credential associated to the identity, also 
 **Critical Thinking and Problem-Solving Skills**
 
 The ability to use ICT to make informed judgements and choices, and then use the information gathered to solve a problem.
+{% endtab %}
 
-&#x20;
-
+{% tab title="D" %}
 **Data consumers**
 
 A legal entity that requires the Individual's data from the Data Providers according to the consent of the Individual.
@@ -459,9 +459,9 @@ An approach whereby the identity is owned and managed by the end person in a for
 **Documentation**
 
 An umbrella term that encompasses all written documents and materials dealing with a software product’s development and use.
+{% endtab %}
 
-&#x20;
-
+{% tab title="E" %}
 **E-Competence Framework (e-CF)**
 
 Created by the European Committee for Standardization (CEN) to communicat the required competencies for ICT professionals, establishing 41 competences across 5 proficiency levels and providing knowledge and skills examples.
@@ -549,9 +549,9 @@ A diversion point of a business process flow. For a given instance of the proces
 **eXtensible Access Control Markup Language (XACML)**
 
 An open standard XML-based language used to express security policies and **** access rights to information. It defines a declarative fine-grained, attribute-based access control policy, language, an architecture, and a processing model describing how to evaluate access requests according to the rules defined in policies all in XMLSchema.
+{% endtab %}
 
-&#x20;
-
+{% tab title="F" %}
 **Federated Identity**
 
 A method of linking a user's identity across multiple separate identity management systems. It allows for clean separation between the service a client is accessing and the associated authentication and authorization procedures.
@@ -596,10 +596,10 @@ Provides official proof of identity and authorization for particular purposes or
 
 **Functional Identity System**
 
-A platform which maintains a registry of identity credentials and associates the identity of a person with the entitlement that the functional credential offers.
+A platform which maintains a registry of identity credentials and associates the identity of a person with the entitlement that the functional credential offers.&#x20;
+{% endtab %}
 
-&#x20;
-
+{% tab title="G" %}
 **G5 Benchmark**
 
 An ITU developed tool which measures collaborative digital regulation within the development of regulation and policy making. It takes data from 193 countries and expands to cover four pillars, with 70 indicators taken into account – national collaborative governance; policy design principles; digital development and digital economic policy agenda
@@ -651,9 +651,9 @@ A United States federal law that requires financial institutions to explain how 
 **Green-fields development**
 
 In software development, a project involving developing a system for a totally new environment, without concern for integrating with other systems (especially legacy systems). Such projects are deemed higher risk.
+{% endtab %}
 
-&#x20;
-
+{% tab title="H" %}
 **Heuristic Evaluation**
 
 A usability inspection method for computer software that helps to identify usability problems in the user interface design. It specifically involves evaluators examining the interface and judging its compliance with recognized usability principles.
@@ -669,9 +669,9 @@ The established United States federal standard to protect individuals' medical r
 **Host Entity**
 
 Identity of an entity that owns the responsibility for the event (Identify of a Hospital, school, Company, Hotel, etc.)
+{% endtab %}
 
-&#x20;
-
+{% tab title="I" %}
 **ICT Price Baskets**
 
 An ITU Affordability Data Set which provides information about the affordability of ICT services around the world.
@@ -819,21 +819,21 @@ A trusted reference that measures the commitment of countries to cybersecurity a
 **ITU Regulatory Tracker**
 
 Facilitates benchmarking and the identification of trends and gaps in ICT legal and regulatory frameworks and allows decision-makers to make the case for further regulatory reform toward achieving a vibrant and inclusive ICT sector
+{% endtab %}
 
-&#x20;
-
+{% tab title="J" %}
 **Journey Maps**
 
 A visualization of the process that a person goes through in order to accomplish a goal.
+{% endtab %}
 
-&#x20;
-
+{% tab title="K" %}
 **Kubernetes**
 
 An open-source container orchestration system for automating software deployment, scaling, and management. Google originally designed Kubernetes, but the Cloud Native Computing Foundation now maintains the project.
+{% endtab %}
 
-&#x20;
-
+{% tab title="L" %}
 **Legal Entity**
 
 An organisation (public or private)​that has the rights and obligations to define standards for personal data processing. E.g. a public health authority.
@@ -843,9 +843,9 @@ An organisation (public or private)​that has the rights and obligations to def
 **Log Report**
 
 Information from log of proceedings of a specified event (e.g. who attended and when, no shows, resource  utilized, etc.).
+{% endtab %}
 
-&#x20;
-
+{% tab title="M" %}
 **Mapper or account Lookup Directory Service**
 
 A dynamic directory matching beneficiaries’ unique identifier and their account numbers to enable multiple programs to direct payments to the same account and beneficiaries to switch payment service providers.
@@ -867,9 +867,9 @@ A version of a product with just enough features to be usable by early customers
 **Mobile Money (MoMo)**
 
 A destination account to distribute funds to end users (in the case of G2P) or an initiation account to enable users to initiate a payment for government services (P2G) which is facilitated by transferring money and making and receiving payments using the mobile phone.
+{% endtab %}
 
-&#x20;
-
+{% tab title="N" %}
 **National Catalogue/ Inventory of Government Services**
 
 A catalogue of public services is a collection of descriptions of active public services that are provided by public administrations at any administrative level (i.e. local, regional, national or pan-European).
@@ -891,9 +891,9 @@ The process of structuring a relational database in accordance with a series of 
 **Notifications Services**
 
 An API that triggers external processes according to events happening on the identity data managed by the identity system (ie name change, death, new child born, document lost or stolen).
+{% endtab %}
 
-&#x20;
-
+{% tab title="O" %}
 **OAuth2**
 
 An open standards based protocol used for Authentication that uses bearer tokens and is specifically designed to work across HTTP. OAuth provides clients a "secure delegated access" to server resources on behalf of a resource owner.
@@ -951,9 +951,9 @@ A registrar or a staff of a registrar who is processing the request of an applic
 **Organizer**
 
 A user authorized by Host to manage event schedules using this building block.
+{% endtab %}
 
-&#x20;
-
+{% tab title="P" %}
 **Parallel Gateway**
 
 Used in process design to visualize the concurrent execution of activities and is used in pairs. When the process arrives at the “parallel gateway node”, all the outgoing flows exhibited from the gateway will be executed simultaneously. The flow will be merged at the “joining parallel gateway”.
@@ -1083,15 +1083,19 @@ Within PubSub, when the Room keeps a queue of events and the Subscriber can chec
 **PubSub Push Delivery Mode**
 
 Within PubSub, when the Room sends events via webhook to the Subscriber’s API.
+{% endtab %}
 
-&#x20;
+{% tab title="Untitled" %}
 
+{% endtab %}
+
+{% tab title="Q" %}
 **Quick Response (QR) Code**
 
 A method of encoding and visualization of data, which are machine-readable.
+{% endtab %}
 
-&#x20;
-
+{% tab title="R" %}
 **Realm**
 
 A security policy domain defined for a web or application server. A realm contains a collection of users, who may or may not be assigned to a group. An application will often prompt for a username and password before allowing access to a protected resource.
@@ -1179,9 +1183,9 @@ Any regulation, or part of a regulation, which creates for specific subjects an 
 **Rules Engine**
 
 A tool transforming legal rules relating to a registration (i.e subjects, results, requirements and determinants), defined by a human analyst, into machine-readable statements.
+{% endtab %}
 
-&#x20;
-
+{% tab title="S" %}
 **SAAS**
 
 A software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted.
@@ -1287,9 +1291,9 @@ A type of standard system administrator’s document which explains different ty
 **System Documentation**
 
 Product documentation that describe the system itself and its parts. It includes requirements documents, design decisions, architecture descriptions, program source code, and help guides.
+{% endtab %}
 
-&#x20;
-
+{% tab title="T" %}
 **Task Flow Analysis**
 
 A step-by-step analysis of how a user will interact with a system in order to reach a goal. This analysis is documented in a diagram that traces a user's possible paths through sequences of tasks and decision points in pursuit of their goal.
@@ -1349,9 +1353,9 @@ A reference to the entirety of the exchange, including a Payment but may also in
 **Treasury Single Account**
 
 A unified structure of government bank accounts that gives a consolidated view of government cash resources. Based on the principle of unity of cash and the unity of treasury, a TSA is a bank account or a set of linked accounts through which the government transacts all its receipts and payments.
+{% endtab %}
 
-&#x20;
-
+{% tab title="U" %}
 **UIN Generator**
 
 Generates Unique Identity Numbers which are unique in the system. UIN Generator will follow predefined business rules for that generation and will make sure that a new generated number has never been already issued.
@@ -1403,9 +1407,9 @@ How end users interact with and experience a service, which includes their perce
 **User Interface (UI)**
 
 Any tool or activity by which the end-user accesses, uses or otherwise interacts with a digital service.
+{% endtab %}
 
-&#x20;
-
+{% tab title="V" %}
 **Voucher**
 
 A token that entitles the holder to a discount or that may be exchanged for goods or services.
@@ -1415,9 +1419,9 @@ A token that entitles the holder to a discount or that may be exchanged for good
 **Voucher Group**
 
 A voucher group is a characteristic of a voucher that restricts the function or use case that a voucher can be used for.
+{% endtab %}
 
-&#x20;
-
+{% tab title="W" %}
 **Waterfall Project Management**
 
 A project management approach that entails a clearly defined sequence of execution with project phases that do not advance until a phase receives final approval. Once a phase is completed, it can be difficult and costly to revisit a previous stage.
@@ -1457,9 +1461,11 @@ An instance of execution for a workflow process.
 **Workflow Process**
 
 A workflow process contains one or many activities.
+{% endtab %}
 
-&#x20;
-
+{% tab title="X" %}
 **X-Road**
 
 An open-source software and secure data exchange layer that allows public and private sector databases to exchange data. All outgoing data on the software is digitally signed and encrypted, and incoming data is authenticated and logged.
+{% endtab %}
+{% endtabs %}
