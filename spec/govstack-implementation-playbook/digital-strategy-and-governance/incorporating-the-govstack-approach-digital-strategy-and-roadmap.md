@@ -17,7 +17,7 @@
 
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Resources" %}
 * Digtital Strategy of Maldives
 * Digital Strategy of Vanvatu
 * Digital government master plan PNG
