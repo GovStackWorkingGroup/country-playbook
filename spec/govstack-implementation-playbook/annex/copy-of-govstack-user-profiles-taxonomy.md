@@ -44,7 +44,7 @@ Tasks performed by managers usually include: formulating and advising on the pol
 
 <details>
 
-<summary>Middle management</summary>
+<summary>Middle &#x26; lower management</summary>
 
 ### Project manager
 
@@ -110,13 +110,49 @@ Digital marketing managers are responsible for the elaboration of the company's 
 
 Monitoring and evaluation officers are responsible for the conceptualisation, design, implementation and follow-up of the monitoring and evaluation activities of projects, programmes, policies, strategies, institutions or processes, along the relevant programming cycle. They develop monitoring, inspection and evaluation methods and instruments needed to collect and analyse data, and report on results by applying structured M\&E frameworks, theories, approaches and methodologies. M\&E officers inform decision-making through reporting, learning products or activities and knowledge management. They can also engage in capacity development activities by providing training and capacity building support within their organizations or for clients and partners.
 
+### Chief Information Officer
 
+Chief information officers define and implement the ICT strategy and governance. They determine necessary resources for the ICT strategy implementation, anticipate ICT market evolutions and company business needs. They contribute to the development of the organisation's strategic plan and ensure that the ICT infrastructure supports the organisation's overall operations and priorities
+
+### Project manager
+
+ICT project managers schedule, control and direct the resources, people, funding and facilities to achieve the objectives of ICT projects. They establish budgets and timelines, perform risk analysis and quality management, and complete project closure reports.
+
+### Chief  Security Information Officer (CISO)&#x20;
+
+Chief ICT security officers protect company and employee information against unauthorized access. They also define the Information System security policy, manage security deployment across all Information Systems and ensure the provision of information availability.
+
+### Management/ Policy Makers
+
+Managers and policy makers plan, direct, coordinate and evaluate the overall activities of enterprises, governments and other organizations, or of organizational units within them, and formulate and review their policies, laws, rules and regulations.
+
+Tasks performed by managers usually include: formulating and advising on the policy, budgets, laws and regulations of enterprises, governments and other organizational units; establishing objectives and standards and formulating and evaluating programmes and policies and procedures for their implementation; ensuring appropriate systems and procedures are developed and implemented to provide budgetary control; authorizing material, human and financial resources to implement policies and programmes; monitoring and evaluating performance of the organization or enterprise and of its staff; selecting or approving the selection of staff; ensuring compliance with health and safety requirements; planning and directing daily operations; representing and negotiating on behalf of the government, enterprise or organizational unit managed in meetings and other forums.
+
+### Chief Information Officer
+
+Chief information officers define and implement the ICT strategy and governance. They determine necessary resources for the ICT strategy implementation, anticipate ICT market evolutions and company business needs. They contribute to the development of the organisation's strategic plan and ensure that the ICT infrastructure supports the organisation's overall operations and priorities
+
+### Project manager
+
+ICT project managers schedule, control and direct the resources, people, funding and facilities to achieve the objectives of ICT projects. They establish budgets and timelines, perform risk analysis and quality management, and complete project closure reports.
+
+### Chief  Security Information Officer (CISO)&#x20;
+
+Chief ICT security officers protect company and employee information against unauthorized access. They also define the Information System security policy, manage security deployment across all Information Systems and ensure the provision of information availability.
+
+### Management/ Policy Makers
+
+Managers and policy makers plan, direct, coordinate and evaluate the overall activities of enterprises, governments and other organizations, or of organizational units within them, and formulate and review their policies, laws, rules and regulations.
+
+Tasks performed by managers usually include: formulating and advising on the policy, budgets, laws and regulations of enterprises, governments and other organizational units; establishing objectives and standards and formulating and evaluating programmes and policies and procedures for their implementation; ensuring appropriate systems and procedures are developed and implemented to provide budgetary control; authorizing material, human and financial resources to implement policies and programmes; monitoring and evaluating performance of the organization or enterprise and of its staff; selecting or approving the selection of staff; ensuring compliance with health and safety requirements; planning and directing daily operations; representing and negotiating on behalf of the government, enterprise or organizational unit managed in meetings and other forums.
 
 </details>
 
 <details>
 
 <summary>IT specialist</summary>
+
+IT personnel perform a wide range of activities related to the Information Technology and Cybersecurity of the government ranging from information security and technology, information security operations and maintenance, information security overseeing and governance, cyber security infrastructure, defense, analysis and investigations. It includes roles such as:
 
 ### Software/systems developer
 
@@ -182,13 +218,17 @@ ICT network engineers implement, maintain and support computer networks. They al
 
 ICT intelligent systems designers apply methods of artificial intelligence in engineering, robotics and computer science to design programs which simulate intelligence including thinking models, cognitive and knowledge-based systems, problem solving, and decision making. They also integrate structured knowledge into computer systems (ontologies, knowledge bases) in order to solve complex problems normally requiring a high level of human expertise or artificial intelligence methods.
 
+### Solution Architect&#x20;
 
+A Solution Architect is a professional who solves complex problems in an organization by designing or modifying technology architecture and testing the integration of software in these designs for correct functionality.
 
 </details>
 
 <details>
 
 <summary>Trainers</summary>
+
+Trainers conduct training-needs analysis and design programs to train, coach, and guide learners in order to improve their skills, competences and knowledge accordingly. They create and update existing training materials (content and method), deliver effective training in classroom, online or informally, monitor, evaluate and report effectiveness of training. It includes roles such as:
 
 ### Educational researcher
 
@@ -210,7 +250,9 @@ Education policy officers research, analyse and develop education policies, and 
 
 Policy officers research, analyse and develop policies in various public sectors, and shape and implement these policies to improve the existing regulation around the sector. They evaluate effects of existing policies and report findings to the government and members of the public. Policy officers work closely with partners, external organisations or other stakeholders and provide them with regular updates.
 
+### Trainers
 
+Trainers conduct training-needs analysis and design programs to train, coach, and guide learners in order to improve their skills, competences and knowledge accordingly. They create and update existing training materials (content and method), deliver effective training in classroom, online or informally, monitor, evaluate and report effectiveness of training.
 
 </details>
 
@@ -238,42 +280,14 @@ User interface designers are in charge of designing user interfaces for applicat
 
 A UX writer plans and writes the microcopy in apps, websites, and other digital products users need to navigate a product. A user experience (UX) writer creates copy for apps, websites, and other digital products that help users navigate the product using simple to understand language.
 
-### Solution Architect&#x20;
-
-A Solution Architect is a professional who solves complex problems in an organization by designing or modifying technology architecture and testing the integration of software in these designs for correct functionality.
-
 
 
 </details>
 
 <details>
 
-<summary>Middle and/or lower management</summary>
+<summary>End Users</summary>
 
-### Trainers
-
-Trainers conduct training-needs analysis and design programs to train, coach, and guide learners in order to improve their skills, competences and knowledge accordingly. They create and update existing training materials (content and method), deliver effective training in classroom, online or informally, monitor, evaluate and report effectiveness of training.&#x20;
-
-
-
-</details>
-
-<details>
-
-<summary>Top, middle or lower management</summary>
-
-### IT Personnel
-
-IT personnel perform a wide range of activities related to the Information Technology and Cybersecurity of the government ranging from information security and technology, information security operations and maintenance, information security overseeing and governance, cyber security infrastructure, defense, analysis and investigations.
-
-</details>
-
-<details>
-
-<summary>Citizens and all government employees</summary>
-
-### &#x20;End Users
-
-End users are the private citizens who use the government services, and the government employees who are in charge of providing the services.
+&#x20;End users are the private citizens who use the government services, and the government employees who are in charge of providing the services.&#x20;
 
 </details>
