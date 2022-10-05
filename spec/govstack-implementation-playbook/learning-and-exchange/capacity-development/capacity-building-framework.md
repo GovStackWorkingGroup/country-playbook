@@ -4,42 +4,31 @@
 
 GovStack focuses a lot on process and people within the implementation journey. We have defined capacity building as a process in which individuals, organizations and societies, develop, strengthen and maintain the skills to implement GovStack’s BB. Capacity development is not a single intervention but an iterative process of design-application-learning-adjustment.&#x20;
 
-{% tabs %}
-{% tab title="Definition" %}
-Capacity-building is defined as the process of developing and strengthening the skills, instincts, abilities, processes and resources that organizations and communities need to survive, adapt, and thrive in a fast-changing world. Through capacity building, organizations share knowledge, expertise and good practices to react better and faster to emergencies.
-{% endtab %}
-
-{% tab title="Capacity Building Activities" %}
-GovStack approach is very iterative and co-creation based, through [RFI 4](https://form.jotform.com/222551422978056) and several workshops the capacity can be assessed and thus needs described. Capacity building includes:
+Capacity building activities include:
 
 * Conducting training needs assessment
 * Engagement of stakeholders on capacity development
 * Assessment the capacity needs and assets
 * Formulation and implementation of capacity development response
 * Evaluation of the capacity development. &#x20;
-{% endtab %}
-
-{% tab title="Adult Learning Concepts" %}
-_**Relevant adult learning concepts:**_&#x20;
-
-For many years, research and practice has recognized differences between how children and adults learn. Thus, this section highlight high-level adult learning theory along with recommendations to enhance practice for the effective implementation of GovStack's BB. &#x20;
-
-* Adults need to know the reason for learning something, and translating into practice. When adapting content, it is important that trainers clearly describe the learning objectives and provide spaces to understand participant's motivations (e.g., collecting participant's information during pre-planning stage, facilitating the "participant's expectations" at the beginning of capacity building sessions and make connections throughout the sessions). &#x20;
-* Adult life experiences are a rich resource for learning (or barrier), over the years, adults have accumulated knowledge and experience that can be leverage as a resource for learning. In fact, cognitive science has shown that adults tend to refer back to past knowledge first. This experiences can be sourced through pairing exercises, group discussion, and problem solving exercises. &#x20;
-{% endtab %}
-{% endtabs %}
 
 ### **Knowledge Management Ecosystem as a part of Capacity Building**
 
 Digital government services require a robust and active knowledge management cycle. The knowledge management cycle is a continuous where information is identified, created, shared, stored, utilized. GovStack's knowledge management cycle relies on three critical pieces: people, process and technology.&#x20;
 
+{% tabs %}
+{% tab title="Knowledge Management Cycle" %}
 The key to knowledge management is sharing of information. Sharing knowledge leads to innovation and improvement of the quality of work. Thus, the result is an efficient learning organization where employees' skill sets are constantly improved.&#x20;
 
-<figure><img src="../../../.gitbook/assets/KMC.png" alt=""><figcaption><p>GovStack Knowledge Management Cycle</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cycle.png" alt=""><figcaption><p>GovStack Knowledge Management Cycle</p></figcaption></figure>
+{% endtab %}
 
+{% tab title="Knowledge Management Eco-system" %}
 GovStack supports its governments throughout the knowledge management cycle with different resources and tools.  Internally, Teams, Jira and Confluence are the communication channels for co-creating knowledge pieces. On the other hand, [GitBook](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/c/4Q4PEWGtVCZpBYdPkxe3) and [GovStack LMS](../govstack-learning-management-system/) are the resources used to disseminate to the public, the Technical Specifications and Training materials that aids the GovStack implementation journey.&#x20;
 
-<figure><img src="../../../.gitbook/assets/IS Flow (1).png" alt=""><figcaption><p>GovStack Information System Flow</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/KMCC.png" alt=""><figcaption><p>GovStack Knowledge Management Eco-System</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ### How GovStack Approach can be supported
 
@@ -278,9 +267,9 @@ The **** [**UK government states that**](https://www.gov.uk/government/publicati
 
 Excellence center, as an umbrella, is a shared facility or an entity that should provide leadership, best practices, research, support and/or training for a focus area to support GovStack approach.&#x20;
 
-Additionally to the CoPs, the academia has been involved by involving universities (TalTech  Mexicon university, …,) on board with the different research topics both in Masters' and doctoral levels. That research gives a valuable feedback not only for ongoing projects, but also helps to set a roadmap for future development &#x20;
+Apart from the CoPs, the academia has been involved by involving universities such as [TalTech  ](https://taltech.ee/en/)and Mexico university on board with different research topics in Masters' and doctoral levels. These research gives valuable feedback not only for ongoing projects, but also helps to set a roadmap for future development &#x20;
 
-Moreover, to complement the practical and theoretical view within knowledge sharing, technical support is also needed. Thus, GovStack Tech Community consists of: &#x20;
+To complement the practical and theoretical view within knowledge sharing, technical support is also needed. GovStack Tech Community consists of: &#x20;
 
 * Building Block Working Groups (BB WG) &#x20;
 * Technical & Operations Group &#x20;
