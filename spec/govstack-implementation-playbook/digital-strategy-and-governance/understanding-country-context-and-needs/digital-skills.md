@@ -4,7 +4,7 @@ For the journey towards governmental digital transformation it is indispensable 
 
 It is crucial and highly recommendable to lay an overall basis of digital mindset among the country's population e.g. through the inclusion of digital skills in education pathways for the civil society.&#x20;
 
-In addition to equipping all citizens and also public officials with basic skills, government entities need [ICT experts](../../annex/copy-of-govstack-user-profiles-taxonomy.md) with advanced IT and project management skills to maintain ICT architecture, provide user support, manage ICT procurements, and implement the government’s digital strategy.&#x20;
+In addition to equipping all citizens and also public officials with basic skills, government entities need [ICT experts](../../annex/govstack-user-profiles-taxonomy-1.md) with advanced IT and project management skills to maintain ICT architecture, provide user support, manage ICT procurements, and implement the government’s digital strategy.&#x20;
 
 Such public officials/civil servants, Digital Transformation Project Managers, ICT specialists etc. should be involved in regular internal [capacity strengthening measures](../../learning-and-exchange/govstack-learning-management-system/) to always be up to date regarding new technologies and to be able to continuously foster a digital society.&#x20;
 
