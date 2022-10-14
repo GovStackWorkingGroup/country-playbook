@@ -1,20 +1,16 @@
 # Digital skills
 
-For the journey towards governmental digital transformation it is indispensable to identify where the country and its administration currently stand with regards to digital skills. Such exercise of identifying  digital talent and talent gaps is an important preliminary step as the rest of the digitalisation process largely depends on its starting base. &#x20;
+For the journey towards governmental digital transformation it is indispensable to identify where the country and its administration currently stand with regards to [digital skills](../../learning-and-exchange/capacity-development/digital-skills-in-relation-to-capacity-building.md). Such exercise of identifying  digital talent and talent gaps is an important preliminary step as the rest of the digitalisation process largely depends on its starting base. &#x20;
 
 It is crucial and highly recommendable to lay an overall basis of digital mindset among the country's population e.g. through the inclusion of digital skills in education pathways for the civil society.&#x20;
 
-In addition to equipping all citizens and also public officials with basic skills, government entities need ICT experts with advanced IT and project management skills to maintain ICT architecture, provide user support, manage ICT procurements, and implement the government’s digital strategy. &#x20;
+In addition to equipping all citizens and also public officials with basic skills, government entities need [ICT experts](../../annex/copy-of-govstack-user-profiles-taxonomy.md) with advanced IT and project management skills to maintain ICT architecture, provide user support, manage ICT procurements, and implement the government’s digital strategy.&#x20;
 
-Such public officials/civil servants, Digital Transformation Project Managers, ICT specialists etc. should be involved in regular internal capacity strengthening measures to always be up to date regarding new technologies and to be able to continuously foster a digital society.&#x20;
+Such public officials/civil servants, Digital Transformation Project Managers, ICT specialists etc. should be involved in regular internal [capacity strengthening measures](../../learning-and-exchange/govstack-learning-management-system/) to always be up to date regarding new technologies and to be able to continuously foster a digital society.&#x20;
 
-As an organization progresses through each stage of implementation, it is recommendable to establish a digital talent archive which provides support for the workforce in the long run. ([Cite](https://ega.ee/wp-content/uploads/2022/07/Kenya-Digital-Readiness-Study.pdf))&#x20;
-
-&#x20;
+As an organization progresses through each stage of implementation, it is recommendable to establish a [digital talent archive](../../learning-and-exchange/capacity-development/capacity-building-framework.md#excellence-center-and-community-driven-interaction-and-knowledge-sharing) which provides support for the workforce in the long run. ([Cite](https://ega.ee/wp-content/uploads/2022/07/Kenya-Digital-Readiness-Study.pdf))&#x20;
 
 In the following, guiding questions are presented that can support the analysis of the country's digital skills' status quo:&#x20;
-
-&#x20;
 
 *   Education sector&#x20;
 
