@@ -12,9 +12,9 @@
 
 **Link to artefact:**
 
-### **GovStack youtube channel**
+### **GovStack YouTube channel**
 
-&#x20;**Description of artefact**: **** The youtube channel will house all of GovStacks Long and shirt format videos
+&#x20;**Description of artefact**: **** The YouTube channel will house all of GovStack's Long and sh**o**rt format videos
 
 **Link to artefact:**
 
@@ -32,17 +32,199 @@
 
 ### **Introduction to GovStack LMS**
 
-**Description of artefact**: A short presentation that describes the struccture of GovStack LMS, learning path and access.&#x20;
+**Description of artefact**: A short presentation that describes the structure of GovStack LMS, learning path and access.&#x20;
 
 **Link to artefact:**
 
 Part of **Module 1 on GovStack LMS**
 
+### **Country Engagement Journey**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
 </details>
 
 <details>
 
-<summary><a href="../../2-description/engagement-opportunities.md">Engagnement Opportunities</a></summary>
+<summary><a href="../../2-description/objectives-and-scope.md">Building Blocks</a></summary>
+
+### **Analytics & Business**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Identification and Authentication
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Information Mediator&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Messaging (SMS)&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Workflow & Algorithm&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Scheduling&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Security&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Consent Management&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Digital Registries&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Registration&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Payments&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Geographic Information Services (GIS)&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Content Management&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Artificial Intelligence&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Client Case Management
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**&#x20;
+
+### eMarketplace (BB)
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Collaboration Management
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Data Collection&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### eLearning&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Reporting & Dashboards&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Shared Data Repositories&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+</details>
+
+<details>
+
+<summary><a href="../../2-description/engagement-opportunities.md">Engagement Opportunities</a></summary>
 
 ### Scope of Work (MoU)
 
@@ -53,6 +235,22 @@ Part of **Module 1 on GovStack LMS**
 **Part of Module  on GovStack LMS**
 
 ### **High Level Roadmap (MoU)**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Initial team description (MoU)
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Contract management platform for management of MoU
 
 **Description of artefact**:
 
@@ -108,6 +306,14 @@ Part of **Module 1 on GovStack LMS**
 
 **Part of Module on GovStack LMS**
 
+### Country Engagement Strategy
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
 ****
 
 </details>
@@ -116,9 +322,89 @@ Part of **Module 1 on GovStack LMS**
 
 <details>
 
-<summary>GovStack Implementation Playbook</summary>
+<summary><strong>Service Identification &#x26; Prioritization</strong></summary>
 
-###
+### **Principles for Digital Development**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### **Risk Identification**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Kickoff Presentation
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Status Quo - 1 Presentation
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Sector Domain ID&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Challenges to Digitization of Gov Services&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Priority Sector/domains for Digitization of Gov Services
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Current assessment of Gov Digitization initiatives&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Introduction to GovStack & Recap of kickoff session
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Country Digitization Report Template
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### GovStack Prioritization Guideline Deck
 
 **Description of Artefact**
 
@@ -132,7 +418,47 @@ Part of **Module 1 on GovStack LMS**
 
 <summary><a href="../digital-strategy-and-governance/understanding-country-context-and-needs/">Understanding country context and needs</a></summary>
 
+### Country Situation Report&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
 ### Readiness Assessment Report
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Re**quest for Information 1 (RFI-1)**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Re**quest for Information 2 (RFI-2)**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### **Explainer on how to use RFI-1**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### **Explainer on how to use RFI-2**
 
 **Description of artefact**:
 
@@ -144,7 +470,7 @@ Part of **Module 1 on GovStack LMS**
 
 <details>
 
-<summary><strong>Government Reference Architecture</strong></summary>
+<summary><strong>Government Reference Architecture &#x26; Shared Services Policy</strong></summary>
 
 ### Strategic Government Adoption of GovStack EA
 
@@ -152,13 +478,85 @@ Part of **Module 1 on GovStack LMS**
 
 **Link to artefact:**
 
+**Part of Module on GovStack LMS**
+
 ### Digital Transformation Level-Strategy
 
 **Description of artefact**:
 
 **Link to artefact:**
 
-###
+**Part of Module on GovStack LMS**
+
+### Agile Architecture
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Enterprise Architecture Framework&#x20;
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### **Data Exchange**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### **GovStack Eco-System Reference Architecture**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Guidance on Agile framework prototyping for developing prototype
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Guidance on integrating GovStack with Digital Government
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Guidance on Architecture Continuity
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### Shared Service Policy Template
+
+**Description of artefact**:
+
+Part of **Module on GovStack LMS**
+
+### Design Shared Services Policies
+
+**Description of artefact**:
+
+Part of **Module on GovStack LMS**
+
+
 
 </details>
 
@@ -172,6 +570,42 @@ Part of **Module 1 on GovStack LMS**
 
 **Link to artefact:**
 
+**Part of Module  on GovStack LMS**
+
+### S**takeholders Mapping (various forms)**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### **Team Roles and Responsibilities**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Institutional governance and digital teams
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Digital Transformation as a State Policy
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+****
+
 </details>
 
 <details>
@@ -184,19 +618,261 @@ Part of **Module 1 on GovStack LMS**
 
 Part of **Module on GovStack LMS**
 
-### **GovStack service design Standard and Delivery protocol**&#x20;
+### **Prioritization Workshop Methodology**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Presentation to explain GovStack approach to Digitise services
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### **GovStack service design Standard & Delivery protocol**&#x20;
 
 **Description of artefact**:
 
 Part of **Module on GovStack LMS**
 
+### **Explainer on how to use RFI-3**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### **Explainer on how to use RFI-5**
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+
+
+
+
 </details>
 
 <details>
 
-<summary>Digital Team Composition</summary>
+<summary>Digital Service Design Toolkit</summary>
+
+### **Design Thinking**
+
+**Description of Artefact**
+
+**Link to artefact:**
+
+**Part of Module on GovStack LMS**
+
+### How to Use Digital Service Design Toolkit
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### DIY identification of User & Business life events
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### User Needs Research Plan
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### User Needs Report
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### User Needs Assessment
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### User Journey
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Life & business events
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### UX/UI Best Practices
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### MVP Feedback
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### BPMN Development Guide
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Security Drills
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### QA template
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Release plan to production in Sandbox
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Test Scripts
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Product Specifications
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Technical Specifications
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+Test Script Templates
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Documentation of entire Design and Delivery
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Q/A Template
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Digital Security Drill
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Product & technical requirement template
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### DevOps Pipeline
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+### Tutorials on use of web sequence diagram
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+**Part of Module  on GovStack LMS**
+
+</details>
+
+<details>
+
+<summary><a href="../digital-teams-composition.md">Digital Team Composition</a></summary>
 
 ### GovStack Country Team
+
+**Description of artefact**:
+
+**Link to artefact:**
+
+Part of **Module on GovStack LMS**
+
+### User Profiles Taxonomy
 
 **Description of artefact**:
 
@@ -244,7 +920,7 @@ Part of **Module on GovStack LMS**
 
 Part of **Module on GovStack LMS**
 
-### Sample Learner Journey
+### **Facilitatory Training Plan**
 
 **Description of artefact**:
 
@@ -252,262 +928,238 @@ Part of **Module on GovStack LMS**
 
 Part of **Module on GovStack LMS**
 
+###
+
 </details>
 
 <details>
 
-<summary><strong>Temp page</strong></summary>
+<summary>Communication Channels and Facilitation Tools</summary>
 
-Budget Plan
+### Introduction to CESK
 
-Facilitatory Training Plan
+**Description of artefact**:
 
-Guide to Procurement
+**Link to artefact:**
 
-Infrastructure Setup
+**Part of Module  on GovStack LMS**
 
-GovStack Ecosystem Reference Architecture
+### Jira Project
 
-Shared Service Policy Template
+**Description of artefact**:
 
-Design Shared Services Policies
+**Link to artefact:**
 
-CB Gap Identification Template
+**Part of Module  on GovStack LMS**
 
-Service Usage Guide for Government Officials
+### Facilitation technique
 
-Service Usage Guide for Citizens
+**Description of artefact**:
 
-IT Service support and ecosystem
+**Link to artefact:**
 
-Launch Checklist for Services
+**Part of Module  on GovStack LMS**
 
-Green GovStack Procurement Guide
+### Confluence Space
 
-GovStack Experience Journal
+**Description of artefact**:
 
-Initial team description (MoU)
+**Link to artefact:**
 
-Promo video 5
+**Part of Module  on GovStack LMS**
 
-Onboarding Presentation for GovStack Country Team (ITU Specific)
+### GiZ SharePoint Folder
 
-Country Engagement Team
+**Description of artefact**:
 
-Template for development of GovStack Agreement of Cooperation
+**Link to artefact:**
 
-Guide for Development of Agreement Cooperation
+**Part of Module  on GovStack LMS**
 
-Contract management platform for management of MoU
+### White/Colab boards
 
-Stakeholders mapping (Word template)
+**Description of artefact**:
 
-Initial Readiness Assessment
+**Link to artefact:**
 
-Readiness Assessment Report
+**Part of Module  on GovStack LMS**
 
-Introduction to CESK
+### Use of Facilitation tools
 
-Jira Project
+**Description of artefact**:
 
-Confluence Space
+**Link to artefact:**
 
-GIZ SharePoint Folder
+**Part of Module  on GovStack LMS**
 
-White/Colab Boards
+</details>
 
-Stakeholder mapping
+<details>
 
-Roles & Responsibilities
+<summary>Capacity Development</summary>
 
-Risk identification
+### Capacity Building Strategy/Assessment
 
-Country Situation Report (Djibouti Sample)
+**Description of artefact**:
 
-Curricula development
+**Link to artefact:**
 
-Introduction to CESK
+**Part of Module on GovStack LMS**
 
-User Profiles Taxonomy
+### Re**quest for Information 4 (RFI-4)**
 
-Curriculum Map
+**Description of artefact**:
 
-Country Engagement Journey
+**Link to artefact:**
 
-Tutorials on use of web sequence diagram
+**Part of Module on GovStack LMS**
 
-RFI-1
+### **Explainer on how to use RFI-4**
 
-Explainer on how to use RFI 1
+**Description of artefact**:
 
-Country Who’s Who report (CWWR)
+**Link to artefact:**
 
-Kickoff Presentation
+**Part of Module on GovStack LMS**
 
-Status Quo - 1 Presentation
+### **Updated** Re**quest for Information 4 (RFI-4)**
 
-Sector Domain ID&#x20;
+**Description of artefact**:
 
-Challenges to Digitisation of Gov Services&#x20;
+**Link to artefact:**
 
-Priority Sector/domains for Digitisation of Gov Services
+**Part of Module on GovStack LMS**
 
-Current assessment of Gov Digitisation initiatives&#x20;
+### Capacity Building Budget Plan
 
-RFI 1
+**Description of artefact**:
 
-Introduction to GovStack & Recap of kickoff session
+**Link to artefact:**
 
-Country Digitization Report Template
+### Curriculum Map
 
-Presentation to explain GovStack approach to Digitise services
+**Description of artefact**:
 
-Prioritisation Workshop Methodology
+**Link to artefact:**
 
-RFI 2&#x20;
+### Curricula development
 
-RFI 3
+**Description of artefact**:
 
-RFI 2
+**Link to artefact:**
 
-RFI 3
+### Sample Learner Journey
 
-RFI 4
+**Description of artefact**:
 
-RFI 5
+**Link to artefact:**
 
-Explainer on how to use RFI 2
+### GovStack C**apacity Building** Training Needs Analysis Template
 
-Explainer on how to use RFI 3
+**Description of artefact**:
 
-Explainer on how to use RFI 4
+**Link to artefact:**
 
-Explainer on how to use RFI 5
+**Part of Module on GovStack LMS**
 
-Digital Transformation as a State Policy
+### C**apacity** Building Gap Identification Template
 
-Updated RFI-4
+**Description of artefact**:
 
-Institutional governance and digital teams
+**Link to artefact:**
 
-Govstack Prioritisation Guideline Deck
+### **Training Program Lifecycle**
 
-Design Thinking
+**Description of artefact**:
 
-Facilitation technique
+**Link to artefact:**
 
-Use of Facilitation tools
+**Part of Module on GovStack LMS**
 
-Product and technical requirement template
+### Service Usage Guide for Government Officials
 
-Guidance on Agile framework prototyping for developing prototype
+**Description of artefact**:
 
-Guidance on integrating GovStack with Digital Government
+**Link to artefact:**
 
-Guidance on Architecture Continuity
+**Part of Module on GovStack LMS**
 
-GovStack CB Training Needs Analysis Template
+### Service Usage Guide for **Citizens**
 
-Agile Architecture
+**Description of artefact**:
 
-Enterprise Architecture Framework (BB)
+**Link to artefact:**
 
-How to Use Digital Service Design Toolkit
+**Part of Module on GovStack LMS**
 
-DIY identification of User & Business life events
 
-User Needs Research Plan
 
-User Needs Report
+</details>
 
-User Needs Assessment
+<details>
 
-User Journey
+<summary>GovStack Experience Journal</summary>
 
-Life & business events
+### GovStack Experience Journal
 
-UX/UI Best Practices
+**Description of artefact**:
 
-MVP Feedback
+**Link to artefact:**
 
-BPMN Development Guide
+**Part of Module on GovStack LMS**
 
-Security Drills
+### Launch Checklist for Services
 
-QA template
+**Description of artefact**:
 
-Release plan to production in Sandbox
+**Link to artefact:**
 
-Test Scripts
+**Part of Module on GovStack LMS**
 
-Product Specifications
+### Infrastructure Checklist & procurement plan
 
-Technical Specifications
+**Description of artefact**:
 
-Test Script Templates
+**Link to artefact:**
 
-Documentation of entire Design and Delivery
+**Part of Module on GovStack LMS**
 
-Q/A Template
+### **Guide to Procurement**
 
-Digital Security Drill
+**Description of artefact**:
 
-Product & technical requirement template
+**Link to artefact:**
 
-Infrastructure Checklist & procurement plan
+**Part of Module on GovStack LMS**
 
-Release plan to production in Sandbox
+### **Infrastructure Setup**
 
-DevOps Pipeline
+**Description of artefact**:
 
-Program Lifecycle
+**Link to artefact:**
 
-Analytics & Business (BB)
+**Part of Module on GovStack LMS**
 
-Identification and Authentication (BB)
+### **IT Service Support and Ecosystem**
 
-Information Mediator (BB)
+**Description of artefact**:
 
-Messaging (SMS) (BB)
+**Link to artefact:**
 
-Workflow & Algorithm (BB)
+**Part of Module on GovStack LMS**
 
-Scheduling (BB)
+</details>
 
-Security (BB)
+<details>
 
-Consent Management (BB)
+<summary>Scaling &#x26; Excellence Center</summary>
 
-Digital Registries (BB)
+### **Green GovStack Procurement Guide**
 
-Registration (BB)
+**Description of artefact**:
 
-Payments (BB)
+**Link to artefact:**
 
-Geographic Information Services (GIS) (BB)
-
-Content Management (BB)
-
-Artificial Intelligence (BB)
-
-Client Case Management (BB)
-
-eMarketplace (BB)
-
-Collaboration Management (BB)
-
-Data Collection (BB)
-
-eLearning (BB)
-
-Reporting & Dashboards (BB)
-
-Shared Data Repositories (BB)
-
-Principles for Digital Development
-
-Capacity Building Strategy/Assessment
-
-Data Exchange
+**Part of Module on GovStack LMS**
 
 </details>
