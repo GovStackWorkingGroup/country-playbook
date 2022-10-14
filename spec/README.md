@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/GovStack_Hero_1024x400 (1).jpg
-coverY: 47.315862068965515
+cover: .gitbook/assets/GovStack_Hero_1024x400(1).jpg
+coverY: 0
 ---
 
 # GovStack Overview
