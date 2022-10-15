@@ -23,7 +23,7 @@
       * [International cooperation](govstack-implementation-playbook/digital-strategy-and-governance/understanding-country-context-and-needs/international-cooperation.md)
     * [Incorporating the GovStack approach Digital strategy and roadmap](govstack-implementation-playbook/digital-strategy-and-governance/incorporating-the-govstack-approach-digital-strategy-and-roadmap.md)
     * [Service prioritisation and ranking](govstack-implementation-playbook/digital-strategy-and-governance/service-prioritisation-and-ranking.md)
-    * [Governement Reference Architecture](govstack-implementation-playbook/digital-strategy-and-governance/governement-reference-architecture.md)
+    * [Governement Ecosystem Reference Architecture (GERA)](govstack-implementation-playbook/digital-strategy-and-governance/governement-ecosystem-reference-architecture-gera.md)
   * [Digital Service Design Standard and Delivery Protocol](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol.md)
     * [Understand user needs](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/understand-user-needs.md)
     * [Co-design with the users a memorable digital experience – the "to-be" user journey](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/co-design-with-the-users-a-memorable-digital-experience-the-to-be-user-journey.md)
