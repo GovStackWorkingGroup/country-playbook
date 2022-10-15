@@ -49,7 +49,6 @@
   * [Contributors](govstack-implementation-playbook/contributors.md)
   * [Annex](govstack-implementation-playbook/annex.md)
     * [GovStack user profiles taxonomy](govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy.md)
-    * [GovStack user profiles taxonomy](govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy-1.md)
   * [Terminology](govstack-implementation-playbook/3-terminology.md)
   * [Version History](govstack-implementation-playbook/1-version-history/README.md)
     * [Release Notes](govstack-implementation-playbook/1-version-history/release-notes.md)

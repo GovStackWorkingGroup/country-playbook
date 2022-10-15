@@ -8,7 +8,7 @@ The multidisciplinary approach should be considered as it allows students to inc
 
 The university education should help to improve knowledge of public services design with the use of new technologies. Through gaining an understanding of co-creation, the design process, creative problem solving, human-centric approach in public services, and prototyping the graduates should use to apply new ways to design and implement services with along the new technologies and process re-design.&#x20;
 
-GovStack Approach supportive curricula are following the [European Qualification framework](https://www.cedefop.europa.eu/en/projects/european-qualifications-framework-eqf) based on the following [user profiles](../../annex/govstack-user-profiles-taxonomy.md) categories:&#x20;
+GovStack Approach supportive curricula are following the [European Qualification framework](https://www.cedefop.europa.eu/en/projects/european-qualifications-framework-eqf) based on the following [user profiles](broken-reference) categories:&#x20;
 
 1_**.**_ Management/ Policy Makers
 
