@@ -29,10 +29,6 @@ This guide primarily focusses on the following:
 _3._      Reference Case studies
 {% endtab %}
 
-{% tab title="Activities" %}
-
-{% endtab %}
-
 {% tab title="Digital team" %}
 
 {% endtab %}
