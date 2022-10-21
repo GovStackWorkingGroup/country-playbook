@@ -21,10 +21,6 @@ A good understanding of the users…
 {% endtab %}
 
 {% tab title="Activities" %}
-How to get there:
-
-
-
 * Work with the service design lead (if you have one in the team) and your other team members to create a research plan. Determine what you want to learn, what methods you’ll use, and who will participate.&#x20;
 * Map out the current user journey end-to-end, identifying the key actors involved, the activities they are doing, their goals, and the tools or systems they are using, as well as how this process fits into their day-to-day. You can use GovStack user journey template for this task and adjust it according to your research plan. &#x20;
 * Map out critical decisions or steps that result in branches in the current process.&#x20;

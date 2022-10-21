@@ -6,31 +6,9 @@ Once we set up the sandbox environment, we are ready to start developing and orc
 {% tab title="Scope of work" %}
 A good functional prototype of the service …
 
-* Complies to Country Service UX/IU design, UX&#x20;
-
-writing, interoperability & functional standards:&#x20;
-
-* Information service sheets,&#x20;
-* Downloadable forms, &#x20;
-* Web forms, &#x20;
-* Electronic documents, &#x20;
-* Notifications, &#x20;
-* Performance analytics, &#x20;
-* Citizen satisfaction survey, &#x20;
-* Accessibility &#x20;
-* Complies with business logical blue print, integration requirements, &#x20;
-
-and BB interaction diagram&#x20;
-
-* Complies with Country enterprise architecture including digital security protocols approved by the country technical team&#x20;
-{% endtab %}
-
-{% tab title="Activities" %}
-How to get there
-
-Develop the front end of the service according to Country Digital Service Standard &#x20;
-
-* Information service sheets,&#x20;
+* Complies with the approved 'To-be user journey' and wireframes
+* Complies to Country digital service design standards:&#x20;
+  * Information service sheets,&#x20;
   * Downloadable forms, &#x20;
   * Web forms, &#x20;
   * Electronic documents, &#x20;
@@ -38,38 +16,40 @@ Develop the front end of the service according to Country Digital Service Standa
   * Performance analytics, &#x20;
   * Citizen satisfaction survey, &#x20;
   * Accessibility &#x20;
-* Orchestrate the back end of the service according to business blue print (BPMN), and BB integration map, configure connectors where need it &#x20;
+* Complies with business logical blueprint, integration requirements,  and BB interaction diagram&#x20;
+* Complies with Country enterprise architecture, including digital security protocols approved by the country technical team&#x20;
+{% endtab %}
+
+{% tab title="Activities" %}
+How to get there:
+
+* Develop the front end of the service according to the approved wireframes&#x20;
+* Orchestrate the back end of the service according to the business blue print (BPMN), the BB integration map, configure connectors where need it &#x20;
 * Prepare a test script considering compliance with technical specs as well as in the context of the entire "to-be" user journey. &#x20;
 * Prepare the security and quality assurance check list &#x20;
 * Prepare the digital service release plan &#x20;
 * Prepare the stabilization and maintenance routine &#x20;
-* Train citizens/business users, admins, public officials interacting with the service on the functionalities of the service &#x20;
+* Train citizens/business users, admins, and public officials interacting with the service on the functionalities of the service &#x20;
 {% endtab %}
 
 {% tab title="Digital team" %}
 Who does what
 
 * Service designer – Lead the service co-design journey&#x20;
-* Product Owner – Lead software product development according &#x20;
-
-to service blue print &#x20;
-
-* Fron end developer – Develops front end application following &#x20;
-
-UX/UI style guide &#x20;
-
-* Solution architect – Architects the service according to BB integration plan &#x20;
-* Back end developer –  Adjust BB, connects legacy systems and test the application&#x20;
+* Product Owner – Lead software product development according  to the service blueprint &#x20;
+* Front-end developer – Develops front-end applications following UX/UI style guide &#x20;
+* Solution architect – Architects the service according to the BB integration plan &#x20;
+* Back-end developer –  Adjust BB, connects legacy systems, and test the application&#x20;
 {% endtab %}
 
 {% tab title="Deliverables" %}
 * GitHub repository with code documented according to Country Digital Service Standard &#x20;
-* Front end design manual &#x20;
+* Front-end design manual &#x20;
 * Admin manual &#x20;
 * User manual &#x20;
 * Solution architecture manual&#x20;
 * Test plan & results report &#x20;
-* Security & QA check lists & results report &#x20;
+* Security & QA checklists & results report &#x20;
 * Training plan and support strategy per role &#x20;
 * Release plan &#x20;
 * Stabilization and maintenance routine &#x20;

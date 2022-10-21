@@ -6,16 +6,16 @@ Once the logical process blueprint (BPMN) has been approved by the country techn
 {% tab title="Scope of work" %}
 A good integration map & cross BB interaction diagram ...
 
-* Specifies integration requirements &#x20;
+* Specifies integration requirements and API specs&#x20;
+
+
 {% endtab %}
 
 {% tab title="Activities" %}
-How to get there
+How to get there:
 
-
-
-* Use the GovStack Integration Requirements template &#x20;
-* Use the cross building block integration diagram template &#x20;
+* Use the GovStack Integration Requirements template  to map the integration requirements identified in the design phase&#x20;
+* Use the cross building block integration diagram template  &#x20;
 {% endtab %}
 
 {% tab title="Digital team" %}
@@ -38,8 +38,9 @@ What to do next
 
 Country technical team &#x20;
 
-* Gather feedback and iterate making sure the technical proposal complies with country ICT standard and enterprise architecture &#x20;
-* Test & iterate the functional prototype of the service &#x20;
+* Gather feedback and iterate making sure the technical proposal complies with country ICT standards and enterprise architecture &#x20;
+
+&#x20;
 {% endtab %}
 
 {% tab title="Resources" %}
