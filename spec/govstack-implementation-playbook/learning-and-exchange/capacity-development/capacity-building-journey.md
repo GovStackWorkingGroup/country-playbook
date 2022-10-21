@@ -35,29 +35,7 @@ Additionally, GovStack has created a supportive environment for capacity buildin
 
 GovStack focuses a lot on process and people within the implementation journey. We have defined capacity building as a process in which individuals, organizations and societies, develop, strengthen and maintain the skills to implement GovStack’s BB. Capacity development is not a single intervention but an iterative process of design-application-learning-adjustment.&#x20;
 
-<figure><img src="../../../.gitbook/assets/GetImage (1).png" alt=""><figcaption><p>GovStack Design Thinking framework for Creating Learning Experiences</p></figcaption></figure>
-
-&#x20;**Relevant adult learning concepts:**&#x20;
-
-For many years, research and practice has recognized differences between how children and adults learn. Thus, this section highlight high-level adult learning theory along with recommendations to enhance practice for the effective implementation of GovStack's BB. &#x20;
-
-{% tabs %}
-{% tab title="Rationale" %}
-**Adults need to know the reason for learning something,** translating into practice, when adapting content is important that trainers clearly describe the learning objectives and provide spaces to understand participant's motivations (e.g., collecting participant's information during pre-planning stage, facilitating the "participant's expectations" at the beginning of capacity building sessions and make connections throughout the sessions). &#x20;
-{% endtab %}
-
-{% tab title="Experiences" %}
-**Adult life experiences are a rich resource for learning (or barrier).** Over the years, adults have accumulated knowledge and experiences that can be leveraged as a resource for learning. In fact, cognitive science has shown that adults tend to refer back to past knowledge first. This experiences can be sourced through pairing exercises, group discussion, and problem solving exercises.&#x20;
-{% endtab %}
-
-{% tab title="Pertinence" %}
-**As people mature there is a change in time perspective** – from future application of knowledge to immediacy. In other words, adults want to learn a skill or acquire knowledge that they can apply pragmatically to their immediate circumstances. Life or work-related situations present a more appropriate framework for adult learning than academic or theoretical approaches. &#x20;
-{% endtab %}
-
-{% tab title="Learning Styles" %}
-**Learning styles are influenced** by personality type, educational specialization, career choice, and current job role and task. Designing capacity building programs that engage different learning styles and adapt to different contexts are more effective.&#x20;
-{% endtab %}
-{% endtabs %}
+<figure><img src="../../../.gitbook/assets/Screenshot 2022-10-19 175040 (1).png" alt=""><figcaption><p>GovStack Design Thinking Framework for Creating Learning Experiences</p></figcaption></figure>
 
 #### Development and Customization Model&#x20;
 
@@ -196,10 +174,25 @@ Implementation methodology and possible timeline (what kind of trainings are nee
 {% endtab %}
 {% endtabs %}
 
-&#x20;_****_&#x20;
+**Effective strategies for imparting training:**&#x20;
 
-&#x20;                                                              Sample Action Plan
+For many years, research and practice has recognized differences between how children and adults learn. Thus, this section highlights high-level adult learning theory along with recommendations to enhance practice for the effective implementation of GovStack's BB. &#x20;
 
-&#x20;
+{% tabs %}
+{% tab title="Rationale" %}
+**Adults need to know the reason for learning something,** translating into practice, when adapting content is important that trainers clearly describe the learning objectives and provide spaces to understand participant's motivations (e.g., collecting participant's information during pre-planning stage, facilitating the "participant's expectations" at the beginning of capacity building sessions and make connections throughout the sessions). &#x20;
+{% endtab %}
 
-###
+{% tab title="Experiences" %}
+**Adult life experiences are a rich resource for learning (or barrier).** Over the years, adults have accumulated knowledge and experiences that can be leveraged as a resource for learning. In fact, cognitive science has shown that adults tend to refer back to past knowledge first. This experiences can be sourced through pairing exercises, group discussion, and problem solving exercises.&#x20;
+{% endtab %}
+
+{% tab title="Pertinence" %}
+**As people mature there is a change in time perspective** – from future application of knowledge to immediacy. In other words, adults want to learn a skill or acquire knowledge that they can apply pragmatically to their immediate circumstances. Life or work-related situations present a more appropriate framework for adult learning than academic or theoretical approaches. &#x20;
+{% endtab %}
+
+{% tab title="Learning Styles" %}
+**Learning styles are influenced** by personality type, educational specialization, career choice, and current job role and task. Designing capacity building programs that engage different learning styles and adapt to different contexts are more effective.&#x20;
+{% endtab %}
+{% endtabs %}
+
