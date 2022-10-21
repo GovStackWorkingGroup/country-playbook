@@ -18,7 +18,7 @@ To give a comprehensive view of the financial analysis needed for the GovStack i
 
 <figure><img src="../../../.gitbook/assets/GetImage (13) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/GetImage (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/GetImage (14) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Cost Savings of Digital Government" %}

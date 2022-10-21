@@ -1,4 +1,4 @@
-# Copy of GovStack user profiles taxonomy
+# GovStack user profiles taxonomy
 
 <details>
 
@@ -7,10 +7,6 @@
 ### Government minister
 
 Government ministers function as decision-makers in national or regional governments, and head government ministries. They perform legislative duties and supervise the operation of their department.
-
-### Fundraisers
-
-Organize activities to raise funds or otherwise solicit and gather monetary donations or other gifts for an organization. May design and produce promotional materials. May also raise awareness of the organization's work, goals, and financial needs.
 
 </details>
 
@@ -26,7 +22,7 @@ Tasks performed by top managers usually include: formulating and advising on the
 
 Chief Information Officers define and implement the ICT strategy and governance. They determine necessary resources for the ICT strategy implementation, anticipate ICT market evolutions and company business needs. They contribute to the development of the organization's strategic plan and ensure that the ICT infrastructure supports the organization's overall operations and priorities
 
-### Chief  Security Information Officer (CISO)&#x20;
+### Chief Security Information Officer (CISO)&#x20;
 
 Chief ICT security officers protect company and employee information against unauthorized access. They also define the Information System security policy, manage security deployment across all Information Systems and ensure the provision of information availability.
 
@@ -42,7 +38,7 @@ ICT operations managers coordinate ICT services and infrastructure ensuring that
 
 Middle managers ensure appropriate systems and procedures are developed and implemented to provide budgetary control; authorize material, human and financial resources to implement policies and programmes; monitor and evaluate performance of the organization and its staff; select or approve the selection of staff; ensure compliance with health and safety requirements; and represent and negotiate on behalf of the government, enterprise or organizational unit managed in meetings and other forums.&#x20;
 
-Lower management may provide advice and assistance to managers on strategic  matters. They are also responsible for the planning and directing daily operations; supervision of the activities of other workers.
+Lower management may provide advice and assistance to managers on strategic matters. They are also responsible for the planning and directing daily operations, supervision of the activities of other workers.
 
 The roles include:
 
@@ -73,6 +69,10 @@ Financial managers handle all the matters in reference to the finance and invest
 ### Grants administrators
 
 Grants administrators handle the pass-through track of grants, often given out by the government \[or donor] to the grant recipient. They prepare the paperwork such as the grant applications and give out the grants. They are also responsible to make sure that the grant recipient spends the money correctly according to the terms laid out.
+
+### Fundraisers
+
+Organize activities to raise funds or otherwise solicit and gather monetary donations or other gifts for an organization. May design and produce promotional materials. May also raise awareness of the organization's work, goals, and financial needs.
 
 ### ICT Project manager
 
