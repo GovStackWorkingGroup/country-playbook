@@ -14,7 +14,7 @@ The assessment should also offer a solid base for advancing on the necessary ste
 
 {% tabs %}
 {% tab title="Scope of work" %}
-* [Connectivity and internet coverage](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/wNLerwlwH03Gm8i9iTNw/govstack-implementation-playbook/digital-strategy-and-governance/understanding-country-context-and-needs/connectivity-and-internet-coverage)
+* [Connectivity and internet coverage](connectivity-and-internet-coverage.md)
 * Leadership and goverance
 * Financial analysis
 * Legal framework
@@ -41,7 +41,7 @@ The assessment should also offer a solid base for advancing on the necessary ste
 * Junior consultant/analyst&#x20;
 {% endtab %}
 
-{% tab title="Incorporation" %}
+{% tab title="Next Steps" %}
 
 {% endtab %}
 
