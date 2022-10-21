@@ -116,7 +116,7 @@ Management/Policy makers, Service Designers, IT personnel (Recommended Curriculu
 
 Additionally to [EQF](https://www.cedefop.europa.eu/en/projects/european-qualifications-framework-eqf) the study programmes should follow the Computing Curricula 2020, CC2020 approach in terms of the elements of knowledge.&#x20;
 
-<figure><img src="../../../.gitbook/assets/GetImage (3).png" alt=""><figcaption><p>Elements of knowledge based on (<a href="https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf">CC2020</a>)  </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/GetImage (3) (1).png" alt=""><figcaption><p>Elements of knowledge based on (<a href="https://www.acm.org/binaries/content/assets/education/curricula-recommendations/cc2020.pdf">CC2020</a>)  </p></figcaption></figure>
 
 This knowledge dimension of competency represents foundational and technical components that are very relevant in order to implement GovStack's vision of digitalization.
 
