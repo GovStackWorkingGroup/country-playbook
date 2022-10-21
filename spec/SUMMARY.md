@@ -21,6 +21,7 @@
       * [Digital Transparency](govstack-implementation-playbook/digital-strategy-and-governance/understanding-country-context-and-needs/digital-transparency.md)
       * [E-participation, e-democracy](govstack-implementation-playbook/digital-strategy-and-governance/understanding-country-context-and-needs/e-participation-e-democracy.md)
       * [International cooperation](govstack-implementation-playbook/digital-strategy-and-governance/understanding-country-context-and-needs/international-cooperation.md)
+    * [Maturity assessment](govstack-implementation-playbook/digital-strategy-and-governance/maturity-assessment.md)
     * [Incorporating the GovStack approach Digital strategy and roadmap](govstack-implementation-playbook/digital-strategy-and-governance/incorporating-the-govstack-approach-digital-strategy-and-roadmap.md)
     * [Service prioritisation and ranking](govstack-implementation-playbook/digital-strategy-and-governance/service-prioritisation-and-ranking.md)
     * [Governement Ecosystem Reference Architecture (GERA)](govstack-implementation-playbook/digital-strategy-and-governance/governement-reference-architecture.md)
