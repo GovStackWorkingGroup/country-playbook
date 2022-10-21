@@ -31,7 +31,7 @@ Yet, the list of approaches that partner organizations use to assess the country
 {% tab title="Scope of work" %}
 A good readiness assessment covers:
 
-* [Connectivity and internet coverage](connectivity-and-internet-coverage.md)
+* Connectivity and internet coverage
 * Leadership and goverance
 * Financial analysis
 * Legal framework
