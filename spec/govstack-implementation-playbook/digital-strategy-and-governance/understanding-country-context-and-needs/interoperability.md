@@ -33,7 +33,7 @@ A five-stage approach is often seen in proven maturity models and is considered 
 
 <figure><img src="../../../.gitbook/assets/GetImage (15).png" alt=""><figcaption></figcaption></figure>
 
-The desired interoperability level for a digital public service is at least level 4: “Sustainable”. At this level, the digital public service is considered to have implemented all relevant best practices.&#x20;
+The desired interoperability level for a digital public service is at least level 4: “Sustainable”. At this level, the digital public service is considered to have implemented all relevant best practices. ([Cite](https://joinup.ec.europa.eu/sites/default/files/distribution/access\_url/2021-09/6314de11-0846-4fa6-970f-58feca63aede/IMAPS%20v2.0.0%20User%20Guide.pdf))
 
 IMAPS Components’ attributes&#x20;
 
