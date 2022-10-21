@@ -9,7 +9,7 @@
   * [Govstack design principles](govstack-implementation-playbook/govstack-design-principles.md)
   * [Digital Strategy & Governance](govstack-implementation-playbook/digital-strategy-and-governance.md)
     * [Understanding country context and needs](govstack-implementation-playbook/digital-strategy-and-governance/understanding-country-context-and-needs/README.md)
-      * [Connectivity and internet coverage](govstack-implementation-playbook/digital-strategy-and-governance/understanding-country-context-and-needs/connectivity-and-internet-coverage.md)
+      * [Country digital landscape & maturity](govstack-implementation-playbook/digital-strategy-and-governance/understanding-country-context-and-needs/country-digital-landscape-and-maturity.md)
       * [Leadership and Governance](govstack-implementation-playbook/digital-strategy-and-governance/understanding-country-context-and-needs/leadership-and-governance.md)
       * [Financial analysis](govstack-implementation-playbook/digital-strategy-and-governance/understanding-country-context-and-needs/financial-analysis.md)
       * [Legal framework](govstack-implementation-playbook/digital-strategy-and-governance/understanding-country-context-and-needs/legal-framework.md)
