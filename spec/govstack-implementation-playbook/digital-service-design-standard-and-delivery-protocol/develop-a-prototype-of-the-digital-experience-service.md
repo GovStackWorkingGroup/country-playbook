@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Develop a prototype of the digital experience/service
 
 Once we have learned more about users’ expectations and created a ''to-be'' user journey, it is time to create testable design. Sketching, [wireframing](https://www.youtube.com/watch?v=KnZrypOaVCg), and prototyping will help you ensure your service reflects your users’ needs. A prototype is a rudimentary version, either static or functional, of something that exhibits realistic form and function.&#x20;
@@ -43,7 +47,7 @@ Who does what&#x20;
 * List of service components along the "to-be" user journey to be standardized (Information service sheets, downloadable forms, web forms, electronic documents, notifications, performance analytics, citizen satisfaction survey, accessibility) &#x20;
 {% endtab %}
 
-{% tab title="Incorporation" %}
+{% tab title="Next steps" %}
 What to do next
 
 * Iterate! Prototypes should be quick and painless to create, and even more quick and painless to discard.&#x20;

@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # E-participation, e-democracy
 
 Both e-participation and e-democracy are important factors in creating citizens-centric digital government services. &#x20;

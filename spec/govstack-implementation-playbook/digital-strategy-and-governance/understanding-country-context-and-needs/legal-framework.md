@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Legal framework
 
 Digital transformation requires an up-to-date and dynamic strategic and legal framework. It defines the current and future states as well as helps stakeholders follow the joint vision and align their efforts to support the common goal.&#x20;

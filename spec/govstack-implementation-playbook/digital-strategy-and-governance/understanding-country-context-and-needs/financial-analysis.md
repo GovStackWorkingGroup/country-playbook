@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Financial analysis
 
 To give a comprehensive view of the financial analysis needed for the GovStack implementation, this chapter will look first at the **budgetary approach** covering the sources of government funding for national digital transformation and will then cover the **cost-effectiveness of digital government**.&#x20;

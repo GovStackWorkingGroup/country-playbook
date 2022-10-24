@@ -1,6 +1,10 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Building block approach
 
-There is an existing logical approach practiced by leading e-gov to create a common shared platform to deliver various government services digitally.
+Version for TAC Review October 2022There is an existing logical approach practiced by leading e-gov to create a common shared platform to deliver various government services digitally.
 
 A holistic (Whole-of-Government) digital platform that can be used by any government agency across sectors to build new e-government services without the need to redesign, test and operate the underlying systems and infrastructure themselves every time.
 

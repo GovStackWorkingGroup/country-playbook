@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Make logical process blue print & map BB use cases
 
 Once the  "to-be" user journey and white-frame protype has been approve by service owner.  It is time to coordinate with the product & technical team an initial product/technical co-design session. This aims to make a series of logical process blue prints to guide the technical design of the front & back end of the digital service by identifying BB use cases that will enable the approved white frame prototype. &#x20;

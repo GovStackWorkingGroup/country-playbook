@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Country digital landscape & maturity
 
 Wide ICT usage, coverage, and accessibility represent a critical precondition and the foundation for innovative services development and their further use by the citizens. These need to be evaluated based on several aspects critical to meaningful connectivity:&#x20;

@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Assist in procurement of Infrastructure based on the co-design documentation
 
 Once the functional MVP has been tested and deployed in the GovStack Sandbox, GovStack team will accompany the Country team in procurement of infrastructure/cloud to deploy the functional MVP. &#x20;

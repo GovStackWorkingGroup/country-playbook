@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Co-design with the users a memorable digital experience – the "to-be" user journey
 
 Once you have presented the "as-is" user journey with qualitative & quantitative findings to the service community and relevant stakeholders. It is time to put into practice the preliminary recommendations in a series of co-designing sessions with service users and the service community to re-design all aspects of the service and co-create a new digital experience documented as a "to-be" user journey.

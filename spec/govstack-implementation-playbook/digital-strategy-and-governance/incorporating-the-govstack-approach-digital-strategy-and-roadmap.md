@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Incorporating the GovStack approach Digital strategy and roadmap
 
 To embrace the benefits of the digital era in today´s society, digital transformation has become a state policy, equally important as the national health policy, economic policy, labor & social protection policies. National Digital Strategies or National Digital Agendas have become guiding policy documents to establish the priorities and focus areas according to the country´s context and needs.&#x20;

@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Digital skills
 
 For the journey towards governmental digital transformation it is indispensable to identify where the country and its administration currently stand with regards to [digital skills](../../learning-and-exchange/capacity-development/digital-skills-in-relation-to-capacity-building.md). Such exercise of identifying  digital talent and talent gaps is an important preliminary step as the rest of the digitalisation process largely depends on its starting base. &#x20;

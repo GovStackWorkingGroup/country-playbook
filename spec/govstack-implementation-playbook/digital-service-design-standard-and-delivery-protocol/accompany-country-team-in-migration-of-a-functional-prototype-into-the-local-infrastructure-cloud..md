@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Accompany Country team in migration of a functional prototype into the local infrastructure/cloud.
 
 If the functional prototype has been developed and tested in the GovStack Sandbox, it is necessary to migrate the functional prototype into the Country local infrastructure/cloud.
@@ -11,8 +15,6 @@ A good migration should:
 
 {% tab title="Activities" %}
 How to get there
-
-
 
 *   Develop the front end of the service according to Country Digital Service Standard &#x20;
 

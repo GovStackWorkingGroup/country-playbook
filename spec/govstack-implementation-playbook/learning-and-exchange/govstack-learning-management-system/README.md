@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # GovStack Learning Management System
 
 GovStack Learning Management System (GS LMS) is an eco-system which consist materials supporting of understanding the GovStack approach and help during the implementation journey by providing environment with guides, templates and other materials. &#x20;

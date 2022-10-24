@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Service prioritisation and ranking
 
 Definition of which services digitize first varies country from country. Prioritization criteria shall be based on data gathered through RFI, II, III, & IV in order to rank services to work with according to impact & feasibility criteria. &#x20;

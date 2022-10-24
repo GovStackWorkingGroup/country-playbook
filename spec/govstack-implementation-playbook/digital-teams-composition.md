@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Digital Teams Composition
 
 Digital service teams (DST) are teams tasked with redesigning government services and processes to align with new technologies. These teams play a critical role in driving new practices in government services, such as agile development processes and user-centered design.

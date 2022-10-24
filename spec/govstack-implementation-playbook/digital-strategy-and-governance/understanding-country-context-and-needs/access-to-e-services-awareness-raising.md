@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Access to e-services, awareness raising
 
 To be able to benefit from the advantages a digital society brings, citizens and businesses should be able to access public services online. These should not simply be available, but also easy to access on different devices and platforms, inclusive and user-friendly. &#x20;

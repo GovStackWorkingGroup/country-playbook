@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Digital skills in relation to capacity building
 
 ### Why digital skills are needed? &#x20;

@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Terminology
 
 {% hint style="success" %}
@@ -1083,10 +1087,6 @@ Within PubSub, when the Room keeps a queue of events and the Subscriber can chec
 **PubSub Push Delivery Mode**
 
 Within PubSub, when the Room sends events via webhook to the Subscriber’s API.
-{% endtab %}
-
-{% tab title="Untitled" %}
-
 {% endtab %}
 
 {% tab title="Q" %}

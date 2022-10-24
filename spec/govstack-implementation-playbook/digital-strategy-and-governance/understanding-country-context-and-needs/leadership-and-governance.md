@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review October 2022
+---
+
 # Leadership and Governance
 
 The trend towards a digital society has caused many governments to adapt their position and their role in order to be able to provide adequate digital government services.&#x20;
