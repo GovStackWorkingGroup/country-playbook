@@ -1,3 +1,7 @@
+---
+description: Version for TAC Review Oct 2022
+---
+
 # Implementation framework
 
 #### The GovStack implementation framework considers incorporating a BB approach at the level of institutional governance, ICT policy & citizen centric co-design & delivery of government digital services.&#x20;
