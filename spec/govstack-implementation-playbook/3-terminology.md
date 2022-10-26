@@ -8,6 +8,8 @@ description: Version for TAC Review October 2022
 Terminology/glossary used within the specification
 {% endhint %}
 
+Welcome to the single point of access to GovStack terminology compendium. The following terms and definitions facilitate GovStack communities of practices to communicate under the same terms of reference. Is during your interactions with GovStack documents.
+
 {% tabs %}
 {% tab title="A" %}
 **Access**
