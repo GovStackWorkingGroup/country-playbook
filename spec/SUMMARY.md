@@ -52,4 +52,4 @@
     * [GovStack user profiles taxonomy](govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy.md)
   * [Terminology](govstack-implementation-playbook/3-terminology.md)
   * [Version History](govstack-implementation-playbook/1-version-history/README.md)
-    * [Release Notes](govstack-implementation-playbook/1-version-history/release-notes.md)
+    * [Release notes](govstack-implementation-playbook/1-version-history/release-notes.md)

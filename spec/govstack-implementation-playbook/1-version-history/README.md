@@ -8,8 +8,8 @@ description: Version for TAC Review October 2022
 Add a line to the version history table describing the major changes to the specifications between _published_ versions. Ideally, include links to issues and authors on GitHub.
 {% endhint %}
 
-| Version                         | Authors | Comment                                                                                                                                                        |
-| ------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Version for TAC Review Oct 2022 |         | TAC review version was released to guide initial GovStack reference implementation as well as to gather TAC Panel comments as part of the TAC review process.  |
-|                                 |         |                                                                                                                                                                |
-|                                 |         |                                                                                                                                                                |
+| Version                                             | Authors               | Comment                                                                                                                                         |
+| --------------------------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Version for TAC Review](release-notes.md) Oct 2022 | Same as contributors  | TAC review version is the first iteration of the GovStack implementation playbook with TAC panel members and digital teams in pilot countries.  |
+|                                                     |                       |                                                                                                                                                 |
+|                                                     |                       |                                                                                                                                                 |
