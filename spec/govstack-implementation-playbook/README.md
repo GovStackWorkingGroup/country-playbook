@@ -64,9 +64,9 @@ Our aim is to constantly iterate GovStack playbook tools & methods, join us in t
 
 ### How was the playbook developed?
 
-The GovStack Implementation Playbook is a continuous co-design effort by a multidisciplinary team of experts representing GovStack partner organizations (ITU, EE, GIZ, DIAL) who worked on this TAC review version. Tools and methods presented in the playbook follow best practices in government digital service co-design and delivery. They have been co-designed as part of the GovStack country implementation work.&#x20;
+The GovStack Implementation Playbook is a continuous co-design effort by a multidisciplinary team of experts representing GovStack partner organizations ([ITU](https://www.itu.int/en/Pages/default.aspx), [EE](https://e-estonia.com/), [GIZ](https://www.giz.de/en/html/index.html), [DIAL](https://dial.global/)) who worked on this TAC review version. Tools and methods presented in the playbook follow best practices in government digital service co-design and delivery. They have been co-designed as part of the GovStack country implementation work.&#x20;
 
-The playbook also integrates a curated set of best practices comming from different assessment frameworks developed by International Organizations, like ITU, OECD, UNDP, and World Bank, among others. It also gathers reference tools and methods from digital services manuals, and design standards developed by different digital service teams worldwide. Like but not limited to:
+The playbook also integrates a curated set of best practices comming from different assessment frameworks developed by International Organizations like ITU, OECD, UNDP, and World Bank, among others. It also gathers reference tools and methods from digital services manuals, and design standards developed by different digital service teams worldwide. Like but not limited to:
 
 * The Government Digital Service in the United Kingdom&#x20;
 * 18F in the United States
@@ -78,4 +78,4 @@ The playbook also integrates a curated set of best practices comming from differ
 
 ### How the playbook is updated?
 
-The GovStack implementation playbook is updated every day. As GovStack moves into its initial reference implementations, the [version for TAC Review](1-version-history/release-notes.md) has been published to guide digital teams in pilot countries into implementing the GovStack approach to service co-design and delivery.  Please join our GovStack service co-design and delivery team by contributing tools, methods, templates, and best practices to help digital teams worldwide deliver.&#x20;
+The GovStack implementation playbook is updated every day. As GovStack moves into its initial reference implementations, the [version for TAC Review](1-version-history/release-notes.md) has been published to receive comments and inputs from TAC review panel members, and guide digital teams in pilot countries into implementing the GovStack approach to service co-design and delivery.  Please join our GovStack service co-design and delivery team by contributing tools, methods, templates, and best practices to help digital teams worldwide deliver.&#x20;

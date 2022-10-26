@@ -18,4 +18,15 @@ By unpacking and simplifying the technical approach that goes into building holi
 
 ## Where did it come from?&#x20;
 
-GovStack model is an extension of the SDG Digital Investment Framework, an earlier effort by the Digital Impact Alliance (DIAL) at the UN Foundation and the International Telecommunication Union (ITU).
+GovStack model is an extension of the [SDG Digital Investment Framework](https://www.itu.int/pub/D-STR-DIGITAL.02-2019), an earlier effort by the International Telecommunication Union (ITU) and the Digital Impact Alliance (DIAL) at the UN Foundation.&#x20;
+
+## What is the SDG Digital Investment Framework?
+
+The SDG Digital Investment Framework helps governments and their partners to take a whole-of-government approach to invest in shared digital infrastructure to strengthen SDG programming across sectors. The framework accomplishes this by defining four interrelated layers:&#x20;
+
+* **SDG Targets** define high-level objectives to which governments systematically align their development goals.&#x20;
+* **Use Cases** define the steps necessary to achieve a business objective contributing to one or more SDG Targets.&#x20;
+* **WorkFlows** are generic business processes, such as "client communication" or "procurement", that support the delivery of a Use Case.&#x20;
+* **ICT Building Blocks** are reusable software components that enable WorkFlows and Use Cases across multiple sectors.
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p><em>Example architectural map using the SDG Digital Investment Framework (ITU, DIAL, 2019)</em></p></figcaption></figure>
