@@ -10,7 +10,7 @@ A maturity assessment can be used to measure the current maturity level of a cer
 
 <figure><img src="../../.gitbook/assets/GetImage(1).png" alt=""><figcaption></figcaption></figure>
 
-2\. Probably the most suitable study for GovStack: E-Government Maturity Model for Sustainable E-Government Services from the Perspective of Developing Countries, [https://doi.org/10.3390/su10061882,](https://doi.org/10.3390/su10061882,) 2018&#x20;
+2\. Probably the most suitable study for GovStack: E-Government Maturity Model for Sustainable E-Government Services from the Perspective of Developing Countries, [https://doi.org/10.3390/su10061882](https://www.mdpi.com/2071-1050/10/6/1882), 2018&#x20;
 
 One of the key differences between the proposed model and existing models was the inclusion of adoption stages to acquire participation from stakeholders. The figure below describes the importance of accommodating adoption stages in maturity models, and provides a roadmap for governments to achieve wider acceptance from stakeholders.&#x20;
 
