@@ -4,7 +4,9 @@ description: Version for TAC Review October 2022
 
 # Maturity assessment
 
-1. There is an abundance of different approaches:  [https://bura.brunel.ac.uk/bitstream/2438/13415/1/Fulltext.pdf](https://bura.brunel.ac.uk/bitstream/2438/13415/1/Fulltext.pdf) Comparing and Contrasting e-Government Maturity Models: A Qualitative-Meta Synthesis, 2016&#x20;
+A maturity assessment can be used to measure the current maturity level of a certain aspect of a service or organization in a meaningful way, enabling stakeholders to clearly identify strengths and improvement points, and accordingly prioritize what to do in order to reach higher maturity levels. There is an abundance of different approaches in regard to e-government, below are provided some examples and references that governments could consider to use.
+
+1. Comparison of different models:  [https://bura.brunel.ac.uk/bitstream/2438/13415/1/Fulltext.pdf](https://bura.brunel.ac.uk/bitstream/2438/13415/1/Fulltext.pdf) Comparing and Contrasting e-Government Maturity Models: A Qualitative-Meta Synthesis, 2016&#x20;
 
 <figure><img src="../../.gitbook/assets/GetImage(1).png" alt=""><figcaption></figcaption></figure>
 
@@ -113,15 +115,7 @@ At this point, the process of digital innovation using open data is embedded dee
 
 
 
-4\. Comparison of mainstream frameworks used in IT: The CMMI and ITIL frameworks use a 5-point maturity scale, and COBIT adds another step to the scale, also describing the 0-level in the model. A summary of the maturity scale of the frameworks examined and the keywords corresponding to the maturity levels is given in the Table below:
-
-<figure><img src="../../.gitbook/assets/GetImage(6).png" alt=""><figcaption></figcaption></figure>
-
-For  maturity models fod ITSM see also: [https://www.bmc.com/blogs/maturity-model-itsm/](https://www.bmc.com/blogs/maturity-model-itsm/)  (based on ITIL)&#x20;
-
-
-
-5\. For interoperability Maturity Assessment of a Pubilic Service  see: [https://joinup.ec.europa.eu/collection/imaps-interoperability-maturity-assessment-public-service/about](https://joinup.ec.europa.eu/collection/imaps-interoperability-maturity-assessment-public-service/about)&#x20;
+4\. For Interoperability Maturity Assessment of a Pubilic Service  see: [https://joinup.ec.europa.eu/collection/imaps-interoperability-maturity-assessment-public-service/about](https://joinup.ec.europa.eu/collection/imaps-interoperability-maturity-assessment-public-service/about)&#x20;
 
 IMAPS is an online survey that helps public service owners evaluate, consider and improve all key interoperability aspects of their digital public service (legal, semantic, organisational, or technical). Ultimately, they can view and monitor the service’s compliance with the New [European Interoperability Framework (EIF)](https://ec.europa.eu/isa2/eif\_en).&#x20;
 
@@ -137,4 +131,8 @@ IMAPS looks at three different service areas (see IMAPS conceptual model below):
 
 <figure><img src="../../.gitbook/assets/GetImage(8).png" alt=""><figcaption></figcaption></figure>
 
-See also: UN https://publicadministration.un.org/en/Toolkits
+5\. The maturity levels and description of the levels of the mainstream frameworks used in IT management models is quite similar: The CMMI and ITIL frameworks use a 5-point maturity scale, and COBIT adds another step to the scale, also describing the 0-level in the model. A summary of the maturity scale of the frameworks examined and the keywords corresponding to the maturity levels is given in the Table below:
+
+<figure><img src="../../.gitbook/assets/GetImage(6).png" alt=""><figcaption></figcaption></figure>
+
+For  maturity models for ITSM see also: [https://www.bmc.com/blogs/maturity-model-itsm/](https://www.bmc.com/blogs/maturity-model-itsm/)  (based on ITIL)&#x20;
