@@ -37,11 +37,7 @@ _3._      Reference Case studies
 * Identify learning modules within GovStack LMS to design a learning path for your digital team, as well as, digital teams in government entities &#x20;
 * Alling ICT procurement guidelines to the GERA document
 * Oficialized GERA Governance Committee as part of the CIO Council work plan, or the Inter-Ministerial Commission for the Development of Digital Government&#x20;
-* Monitor and iterate the GERA Document as need it to keep relevant for government service design and delivery at scale&#x20;
-
-
-
-&#x20;
+* Monitor and iterate the GERA Document as needed it to keep relevant for government service design and delivery at scale&#x20;
 {% endtab %}
 
 {% tab title="Digital Team" %}
@@ -49,7 +45,7 @@ Who does what:
 
 * Chief government architects - Coordinate the work around the GERA document&#x20;
 * Solutions architects from government entities - Actively participate in the co-design of the document, the GERA working group, and the training program&#x20;
-* Service designers - Actively participate in co-design session, the GERA working groups and training program&#x20;
+* Service designers - Actively participate in co-design sessions, the GERA working groups and the training program&#x20;
 {% endtab %}
 
 {% tab title="Resources" %}

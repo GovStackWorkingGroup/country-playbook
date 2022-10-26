@@ -18,5 +18,15 @@ To maximize ROI, a government must be able to draw a line connecting its nationa
 
 Common ICT Building Blocks enable generic business processes, or WorkFlows, that can be combined and repurposed in multiple ways to deliver priority Use Cases that contribute to SDG Targets. National governments can prioritize Use Cases according to citizens’ needs (eg improve neonatal outcomes), map functionality across sectors, and then invest in shared infrastructure comprising ICT Building Blocks.
 
+The illustration below describes **savings through a reusable digital investment approach**:
+
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Illustration of Savings Through Reusable Digital Investment Approach (ITU, DIAL, 2019)</p></figcaption></figure>
+
+## What are the benefits of the BB approach?
+
+A whole-of-government approach to digital investment to help achieve the SDGs stands to benefit the entire value chain: citizens, businesses, governments, and their partners, and the supporting ecosystem of ICT developers and implementers.
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Framework benefits by stakeholder type</p></figcaption></figure>
+
+
 

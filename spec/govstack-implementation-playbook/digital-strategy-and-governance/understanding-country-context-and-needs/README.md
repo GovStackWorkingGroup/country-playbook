@@ -36,10 +36,10 @@ Yet, the list of approaches that partner organizations use to assess the country
 A good readiness assessment covers:
 
 * Connectivity and internet coverage
-* Leadership and goverance
+* Leadership and governance
 * Financial analysis
 * Legal framework
-* Cybersecurity, Privacy and Resilience
+* Cybersecurity, privacy, and resilience
 * Interoperability
 * Digital identity and digital signature
 * Digital skills
@@ -50,28 +50,34 @@ A good readiness assessment covers:
 {% endtab %}
 
 {% tab title="Activities" %}
-
+* Identify current diagnostic reports developed for your country/state/municipality
+* Complement or update those assessments with the most up-to-date data available
+* Iterate/discuss findings with digital stakeholders&#x20;
+* Use the assessment results as inputs for framing the actions within the  Digital Agenda/Strategy  &#x20;
 {% endtab %}
 
 {% tab title="Digital team" %}
-Assessment team: &#x20;
+Leadership team&#x20;
 
-* Lead senior international consultant&#x20;
-* International consultant/senior local national consultant&#x20;
-* Specialist ICT infrastructure/cybersecurity consultant&#x20;
-* Junior consultant/analyst&#x20;
+* Chief Digital Innovation Officer
+* Policy analyst&#x20;
+* Academics from Universities&#x20;
+* Specialists from International Organizations&#x20;
 {% endtab %}
 
 {% tab title="Next Steps" %}
-
+* Use the assessment as the baseline to measure progress in the implementation of the Digital Agenda/Strategy&#x20;
+* Create a dashboard to present progress in the Digital Agenda/Strategy implementation&#x20;
+* Publish a year report describing activities accomplished and improvements over the assessments gaps &#x20;
+* Communicate progress and results with digital ecosystems at local and international levels&#x20;
 {% endtab %}
 
 {% tab title="Resources" %}
-* LMS Modules: 1, 2, 3 &#x20;
-* Use the Facilitation PPT for the "To-Be" user journey co-design sessions &#x20;
-* Use the GovStack user journey guideline &#x20;
-* Use the GovStack "To-Be" user journey Miro Board template and adapted to your needs &#x20;
-* Explore the "To-Be" user journeys of Rwanda EPR Use Case&#x20;
-* Explore the  "To-Be" user journeys of Djibouti & Kenya of 5 exemplar government services under the scope of the HoA Initiative.&#x20;
+* [National E-Governance Service Delivery Assessment](https://nesda.gov.in/publicsite/)&#x20;
+* [Digital Government and Open Data Readiness Assessment](https://openknowledge.worldbank.org/handle/10986/32547)&#x20;
+* [eChhawani: Online citizen services in cantonment areas](https://egov.org.in/case-studies/echhawani-cantonment-areas/)&#x20;
+* [ITU-UNDP Compact on Digital Transformation of Moldova](https://www.itu.int/en/ITU-D/Regional-Presence/Europe/Documents/Events/2021/Regional%20Innovation%20Forum/Digital\_Moldova.pdf)&#x20;
+* [UNDP Digital Readiness Assessment](https://www.undp.org/digital/transformations)&#x20;
+* [ITU Digital Development Country Profile](https://euc-onenote.officeapps.live.com/o/ITU%20Digital%20Development%20Country%20Profile)&#x20;
 {% endtab %}
 {% endtabs %}

@@ -2,43 +2,19 @@
 description: Version for TAC Review October 2022
 ---
 
-# Service prioritisation and ranking
+# Service prioritization and ranking
 
-Definition of which services digitize first varies country from country. Prioritization criteria shall be based on data gathered through RFI, II, III, & IV in order to rank services to work with according to impact & feasibility criteria. &#x20;
+Definition of which services digitize first varies country from country. Before the prioritization and ranking stage, a country must identify a set of services that are part of its digital agenda. These may be outlined in policy documents such as a country's Digital Strategy/Agenda, Digital Roadmap, and National Development Plan, and co-selected with the participation of Ministries and stakeholders of the digital ecosystem in the Country/State/Municipality.&#x20;
 
-&#x20;
+Prioritization criteria shall be based on data gathered from Request for Information Forms (RFI) through RFI, II, III, & IV to rank services to work with according to the impact & feasibility of implementation.  Implementation will therefore be guided by the previous analysis, starting with services that are of the highest importance and highest feasibility, followed by those with high importance but low feasibility.&#x20;
 
-The criteria presented in this playbook is a reference criteria. Each country can calibrate current criteria according to information availability, context & needs. &#x20;
+The criteria presented in this playbook is a reference criterion. Each country can calibrate current criterion according to information availability, context & needs.  &#x20;
 
-&#x20;
-
-Table X Impact & feasibility criteria &#x20;
-
-&#x20;
-
-Prior to prioritization and ranking stage, a country must identify a set of services that are part of their digital agenda. These may be outline in policy documents such as a country's Digital strategy, Digital Roadmap, etc.; or a result of stakeholder consultation lead by the country Digital Team.&#x20;
-
-&#x20;
-
-The prioritization and ranking exercise will be based on a multiple criteria analysis: "importance" & "feasibility". For each criteria, a set of indicators are defined and aligned with the data gathered through the Request for Information Forms (RFI) I, II, III & IV. (Table X Impact & feasibility criteria)&#x20;
-
-&#x20;
-
-Implementation will therefore be guided by the previous analysis, starting with services that are of the highest importance and highest feasibility, followed by those with high importance but low feasibility, those with low importance but with high feasibility and lastly services with low importance and low feasibility. &#x20;
-
-&#x20;
-
-The criteria presented in this playbook is a reference criteria. Each country can calibrate current criteria according to information availability, context & needs. &#x20;
-
-&#x20;
-
-| Strategic importance    | Strategic urgency                          | <ul><li>Number of transactions </li><li>Customer base  </li><li>Shared services </li><li>Cross-border service  </li></ul>                                                                                                                                                               |
+| Strategic importance    | Demand for the service                     | <ul><li>Number of transactions </li><li>Customer base  </li><li>Shared services </li></ul>                                                                                                                                                                                              |
 | ----------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                         | National digital agenda                    | <ul><li>Alignment with national digital agenda </li></ul>                                                                                                                                                                                                                               |
 | Impact                  | Impact for the citizen                     | <ul><li>Number of iterations (customer visits) </li><li>Time required for service </li><li>Time required for follow-up &#x26; tracking </li><li>Time spent by customer on feedback </li><li>Number of Govt agencies involved  </li><li>Number of prerequisites and documents </li></ul> |
 |                         | Government Impact                          | <ul><li>Environmental footprint (Documents, commutes.) </li></ul>                                                                                                                                                                                                                       |
 |                         | Business impact                            | <ul><li>Public Private Partnership </li><li>Attraction of FDI  </li></ul>                                                                                                                                                                                                               |
-|                         | Technical impact                           | <ul><li>Systems-platforms catalogue </li></ul>                                                                                                                                                                                                                                          |
 | Technical feasibility   | Technical capacity                         | <ul><li>Digital skills </li></ul>                                                                                                                                                                                                                                                       |
 |                         | Financial resources                        | <ul><li>Degree of existing Building Blocks </li></ul>                                                                                                                                                                                                                                   |
 |                         | Reliance on other technologies             | <ul><li>Degree of existing infrastructure </li></ul><p> </p>                                                                                                                                                                                                                            |

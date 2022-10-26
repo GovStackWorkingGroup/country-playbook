@@ -30,3 +30,9 @@ The SDG Digital Investment Framework helps governments and their partners to tak
 * **ICT Building Blocks** are reusable software components that enable WorkFlows and Use Cases across multiple sectors.
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p><em>Example architectural map using the SDG Digital Investment Framework (ITU, DIAL, 2019)</em></p></figcaption></figure>
+
+A primary aim of this framework is to assist decision-makers and enterprise planners in the identification of common business processes and ICT solutions that can serve as the basis for a shared information architecture. A Use Case is an effective starting point for this analysis, because each step in a Use Case is comprised of one or more business processes, each of which may be supported by ICT solutions.&#x20;
+
+The example below illustrates the business processes and supporting technologies for an illustrative **Rural Advisory Service Use Case.**
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Rural Advisory Service Use Case (ITU, DIAL, 2019)</p></figcaption></figure>
