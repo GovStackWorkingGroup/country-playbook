@@ -4,36 +4,45 @@ description: Version for TAC Review October 2022
 
 # Contributors
 
-This is the first iteration of the Playbook has been put in pla
+The first iteration of the Playbook has been developed by&#x20;
 
-**Estonian Government-EstDev**
+### Founding Partners
 
-**DIAL**&#x20;
+* **Estonian Government-EstDev**
+  * Alika Vandtke
+  * Andres Ääremaa
+* **DIAL**&#x20;
+  * Brenda Maday
+  * Sherman Kong
+* **GIZ**&#x20;
+  * Martha Mundas
+  * Moritz Fromageot
+  * Niharika Gujela
+  * Nora Hauptmann
+  * Pia Seiffarth
+  * Stephen Odhiambo
+* **ITU**&#x20;
+  * Ayush Shukla
+  * Concord Kananura
+  * Hani Eskandar
+  * Hossam Ragheb
+  * Ingrid Pappel
+  * Luke Cavanaugh
+  * Dr. P.S Ramkumar
+  * Valentina Stadnic
+  * Vikash Madduri
+  * Yolanda Martinez&#x20;
 
-* Sherman Kong,&#x20;
+### **Partner organizations**&#x20;
 
-**GIZ**&#x20;
+* **eGov Foundation of India**&#x20;
+  * Neil Roy
+  * Omkar Ghatpande
+  * Varun Basu&#x20;
+* **TalTech**&#x20;
+  * Josephine Lusi
 
-**ITU**&#x20;
+### **Government collaborators**
 
-* Hani Eskandar,  Yolanda Martinez, Ayush, Ingrid, Valentina, Hossam, Concord&#x20;
-
-**Partner organizations**&#x20;
-
-eGov Foundation of India&#x20;
-
-* Neil, Omkar&#x20;
-
-TalTech&#x20;
-
-* Joshepine&#x20;
-
-**Government collaborators**
-
-Government of Ukraine&#x20;
-
-
-
-
-
-Valentina Stadnic**,** Maksym Shkilov, Martha Mundas, Pia Seiffarth, Stephen Odhiambo, Andres Ääremaa, Luke Cavanaugh, Alika Vandtke, Niharika Gujela, Sherman Kong, Ingrid Pappel, Vikash Madduri, Brenda Maday, Neil Roy, Varun Basu, Hossam Ragheb, Nora Hauptmann, Josephine Lusi, Yolanda Martinez, Dr. P.S Ramkumar, Ayush Shukla, Moritz Fromageot, Concorde Kananura, Omkar Ghatpande **in cooperation with GIZ, ITU, DIAL, and the Government of Estonia**
+* **Government of Ukraine**
+  * Maksym Shkilov&#x20;
