@@ -1,7 +1,3 @@
----
-description: Version for TAC Review October 2022
----
-
 # Terminology
 
 {% hint style="success" %}
@@ -123,6 +119,10 @@ The process or action of verifying the identity of a user or process. For the pu
 **Authorization**
 
 The granting to a subject of privileges or rights for accessing the various resources hosted by a system.
+{% endtab %}
+
+{% tab title="Untitled" %}
+
 {% endtab %}
 
 {% tab title="B" %}

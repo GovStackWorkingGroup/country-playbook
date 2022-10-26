@@ -1,7 +1,3 @@
----
-description: Version for TAC Review October 2022
----
-
 # Map integration requirements and develop cross building block interaction diagram
 
 Once the logical process blueprint (BPMN) has been approved by the country technical team. It is time to map integration requirements and develop cross building blocks interaction diagrams.
@@ -12,6 +8,10 @@ A good integration map & cross BB interaction diagram ...
 
 * Specifies integration requirements and API specs&#x20;
 
+
+{% endtab %}
+
+{% tab title="Untitled" %}
 
 {% endtab %}
 
