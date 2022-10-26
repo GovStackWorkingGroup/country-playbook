@@ -8,6 +8,6 @@ The GovStack initiative is a multi-stakeholder initiative led by the Federal Min
 
 The initiative [actively seeks partnerships with governments, agencies, private sector organizations and the open source community.](https://www.govstack.global/join-the-community/)
 
-<figure><img src="../.gitbook/assets/Screenshot_2022-09-06_162507-removebg-preview.png" alt=""><figcaption><p>GovStack Partner Agencies</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2022-09-06 162507-overlay.png" alt=""><figcaption><p>GovStack Partner Agencies</p></figcaption></figure>
 
 Learn more about govStack by visiting our [website](https://www.govstack.global/).
