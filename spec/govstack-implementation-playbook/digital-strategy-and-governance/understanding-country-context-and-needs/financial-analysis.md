@@ -78,57 +78,57 @@ There are further economic risks associated with the implementation of digital g
 {% endtab %}
 {% endtabs %}
 
-Despite various associated costs, Digital Government has been shown to increase efficiency and reduce costs for government in a range of different contexts. Increases in efficiency and time savings for government and citizen can only be measured if an appropriate **framework for performing cost efficiency and effectiveness measurements** will be put in place.&#x20;
+Despite various associated costs, Digital Government has been shown to increase efficiency and reduce costs for government in a range of different contexts. Increases in efficiency and time savings for government and citizen can only be estimated if an appropriate **framework for performing cost efficiency and effectiveness measurements** will be put in place.&#x20;
 
-Below is the reference methodology that can be used for this purpose:
+Below is a three-phase process, developed based on good practice demonstrated by the UK Government Digital Service, that can be used for this purpose:
 
 <details>
 
-<summary>Discovery Phase: Establishing the Baseline</summary>
+<summary><strong>Discovery Phase: Establishing the Baseline</strong></summary>
 
-* Assess the current state of play. What is the specific problem that you are solving?
-  * poor user experiences that cause people to use less cost effective channels
-  * inefficient or time consuming processes&#x20;
-  * legacy systems that need replacing&#x20;
+1. **Assessing the Current State of Play**
 
-<!---->
+It is first necessary to define the specific problem that is aimed to be solved within your local and/or national community. It could be, for example:
 
-* &#x20;Current costs, or opportunity that you are attempting to pursue in savings&#x20;
+* poor user experiences that cause people to use less cost-effective channels
+* inefficient or time-consuming processes
+* legacy systems that need replacing&#x20;
 
-Context is particularly important to monitoring and evaluation, both performance over time (with that effective baseline) and in comparison with similar services (non-GovStack solutions)&#x20;
+It is sometimes difficult to compare the costs saved in digital government against a counterfactual baseline. After all, a baseline alternative is not the same as doing nothing. But certainly, it is possible to track the value-add in cost savings of digital government by measuring the change in costs over time for a particular government department.
+
+**2. Estimating current costs, or deficit in benefits that you are attempting to do**
+
+Context is particularly important to monitoring and evaluation, both in terms of measuring performance over time (with that effective baseline) and in comparison with similar services (non-GovStack solutions).&#x20;
 
 </details>
 
 <details>
 
-<summary>Pre-Project Phase: Brainstorm Potential Benefits</summary>
+<summary><strong>Pre-Project Phase: Estimations of the cost-effectiveness</strong></summary>
+
+1. **Estimating Potential Benefits**
+
+It can be helpful to break down these benefits into direct, indirect, and wider economic benefits and answer the following questions.
 
 * How much money are you projected to save?&#x20;
-* Where are your direct savings? (so called cashable benefits- changes that will directly result in your organisation having more money to spend, either through savings or additional revenue).
-* Where are your indirect savings? (so-called non-cashable benefits- those changes that don’t lead to an immediate benefit, but address problems you’d have to fix eventually. They include things like saving money in future budgeting periods, or avoiding future procurement costs)
-* What are the wider economic benefits generated from the programme? (these improve things like savings users time or improving their experience; reducing private sector costs or the burden on charities)&#x20;
+* Where are your direct savings? Direct savings include cashable benefits, or those changes that will directly result in your organisation having more money to spend (through savings or additional revenues).&#x20;
+* Where are your indirect savings? Indirect savings don’t necessarily lead to any immediate benefits, but instead prevent additional costs later down the lines (like additional procurement costs).&#x20;
+* What are the wider economic benefits generated from the project? Wider benefits, often harder to quantify, include things like saving users time or increased user satisfaction.
 
-</details>
+**2. Quantifying and Calculating Costs**
 
-<details>
+When you’re estimating, think about the number of people you might need and their salary costs, whether you’ll need any non-civil servant support and any **** implementation costs, any additional infrastructure equipment (office space etc.), training costs, overheads, research and development, and other relevant costs.
 
-<summary>Perform a Sensitivity Analysis </summary>
+However, there are also indirect costs of implementing government services, like ensuring a digitally literate population. In implementing digital government services, costs will be incurred through organising either casual educational programmes, professional training, teaching in schools, or night classes to produce a digitally literate population.
 
-It relates to the human nature to overestimate things: a so-called “optimism bias”. It is important to be realistic about what benefits you can deliver given your budget and the amount of time you have.          &#x20;
+A good total estimation of total costs will allow you to work out the cost per transaction by dividing the total cost by the number of transactions.
 
-* &#x20;In performing a sensitivity analysis, you should think about all possible outcomes. What would happen, for example, if take up of your service was as high or as low as it could conceivably be?&#x20;
-* Scrutinize your assumptions&#x20;
+**3. Performing a Sensitivity Analysis**&#x20;
 
-</details>
+It relates to the human nature to overestimate things: a so-called “optimism bias”. It is important to be realistic about what benefits you can deliver given your budget and the amount of time you have.         &#x20;
 
-<details>
-
-<summary>Quantify and Calculate Costs </summary>
-
-When you’re estimating, think about the number of people you might need and their salary costs, whether you’ll need any non-civil servant support and any software, hosting or technology costs you’re likely to incur.&#x20;
-
-* &#x20;In your costs you should account for: accommodation and capital charges for freehold properties; fixtures, fittings, maintenance and utilities; office equipment, including IT systems; postage, printing and telecommunications; total employment and training costs for people who provide the service; overheads, eg (shares of) payroll, audit, top management costs, legal services etc; raw materials and stocks; research and development; depreciation of startup and one-off capital items; taxes (VAT, council tax, stamp duty etc); capital charges (if you did not pay these separately when the service was established); speculative or actual insurance premiums; fees to sub-contractors; distribution costs, including transport; all costs associated with promoting the service; bad debts provisions (ie an amount put aside to cover a future liability)([Cite](https://www.gov.uk/service-manual/measuring-success/measuring-cost-per-transaction))&#x20;
-* To calculate cost per transaction first it is necessary to work out the total cost of providing the service, and then divide it by the total number of completed transactions.&#x20;
+* In performing a sensitivity analysis, you should think about all possible outcomes. What would happen, for example, if take up of your service was as high or as low as it could conceivably be?&#x20;
+* The second part of the analysis is challenging your assumptions. Estimating current costs and wider benefits might involve several assumptions. What contexts are they grounded in? What predictions do they make about the future, and what would happen if the future was actually different?
 
 </details>
 
@@ -136,10 +136,13 @@ When you’re estimating, think about the number of people you might need and th
 
 <summary>Monitoring &#x26; Evaluation Phase</summary>
 
-Work out the difference between the baseline figure that you identified during discovery and the estimate of how much you have been able to improve things by.&#x20;
+Work out the difference between the baseline figure that you identified during discovery and the estimate of how much you have been able to improve things by. &#x20;
 
-* &#x20;From the actual costs and benefits you can calculate cost-benefit ratio; return on investment; internal rate of return; net present value and the payback period&#x20;
-* &#x20;Iterate your models accordingly&#x20;
+The Digital Impact Alliance has[ developed a framework](https://procurement.dial.global/category-framework/) that can be adopted for this purpose. On a basic level:
+
+&#x20;1\)    Calculate the actual costs and benefits. From this figure, you can work out a cost-benefit ratio, return on investment, internal rate of return, net present value, and payback period.
+
+2\)    Identify strengths and weaknesses of your implementation and iterate accordingly
 
 </details>
 
