@@ -64,7 +64,8 @@ What to do next&#x20;
 LMS: Modules 1,2,3 &#x20;
 
 * Use the GovStack "As-Is" user journey Miro Board template and adapt it to your service context and needs &#x20;
-* Explore the "As-Is" user journeys of Rwanda EPR Use Case&#x20;
+* Explore the [User + Business Life Event Board.](https://miro.com/app/board/uXjVOiQif00=/?share\_link\_id=574341797123)
+* Explore the[ "As-Is" user journeys of Rwanda EPR Use Case ](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=546357928944)
 * Explore the  "As-Is" user journeys of Djibouti & Kenya of the 5 exemplar government services under the scope of the HoA Initiative.&#x20;
 * [How to conduct user research \[1\]](https://methods.18f.gov/interview-checklist/): Methods provide instruction on several different research activities to consider, including [interviews](https://methods.18f.gov/stakeholder-and-user-interviews), [contextual inquiries](https://methods.18f.gov/contextual-inquiry), [heuristic evaluation](https://methods.18f.gov/heuristic-evaluation), and more.&#x20;
 * [How to conduct user research \[2\]](https://handbook.tts.gsa.gov/research-guidelines/): Guidelines on how research is done at TTS, including informing and getting consent, and managing Personally Identifiable Information (PII).&#x20;

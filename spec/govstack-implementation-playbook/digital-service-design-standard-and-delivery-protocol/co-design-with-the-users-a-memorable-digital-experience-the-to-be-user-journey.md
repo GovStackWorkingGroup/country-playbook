@@ -62,7 +62,7 @@ What to do next
 * LMS Modules: 1, 2, 3 &#x20;
 * Use the Facilitation PPT for the "To-Be" user journey co-design sessions &#x20;
 * Use the GovStack user journey guideline &#x20;
-* Use the GovStack "To-Be" user journey Miro Board template and adapted to your needs &#x20;
+* Use the [GovStack "To-Be" user journey Miro Board template](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=546357928944) and adapted to your needs &#x20;
 * Explore the "To-Be" user journeys of Rwanda EPR Use Case&#x20;
 * Explore the  "To-Be" user journeys of Djibouti & Kenya of 5 exemplar government services under the scope of the HoA Initiative.&#x20;
 {% endtab %}
