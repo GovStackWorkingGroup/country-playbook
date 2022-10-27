@@ -86,19 +86,16 @@ Below is a three-phase process, developed based on good practice demonstrated by
 
 <summary><strong>Discovery Phase: Establishing the Baseline</strong></summary>
 
-1. **Assessing the Current State of Play**
+1.  **Assessing the Current State of Play.**
 
-It is first necessary to define the specific problem that is aimed to be solved within your local and/or national community. It could be, for example:
+    It is first necessary to define the specific problem that is aimed to be solved within your local and/or national community. It could be, for example:
 
-* poor user experiences that cause people to use less cost-effective channels
-* inefficient or time-consuming processes
-* legacy systems that need replacing&#x20;
+    * poor user experiences that cause people to use less cost-effective channels
+    * inefficient or time-consuming processes
+    * legacy systems that need replacing&#x20;
 
-It is sometimes difficult to compare the costs saved in digital government against a counterfactual baseline. After all, a baseline alternative is not the same as doing nothing. But certainly, it is possible to track the value-add in cost savings of digital government by measuring the change in costs over time for a particular government department.
-
-**2. Estimating current costs, or deficit in benefits that you are attempting to do**
-
-Context is particularly important to monitoring and evaluation, both in terms of measuring performance over time (with that effective baseline) and in comparison with similar services (non-GovStack solutions).&#x20;
+    It is sometimes difficult to compare the costs saved in digital government against a counterfactual baseline. After all, a baseline alternative is not the same as doing nothing. But certainly, it is possible to track the value-add in cost savings of digital government by measuring the change in costs over time for a particular government department.
+2. **Estimating current costs, or deficit in benefits that you are attempting to do.** Context is particularly important to monitoring and evaluation, both in terms of measuring performance over time (with that effective baseline) and in comparison with similar services (non-GovStack solutions).&#x20;
 
 </details>
 
@@ -106,29 +103,33 @@ Context is particularly important to monitoring and evaluation, both in terms of
 
 <summary><strong>Pre-Project Phase: Estimations of the cost-effectiveness</strong></summary>
 
-1. **Estimating Potential Benefits**
+1.  **Estimating Potential Benefit.**
 
-It can be helpful to break down these benefits into direct, indirect, and wider economic benefits and answer the following questions.
+    It can be helpful to break down these benefits into direct, indirect, and wider economic benefits and answer the following questions.
 
-* How much money are you projected to save?&#x20;
-* Where are your direct savings? Direct savings include cashable benefits, or those changes that will directly result in your organisation having more money to spend (through savings or additional revenues).&#x20;
-* Where are your indirect savings? Indirect savings don’t necessarily lead to any immediate benefits, but instead prevent additional costs later down the lines (like additional procurement costs).&#x20;
-* What are the wider economic benefits generated from the project? Wider benefits, often harder to quantify, include things like saving users time or increased user satisfaction.
+    * How much money are you projected to save?&#x20;
+    * Where are your direct savings? Direct savings include cashable benefits, or those changes that will directly result in your organisation having more money to spend (through savings or additional revenues).&#x20;
+    * Where are your indirect savings? Indirect savings don’t necessarily lead to any immediate benefits, but instead prevent additional costs later down the lines (like additional procurement costs).&#x20;
+    * What are the wider economic benefits generated from the project? Wider benefits, often harder to quantify, include things like saving users time or increased user satisfaction.
+2.  **Quantifying and Calculating Costs**
 
-**2. Quantifying and Calculating Costs**
+    When you’re estimating, think about the number of people you might need and their salary costs, whether you’ll need any non-civil servant support and any **** implementation costs, any additional infrastructure equipment (office space etc.), training costs, overheads, research and development, and other relevant costs.
 
-When you’re estimating, think about the number of people you might need and their salary costs, whether you’ll need any non-civil servant support and any **** implementation costs, any additional infrastructure equipment (office space etc.), training costs, overheads, research and development, and other relevant costs.
 
-However, there are also indirect costs of implementing government services, like ensuring a digitally literate population. In implementing digital government services, costs will be incurred through organising either casual educational programmes, professional training, teaching in schools, or night classes to produce a digitally literate population.
 
-A good total estimation of total costs will allow you to work out the cost per transaction by dividing the total cost by the number of transactions.
+    However, there are also indirect costs of implementing government services, like ensuring a digitally literate population. In implementing digital government services, costs will be incurred through organising either casual educational programmes, professional training, teaching in schools, or night classes to produce a digitally literate population.
 
-**3. Performing a Sensitivity Analysis**&#x20;
 
-It relates to the human nature to overestimate things: a so-called “optimism bias”. It is important to be realistic about what benefits you can deliver given your budget and the amount of time you have.         &#x20;
 
-* In performing a sensitivity analysis, you should think about all possible outcomes. What would happen, for example, if take up of your service was as high or as low as it could conceivably be?&#x20;
-* The second part of the analysis is challenging your assumptions. Estimating current costs and wider benefits might involve several assumptions. What contexts are they grounded in? What predictions do they make about the future, and what would happen if the future was actually different?
+    A good total estimation of total costs will allow you to work out the cost per transaction by dividing the total cost by the number of transactions.
+
+
+3.  **Performing a Sensitivity Analysis**&#x20;
+
+    It relates to the human nature to overestimate things: a so-called “optimism bias”. It is important to be realistic about what benefits you can deliver given your budget and the amount of time you have.         &#x20;
+
+    * In performing a sensitivity analysis, you should think about all possible outcomes. What would happen, for example, if take up of your service was as high or as low as it could conceivably be?&#x20;
+    * The second part of the analysis is challenging your assumptions. Estimating current costs and wider benefits might involve several assumptions. What contexts are they grounded in? What predictions do they make about the future, and what would happen if the future was actually different?
 
 </details>
 
@@ -140,9 +141,8 @@ Work out the difference between the baseline figure that you identified during d
 
 The Digital Impact Alliance has[ developed a framework](https://procurement.dial.global/category-framework/) that can be adopted for this purpose. On a basic level:
 
-&#x20;1\)    Calculate the actual costs and benefits. From this figure, you can work out a cost-benefit ratio, return on investment, internal rate of return, net present value, and payback period.
-
-2\)    Identify strengths and weaknesses of your implementation and iterate accordingly
+1. Calculate the actual costs and benefits. From this figure, you can work out a cost-benefit ratio, return on investment, internal rate of return, net present value, and payback period.
+2. Identify strengths and weaknesses of your implementation and iterate accordingly
 
 </details>
 
