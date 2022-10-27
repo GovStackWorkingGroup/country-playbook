@@ -4,122 +4,59 @@ description: Version for TAC Review October 2022
 
 # Maturity assessment
 
-A maturity assessment can be used to measure the current maturity level of a certain aspect of a service or organization in a meaningful way, enabling stakeholders to clearly identify strengths and improvement points, and accordingly prioritize what to do in order to reach higher maturity levels. There is an abundance of different approaches in regard to e-government, below are provided some examples and references that governments could consider to use.
+UNDP defines Digital maturity assessment (DMA) as a strategic tool for assessing the digital readiness of systems, services and digital capacities to develop an innovative, open, agile and accessible digital government. Its objective is to assist governments analyse key gaps in both internal operations and service delivery.
 
-1. Comparison of different models:  [https://bura.brunel.ac.uk/bitstream/2438/13415/1/Fulltext.pdf](https://bura.brunel.ac.uk/bitstream/2438/13415/1/Fulltext.pdf) Comparing and Contrasting e-Government Maturity Models: A Qualitative-Meta Synthesis, 2016&#x20;
+A maturity assessment can be used to measure the current maturity level of a certain aspect of a service or organization in a meaningful way, enabling stakeholders to clearly identify strengths and improvement points, and accordingly prioritize what to do in order to reach higher maturity levels.
 
-<figure><img src="../../.gitbook/assets/GetImage(1).png" alt=""><figcaption></figcaption></figure>
+This section provides references to different approaches in government sector, private sector and academia.
 
-2\. Probably the most suitable study for GovStack: E-Government Maturity Model for Sustainable E-Government Services from the Perspective of Developing Countries, [https://doi.org/10.3390/su10061882](https://www.mdpi.com/2071-1050/10/6/1882), 2018&#x20;
+## 1. Government
 
-One of the key differences between the proposed model and existing models was the inclusion of adoption stages to acquire participation from stakeholders. The figure below describes the importance of accommodating adoption stages in maturity models, and provides a roadmap for governments to achieve wider acceptance from stakeholders.&#x20;
+{% tabs %}
+{% tab title="UNDP Digital Maturity Assessment" %}
+The [Digital Maturity Assessment](https://www.undp.org/sites/g/files/zskgke326/files/2022-08/UNDP\_LaoPDR\_DMA\_2022.pdf) is designed to help governments worldwide assess their readiness to undertake digital transformation. It defines five maturity levels:
 
-<figure><img src="../../.gitbook/assets/GetImage(2).png" alt=""><figcaption></figcaption></figure>
+1. **Digitally Nascent**&#x20;
+2. **Digitally Emerging**&#x20;
+3. **Digitally Agile & Integrated**&#x20;
+4. **Digitally transformed**&#x20;
+5. **Digitally Innovative**, based on six core pillars i.e. Technology & Solutions, Policy & Regulations, Skills and Capacity Building, User Centricity, Service Definition & Delivery, Institutional Framework and Collaboration.
 
-This model considered four implementation stages and emphasized the integration of e-government systems before invoking the transaction stage. The stages and the tasks under those stages were identified and are discussed below to provide a detailed plan for e-government implementation.&#x20;
+As in the case of Lao PDR, it was used to evaluate the current potential for digital government development across six key pillars:
 
-Stage 1: Basic Services&#x20;
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-27 120535.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
 
-The initial stage proposed by the maturity model was to introduce basic e-government services. Unlike existing e-government maturity models, the proposed model emphasized using social media and establishing a web presence to communicate with stakeholders. Use of social media (i.e., Facebook, Twitter, YouTube, LinkedIn, etc.) is great to reach out to masses of people. This stage explained how governments could gain trust from citizens by addressing their queries through a web presence. Furthermore, this stage supported governments in developing awareness among stakeholders in relation to e-government services. The activities needed to be performed to achieve this stage were identified by the maturity model and are listed below.&#x20;
+{% tab title="GovTech Maturity Index (GTMI)" %}
+The [GovTech Maturity Index (GTMI)](https://openknowledge.worldbank.org/handle/10986/36233) measures the key aspects of four GovTech focus areas: supporting core government systems, enhancing service delivery, mainstreaming citizen engagement, and fostering GovTech enablers. It assists advisers and practitioners in the design of new digital transformation projects, putting an emphasis on the whole-of-government approach and citizen centricity.
 
-Activity 1: Computerization of the government departments&#x20;
+Constructed for 198 economies using consistent data sources, the GTMI complements the existing tools and diagnostics by providing a baseline and a benchmark for GovTech maturity and by offering insights to those areas that have room for improvement.
+{% endtab %}
 
-The first step of the initial stage of e-government implementation was to computerize government departments. Governments are to provide appropriate training to their employees in order to operate computers and basic computer applications used in government offices. Along with computers, other hardware devices, such as printers, scanners, and storage devices are also to be installed. Government departments and offices are also to connect to the internet.&#x20;
+{% tab title="OECD’s Digital Government Index" %}
+The [Digital Government Index (DGI)](https://www.oecd-ilibrary.org/sites/2bed4623-en/index.html?itemId=/content/component/2bed4623-en) assesses and benchmarks the maturity of digital government policies and their implementation under a coherent and whole-of-government approach. It thereby aims to help appraise governments’ ability to operate in an increasingly digital and global world. Scores range from 0 (the lowest) to 1 (the highest). It has six dimensions based on the OECD Digital Government Policy Framework (DGPF), each with an equal weight (0.16): digital by design, data-driven public sector, government as a platform, open by default, user-driven and pro-activeness.
+{% endtab %}
 
-Activity 2: Cataloguing the information&#x20;
+{% tab title="Digital Maturity Assessment in Health Sector by NHS England" %}
+The [Digital Maturity Self-Assessment](https://www.england.nhs.uk/digitaltechnology/connecteddigitalsystems/maturity-index/) focuses on sectoral approach and measures how well secondary care providers in England are making use of digital technology to achieve a health and care system that is paper-free at the point of care. The Digital Maturity Self-Assessment helps individual organizations identify key strengths and gaps in provision of digital services and provides an overview of progress across the country is doing as a whole.
+{% endtab %}
 
-Once governments have computerized their departments, they are to start cataloguing data they hold in paper format. Governments are to then transfer hardcopies of the data held by government offices into a digital format.&#x20;
+{% tab title="Digital Transformation Maturity Model by OECD Tax Administration Maturity Model Series" %}
+The [Digital Transformation Maturity Model ](https://www.oecd.org/tax/forum-on-tax-administration/publications-and-products/digital-transformation-maturity-model.pdf)contained in this report covers the Tax Administration 3.0 building block paths of growth and transformation. The aim of the Digital Transformation Maturity Model is to:
 
-Activity 3: Website development & social media presence&#x20;
+* Allow tax administrations to self-assess through internal discussions as to how they see their currently level of digital maturity. There is not a prescribed optimal level of maturity for tax administrations. The level of maturity will depend on each organisation’s circumstances, broader objectives, and priorities.
+* Provide staff and senior leadership of the tax administration with a good overview of the level of maturity based on input from stakeholders across the organisation. This can help in deciding strategy and identifying areas for further improvement, including areas that require support from other parts of the tax administration or external stakeholders, including other parts of government. A number of administrations have reported that cross-organisational conversations when self-assessing can be useful in joining-up different business areas, helping people see the scope for synergies and identify areas for mutual support.
+* Allow tax administrations to compare their level of digital maturity with their peer organisations. An administration will know its own level and will be able to compare itself to other tax administrations. It is also possible for tax administrations to reach out, through the Secretariat, to other tax administrations at different levels of maturity for peer-to-peer discussion and learning purposes.
+{% endtab %}
 
-Along with the cataloguing of information, governments are to start developing websites and establishing social media presence. Social media, such as Facebook, Twitter, YouTube, and LinkedIn are suggested as effective approaches to reaching an increased number of stakeholders.&#x20;
+{% tab title="Interoperability Maturity Assessment of a Public Service (IMPAS)" %}
+[IMAPS](https://joinup.ec.europa.eu/collection/interoperability-assessment-tools-iats-digital-public-services/about) is an online survey that helps public service owners evaluate, consider and improve all key interoperability aspects of their digital public service (legal, semantic, organisational, or technical). Ultimately, they can view and monitor the service’s compliance with the New European Interoperability Framework (EIF).
 
-Activity 4: Building awareness&#x20;
+Not only can IMAPS be used to assess the interoperability of any public service – from open data portals, and e-voting platforms, to public procurement services, and much more – it is applicable to services at all levels of government (international, national, regional and local).
 
-Along with all the above activities, governments are to emphasize a program for the development of awareness. Governments are to have the responsibility of developing the skill and expertise of government employees, and of educating stakeholders about e-government initiatives.&#x20;
+<details>
 
-Stage 2: Streamlined Services&#x20;
-
-The maturity model emphasized streamlining e-government services for their sustainability. Streamlined services were defined as complete and integrated services, where stakeholders could acquire specific government services without having to visit relevant government offices. This would require the integration of e-government systems into various government departments. Integration is to be done along with the establishment of the electronic government infrastructure in order to save government resources, and to avoid the risk of data replication, as shown in figure. Without vertical integration, governments could end up with several individual fragmented electronic government applications and data repositories. Vertical integration would interconnect government departments that shared similar interests in order to avoid data replication, and to enhance service delivery. Furthermore, streamlined government services would eliminate the manual data processing layers from various government departments. This has high implications in the context of developing countries, where citizens have poor access to ICT tools, integrated databases, and authentication systems which would allow local government officials to better serve them. Therefore, we emphasized the integration of the disparate and individual databases and applications before moving to the transaction stage.&#x20;
-
-<figure><img src="../../.gitbook/assets/GetImage(4).png" alt=""><figcaption></figcaption></figure>
-
-The tasks required to achieve streamlined e-government services were identified by the maturity model and are listed below.&#x20;
-
-Activity 1: Enhance networking and connectivity&#x20;
-
-The primary task for the government to establish interconnection between government departments would be to build effective networking for reliable connectivity. Governments are to establish wired (fiber-optic or cable) and wireless connectivity to achieve this interconnection.&#x20;
-
-Activity 2: Establish an interoperability framework&#x20;
-
-An interoperability framework is to be developed allowing systems in various government departments to communicate effectively.&#x20;
-
-Activity 3: Identify integration platforms&#x20;
-
-It would be challenging for developing countries to achieve interconnectivity as it would require an excellent and reliable networking infrastructure. Therefore, developing countries could consider cloud-based integration as a potential solution of government integration at various levels without the need of a physical networking infrastructure.&#x20;
-
-Stage 3: Transaction Services&#x20;
-
-This maturity model proposed transaction services at the third stage. All existing e-government maturity models considered transactional services at the second stage. In contrast, we placed this stage after the integration stage. It can be argued that, without achieving integration, transactional services cannot be delivered efficiently. The integration of government departments and e-government services would allow various departments to communicate in real time, avoiding any delays in the processing of payments. At this stage, governments would establish a payment gateway, allowing stakeholders to acquire services online, and would also establish an effective communication mechanism, allowing governments to become more interactive. The tasks required to achieve the transactional stage were identified and are listed below.&#x20;
-
-Activity 1: Government legislation for electronic data processing&#x20;
-
-Governments are to introduce legislations and regulations in relation to electronic data processing and the validity of electronic transactions in order to make electronic transactions legitimate and to build trust among stakeholders.&#x20;
-
-Activity 2: Establish a verification mechanism&#x20;
-
-To provide real-time e-government services, governments are to have mechanisms in place verifying data and identities of users. Verification could be fully automated, or manually automated in the case of complex information. User identity documents (IDs), voter IDs, driving licenses, or passports could be used for identity verification.&#x20;
-
-Activity 3: Establish a payment gateway&#x20;
-
-This would be the most important activity required by governments to provide fully functional e-government services. Governments in developing countries could establish private business partnerships for payment processing, and could integrate online banking or mobile banking for government services so that users could make financial transactions.&#x20;
-
-Activity 4: Roll out online services&#x20;
-
-Once governments have established online documents, transaction verification services, and payment gateways, they are to offer the services online.&#x20;
-
-Stage 4: Automated Services (One-Stop Shops and E-Democracy)&#x20;
-
-Automation is the fully mature state of e-governments where users are proactively involved in government activities. In this state, government services are transformed from a push to a pull (demand-driven) format. E-government services also become smarter, synchronize with user accounts, and provide automated services, such as text reminders regarding unpaid bills, license and ID renewals, etc. The tasks required to achieve this stage were identified and are listed below.&#x20;
-
-Activity 1: High-level integration&#x20;
-
-Governments are to establish high-level integration where departments are vertically (same department at various levels) and horizontally (various departments at various levels) integrated. All government departments are to share data, avoiding any middle layers, making the system smarter.&#x20;
-
-Activity 2: One-stop shop&#x20;
-
-Governments are to develop single-window government portals, allowing stakeholders to access all available government services from one place. Governments are to provide unique IDs to registered users, which are to be used to access all e-government services.&#x20;
-
-Activity 3: Synchronization&#x20;
-
-Governments are to synchronize user data with government systems to provide tailored services to stakeholders. User accounts are to be synchronized with calendars to provide important dates that users are to act on (e.g., permit renewals, tax payments, social security payments, etc.).&#x20;
-
-
-
-3\. Also see, how Gartner describes the levels of maturity: Gartner [https://www.gartner.com/smarterwithgartner/5-levels-of-digital-government-maturity, ](https://www.gartner.com/smarterwithgartner/5-levels-of-digital-government-maturity,)2017 &#x20;
-
-Level 1 — Initial (E-Government) \
-At this level, the focus is on moving services online for user convenience and cost savings, but data and its uses are siloed and extremely limited. “If the organizational view is that a high percentage of online services or mobile access represents a modern digital government, then more education and advocacy is needed to show what real digital government looks like, and its benefits,” said Di Maio. “To make the case for advancement, create case studies explaining how digital transformation will ease or remove high-priority pain points for the organization.”&#x20;
-
-Level 2 — Developing (Open) \
-Level 2 is not necessarily subsequent to level 1. E-government and open government programs often coexist, with different leadership and priorities. Open government often takes the form of public-facing programs intended to promote transparency, citizen engagement and the data economy. Examples we see today are nascent open data initiatives, often in the context of [smart city programs](https://www.gartner.com/newsroom/id/3545018) such as the [Copenhagen Data Exchange](https://www.citydataexchange.com/#/home).&#x20;
-
-Level 3 — Defined (Data-Centric) \
-On this level the focus shifts from simply listening to citizen or user needs to proactively exploring the new possibilities inherent in strategically collecting and leveraging data. The key performance indicators here are “how much of our data is open?” and “how many of our applications are built on open data?” It’s tempting at this point to engage in vanity projects or skip ahead before the proper groundwork is laid; it’s paramount to remain focused on designing and implementing data-centric strategies and processes.&#x20;
-
-Level 4 — Managed (Fully Digital) \
-By this level, the organization, agency or department has fully committed to a data-centric approach to improving government, and the preferred approach to innovation is based on open data principles. Data flows regularly across organizational boundaries, leading to easier interactions and better services for constituents. It’s possible at this stage to encounter privacy-related backlashes, as citizens can be uncomfortable with how their data is being collected and used. Therefore, it is important to ensure that data is used within existing norms and regulations, and that this is clearly communicated.&#x20;
-
-Level 5 — Optimizing (Smart) \
-At this point, the process of digital innovation using open data is embedded deeply across the entire government, with buy in and leadership from the top tier of policymakers. The innovation process is predictable and repeatable, even in the face of disruptions or sudden events that require rapid responses.&#x20;
-
-
-
-4\. For Interoperability Maturity Assessment of a Pubilic Service  see: [https://joinup.ec.europa.eu/collection/imaps-interoperability-maturity-assessment-public-service/about](https://joinup.ec.europa.eu/collection/imaps-interoperability-maturity-assessment-public-service/about)&#x20;
-
-IMAPS is an online survey that helps public service owners evaluate, consider and improve all key interoperability aspects of their digital public service (legal, semantic, organisational, or technical). Ultimately, they can view and monitor the service’s compliance with the New [European Interoperability Framework (EIF)](https://ec.europa.eu/isa2/eif\_en).&#x20;
-
-Not only can IMAPS be used to assess the interoperability of any public service – from open data portals, and e-voting platforms, to public procurement services, and much more – it is applicable to services at all levels of government (international, national, regional and local).&#x20;
+<summary>IMAPS looks at three different service areas</summary>
 
 IMAPS looks at three different service areas (see IMAPS conceptual model below):&#x20;
 
@@ -127,12 +64,290 @@ IMAPS looks at three different service areas (see IMAPS conceptual model below):
 * Service Consumption (C) – Consumption of reusable machine-to-machine services from other public administrations and businesses. This can include the consumption of functionalities, base registry information and security services;
 * Service Management (B) – Controlling and monitoring the process flow related to service interactions with the external domain from trigger to outcome. This area includes Service Management aspects such as enterprise architecture, procurement, and service level management.&#x20;
 
-<figure><img src="../../.gitbook/assets/GetImage(7).png" alt=""><figcaption></figcaption></figure>
+</details>
 
-<figure><img src="../../.gitbook/assets/GetImage(8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GetImage(7).png" alt=""><figcaption><p><a href="https://joinup.ec.europa.eu/sites/default/files/inline-images/Picture1_13.png">IMAPS conceptual model</a></p></figcaption></figure>
 
-5\. The maturity levels and description of the levels of the mainstream frameworks used in IT management models is quite similar: The CMMI and ITIL frameworks use a 5-point maturity scale, and COBIT adds another step to the scale, also describing the 0-level in the model. A summary of the maturity scale of the frameworks examined and the keywords corresponding to the maturity levels is given in the Table below:
+<details>
+
+<summary>IATs define five (or four for GIQAT) levels of interoperability maturity</summary>
+
+* **Ad hoc** _(level 1)_: Poor interoperability – the digital public service cannot be considered interoperable
+* **Opportunistic** _(level 2)_: Fair interoperability – the digital public service implements some elements of interoperability best practices
+* **Essential** _(level 3)_: Essential interoperability – the digital public service implements the essential best practices for interoperability
+* **Sustainable** _(level 4)_: Good interoperability – all relevant interoperability best practices are implemented by the digital public service
+* **Seamless** _(level 5)_: Interoperability leading practice – the digital public service is a leading interoperability practice example for others
+
+</details>
+
+<figure><img src="../../.gitbook/assets/iop_levels.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+## 2. Private Sector
+
+{% tabs %}
+{% tab title="5 levels of digital government maturity by Gartner" %}
+The [Gartner assess digital government maturity](https://www.gartner.com/smarterwithgartner/5-levels-of-digital-government-maturity) by examining the extent to which organizations use data effectively to redesign services and deliver new ones, as well as to transform and manage operations.
+
+Gartner’s 5 level maturity model includes:
+
+<details>
+
+<summary>Level 1: Initial (E-Government) </summary>
+
+### Initial (E-Government)&#x20;
+
+At this level, the focus is on moving services online for user convenience and cost savings, but data and its uses are siloed and extremely limited. “If the organizational view is that a high percentage of online services or mobile access represents a modern digital government, then more education and advocacy is needed to show what real digital government looks like, and its benefits,” said Di Maio. “To make the case for advancement, create case studies explaining how digital transformation will ease or remove high-priority pain points for the organization.”&#x20;
+
+</details>
+
+<details>
+
+<summary>Level 2: Developing (Open) </summary>
+
+### Developing (Open)&#x20;
+
+Level 2 is not necessarily subsequent to level 1. E-government and open government programs often coexist, with different leadership and priorities. Open government often takes the form of public-facing programs intended to promote transparency, citizen engagement and the data economy. Examples we see today are nascent open data initiatives, often in the context of [smart city programs](https://www.gartner.com/newsroom/id/3545018) such as the [Copenhagen Data Exchange](https://www.citydataexchange.com/#/home).&#x20;
+
+</details>
+
+<details>
+
+<summary>Level 3: Defined (Data-Centric) </summary>
+
+### Defined (Data-Centric)&#x20;
+
+On this level the focus shifts from simply listening to citizen or user needs to proactively exploring the new possibilities inherent in strategically collecting and leveraging data. The key performance indicators here are “how much of our data is open?” and “how many of our applications are built on open data?” It’s tempting at this point to engage in vanity projects or skip ahead before the proper groundwork is laid; it’s paramount to remain focused on designing and implementing data-centric strategies and processes.&#x20;
+
+</details>
+
+<details>
+
+<summary>Level 4: Managed (Fully Digital) </summary>
+
+### Managed (Fully Digital)&#x20;
+
+By this level, the organization, agency or department has fully committed to a data-centric approach to improving government, and the preferred approach to innovation is based on open data principles. Data flows regularly across organizational boundaries, leading to easier interactions and better services for constituents. It’s possible at this stage to encounter privacy-related backlashes, as citizens can be uncomfortable with how their data is being collected and used. Therefore, it is important to ensure that data is used within existing norms and regulations, and that this is clearly communicated.&#x20;
+
+</details>
+
+<details>
+
+<summary>Stage 5: Optimizing (Smart) </summary>
+
+### Optimizing (Smart)&#x20;
+
+At this point, the process of digital innovation using open data is embedded deeply across the entire government, with buy in and leadership from the top tier of policymakers. The innovation process is predictable and repeatable, even in the face of disruptions or sudden events that require rapid responses.
+
+</details>
+{% endtab %}
+
+{% tab title="Mainstream frameworks used in IT" %}
+Comparison of mainstream frameworks used in IT
+
+The CMMI and ITIL frameworks use a 5-point maturity scale, and COBIT adds another step to the scale, also describing the 0-level in the model. A summary of the maturity scale of the frameworks examined and the keywords corresponding to the maturity levels is given in the Table below:
 
 <figure><img src="../../.gitbook/assets/GetImage(6).png" alt=""><figcaption></figcaption></figure>
 
-For  maturity models for ITSM see also: [https://www.bmc.com/blogs/maturity-model-itsm/](https://www.bmc.com/blogs/maturity-model-itsm/)  (based on ITIL)&#x20;
+For maturity models fod ITSM see also: [https://www.bmc.com/blogs/maturity-model-itsm/](https://www.bmc.com/blogs/maturity-model-itsm/) (based on ITIL)
+{% endtab %}
+{% endtabs %}
+
+## 3. Academia
+
+{% tabs %}
+{% tab title="Comparing and Contrasting e-Government Maturity Models" %}
+[Comparing and Contrasting e-Government Maturity Models: A Qualitative-Meta Synthesis](https://bura.brunel.ac.uk/bitstream/2438/13415/1/Fulltext.pdf) article compares 17 different e-government models. It emphasizes that most models have three main stages that capture the presence, communication, and integration. The table below shows the mapping of each model’s stage to the three proposed main stages (presence, communication, and integration).
+
+<figure><img src="../../.gitbook/assets/GetImage(1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="E-Government Maturity Model for Sustainable E-Government Service" %}
+The article titled “[E-Government Maturity Model for Sustainable E-Government Services from the Perspective of Developing Countries 2018](https://bura.brunel.ac.uk/bitstream/2438/13415/1/Fulltext.pdf)” by Pusp Raj Joshi discusses main hurdles in the effective implementation of e-Government services.
+
+The authors propose a new e-government maturity model that would address the limitations of exiting e-government maturity models, and would support governments in developing countries to achieve sustainable e-government services. They have considered five determinants—a detailed process, streamlined services, agile accessibility, use of state-of-the-art technology, and trust and awareness. The proposed model was validated by employing an empirical investigation through case-study and survey methods. The study finds that both the implementers (government) and adopters (users) of the e-government services benefited from the proposed model, resulting in an increased sustainability of e-government services.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-27 112931.png" alt=""><figcaption></figcaption></figure>
+
+This model considered four implementation stages and emphasized the integration of e-government systems before invoking the transaction stage. The stages and the tasks under those stages were identified and are discussed below to provide a detailed plan for e-government implementation.&#x20;
+
+{% tabs %}
+{% tab title="Stage 1  " %}
+### Basic Services
+
+The initial stage proposed by the maturity model was to introduce basic e-government services. Unlike existing e-government maturity models, the proposed model emphasized using social media and establishing a web presence to communicate with stakeholders. Use of social media (i.e., Facebook, Twitter, YouTube, LinkedIn, etc.) is great to reach out to masses of people. This stage explained how governments could gain trust from citizens by addressing their queries through a web presence. Furthermore, this stage supported governments in developing awareness among stakeholders in relation to e-government services. The activities needed to be performed to achieve this stage were identified by the maturity model and are listed below.&#x20;
+
+<details>
+
+<summary>Activity 1: Computerization of the government departments</summary>
+
+### Computerization of the government departments
+
+The first step of the initial stage of e-government implementation was to computerize government departments. Governments are to provide appropriate training to their employees in order to operate computers and basic computer applications used in government offices. Along with computers, other hardware devices, such as printers, scanners, and storage devices are also to be installed. Government departments and offices are also to connect to the internet.&#x20;
+
+</details>
+
+<details>
+
+<summary>Activity 2: Cataloguing the information</summary>
+
+### Cataloguing the information
+
+Once governments have computerized their departments, they are to start cataloguing data they hold in paper format. Governments are to then transfer hardcopies of the data held by government offices into a digital format.&#x20;
+
+</details>
+
+<details>
+
+<summary>Activity 3: Website development &#x26; social media presence p</summary>
+
+### Website development & social media presence&#x20;
+
+Along with the cataloguing of information, governments are to start developing websites and establishing social media presence. Social media, such as Facebook, Twitter, YouTube, and LinkedIn are suggested as effective approaches to reaching an increased number of stakeholders.&#x20;
+
+</details>
+
+<details>
+
+<summary>Activitry 4: Building awareness </summary>
+
+### Building awareness&#x20;
+
+Along with all the above activities, governments are to emphasize a program for the development of awareness. Governments are to have the responsibility of developing the skill and expertise of government employees, and of educating stakeholders about e-government initiatives.&#x20;
+
+</details>
+{% endtab %}
+
+{% tab title="Stage 2" %}
+### Streamlined Services
+
+The maturity model emphasized streamlining e-government services for their sustainability. Streamlined services were defined as complete and integrated services, where stakeholders could acquire specific government services without having to visit relevant government offices. This would require the integration of e-government systems into various government departments. Integration is to be done along with the establishment of the electronic government infrastructure in order to save government resources, and to avoid the risk of data replication, as shown in figure. Without vertical integration, governments could end up with several individual fragmented electronic government applications and data repositories. Vertical integration would interconnect government departments that shared similar interests in order to avoid data replication, and to enhance service delivery. Furthermore, streamlined government services would eliminate the manual data processing layers from various government departments. This has high implications in the context of developing countries, where citizens have poor access to ICT tools, integrated databases, and authentication systems which would allow local government officials to better serve them. Therefore, we emphasized the integration of the disparate and individual databases and applications before moving to the transaction stage.&#x20;
+
+<figure><img src="../../.gitbook/assets/GetImage(4).png" alt=""><figcaption></figcaption></figure>
+
+The tasks required to achieve streamlined e-government services were identified by the maturity model and are listed below.&#x20;
+
+<details>
+
+<summary>Activity 1: Enhance networking and connectivity</summary>
+
+### Enhance networking and connectivity
+
+The primary task for the government to establish interconnection between government departments would be to build effective networking for reliable connectivity. Governments are to establish wired (fiber-optic or cable) and wireless connectivity to achieve this interconnection.
+
+</details>
+
+<details>
+
+<summary>Activity 2: Establish an interoperability framework</summary>
+
+### Establish an interoperability framework
+
+An interoperability framework is to be developed allowing systems in various government departments to communicate effectively.&#x20;
+
+</details>
+
+<details>
+
+<summary>Activity 3: Identify integration platforms </summary>
+
+### &#x20;Identify integration platforms&#x20;
+
+It would be challenging for developing countries to achieve interconnectivity as it would require an excellent and reliable networking infrastructure. Therefore, developing countries could consider cloud-based integration as a potential solution of government integration at various levels without the need of a physical networking infrastructure.&#x20;
+
+</details>
+{% endtab %}
+
+{% tab title="Stage 3" %}
+### Transaction Services
+
+This maturity model proposed transaction services at the third stage. All existing e-government maturity models considered transactional services at the second stage. In contrast, we placed this stage after the integration stage. It can be argued that, without achieving integration, transactional services cannot be delivered efficiently. The integration of government departments and e-government services would allow various departments to communicate in real time, avoiding any delays in the processing of payments. At this stage, governments would establish a payment gateway, allowing stakeholders to acquire services online, and would also establish an effective communication mechanism, allowing governments to become more interactive. The tasks required to achieve the transactional stage were identified and are listed below.&#x20;
+
+
+
+<details>
+
+<summary>Activity 1: Government legislation for electronic data processing </summary>
+
+### Government legislation for electronic data processing&#x20;
+
+Governments are to introduce legislations and regulations in relation to electronic data processing and the validity of electronic transactions in order to make electronic transactions legitimate and to build trust among stakeholders.&#x20;
+
+</details>
+
+<details>
+
+<summary>Activity 2: Establish a verification mechanism </summary>
+
+### Establish a verification mechanism&#x20;
+
+To provide real-time e-government services, governments are to have mechanisms in place verifying data and identities of users. Verification could be fully automated, or manually automated in the case of complex information. User identity documents (IDs), voter IDs, driving licenses, or passports could be used for identity verification.&#x20;
+
+</details>
+
+<details>
+
+<summary>Activity 3: Establish a payment gateway</summary>
+
+### Establish a payment gateway&#x20;
+
+This would be the most important activity required by governments to provide fully functional e-government services. Governments in developing countries could establish private business partnerships for payment processing, and could integrate online banking or mobile banking for government services so that users could make financial transactions.&#x20;
+
+</details>
+
+<details>
+
+<summary>Activity 4: Roll out online services </summary>
+
+### Roll out online services&#x20;
+
+Once governments have established online documents, transaction verification services, and payment gateways, they are to offer the services online.&#x20;
+
+</details>
+{% endtab %}
+
+{% tab title="Stage 4" %}
+
+
+### Automated Services (One-Stop Shops and E-Democracy)
+
+Automation is the fully mature state of e-governments where users are proactively involved in government activities. In this state, government services are transformed from a push to a pull (demand-driven) format. E-government services also become smarter, synchronize with user accounts, and provide automated services, such as text reminders regarding unpaid bills, license and ID renewals, etc. The tasks required to achieve this stage were identified and are listed below.&#x20;
+
+
+
+<details>
+
+<summary>Activity 1: High-level integration</summary>
+
+### High-level integration&#x20;
+
+Governments are to establish high-level integration where departments are vertically (same department at various levels) and horizontally (various departments at various levels) integrated. All government departments are to share data, avoiding any middle layers, making the system smarter.
+
+</details>
+
+<details>
+
+<summary>Activity 2: One-stop shop </summary>
+
+### One-stop shop&#x20;
+
+Governments are to develop single-window government portals, allowing stakeholders to access all available government services from one place. Governments are to provide unique IDs to registered users, which are to be used to access all e-government&#x20;
+
+</details>
+
+<details>
+
+<summary>Activity 3: Synchronization </summary>
+
+### Synchronization&#x20;
+
+Governments are to synchronize user data with government systems to provide tailored services to stakeholders. User accounts are to be synchronized with calendars to provide important dates that users are to act on (e.g., permit renewals, tax payments, social security payments, etc.).&#x20;
+
+</details>
+{% endtab %}
+{% endtabs %}
+{% endtab %}
+{% endtabs %}
+
+##
