@@ -9,10 +9,8 @@ description: >-
 
 ## **GovStack Overview**
 
-<details>
-
-<summary><a href="artefacts.md#govstack-overview">Govstack Overview</a></summary>
-
+{% tabs %}
+{% tab title="Overview" %}
 ### GovStack Introduction Presentation
 
 **Description of artefact**: The presentation outlines the motivation, concept and approach that GovStack uses t  accelerate countries’ ownership of digital solutions.
@@ -42,13 +40,9 @@ description: >-
 **Description of artefact**: The presentation describes the engagements in which GovStack is involved across multiple countries and continents.
 
 **Link to artefact:** [ **GovStack Country Engagement FW Teams**](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B8E6FADC1-C86A-4B92-A305-BE4E70E1D498%7D\&file=GovStack%20Country%20Engagement%20FW%20Teams.pptx\&action=edit\&mobileredirect=true)****
+{% endtab %}
 
-</details>
-
-<details>
-
-<summary>Agreement Framework</summary>
-
+{% tab title="Agreement Framework" %}
 ### Scope of Work (MoU)
 
 **Description of artefact**:
@@ -96,13 +90,9 @@ description: >-
 **Link to artefact: \*to be developed**
 
 **Part of Module 2 on GovStack LMS**
+{% endtab %}
 
-</details>
-
-<details>
-
-<summary>Institutional Governance and Digital Team</summary>
-
+{% tab title="Institutional Governance & Digital Team" %}
 ### Country Digital Team
 
 **Description of artefact**:
@@ -134,13 +124,9 @@ Part of **Module 6 on GovStack LMS**
 **Link to artefact: \*to be developed**
 
 **Part of Module 6 on GovStack LMS**
+{% endtab %}
 
-</details>
-
-<details>
-
-<summary><strong>Government Reference Architecture &#x26; Shared Services Policy</strong></summary>
-
+{% tab title="Government Reference Architecture & Shared Services Policy" %}
 ### **GovStack Eco-System Reference Architecture**
 
 **Description of artefact**:
@@ -156,13 +142,9 @@ Part of **Module 6 on GovStack LMS**
 **Link to artefact: \*to be developed**
 
 **Part of Module 7 on GovStack LMS**
+{% endtab %}
 
-</details>
-
-<details>
-
-<summary><strong>Service Identification &#x26; Prioritization</strong></summary>
-
+{% tab title="Service Identification & Prioritization" %}
 ### **Service Catalogue Optimization & Prioritization Criteria**
 
 **Description of artefact**:
@@ -207,7 +189,9 @@ Part of **Module 6 on GovStack LMS**
 
 **Description of artefact**: RFI-2 is a service catalogue that facilitates the analysis of prerequisites and identification of opportunities to simplify services before establishing a digitalization roadmap.
 
-**Link to artefact:** [**RFI-2**](https://gizonline.sharepoint.com/:x:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7BFEBA28BA-9997-488F-BEFE-2FCD280CE14D%7D\&file=version0.2CE%20DSDS%20RFI2.xlsx\&action=default\&mobileredirect=true\&cid=9e0aae05-1256-45c7-9dc3-856627536721)****
+**Artefact:**
+
+{% file src="../../.gitbook/assets/version0.2CE DSDS RFI2.xlsx" %}
 
 **Part of Module 8 on GovStack LMS**
 
@@ -250,13 +234,9 @@ Part of **Module 6 on GovStack LMS**
 **Link to artefact: \*to be developed**
 
 **Part of Module 8 on GovStack LMS**
+{% endtab %}
 
-</details>
-
-<details>
-
-<summary>Digital Government Service Co-Design and Delivery Toolkit</summary>
-
+{% tab title="Untitled" %}
 ### User Needs Research Plan
 
 **Description of artefact**:  Includes interview guide, focus group guide, mystery shopper instructions, user journey workshop agenda&#x20;
@@ -320,13 +300,9 @@ Part of **Module 6 on GovStack LMS**
 **Link to artefact: \*to be developed**
 
 **Part of Module 9.3 on GovStack LMS**
+{% endtab %}
 
-</details>
-
-<details>
-
-<summary>GovStack Experience Journal and Excellence Center</summary>
-
+{% tab title="Untitled" %}
 ### GovStack Experience Journal
 
 **Description of artefact**: A comprehensive document detailing the journey of identification, conceptualization, development, prototyping, deployment and scalability of services.
@@ -350,7 +326,5 @@ Part of **Module 6 on GovStack LMS**
 **Link to artefact: \*to be developed**
 
 **Part of Module 11 on GovStack LMS**
-
-****
-
-</details>
+{% endtab %}
+{% endtabs %}
