@@ -1,6 +1,6 @@
 # Service prioritization and ranking
 
-Definition of which services digitize first varies country from country. Prioritization criteria shall be based on data gathered through RFI I, II, III, & IV in order to rank services to work with, according to impact & feasibility.  Services that are simple, done in a single iteration within one Ministry outreach are good candidates for quick wins, build a case to adopt a GovStack approach to digital service co-design standard and delivery protocol using reusable building blocks.&#x20;
+Definition of which services digitize first varies country from country. Prioritization criteria shall be based on data gathered through RFI [I](../learning-and-exchange/artefacts.md#request-for-information-1-rfi-1), [II](../learning-and-exchange/artefacts.md#request-for-information-1-rfi-1), [III](../learning-and-exchange/artefacts.md#request-for-information-1-rfi-1), & [IV](../learning-and-exchange/artefacts.md#request-for-information-1-rfi-1) in order to rank services to work with, according to impact & feasibility.  Services that are simple, done in a single iteration within one Ministry outreach are good candidates for quick wins, build a case to adopt a GovStack approach to digital service co-design standard and delivery protocol using reusable building blocks.&#x20;
 
 Once information has been gathered and validated with different service owners strategic services will be accommodated in a matrix format to facilitate clustering and ranking.&#x20;
 
