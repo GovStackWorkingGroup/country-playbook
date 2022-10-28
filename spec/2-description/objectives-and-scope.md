@@ -20,7 +20,7 @@ Common ICT Building Blocks enable generic business processes, or WorkFlows, that
 
 The illustration below describes **savings through a reusable digital investment approach**:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Illustration of Savings Through Reusable Digital Investment Approach (ITU, DIAL, 2019)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Illustration of Savings Through Reusable Digital Investment Approach (ITU, DIAL, 2019)</p></figcaption></figure>
 
 ## What are the benefits of the BB approach?
 

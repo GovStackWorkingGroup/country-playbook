@@ -35,4 +35,4 @@ A primary aim of this framework is to assist decision-makers and enterprise plan
 
 The example below illustrates the business processes and supporting technologies for an illustrative **Rural Advisory Service Use Case.**
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption><p>Rural Advisory Service Use Case (ITU, DIAL, 2019)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Rural Advisory Service Use Case (ITU, DIAL, 2019)</p></figcaption></figure>
