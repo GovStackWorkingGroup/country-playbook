@@ -57,7 +57,7 @@ What to do next
 {% endtab %}
 
 {% tab title="Resources" %}
-* LMS Modules: 1, 2, 3 &#x20;
+* LMS Modules: [1](../learning-and-exchange/govstack-learning-management-system/#awareness-building-and-expression-of-interest), 2, 3 &#x20;
 * Gov.uk prototype kit - https://govuk-prototype-kit.herokuapp.com/docs&#x20;
 * Gov.uk sketches template - https://designnotes.blog.gov.uk/2014/05/22/gov-uk-sketching-templates/&#x20;
 * A few helpful tools for building wireframes are&#x20;

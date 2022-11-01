@@ -48,7 +48,7 @@ Country technical team &#x20;
 {% endtab %}
 
 {% tab title="Resources" %}
-* LMS Modules: 1, 2, 3 &#x20;
+* LMS Modules: [1](../learning-and-exchange/govstack-learning-management-system/#awareness-building-and-expression-of-interest), 2, 3 &#x20;
 * Use the GovStack Integration Requirements template &#x20;
 * Use the cross building block integration diagram template &#x20;
 {% endtab %}

@@ -58,7 +58,7 @@ What to do next
 {% endtab %}
 
 {% tab title="Resources" %}
-* LMS Modules: 1, 2, 3 &#x20;
+* LMS Modules: [1](../learning-and-exchange/govstack-learning-management-system/#awareness-building-and-expression-of-interest), 2, 3 &#x20;
 * Use the GovStack  logical process blue print (BPMN) &#x20;
 * Use the BB Use Case Catalogue&#x20;
 * Use the building Block[ Use Case defenition template](https://docs.google.com/document/d/1BSjpfzOJoFeXO0HaJUVacJZZscHnxdZN/edit?usp=sharing\&ouid=107531587157017296326\&rtpof=true\&sd=true).

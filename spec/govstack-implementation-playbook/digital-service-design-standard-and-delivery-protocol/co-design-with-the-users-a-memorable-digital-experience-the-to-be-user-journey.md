@@ -59,7 +59,7 @@ What to do next
 {% endtab %}
 
 {% tab title="Resources" %}
-* LMS Modules: 1, 2, 3 &#x20;
+* LMS Modules: [1](../learning-and-exchange/govstack-learning-management-system/#awareness-building-and-expression-of-interest), 2, 3 &#x20;
 * Use the Facilitation PPT for the "To-Be" user journey co-design sessions &#x20;
 * Use the GovStack user journey guideline &#x20;
 * Use the [GovStack "To-Be" user journey Miro Board template](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=546357928944) and adapted to your needs &#x20;

@@ -73,7 +73,7 @@ relevant stakeholders &#x20;
 {% endtab %}
 
 {% tab title="Resources" %}
-* LMS Modules: 1, 2, 3 &#x20;
+* LMS Modules: [1](../learning-and-exchange/govstack-learning-management-system/#awareness-building-and-expression-of-interest), 2, 3 &#x20;
 * Use the cross building block integration diagram template&#x20;
 * Use the GovStack test scripts template &#x20;
 * Use the GovStack security and QA check list &#x20;
