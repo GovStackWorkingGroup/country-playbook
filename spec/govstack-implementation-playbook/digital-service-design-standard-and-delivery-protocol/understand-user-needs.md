@@ -63,7 +63,7 @@ What to do next&#x20;
 {% tab title="Resorces" %}
 LMS: Modules [1](../learning-and-exchange/govstack-learning-management-system/#awareness-building-and-expression-of-interest),[2](../learning-and-exchange/govstack-learning-management-system/#agreement-of-cooperation),[3](../learning-and-exchange/govstack-learning-management-system/#govstack-internal-kick-off) &#x20;
 
-* Use the GovStack "As-Is" user journey template and adapt it to your service context and needs &#x20;
+* Use the GovStack "As-Is" user journey Miro Board template and adapt it to your service context and needs &#x20;
 * Explore the [User + Business Life Event Board.](https://miro.com/app/board/uXjVOiQif00=/?share\_link\_id=574341797123)
 * Explore the[ "As-Is" user journeys of Rwanda EPR Use Case ](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=546357928944)
 * Explore the  "As-Is" user journeys of Djibouti & Kenya of the 5 exemplar government services under the scope of the HoA Initiative.&#x20;
