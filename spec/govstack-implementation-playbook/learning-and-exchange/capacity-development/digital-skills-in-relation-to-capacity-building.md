@@ -28,11 +28,33 @@ GovStack is a unique approach that emphasizes the Building Block Approach over e
 
 The following are suggested **technical focus areas** that are recommended for implementation of GovStack Approach. These skills may be acquired by various stakeholders as relevant to them.&#x20;
 
-| Skills                                |                                                                                                                                                                                                                                                          |
-| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Software Skills                       | <ul><li>Software Reusable components </li><li>Building Blocks / Lego bricks game </li><li>Open Source Solutions </li><li>Workflows </li><li>Interoperability </li><li>Service Standards</li><li>Sandbox environment </li><li>Software Testing </li></ul> |
-| Project Management and Service Design | <ul><li>Agile Project Management </li><li>User stories </li><li>User experience </li><li>Design thinking </li><li>User journey </li></ul>                                                                                                                |
-| Digital Infrastructure                | <ul><li>Cloud Computing. </li><li>Security </li><li>Privacy </li><li>Enterprise Architecture </li></ul>                                                                                                                                                  |
+{% tabs %}
+{% tab title="Software Skills" %}
+* Software Reusable components&#x20;
+* Building Blocks / Lego bricks game&#x20;
+* Open Source Solutions&#x20;
+* Workflows&#x20;
+* Interoperability&#x20;
+* Service Standards
+* Sandbox environment&#x20;
+* Software Testing&#x20;
+{% endtab %}
+
+{% tab title="Project Management and Service Design" %}
+* Agile Project Management&#x20;
+* User stories&#x20;
+* User experience&#x20;
+* Design thinking&#x20;
+* User journey&#x20;
+{% endtab %}
+
+{% tab title="Digital Infrastructure" %}
+* Cloud Computing.&#x20;
+* Security&#x20;
+* Privacy&#x20;
+* Enterprise Architecture&#x20;
+{% endtab %}
+{% endtabs %}
 {% endtab %}
 
 {% tab title="Non-technical skills" %}
@@ -50,7 +72,7 @@ The following are suggested **technical focus areas** that are recommended for i
 
 The proposed behaviour, knowledge, skills will come in hand at various stages of lifecycle activities of stakeholders. For example, a citizen can know about GovStack through citizen engagement and demand for non-listed services. Similarly, a department/ministry understands what are the key competencies required to conceptualize, design/co-design, plan, implement various activities while adopting GovStack approach.
 
-#### &#x20;&#x20;
+####
 {% endtab %}
 {% endtabs %}
 
