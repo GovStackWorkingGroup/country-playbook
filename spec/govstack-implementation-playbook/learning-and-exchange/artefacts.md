@@ -13,9 +13,11 @@ description: >-
 {% tab title="Overview" %}
 ### GovStack Introduction Presentation
 
-**Description of artefact**: The presentation outlines the motivation, concept and approach that GovStack uses t  accelerate countries’ ownership of digital solutions.
+**Description of artefact**: The presentation outlines the motivation, concept and approach that GovStack uses to accelerate countries’ ownership of digital solutions.
 
-**Link to artefact:** [**GovStack Intro Deck**](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7BBB3A9964-3BC9-42BF-85F6-D587D66B81F7%7D\&file=GovStack%20Intro%20Deck.pptx\&action=edit\&mobileredirect=true\&cid=101eb29c-98dd-4e31-8575-fea625290ff6)****
+**Link to artefact:**&#x20;
+
+{% file src="../../.gitbook/assets/GovStack Intro Deck.pptx" %}
 
 ### **GovStack YouTube channel**
 
@@ -39,39 +41,49 @@ description: >-
 
 **Description of artefact**: The presentation describes the engagements in which GovStack is involved across multiple countries and continents.
 
-**Link to artefact:** [ **GovStack Country Engagement FW Teams**](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B8E6FADC1-C86A-4B92-A305-BE4E70E1D498%7D\&file=GovStack%20Country%20Engagement%20FW%20Teams.pptx\&action=edit\&mobileredirect=true)****
+**Link to artefact:**&#x20;
+
+{% file src="../../.gitbook/assets/GovStack Country Engagement FW Teams.pptx" %}
 {% endtab %}
 
 {% tab title="Agreement Framework" %}
 ### Scope of Work (MoU)
 
-**Description of artefact**:
+**Description of artefact**: The artefact describes the project objectives, outcomes, timeline, responsibilities, as well as the resources and roles for the implementation team.
 
-**Link to artefact:** [**Scope of Work**](https://gizonline.sharepoint.com/:w:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B6479C216-8AD3-47AA-B377-AD3643F7C850%7D\&file=Scope%20of%20Work%20.docx\&action=default\&mobileredirect=true)****
+**Link to artefact**
+
+{% file src="../../.gitbook/assets/Scope of Work  (1).docx" %}
 
 **Part of Module 2 on GovStack LMS**
 
 ### **High Level Roadmap (MoU)**
 
-**Description of artefact**:
+**Description of artefact:** The artefact describes the envisioned GovStack activities, deliverables, and the organization in charge of implementing the activities.
 
-**Link to artefact:** [**High Level Roadmap**](https://gizonline.sharepoint.com/:x:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B765E897B-DF2A-4D73-B122-E06E55F64EBC%7D\&file=High%20Level%20Roadmap.xlsx\&action=default\&mobileredirect=true)****
+**Link to artefact:**&#x20;
+
+{% file src="../../.gitbook/assets/High Level Roadmap.xlsx" %}
 
 **Part of Module 2 on GovStack LMS**
 
 ### **High Level Roadmap (MoU) Presentation**
 
-**Description of artefact**:
+**Description of artefact**: **** A PowerPoint presentation of the High LeHigh-Levelvel Roadmap (MoU)
 
-**Link to artefact:** [**High Level Roadmap**](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B305021B6-E169-44D2-94BB-4DEA4D3D5F67%7D\&file=High%20Level%20Roadmap.pptx\&action=edit\&mobileredirect=true)****
+**Link to artefact:**&#x20;
+
+{% file src="../../.gitbook/assets/High Level Roadmap.pptx" %}
 
 **Part of Module 2 on GovStack LMS**
 
 ### High Level Stakeholders/ Country Who's Who Report (CWWR)
 
-**Description of artefact**:
+**Description of artefact**: **** The artefact provides contact information and role profiles for the country's focal points.
 
-**Link to artefact:** [**Country Who's Who Report**](https://gizonline.sharepoint.com/:w:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B63FC0F7E-8E72-4D1C-80CA-75D50E04571C%7D\&file=Initial%20Team%20Description.docx\&action=default\&mobileredirect=true\&cid=6215ef03-b374-4902-beed-1ede730937db)****
+**Link to artefact:**&#x20;
+
+{% file src="../../.gitbook/assets/Country's Who's Who Report.docx" %}
 
 **Part of Module 2 on GovStack LMS**
 
@@ -95,7 +107,7 @@ description: >-
 {% tab title="Institutional Governance & Digital Team" %}
 ### Country Digital Team
 
-**Description of artefact**:
+**Description of artefact**: The artefact describes the composition of a Country's Digital Transformation Team.
 
 **Link to artefact:** [**Sample Digital team**](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/OpvYVTiY5820LuHfEAbv/govstack-implementation-playbook/annex/sample-digital-team-composition)****
 
@@ -103,7 +115,7 @@ Part of **Module 6 n GovStack LMS**
 
 ### User Profiles Taxonomy, and competencies
 
-**Description of artefact**:
+**Description of artefact**: This artefact describes the various stakeholders that support capacity building during the digital transformation process. Each identified role's qualifications are described in equal detail.
 
 **Link to artefact:** [**User Profiles taxonomy**](../annex/govstack-user-profiles-taxonomy.md)****
 
@@ -145,27 +157,13 @@ Part of **Module 6 on GovStack LMS**
 {% endtab %}
 
 {% tab title="Service Identification & Prioritization" %}
-### **Service Catalogue Optimization & Prioritization Criteria**
+### **GovStack Prioritization Workshop Methodology**
 
-**Description of artefact**:
+**Description of artefact**: **** The artefact contains guidelines to identifying services, and the approach towards prioritizing and ranking government services.
 
-**Link to artefact:** [**GovStack Guide to Services Identification, Prioritization & Ranking**](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B1C0A9B15-C7A2-49FC-A650-D2E71DE6D75B%7D\&file=GovStack%20approach%20to%20Services%20Identification%2C%20Prioritization%20%26%20Ranking.pptx\&action=edit\&mobileredirect=true)****
+**Link to artefact:**&#x20;
 
-**Part of Module 8 on GovStack LMS**
-
-### **Prioritization and ranking matrix**
-
-**Description of artefact**:
-
-**Link to artefact: \*to be developed**
-
-**Part of Module 8 on GovStack LMS**
-
-### **Presentation of proposed prioritization & ranking approach**
-
-**Description of artefact**:
-
-**Link to artefact:** [**Presentation on proposed service prioritization**](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7BF55C1D61-6076-4CDD-A716-E6B7830B586C%7D\&file=Prioritization%20and%20Ranking%20Workshop%20PPT.pptx\&action=edit\&mobileredirect=true)****
+{% file src="../../.gitbook/assets/Country Prioritization and Ranking Approach.pptx" %}
 
 **Part of Module 8 on GovStack LMS**
 
@@ -223,7 +221,7 @@ Part of **Module 6 on GovStack LMS**
 
 **Description of artefact**: The TO-BE user journey charts the development of a new service, following responses from RFI-5, in line with the current draft regulatory sequence and obligations.
 
-**Link to artefact:** [**TO-BE User Journey**](https://gizonline.sharepoint.com/:x:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7BF4DA784D-C473-4402-82AF-6374465BB887%7D\&file=Artefact%20Tracker.xlsx\&action=default\&mobileredirect=true\&cid=e616ccdc-7937-4950-aa77-317b84fd00e0)****
+**Link to artefact:** [**TO-BE User Journey**](https://miro.com/app/board/uXjVPdpo3-4=/?share\_link\_id=66791992065)****
 
 **Part of Module 8 on GovStack LMS**
 
@@ -236,7 +234,7 @@ Part of **Module 6 on GovStack LMS**
 **Part of Module 8 on GovStack LMS**
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="Digital Service Design Standard and Delivery Protocol" %}
 ### User Needs Research Plan
 
 **Description of artefact**:  Includes interview guide, focus group guide, mystery shopper instructions, user journey workshop agenda&#x20;
@@ -302,7 +300,7 @@ Part of **Module 6 on GovStack LMS**
 **Part of Module 9.3 on GovStack LMS**
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="GovStack Experience Journal" %}
 ### GovStack Experience Journal
 
 **Description of artefact**: A comprehensive document detailing the journey of identification, conceptualization, development, prototyping, deployment and scalability of services.
