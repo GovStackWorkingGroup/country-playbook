@@ -1,7 +1,5 @@
 ---
 description: Version for TAC Review October 2022
-cover: .gitbook/assets/GovStack_Hero_1024x400@2x.png
-coverY: 0
 ---
 
 # GovStack Overview
