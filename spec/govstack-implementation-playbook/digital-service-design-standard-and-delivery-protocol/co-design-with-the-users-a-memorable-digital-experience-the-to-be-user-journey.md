@@ -10,7 +10,7 @@ Once you have presented the "as-is" user journey with qualitative & quantitative
 {% tab title="Scope of work" %}
 A good co-design process...
 
-* Defines the key users of the "to-be" journey.  These key users include citizens-business, public officials of the different entities that participate in the journey, and any stakeholder related to the service. &#x20;
+* Defines the key users of the ["to-be" journey](../learning-and-exchange/artefacts.md#request-for-information-5-rfi-5).  These key users include citizens-business, public officials of the different entities that participate in the journey, and any stakeholder related to the service. &#x20;
 * Describes the key steps and activities in their expected 'to-be' process &#x20;
 * Identifies happy points (innovate in anticipating user needs)&#x20;
 * Considers interoperability along the steps of the journey to reach the least viable number of touch points and a seamless experience. &#x20;
