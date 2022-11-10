@@ -2,11 +2,11 @@
 description: Version for TAC Review October 2022
 ---
 
-# Understand user needs
+# Understand user needs and identiry 'As-Is' user journey
 
 Understanding who are we solving a problem for (Put terms in the glossary) is also important for creating a user-centric mindset within a digital service team  and build empathy and motivation for digital service design work. If there is a design lead on your team, they will likely lead this work, but the entire service team should be closely involved.&#x20;
 
-Once we know who our service users are, we need to understand how they are currently “getting the job done” or how their needs are currently being met. Observational and structured research will help you hear what users say they like or dislike about their current state. Using a design thinking mindset to translate user feedback into underlying goals and problems will allow to identify problems and solutions the users may not have thought to articulate.&#x20;
+Once we know who our service users are, we need to understand how they are currently “getting the job done” or how their needs are currently being met. This is achieved by developing the 'As-Is' user journey. Observational and structured research will help you hear what users say they like or dislike about their current state. Using a design thinking mindset to translate user feedback into underlying goals and problems will allow to identify problems and solutions the users may not have thought to articulate.&#x20;
 
 In addition, no process, service, or product lives in a vacuum, so we want to understand how these fit together to impact the overall user experience along their  the way the entire journey. Past efforts and solutions will offer useful lessons to refine the understanding of what works and doesn’t work.&#x20;
 
@@ -27,7 +27,7 @@ A good understanding of the users…
 {% tab title="Activities" %}
 * Work with the service design lead (if you have one in the team) and your other team members to create a research plan. Determine what you want to learn, what methods you’ll use, and who will participate.&#x20;
 * Map out the current user journey end-to-end, identifying the key actors involved, the activities they are doing, their goals, and the tools or systems they are using, as well as how this process fits into their day-to-day. You can use GovStack user journey template for this task and adjust it according to your research plan. &#x20;
-* Map out critical decisions or steps that result in branches in the current process.&#x20;
+* Map out critical decisions or steps that result in branches in the current process in the 'As-Is' user journey.
 * Identify explicit and implicit pain points and opportunities, including emotional pain points, functional blockers, and/or common drop-off rates or moments of failure.&#x20;
 * Debrief after each session and adjust your research plan as needed.&#x20;
 * Validate qualitative findings with quantitative data when possible, you can use RFI II – Service Catalogue & Systems to gather quantitative data across the different services involve in the user journey. &#x20;
@@ -67,7 +67,7 @@ LMS: Modules [1](../learning-and-exchange/govstack-learning-management-system/#a
 * Explore the [User + Business Life Event Board.](https://miro.com/app/board/uXjVOiQif00=/?share\_link\_id=574341797123)
 * Explore the[ "As-Is" user journeys of Rwanda EPR Use Case ](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=546357928944)
 * Explore the  "As-Is" user journeys of Djibouti & Kenya of the 5 exemplar government services under the scope of the HoA Initiative.&#x20;
-* [How to conduct user research \[1\]](https://methods.18f.gov/interview-checklist/): Methods provide instruction on several different research activities to consider, including [interviews](https://methods.18f.gov/stakeholder-and-user-interviews), [contextual inquiries](https://methods.18f.gov/contextual-inquiry), [heuristic evaluation](https://methods.18f.gov/heuristic-evaluation), and more.&#x20;
+* [How to conduct user research:](https://methods.18f.gov/interview-checklist/) Methods provide instruction on several different research activities to consider, including [interviews](https://methods.18f.gov/stakeholder-and-user-interviews), [contextual inquiries](https://methods.18f.gov/contextual-inquiry), [heuristic evaluation](https://methods.18f.gov/heuristic-evaluation), and more.&#x20;
 * [How to conduct user research \[2\]](https://handbook.tts.gsa.gov/research-guidelines/): Guidelines on how research is done at TTS, including informing and getting consent, and managing Personally Identifiable Information (PII).&#x20;
 * [How to synthesize user research](https://methods.18f.gov/): Methods provide instructions on several different ways to tell users’ stories, including [journey maps](https://methods.18f.gov/journey-mapping), [user scenarios](https://methods.18f.gov/user-scenarios), [storyboards](https://methods.18f.gov/storyboarding), and [task flow analysis](https://methods.18f.gov/decide/task-flow-analysis/).&#x20;
 * [How to share user research](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/): How to present findings to your partner and allow room for reaching consensus before making recommendations.&#x20;
