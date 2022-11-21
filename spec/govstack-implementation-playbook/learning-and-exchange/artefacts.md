@@ -213,7 +213,7 @@ Part of **Module 6 on GovStack LMS**
 
 **Description of artefact**: RFI-5 allows us to chart every step that the user must take to avail a service. This includes pre-contact, contact and post-contact phase of the service.
 
-**Link to artefact:** [**RFI-5**](https://miro.com/app/board/uXjVOiQif00=/)****
+**Link to artefact:** [**RFI-5**](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=711984026005)****
 
 **Part of Module 8 on GovStack LMS**
 
@@ -296,6 +296,16 @@ Part of **Module 6 on GovStack LMS**
 **Description of artefact**: The infrastructure setup outlines the infrastructure environments and aids in the procurement of infrastructure that is in line with GovStack specs and Green GovStack procurement guide.
 
 **Link to artefact: \*to be developed**
+
+**Part of Module 9.3 on GovStack LMS**
+
+### Findings & recommendations report
+
+**Description of artefact**: **** Restate briefly the work carried out, the aims and objectives of research plan. Highlight the most important findings from mapping of User needs, Journeys and Life events. Make concreet recomendations which act as an input to the design of 'To-be' user journey. Shared below is an actual Findings & recommendations report co-developed by Rwanda's digital team and GovStack as part of Electronic Product Registration Service design process.
+
+**Examples of Findings & recomendations report:**
+
+{% file src="../../.gitbook/assets/Final Technical Proposal Report on the Implementation of EPR.pdf" %}
 
 **Part of Module 9.3 on GovStack LMS**
 {% endtab %}

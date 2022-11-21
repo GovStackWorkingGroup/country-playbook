@@ -26,7 +26,7 @@
     * [Service prioritization and ranking](govstack-implementation-playbook/digital-strategy-and-governance/service-prioritisation-and-ranking.md)
     * [Governement Ecosystem Reference Architecture (GERA)](govstack-implementation-playbook/digital-strategy-and-governance/governement-reference-architecture.md)
   * [Digital Service Design Standard and Delivery Protocol](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol.md)
-    * [Understand user needs and identiry 'as-is' user journey](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/understand-user-needs-and-identiry-as-is-user-journey.md)
+    * [Understand user needs & map 'as-is' or 'initial to-be' user journey](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/understand-user-needs-and-map-as-is-or-initial-to-be-user-journey.md)
     * [Co-design with the users a memorable digital experience – the "to-be" user journey](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/co-design-with-the-users-a-memorable-digital-experience-the-to-be-user-journey.md)
     * [Develop a prototype of the digital experience/service](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/develop-a-prototype-of-the-digital-experience-service.md)
     * [Make logical process blue print & map BB use cases](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/make-logical-process-blue-print-and-map-bb-use-cases.md)

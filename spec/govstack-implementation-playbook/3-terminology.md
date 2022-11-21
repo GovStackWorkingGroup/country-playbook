@@ -121,10 +121,6 @@ The process or action of verifying the identity of a user or process. For the pu
 The granting to a subject of privileges or rights for accessing the various resources hosted by a system.
 {% endtab %}
 
-{% tab title="Untitled" %}
-
-{% endtab %}
-
 {% tab title="B" %}
 **Beta**
 
@@ -399,6 +395,10 @@ The idea that data is subject to the laws and governance structures of the natio
 **Denormalised Databases**
 
 A strategy used on a previously-normalized database to increase performance. In computing, the process of trying to improve the read performance of a database, at the expense of losing some write performance, by adding redundant copies of data or by grouping data.
+
+#### Design thinking
+
+Design thinking is an approach that puts humans at the center of designing services by empathising with them and encorporating their feedback. It centers around validation of ideas by continuous experimenting and prototyping. At its core, it relies on action rather than thinking itself. By delivering visuals and mockups on a periodic basis, design thinking conveys vision in an impactful and meaningful way. Finaly, by iterating entire design processes, design thinking bosts the possibility of delivering a successful outcome.
 
 &#x20;
 

@@ -1319,6 +1319,28 @@ Ability to think, act and communicate strategically in such a way as to stimulat
 
 Excellent organisational, communication and management skills with the ability to manage competing priorities, work to tight deadlines and deliver a high-quality service
 
+### [Design Lead](https://www.gov.uk/guidance/service-designer#lead-service-designer)
+
+A design lead drives multiple and highly complex services coordinating with product managers, service and content designers among others to develop design concepts, set direction and assure the quality of service design and delivery.&#x20;
+
+**Qualifications**&#x20;
+
+Postgraduate qualification and/or a recognized professional credential relevant to service design.&#x20;
+
+5+ years of experience of applying strategic thinking and agile methodologies in digital projects or in government.&#x20;
+
+Solid experience building successful teams that contribute to the work of the community, Ability to communicate complex and technical information in a simple and accessible language effectively across organizational, technical, and political boundaries, understanding the context.&#x20;
+
+Excellent understanding of the digital economy, and its relationship to changing user behaviour and the government landscape.&#x20;
+
+Ability to apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs.&#x20;
+
+Ability to prototype in code, understand the limitations of internet technology, and why code is important.&#x20;
+
+Demonstrated knowledge of translating user stories and proposing design approaches or services to meet user needs.&#x20;
+
+Ability to work with constraints and ensure compliance with constraints by adapting products and services where necessary.
+
 ### ****[**Product Manager**](https://www.gov.uk/guidance/product-manager)****
 
 A product manager is responsible for the quality of their products. They use their knowledge of user needs and business goals to frame problems and set priorities for your delivery teams.
@@ -1351,9 +1373,9 @@ Bachelor's Degree in Service Design, Business, Technical, Engineering, or techni
 
 Postgraduate qualification and/or a recognized professional credential relevant to the role is an added advantage.&#x20;
 
-5+ years of experience of applying strategic thinking and agile methodologies in digital projects or in government.&#x20;
+10+ years of experience of applying strategic thinking and agile methodologies in digital projects or in government.&#x20;
 
-Solid experience building successful teams that contribute to the work of the community, Ability to communicate complex and technical information in a simple and accessible language effectively across organizational, technical, and political boundaries, understanding the context.&#x20;
+Solid experience building successful teams that contribute to the work of the service design community, ability to communicate complex and technical information in a simple and accessible language effectively across organizational, technical, and political boundaries, understanding the context.&#x20;
 
 Excellent understanding of the digital economy, and its relationship to changing user behaviour and the government landscape.&#x20;
 

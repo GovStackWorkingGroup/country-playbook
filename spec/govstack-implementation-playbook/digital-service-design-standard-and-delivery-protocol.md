@@ -1,9 +1,11 @@
 # Digital Service Design Standard and Delivery Protocol
 
-This section provides a step-by-step guide to digital service co-design and delivery of a new generation of government services based on understanding user needs, user journeys, and life events. It also provides the necessary structure to scale this approach by identifying key deliverables from which each step builds in the design and delivery journey.&#x20;
+This section provides:
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+**A step-by-step guide to co-design and delivery of a new generation of digital government services** based on [understanding user needs](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/understand-user-needs-and-identiry-as-is-user-journey), [life events](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-3-rfi-3) and [user journeys ](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-5-rfi-5)utilising a Building Block approach. The following image represents the design process using UX/UI  to create a unified digital experience accross all goverrnment services.
 
+<figure><img src="../.gitbook/assets/GovStack UX UI.png" alt=""><figcaption><p>UX/UI Desing process </p></figcaption></figure>
 
+Deliverables for each step within the Digital Service Design Standard and Delivery Protocol, as mentioned in the following image.
 
-<figure><img src="../.gitbook/assets/Playbook Sections.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Playbook Sections.png" alt=""><figcaption><p>Digital Service Design Standard and Delivery Protocol</p></figcaption></figure>
