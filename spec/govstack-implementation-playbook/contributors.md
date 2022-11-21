@@ -9,7 +9,6 @@ The first iteration of the Playbook has been developed by&#x20;
 ### Founding Partners
 
 * **Estonian Government-EstDev**
-  * Alika Vandtke
   * Andres Ääremaa
 * **DIAL**&#x20;
   * Brenda Maday
@@ -40,6 +39,7 @@ The first iteration of the Playbook has been developed by&#x20;
   * Omkar Ghatpande
   * Varun Basu&#x20;
 * **TalTech**&#x20;
+  * Alika Vandtke
   * Josephine Lusi
 
 ### **Government collaborators**
