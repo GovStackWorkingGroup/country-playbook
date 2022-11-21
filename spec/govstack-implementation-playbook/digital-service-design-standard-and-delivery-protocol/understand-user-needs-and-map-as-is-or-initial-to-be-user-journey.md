@@ -41,7 +41,7 @@ The following actions are recomended in gaining a thorough understanding of  use
 * Ask the service owner if there have been any previous efforts in digitising the service, and seek out any resulting reports, findings, or raw data.&#x20;
 * Analyze and synthesize your findings with the service team, with the objective of identifying patterns related to service. For example, prior to each summer, there is a significant spike for pasport applications, this is a patern that allows to prepare in advance for this increase in demand for the service.
 * Depending on the complexity of the service, you can request alignment from business leads on initial prioritization to focus additional research activities.
-* Up-date [glossary for roles](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy), workflows, organizational entity responsable for each step within a user journey.&#x20;
+* Up-dating [glossary for roles](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy), workflows, organizational entity responsable for each step within a user journey.&#x20;
 {% endtab %}
 
 {% tab title="Digital team" %}
@@ -61,7 +61,7 @@ Who does what:
 {% endtab %}
 
 {% tab title="Next steps" %}
-What to do next&#x20;
+What to do next:
 
 * Present the "as-is" / "[Initial to-be](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-5-rfi-5)" user journey with qualitative & quantitative findings to organizational stakeholders to build empathy around the current state.&#x20;
 * Translate your findings into preliminary recommendations or decision points around the problems and use cases to support.&#x20;

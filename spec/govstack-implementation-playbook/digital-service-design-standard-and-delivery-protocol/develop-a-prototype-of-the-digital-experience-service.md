@@ -10,23 +10,20 @@ Prototyping enables direct examination of a design concept’s viability with us
 
 {% tabs %}
 {% tab title="Scope of work" %}
-A good prototype process...
+A good prototype process requires:
 
-* Builds on preliminary blueprints that show structure, placement, and hierarchy for your service. &#x20;
-* Steers clear of font choices, color, or other elements that would distract both the researcher and the reviewer. Lightweight designs are conceptually easier to reconfigure. Use this opportunity to start listing what UX/UI patterns you will need.&#x20;
-* Reviews wireframes with specific [user scenarios](https://methods.18f.gov/decide/user-scenarios/#user-scenarios) and [personas](https://methods.18f.gov/decide/personas/#personas) in mind. Can users accomplish their task with the wireframe you are sketching out?&#x20;
-* Uses the wireframes to get the team’s feedback on feasibility and structure.&#x20;
-* Uses prototypes as a way of safely trying out more radical ideas.&#x20;
-* Up-date glossary for roles, workflows, organizational entity – affiliation   &#x20;
-
-&#x20;
+* Building on preliminary Lo-Fi [wireframes and/or voice command flow ](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow)that show structure, placement, and hierarchy for your service. &#x20;
+* Steering clear of font choices, color, or other elements that would distract both the researcher and the reviewer. Lightweight designs are conceptually easier to reconfigure. Use this opportunity to start listing what UX/UI patterns you will need.&#x20;
+* Reviewing [wireframes and/or voice command flows](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow) according to the specific 'To-be' user journey to ensure users accomplish their goles and their needs are meet.&#x20;
+* Using the [wireframes and/or voice command flow](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow) to get the team’s feedback on feasibility and structure.&#x20;
+* Using [wireframes and/or voice command flow](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow) as a way of safely trying out more radical ideas.   &#x20;
 {% endtab %}
 
 {% tab title="Activities" %}
-How to get there
+The following actions are recomended in developing a prototype.&#x20;
 
-* Create a rudimentary version of the service. A [wireframe](https://methods.18f.gov/wireframing/): demonstrate structure and relationships among different elements, but don’t worry about stylized elements.&#x20;
-* Give the prototype to the user (end user and public official user) and observe their interactions without instruction.&#x20;
+* Create a preliminary version of the service using a [wireframes and/or voice command flow](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow)
+* Give the [wireframes and/or voice command flow ](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow)to the user (Citizen/public servent /business) and public official user to observe their interactions without instruction.&#x20;
 * After this observation, ask them to perform a specific task.&#x20;
 * Ask clarifying questions about why they do what they do. Let the user’s behavior guide the questions you ask. It can be helpful to have them narrate their thought process as they go along.&#x20;
 {% endtab %}
@@ -34,17 +31,18 @@ How to get there
 {% tab title="Digital team" %}
 Who does what&#x20;
 
-* Service designers – Lead the service co-design journey&#x20;
-* User needs researchers – Prepare & apply user interviews, focus groups, facilitates user journey workshops &#x20;
-* Legal advisors – Clarify regulations that apply to the service &#x20;
-* UX/IU Designers – If the service under analysis is already online, UX/UI designers can join the co-design sessions to have firsthand interaction with the users &#x20;
-* Product/Tech experts  - If the service under analysis is already online, Product/Tech team members can participate in the iteration session with users to see reaction to white-frame prototype &#x20;
+* [Service designers](../annex/govstack-user-profiles-taxonomy.md#service-designer)/ Design lead – Lead the activites within the 'Activities' Tab.
+* [User needs researchers](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/) – Prepare & apply user interviews, focus groups, facilitates user journey workshops &#x20;
+* [Legal policy officer](../annex/govstack-user-profiles-taxonomy.md#legal-policy-officer)– Clarify regulations that apply to the service &#x20;
+* [UX/IU Designers](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/) – If the service under analysis is already online, UX/UI designers can join the co-design sessions to have firsthand interaction with the users &#x20;
+* [Product/Tech experts](../annex/govstack-user-profiles-taxonomy.md#back-end-developers)  - If the service under analysis is already online, Product/Tech team members can participate in the iteration session with users to see reaction to white-frame prototype &#x20;
 {% endtab %}
 
 {% tab title="Deliverables" %}
-* Prototype in Whiteframes &#x20;
-* List of prototype components to be standardized &#x20;
-* List of service components along the "to-be" user journey to be standardized (Information service sheets, downloadable forms, web forms, electronic documents, notifications, performance analytics, citizen satisfaction survey, accessibility) &#x20;
+* [Wireframes and/or voice command flow](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow) &#x20;
+* List of service components along the "to-be" user journey to be standardized following the digital service standard applied across all government services. This includes:
+  * Information service sheets:&#x20;
+  * downloadable forms, web forms, electronic documents, notifications, performance analytics, citizen satisfaction survey, accessibility) &#x20;
 {% endtab %}
 
 {% tab title="Next steps" %}

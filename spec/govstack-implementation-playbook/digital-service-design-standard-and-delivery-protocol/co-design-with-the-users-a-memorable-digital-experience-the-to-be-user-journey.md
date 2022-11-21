@@ -8,19 +8,19 @@ Once you have presented the "as-is" user journey with qualitative & quantitative
 
 {% tabs %}
 {% tab title="Scope of work" %}
-A good co-design process...
+A good co-design process requires:
 
-* Defines the key users of the ["to-be" journey](../learning-and-exchange/artefacts.md#request-for-information-5-rfi-5).  These key users include citizens-business, public officials of the different entities that participate in the journey, and any stakeholder related to the service. &#x20;
-* Describes the key steps and activities in their expected 'to-be' process &#x20;
-* Identifies happy points (innovate in anticipating user needs)&#x20;
-* Considers interoperability along the steps of the journey to reach the least viable number of touch points and a seamless experience. &#x20;
-* Identifies access & delivery channels for the service – voice command, web, mobile app, sms, physical presence according to the service community context & needs &#x20;
-* Identifies country legislation, policies & standards regulating the service &#x20;
-* Identifies service components to be standardized (service information sheet, downloadable forms, web forms, electronic documents, notifications, performance analytics, citizen satisfaction survey, accessibility)&#x20;
+* Defining the key users of the ["to-be" journey](../learning-and-exchange/artefacts.md#request-for-information-5-rfi-5).  These key users include citizens-business, public officials of the different entities that participate in the journey, and any stakeholder related to the service. &#x20;
+* Describing the key steps and activities in their expected 'to-be' process &#x20;
+* Identifing happy points (innovate in anticipating user needs)&#x20;
+* Considering interoperability along the steps of the journey to reach the least viable number of touch points and a seamless experience. &#x20;
+* Identifing access & delivery channels for the service – voice command, web, mobile app, sms, physical presence according to the service community context & needs &#x20;
+* Identifing country legislation, policies & standards regulating the service that need to be updated to enable the 'To-Be' User journey.
+* Identifing service components to be standardized (service information sheet, downloadable forms, web forms, electronic documents, notifications, performance analytics, citizen satisfaction survey, accessibility)&#x20;
 {% endtab %}
 
 {% tab title="Activities" %}
-How to get there
+The following actions are recomended when mapping of a detailed 'To-Be' user journey throughout various co-designing sessions (with users).&#x20;
 
 * Map out critical decisions or steps that result in branches in the to-be user journey&#x20;
 * Identify explicit and implicit happy points and opportunities to mitigate pain points, functional blockers, and/or common drop-off rates or moments of failure.&#x20;
@@ -28,11 +28,11 @@ How to get there
 * Validate qualitative findings with quantitative data when possible, you can use RFI II – Service Catalogue & Systems to gather quantitative data across the different services involve in the user journey. &#x20;
 * Analyze and synthesize your findings with your team, looking for patterns.&#x20;
 * List service components along the "to-be" user journey to be standardized (service information sheet, downloadable forms, web forms, electronic documents, notifications, performance analytics, citizen satisfaction survey, accessibility)&#x20;
-* Up-date glossary for roles, workflows, organizational entity – affiliation   &#x20;
+* Up-dating [glossary for roles](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy), workflows, organizational entity responsable for each step within the 'To-be' user journey. &#x20;
 {% endtab %}
 
 {% tab title="Digital team" %}
-Who does what
+Who does what:
 
 * Service designers – Lead the service co-design journey&#x20;
 * User needs researchers – Prepare & apply user interviews, focus groups, facilitates user journey workshops &#x20;
@@ -42,8 +42,6 @@ Who does what
 {% endtab %}
 
 {% tab title="Deliverables" %}
-
-
 * Co-design plan &#x20;
 * To-be user journey &#x20;
 * List of service components along the "to-be" user journey to be standardized (Information service sheets, downloadable forms, web forms, electronic documents, notifications, performance analytics, citizen satisfaction survey, accessibility)&#x20;
@@ -51,7 +49,7 @@ Who does what
 {% endtab %}
 
 {% tab title="Next steps" %}
-What to do next
+What to do next:
 
 * Present the "to-be" user journey to the service community, and relevant stakeholders. &#x20;
 * Incorporate last round of feedback gather from service community and relevant stakeholders presentations. &#x20;
@@ -64,6 +62,5 @@ What to do next
 * Use the GovStack user journey guideline &#x20;
 * Use the [GovStack "To-Be" user journey Miro Board template](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=546357928944) and adapted to your needs &#x20;
 * Explore the "To-Be" user journeys of Rwanda EPR Use Case&#x20;
-* Explore the  "To-Be" user journeys of Djibouti & Kenya of 5 exemplar government services under the scope of the HoA Initiative.&#x20;
 {% endtab %}
 {% endtabs %}
