@@ -2,11 +2,9 @@
 
 Definition of which services digitize first varies country from country. Prioritization criteria shall be based on data gathered through RFI [I](../learning-and-exchange/artefacts.md#request-for-information-1-rfi-1), [II](../learning-and-exchange/artefacts.md#request-for-information-2-rfi-2), [III](../learning-and-exchange/artefacts.md#request-for-information-3-rfi-3), & [IV](../learning-and-exchange/artefacts.md#request-for-information-4-rfi-4) in order to rank services to work with, according to impact & feasibility.  Services that are simple, done in a single iteration within one Ministry outreach are good candidates for quick wins, build a case to adopt a GovStack approach to digital service co-design standard and delivery protocol using reusable building blocks.&#x20;
 
-Once information has been gathered and validated with different service owners strategic services will be accommodated in a matrix format to facilitate clustering and ranking.&#x20;
+Once the information has been gathered and validated with different service owners, strategic services will be accommodated in a matrix format to facilitate clustering and ranking. Implementation will therefore be guided by the previous analysis, starting with services that are of the highest importance and highest feasibility, followed by those with high importance but low feasibility.&#x20;
 
-Prioritization criteria shall be based on data gathered from Request for Information Forms (RFI) through RFI, II, III, & IV to rank services to work with according to the impact & feasibility of implementation.  Implementation will therefore be guided by the previous analysis, starting with services that are of the highest importance and highest feasibility, followed by those with high importance but low feasibility.&#x20;
-
-The criteria presented in this playbook is a reference criteria. Each country can calibrate current criteria according to information availability, context & needs. &#x20;
+The criteria presented in this playbook is a reference criterion. Each country can calibrate current criterion according to information availability, context & needs. &#x20;
 
 <figure><img src="../../.gitbook/assets/GetImage.png" alt=""><figcaption><p>Prioritization criteria matrix</p></figcaption></figure>
 
@@ -30,7 +28,7 @@ A comprehensive prioritisation strategy...
 {% endtab %}
 
 {% tab title="Resources" %}
-The criteria presented in this playbook is a reference criteria. Each digital team can calibrate current criteria according to information availability, context & needs:&#x20;
+The criteria presented in this playbook is a reference criterion. Each digital team can calibrate current criterion according to information availability, context & needs:&#x20;
 
 | Strategic importance    | Users demand                       | <p></p><ul><li>Number of transactions per month </li><li>Number of service users    </li><li>Is a cross-border service  </li></ul>                                                                                                                                                                                               |
 | ----------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -49,8 +47,3 @@ The criteria presented in this playbook is a reference criteria. Each digital te
 {% endtab %}
 {% endtabs %}
 
-
-
-<figure><img src="../../.gitbook/assets/GetImage.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/GetImage (1) (2).png" alt=""><figcaption></figcaption></figure>
