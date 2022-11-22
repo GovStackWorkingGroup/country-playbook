@@ -28,7 +28,7 @@
   * [Digital Service Design Standard and Delivery Protocol](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol.md)
     * [Understand user needs & map 'as-is' or 'initial to-be' user journey](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/understand-user-needs-and-map-as-is-or-initial-to-be-user-journey.md)
     * [Co-design "to-be" user journey](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/co-design-to-be-user-journey.md)
-    * [Develop a Wireframes and/or Voice command flow](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/develop-a-wireframes-and-or-voice-command-flow.md)
+    * [Wireframes and/or voice command flow](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/wireframes-and-or-voice-command-flow.md)
     * [Make logical process blue print & map BB use cases](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/make-logical-process-blue-print-and-map-bb-use-cases.md)
     * [Map integration requirements and develop cross building block interaction diagram](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/map-integration-requirements-and-develop-cross-building-block-interaction-diagram.md)
     * [Prepare Dev, QA & production environments](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/prepare-dev-qa-and-production-environments.md)
