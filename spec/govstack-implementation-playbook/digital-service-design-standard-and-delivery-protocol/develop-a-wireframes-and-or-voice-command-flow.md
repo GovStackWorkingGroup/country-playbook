@@ -2,15 +2,17 @@
 description: Version for TAC Review October 2022
 ---
 
-# Develop a prototype of the digital experience/service
+# Develop a Wireframes and/or Voice command flow
 
-Once we have learned more about users’ expectations and created a ''to-be'' user journey, it is time to create testable design. Sketching, [wireframing](https://www.youtube.com/watch?v=KnZrypOaVCg), and prototyping will help you ensure your service reflects your users’ needs. A prototype is a rudimentary version, either static or functional, of something that exhibits realistic form and function.&#x20;
+Within this stage we create a testable design based on a thorough understadning of users’ expectations and ''to-be'' user journey. Sketching, wireframes and/or voice command flow will help you ensure your service reflects your users’ needs. It is a reprsentation of a realistic form and functional service.&#x20;
 
-Prototyping enables direct examination of a design concept’s viability with users. These prototypes (often paper or white frames) are helpful for gaining feedback on users’ intentions and various design elements. Functional prototypes (often coded) are helpful for observing how users interact with the product.&#x20;
+<figure><img src="../../.gitbook/assets/13598453674_bdc7d5a385_c.jpg" alt=""><figcaption><p>Gov.uk sketch example</p></figcaption></figure>
+
+Wireframes and/or voice command flow enables direct examination of a design concept’s viability with users. It is helpful for gaining feedback on users’ intentions and various design elements and observing users interaction with the product.&#x20;
 
 {% tabs %}
 {% tab title="Scope of work" %}
-A good prototype process requires:
+A good wireframes and/or voice command flow requires:
 
 * Building on preliminary Lo-Fi [wireframes and/or voice command flow ](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow)that show structure, placement, and hierarchy for your service. &#x20;
 * Steering clear of font choices, color, or other elements that would distract both the researcher and the reviewer. Lightweight designs are conceptually easier to reconfigure. Use this opportunity to start listing what UX/UI patterns you will need.&#x20;
@@ -40,27 +42,29 @@ Who does what&#x20;
 
 {% tab title="Deliverables" %}
 * [Wireframes and/or voice command flow](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow) &#x20;
-* List of service components along the "to-be" user journey to be standardized following the digital service standard applied across all government services. This includes:
-  * Information service sheets:&#x20;
-  * downloadable forms, web forms, electronic documents, notifications, performance analytics, citizen satisfaction survey, accessibility) &#x20;
+* Apply the standardized service components.This includes:
+  * [Service information sheet](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#information-service-sheets)
+  * [Downloadable forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Web forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Electronic documents](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Notifications](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Performance analytics](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Citizen satisfaction survey](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Accessibility ](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
 {% endtab %}
 
 {% tab title="Next steps" %}
 What to do next
 
-* Iterate! Prototypes should be quick and painless to create, and even more quick and painless to discard.&#x20;
+* Iterate! Wireframes and/or voice command flow should be quick and painless to create, and even more quick and painless to discard.&#x20;
 * Get service owner approval to proceed with the functional prototype &#x20;
-
-&#x20;
+* Work on the Logical Process Blueprint document for the service.
 {% endtab %}
 
 {% tab title="Resources" %}
 * LMS Modules: [1](../learning-and-exchange/govstack-learning-management-system/#awareness-building-and-expression-of-interest),[2](../learning-and-exchange/govstack-learning-management-system/#agreement-of-cooperation),[3](../learning-and-exchange/govstack-learning-management-system/#govstack-internal-kick-off) &#x20;
-* Gov.uk prototype kit - https://govuk-prototype-kit.herokuapp.com/docs&#x20;
-* Gov.uk sketches template - https://designnotes.blog.gov.uk/2014/05/22/gov-uk-sketching-templates/&#x20;
-* A few helpful tools for building wireframes are&#x20;
+* [Gov.uk Design system](https://design-system.service.gov.uk/community/resources-and-tools/)&#x20;
+* [Be creative and think out of the box. Feel free to use Gov.uk sketches template](https://designnotes.blog.gov.uk/2014/05/22/gov-uk-sketching-templates/)&#x20;
 * [Beginner's Guide | Mockitt Tutorial](https://www.youtube.com/watch?v=X5HVZQ9Nii4)&#x20;
-
-{% embed url="https://www.youtube.com/watch?ab_channel=WondershareMockitt&v=X5HVZQ9Nii4" %}
 {% endtab %}
 {% endtabs %}

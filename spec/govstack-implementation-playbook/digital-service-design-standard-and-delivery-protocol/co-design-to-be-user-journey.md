@@ -65,7 +65,7 @@ What to do next:
 
 * Present the "to-be" user journey to the service community, and relevant stakeholders. &#x20;
 * Incorporate last round of feedback gather from service community and relevant stakeholders presentations. &#x20;
-* Develop a wireframe prototype of the service &#x20;
+* Develop a Wireframes and/or voice command flow of the service &#x20;
 {% endtab %}
 
 {% tab title="Resources" %}
