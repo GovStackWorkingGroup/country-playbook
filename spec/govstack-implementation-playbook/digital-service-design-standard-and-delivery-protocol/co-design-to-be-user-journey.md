@@ -32,25 +32,25 @@ A good co-design process requires:
 {% endtab %}
 
 {% tab title="Activities" %}
-The following actions are recomended when mapping of a detailed 'To-Be' user journey throughout various co-designing sessions (with users).&#x20;
+The following actions are recomended when mapping detailed 'To-Be' user journey throughout various co-designing sessions.&#x20;
 
-* Map out critical decisions or steps that result in branches in the to-be user journey&#x20;
-* Identify explicit and implicit happy points and opportunities to mitigate pain points, functional blockers, and/or common drop-off rates or moments of failure.&#x20;
+* Map out critical decisions or steps that result in branches in the to-be user journey. For example, user journeys brach on the basis of bylaws govering the service (new business registering a product that needs to comply with an e-waste regulation; existing business registering a new product that needs to comply with an e-waste regulation and businesses with product catalogues that already include prodcuts that need to comply with e-waste regulation) in case of EPR in Rwanda.
+* Identify explicit and implicit happy points and opportunities to mitigate pain points, functional blockers, and/or common drop-off points or moments of failure.&#x20;
 * Debrief after each session and adjust your co-design plan as needed.&#x20;
-* Validate qualitative findings with quantitative data when possible, you can use RFI II – Service Catalogue & Systems to gather quantitative data across the different services involve in the user journey. &#x20;
-* Analyze and synthesize your findings with your team, looking for patterns.&#x20;
-* List service components along the "to-be" user journey to be standardized (service information sheet, downloadable forms, web forms, electronic documents, notifications, performance analytics, citizen satisfaction survey, accessibility)&#x20;
+* Validate qualitative findings with quantitative data when possible, you can use [RFI II – Service Catalogue & Systems](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-2-rfi-2) to gather quantitative data across the different services involve in the user journey. &#x20;
+* Synthesize and analyze your findings with your team, looking for patterns.&#x20;
+* Identify theh service components that need to be standardised along the "to-be" user journey (service information sheet, downloadable forms, web forms, electronic documents, notifications, performance analytics, citizen satisfaction survey, accessibility)&#x20;
 * Up-dating [glossary for roles](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy), workflows, organizational entity responsable for each step within the 'To-be' user journey. &#x20;
 {% endtab %}
 
 {% tab title="Digital team" %}
 Who does what:
 
-* Service designers – Lead the service co-design journey&#x20;
-* User needs researchers – Prepare & apply user interviews, focus groups, facilitates user journey workshops &#x20;
-* Legal advisors – Clarify regulations that apply to the service &#x20;
-* UX/IU Designers – If the service under analysis is already online, UX/UI designers can join the co-design sessions to have firsthand interaction with the users &#x20;
-* Product/Tech experts  - If the service under analysis is already online  Product/Tech team members can join the co-design sessions to have firsthand interaction with the users &#x20;
+* [Service designers](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#service-designer) – Lead the service co-design journey&#x20;
+* [User needs researchers](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#user-needs-researchers) – Prepare & apply user interviews, focus groups, facilitates user journey workshops &#x20;
+* [Legal advisors](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#legal-policy-officer) – Clarify regulations that apply to the service &#x20;
+* [UX/IU Designers](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#ux-ui-designers) – If the service under analysis is already online, UX/UI designers can join the co-design sessions to have firsthand interaction with the users &#x20;
+* [Product/Tech experts](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#back-end-developers)  - If the service under analysis is already online  Product/Tech team members can join the co-design sessions to have firsthand interaction with the users &#x20;
 {% endtab %}
 
 {% tab title="Deliverables" %}
@@ -65,14 +65,13 @@ What to do next:
 
 * Present the "to-be" user journey to the service community, and relevant stakeholders. &#x20;
 * Incorporate last round of feedback gather from service community and relevant stakeholders presentations. &#x20;
-* Develop a white-frame prototype of the service &#x20;
+* Develop a wireframe prototype of the service &#x20;
 {% endtab %}
 
 {% tab title="Resources" %}
 * LMS Modules: [1](../learning-and-exchange/govstack-learning-management-system/#awareness-building-and-expression-of-interest),[2](../learning-and-exchange/govstack-learning-management-system/#agreement-of-cooperation),[3](../learning-and-exchange/govstack-learning-management-system/#govstack-internal-kick-off) &#x20;
 * Use the Facilitation PPT for the "To-Be" user journey co-design sessions &#x20;
-* Use the GovStack user journey guideline &#x20;
-* Use the [GovStack "To-Be" user journey Miro Board template](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=546357928944) and adapted to your needs &#x20;
-* Explore the "To-Be" user journeys of Rwanda EPR Use Case&#x20;
+* Use the [GovStack user journey guideline  ](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-5-rfi-5)
+* Use the [GovStack "To-Be" user journey template (](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=546357928944)Explore the "To-Be" user journeys of Rwanda EPR Use Case[)](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=546357928944) and adapted to your needs &#x20;
 {% endtab %}
 {% endtabs %}
