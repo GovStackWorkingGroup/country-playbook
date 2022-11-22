@@ -2,7 +2,7 @@
 description: Version for TAC Review October 2022
 ---
 
-# Co-desing "to-be" user journey
+# Co-design "to-be" user journey
 
 The "as-is"/"Initial To-Be" user journey along with its qualitative & quantitative findings enable you to run co-designing sessions with service community and relevant stakeholders. These co-designing sessions aim to improve the service and deliver a user friendly experience documented in form of a "to-be" user journey. [Co-design must be treated as a process rather than as a event. ](https://www.ncoss.org.au/wp-content/uploads/2017/06/Codesign-principles.pdf)The following image describes the aforementioned co-design process.
 
@@ -20,7 +20,15 @@ A good co-design process requires:
 * Considering interoperability along the steps of the journey to reach the least viable number of touch points and a seamless experience. &#x20;
 * Identifing access & delivery channels for the service – voice command, web, mobile app, sms, physical presence according to the service community context & needs &#x20;
 * Identifing country legislation, policies & standards regulating the service that need to be updated to enable the 'To-Be' User journey.
-* Identifing service components to be standardized ([service information sheet](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#information-service-sheets), downloadable forms, web forms, electronic documents, notifications, performance analytics, citizen satisfaction survey, accessibility)&#x20;
+* Identifing service components to be standardized. Standardisation inculcates familiarity with service users, allowing them to easily identify offecial forms/documents/resources and disregard forged ones:
+  * [Service information sheet](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#information-service-sheets)
+  * [Downloadable forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Web forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Electronic documents](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Notifications](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Performance analytics](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Citizen satisfaction survey](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Accessibility ](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
 {% endtab %}
 
 {% tab title="Activities" %}
