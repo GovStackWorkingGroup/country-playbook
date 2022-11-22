@@ -2,9 +2,13 @@
 description: Version for TAC Review October 2022
 ---
 
-# Co-design with the users a memorable digital experience – the "to-be" user journey
+# Co-desing "to-be" user journey
 
-Once you have presented the "as-is" user journey with qualitative & quantitative findings to the service community and relevant stakeholders. It is time to put into practice the preliminary recommendations in a series of co-designing sessions with service users and the service community to re-design all aspects of the service and co-create a new digital experience documented as a "to-be" user journey.
+The "as-is"/"Initial To-Be" user journey along with its qualitative & quantitative findings enable you to run co-designing sessions with service community and relevant stakeholders. These co-designing sessions aim to improve the service and deliver a user friendly experience documented in form of a "to-be" user journey. [Co-design must be treated as a process rather than as a event. ](https://www.ncoss.org.au/wp-content/uploads/2017/06/Codesign-principles.pdf)The following image describes the aforementioned co-design process.
+
+
+
+<figure><img src="../../.gitbook/assets/to be user journey.png" alt=""><figcaption><p>"To-be" user journey</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Scope of work" %}
@@ -16,7 +20,7 @@ A good co-design process requires:
 * Considering interoperability along the steps of the journey to reach the least viable number of touch points and a seamless experience. &#x20;
 * Identifing access & delivery channels for the service – voice command, web, mobile app, sms, physical presence according to the service community context & needs &#x20;
 * Identifing country legislation, policies & standards regulating the service that need to be updated to enable the 'To-Be' User journey.
-* Identifing service components to be standardized (service information sheet, downloadable forms, web forms, electronic documents, notifications, performance analytics, citizen satisfaction survey, accessibility)&#x20;
+* Identifing service components to be standardized ([service information sheet](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#information-service-sheets), downloadable forms, web forms, electronic documents, notifications, performance analytics, citizen satisfaction survey, accessibility)&#x20;
 {% endtab %}
 
 {% tab title="Activities" %}

@@ -14,6 +14,8 @@ In addition, no process, service, or product lives in a vacuum, so we want to un
 
 Involvement from all partners and users participating along the journey is needed to complete their view of the current state of the service and/or what the users need.  Co-developing a shared baseline of where you are starting from is a necessary input for the following steps within the process of designing and delivering a digital service.
 
+<figure><img src="../../.gitbook/assets/User Journey.png" alt=""><figcaption><p>'As-Is' User journey</p></figcaption></figure>
+
 {% tabs %}
 {% tab title="Scope of work" %}
 Start by understanding user needs. This requires:

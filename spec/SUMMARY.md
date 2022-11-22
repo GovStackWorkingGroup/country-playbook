@@ -27,7 +27,7 @@
     * [Governement Ecosystem Reference Architecture (GERA)](govstack-implementation-playbook/digital-strategy-and-governance/governement-reference-architecture.md)
   * [Digital Service Design Standard and Delivery Protocol](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol.md)
     * [Understand user needs & map 'as-is' or 'initial to-be' user journey](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/understand-user-needs-and-map-as-is-or-initial-to-be-user-journey.md)
-    * [Co-design with the users a memorable digital experience – the "to-be" user journey](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/co-design-with-the-users-a-memorable-digital-experience-the-to-be-user-journey.md)
+    * [Co-desing "to-be" user journey](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/co-desing-to-be-user-journey.md)
     * [Develop a prototype of the digital experience/service](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/develop-a-prototype-of-the-digital-experience-service.md)
     * [Make logical process blue print & map BB use cases](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/make-logical-process-blue-print-and-map-bb-use-cases.md)
     * [Map integration requirements and develop cross building block interaction diagram](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/map-integration-requirements-and-develop-cross-building-block-interaction-diagram.md)
