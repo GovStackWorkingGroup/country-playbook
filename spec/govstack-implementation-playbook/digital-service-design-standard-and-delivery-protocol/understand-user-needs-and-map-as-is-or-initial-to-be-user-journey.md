@@ -2,7 +2,7 @@
 description: Version for TAC Review October 2022
 ---
 
-# Understand user needs & map 'as-is' or 'initial to-be' user journey
+# Understand user needs & map 'as-is' / 'initial to-be' user journey
 
 Understanding who are we solving a problem for is important for creating a user-centric mindset within a digital service team  and build empathy and motivation for digital service design work. If there is a design lead on your team, they will likely lead this work, but the entire service team should be closely involved.&#x20;
 
