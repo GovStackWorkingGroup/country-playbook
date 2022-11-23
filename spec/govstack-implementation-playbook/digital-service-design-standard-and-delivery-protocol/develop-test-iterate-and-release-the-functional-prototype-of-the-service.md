@@ -53,7 +53,9 @@ Who does what
 {% endtab %}
 
 {% tab title="Deliverables" %}
-* GitHub repository with code documented according to Country Digital Service Standard &#x20;
+Since GovStack is starting it's reference implementations in countries, the following resources will be linked as soon as they are generated:
+
+* GitHub repository with code documented according to Country Digital Service Standard
 * Front-end design manual &#x20;
 * Admin manual &#x20;
 * User manual &#x20;
@@ -68,14 +70,16 @@ Who does what
 {% tab title="Next steps" %}
 * Prepare the migration plan for the functional protoype into production environment&#x20;
 * Prepare the launch of service.
-* Stabalise the service
+* Stabalize the service
 {% endtab %}
 
 {% tab title="Resources" %}
+Since GovStack is starting it's reference implementations in countries, the following resources will be linked as soon as they are generated:
+
 * LMS Modules: [1](../learning-and-exchange/govstack-learning-management-system/#awareness-building-and-expression-of-interest),[2](../learning-and-exchange/govstack-learning-management-system/#agreement-of-cooperation),[3](../learning-and-exchange/govstack-learning-management-system/#govstack-internal-kick-off)   &#x20;
 * Test scripts &#x20;
 * QA sequence
-* cutover plan
+* Cutover plan
 {% endtab %}
 {% endtabs %}
 

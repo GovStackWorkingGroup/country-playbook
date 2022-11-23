@@ -44,6 +44,8 @@ description: >-
 **Link to artefact:**&#x20;
 
 {% file src="../../.gitbook/assets/GovStack Country Engagement FW Teams.pptx" %}
+
+
 {% endtab %}
 
 {% tab title="Agreement Framework" %}
@@ -175,7 +177,7 @@ Part of **Module 6 on GovStack LMS**
 
 **Part of Module 8 on GovStack LMS**
 
-### **Request for Information-1 (RFI-1)**
+### **Context on existing Digital Service Design Standards and Delivery Protocol (Request for Information, RFI-1)**
 
 **Description of artefact**: RFI-1 enables the country engagement team to better understand the digital service design standard and delivery protocol in the implementing country.&#x20;
 
@@ -183,17 +185,36 @@ Part of **Module 6 on GovStack LMS**
 
 **Part of Module 8 on GovStack LMS**
 
-### **Request for Information-2 (RFI-2)**
+****
 
-**Description of artefact**: RFI-2 is a service catalogue that facilitates the analysis of prerequisites and identification of opportunities to simplify services before establishing a digitalization roadmap.
+### **Service Catalogue (Request for Information, RFI-2)**
 
-**Artefact:**
+Description of artefact: RFI-2 is a service catalogue that facilitates the analysis of prerequisites and identification of opportunities to simplify services before establishing a digitalization roadmap.
+
+Artefact**:**
 
 {% file src="../../.gitbook/assets/version0.2CE DSDS RFI2.xlsx" %}
+Service Catalogue template
+{% endfile %}
 
-**Part of Module 8 on GovStack LMS**
+Links to example of service catalogue from&#x20;
 
-### **Request for Information-3 (RFI-3)**
+1. [Gob.mx](https://catalogonacional.gob.mx/)
+2. [Gov.uk](https://www.gov.uk/search/services)
+3. [Gov.uy](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/tramites-y-servicios/servicios)
+4. [Gov.au](https://my.gov.au/en)
+5. [Gov.sg](https://www.citizenconnectcentre.gov.sg/top-eservices/)
+6. [Gob.pe](https://www.gob.pe/)
+7. [Gov.co](https://www.gov.co/ficha-tramites-y-servicios/)
+8. [Gov.br](https://www.gov.br/pt-br)
+9. Gov.ee
+10. [Gob.ar](https://www.argentina.gob.ar/)
+
+Part of Module 8 on GovStack LMS
+
+****
+
+### **User/Business Life events (Request for Information, RFI-3)**
 
 **Description of artefact**: RFI-3 visualizes a citizen's user and business journey from 'womb to tomb', enabling us to take a user-centered approach when designing services.
 
@@ -201,7 +222,7 @@ Part of **Module 6 on GovStack LMS**
 
 **Part of Module 8 on GovStack LMS**
 
-### **Request for Information-4 (RFI-4)**
+### Current digital capability in country (**Request for Information, RFI-4)**
 
 **Description of artefact**: RFI-4 enables the country team to establish an initial understanding of the current status quo regarding digital capability in the country we are working with.
 
@@ -209,7 +230,7 @@ Part of **Module 6 on GovStack LMS**
 
 **Part of Module 8 on GovStack LMS**
 
-### **Request for Information-5 (RFI-5)**
+### **User journey (Request for Information, RFI-5)**
 
 **Description of artefact**: RFI-5 allows us to chart every step that the user must take to avail a service. This includes pre-contact, contact and post-contact phase of the service.
 
@@ -307,7 +328,87 @@ Part of **Module 6 on GovStack LMS**
 
 {% file src="../../.gitbook/assets/Final Technical Proposal Report on the Implementation of EPR.pdf" %}
 
-**Part of Module 9.3 on GovStack LMS**
+**Part of Module**&#x20;
+
+### **Wireframes and/or Voice command flow**
+
+**Description of artefact**: **** A digital illustration or a voice command based flow of content blocks, navigation elements and available functionalities and intended behaviour of a service. Shared below is an example of a wireframe developed for Electronic Product Registration Service  based on the proposed 'To-be' User Journey.
+
+****[**Link to artefact**](https://www.figma.com/file/JBV6d6CBM1DyVGlFfdJCRQ/Rwanda?node-id=53%3A2963\&t=ZnGjmWhAlR8eGTA6-0)****
+
+**Part of Module on GovStack LMS**
+
+### Information service sheets
+
+Description of artefact: Describes prerequisits needed to access the service, channels of interaction with the user (In person, Chatbots, voice commands, web applications, virtual assistant and more), information about costs associated with availing the service and legal framework and foundation of the service. The following is an example of a service sheet for applying for a UK pasposrt online.
+
+Link to exmaple [information service sheet](https://www.gov.uk/apply-renew-passport).
+
+
+
+### Downloadable forms
+
+Description of the artefact: Downloadable forms are an intermediate step within the journey to digitise a service. The following are the atributes of a downloadble form: it has a unique identification number, follows the official design standards (seals, logos, font, color scheme and more).&#x20;
+
+Link to example [Visa application form Gob.mx](https://consulmex.sre.gob.mx/calgary/images/stories/pdf/visaapplication.pdf)
+
+
+
+### Web forms
+
+Description of artefact: Web forms allow capture and validation of data provided by the user and digital registires. It is a step above in the journey of digitising services. Web forms follow the official design standards (seals, logos, font, color scheme and more).&#x20;
+
+Link to example [Birth certificate gob.mx](https://www.gob.mx/ActaNacimiento/)
+
+
+
+### Electronic documents
+
+Description of the artefact: Electronic documents are printable represntation of an electronic transactions. For example, a birth certificate obtained online is the proof of an electronic consultation to the population registry.
+
+Link to example [Birth certificate gob.mx](https://www.itu.int/net4/wsis/archive/stocktaking/Project/Details?projectId=1514952997)
+
+###
+
+### Notifications
+
+Description of artefact: Notifications allow a service to contact its users, trough multiple channels (email, sms and more). Notifications can be templatized (following the offecial design standards), allow for personalisation of message, bulk sending of information, API integration, seek permissions.
+
+Example of artefacts [Notifications guidelines and tool from gov.uk](https://www.notifications.service.gov.uk/features)
+
+
+
+### Performance analytics
+
+Description of artefact: With the help of standardised set of monitored data, indicators, anlytical tools and reports, performance analytics can provide effective and eficient analysis on various aspects of a service. Performance analytics most commonly used in services are: digital take-up, user satisfaction, completion rate and cost per transaction.
+
+Example of artefacts [Performance analysis by gov.uk](https://www.gov.uk/service-manual/communities/performance-and-data-analysis-community#performance-analysis-in-the-service-manual)
+
+
+
+### Citizen satisfaction survey
+
+Defenition of artefact: Addition of a simple feedback page within a digitised service can allow analytics of user satisfaction with the service. This is a valuable input in driving the improvement of the service.
+
+Example of artefact [Generic feedback form by gov.uk](https://www.gov.uk/service-manual/service-assessments/get-feedback-page)
+
+
+
+### Accessibility
+
+Definition of artefact: Accessability features allow for a wide base of users, specialy the differently abled (visualy impared, limited motor ability, loss of hearing) users to have access to a service.&#x20;
+
+Example of artefact [W3C accessability guidelines](https://www.w3.org/WAI/standards-guidelines/)
+
+
+
+### List of generic workflows&#x20;
+
+Description of service: This document allows describes standardised, generic, reusable workflows (Example: Consultation to a registry, authorisation of a permit, renewal of a service and declining of a service) that accelerate  the design and development of digital services.
+
+Example of List of generic workflows Guide for the Digitization of Government Procedures and Services
+
+{% file src="../../.gitbook/assets/Gu_a_de_procesos_de_tramitaci_n_electr_nica (1) (2).pdf" %}
 {% endtab %}
 
 {% tab title="GovStack Experience Journal" %}
@@ -336,3 +437,16 @@ Part of **Module 6 on GovStack LMS**
 **Part of Module 11 on GovStack LMS**
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
+
+
+
+
+
+
+

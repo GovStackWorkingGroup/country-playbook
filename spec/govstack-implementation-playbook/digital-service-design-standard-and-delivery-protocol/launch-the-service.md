@@ -30,7 +30,8 @@ Who does what:
 {% endtab %}
 
 {% tab title="Deliverables" %}
-
+* Assisted digital strategy and implementation plan -&#x20;
+*
 {% endtab %}
 
 {% tab title="Next steps" %}
