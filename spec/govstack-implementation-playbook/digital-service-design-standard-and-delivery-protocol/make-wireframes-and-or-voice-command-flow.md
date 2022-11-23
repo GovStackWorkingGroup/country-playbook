@@ -2,7 +2,7 @@
 description: Version for TAC Review October 2022
 ---
 
-# Wireframes and/or voice command flow
+# Make wireframes and/or voice command flow
 
 Within this stage we create a testable design based on a thorough understadning of users’ expectations and ''to-be'' user journey. Sketching, wireframes and/or voice command flow will help you ensure your service reflects your users’ needs. It is a reprsentation of a realistic form and functional service.&#x20;
 
@@ -42,7 +42,7 @@ Who does what&#x20;
 
 {% tab title="Deliverables" %}
 * [Wireframes and/or voice command flow](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow) &#x20;
-* Apply the standardized service components.This includes:
+* Apply the country digital service design standards.This includes standards for:
   * [Service information sheet](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#information-service-sheets)
   * [Downloadable forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
   * [Web forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
@@ -58,7 +58,7 @@ What to do next
 
 * Iterate! Wireframes and/or voice command flow should be quick and painless to create, and even more quick and painless to discard.&#x20;
 * Get service owner approval to proceed with the functional prototype &#x20;
-* Work on the Logical Process Blueprint document for the service.
+* Start work on functional prototype.
 {% endtab %}
 
 {% tab title="Resources" %}

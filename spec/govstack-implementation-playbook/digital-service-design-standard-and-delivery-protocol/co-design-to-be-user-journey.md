@@ -20,7 +20,7 @@ A good co-design process requires:
 * Considering interoperability along the steps of the journey to reach the least viable number of touch points and a seamless experience. &#x20;
 * Identifing access & delivery channels for the service – voice command, web, mobile app, sms, physical presence according to the service community context & needs &#x20;
 * Identifing country legislation, policies & standards regulating the service that need to be updated to enable the 'To-Be' User journey.
-* Identifing service components to be standardized. Standardisation inculcates familiarity with service users, allowing them to easily identify offecial forms/documents/resources and disregard forged ones:
+* Identifing service components to be standardized. These will become a part of Country digital service design standards. Standardisation inculcates familiarity with service users, allowing them to easily identify offecial forms/documents/resources and disregard forged ones:
   * [Service information sheet](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#information-service-sheets)
   * [Downloadable forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
   * [Web forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
