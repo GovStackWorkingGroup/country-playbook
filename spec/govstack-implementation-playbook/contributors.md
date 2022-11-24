@@ -4,7 +4,7 @@ description: Version for TAC Review October 2022
 
 # Contributors
 
-The first iteration of the Playbook has been co-developed by  (listed below in alphabetical order)
+The first iteration of the Playbook has been co-developed by (listed below in alphabetical order)
 
 ### Founding Partners
 
@@ -13,7 +13,7 @@ The first iteration of the Playbook has been co-developed by  (listed below in a
   * Margus Mägi
 * **DIAL**&#x20;
   * Brenda Maday
-  * Diana Song
+  * Diana Sang
   * Jake Watson
   * Sherman Kong
 * **GIZ**&#x20;
