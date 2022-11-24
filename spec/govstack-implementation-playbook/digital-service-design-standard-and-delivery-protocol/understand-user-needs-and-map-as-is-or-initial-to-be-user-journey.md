@@ -8,13 +8,15 @@ Understanding who are we solving a problem for is important for creating a user-
 
 Once we know who our service users are, we need to understand how they are currently “getting the job done” or how their needs are currently being met. This is achieved by developing the 'As-Is' user journey (if the service is already in place) or an '[initial to-be](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=546357928944)' user journey (If it is an entirely new service).&#x20;
 
+<figure><img src="../../.gitbook/assets/User Journey (1).png" alt=""><figcaption><p>'As-is' / 'initial to-be' user journey</p></figcaption></figure>
+
 Observational and structured research will help you hear what users say they like or dislike about their current state. Using a [design thinking](../3-terminology.md#design-thinking) mindset to translate user feedback into underlying goals and problems will allow to identify problems and solutions the users may not have thought to articulate.&#x20;
 
 In addition, no process, service, or product lives in a vacuum, so we want to understand how these fit together to impact the overall user experience. This can be understood in detail through the use of [User/Business Life event map](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-3-rfi-3). Past efforts and solutions will offer useful lessons to refine the understanding of what works and doesn’t work.&#x20;
 
-Involvement from all partners and users participating along the journey is needed to complete their view of the current state of the service and/or what the users need.  Co-developing a shared baseline of where you are starting from is a necessary input for the following steps within the process of designing and delivering a digital service.
+<figure><img src="../../.gitbook/assets/life event1.png" alt=""><figcaption><p><a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-3-rfi-3">User/Business Life event map</a></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/User Journey.png" alt=""><figcaption><p>'As-Is' User journey</p></figcaption></figure>
+Involvement from all partners and users participating along the journey is needed to complete their view of the current state of the service and/or what the users need.  Co-developing a shared baseline of where you are starting from is a necessary input for the following steps within the process of designing and delivering a digital service.
 
 {% tabs %}
 {% tab title="Scope of work" %}
