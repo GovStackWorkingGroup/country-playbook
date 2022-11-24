@@ -4,14 +4,17 @@ description: Version for TAC Review October 2022
 
 # Contributors
 
-The first iteration of the Playbook has been developed by&#x20;
+The first iteration of the Playbook has been co-developed by  (listed below in alphabetical order)
 
 ### Founding Partners
 
 * **Estonian Government-EstDev**
   * Andres Ääremaa
+  * Margus Mägi
 * **DIAL**&#x20;
   * Brenda Maday
+  * Diana Song
+  * Jake Watson
   * Sherman Kong
 * **GIZ**&#x20;
   * Martha Mundas
@@ -19,6 +22,7 @@ The first iteration of the Playbook has been developed by&#x20;
   * Niharika Gujela
   * Nora Hauptmann
   * Pia Seiffarth
+  * Riham Fakhru
   * Stephen Odhiambo
 * **ITU**&#x20;
   * Ayush Shukla
@@ -30,7 +34,7 @@ The first iteration of the Playbook has been developed by&#x20;
   * Dr. P.S Ramkumar
   * Valentina Stadnic
   * Vikash Madduri
-  * Yolanda Martinez&#x20;
+  * Yolanda Martínez&#x20;
 
 ### **Partner organizations**&#x20;
 
