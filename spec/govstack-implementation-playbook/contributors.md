@@ -19,10 +19,12 @@ The first iteration of the Playbook has been co-developed by  (listed below in a
 * **GIZ**&#x20;
   * Martha Mundas
   * Moritz Fromageot
+  * Nico Lueck
   * Niharika Gujela
   * Nora Hauptmann
   * Pia Seiffarth
   * Riham Fakhru
+  * Sarah Fischer
   * Stephen Odhiambo
 * **ITU**&#x20;
   * Ayush Shukla
