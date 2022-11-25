@@ -1,34 +1,28 @@
 # Service prioritization and ranking
 
-Definition of which services digitize first varies country from country. Prioritization criteria shall be based on data gathered through RFI [I](../learning-and-exchange/artefacts.md#request-for-information-1-rfi-1), [II](../learning-and-exchange/artefacts.md#request-for-information-2-rfi-2), [III](../learning-and-exchange/artefacts.md#request-for-information-3-rfi-3), & [IV](../learning-and-exchange/artefacts.md#request-for-information-4-rfi-4) in order to rank services to work with, according to impact & feasibility.  Services that are simple, done in a single iteration within one Ministry outreach are good candidates for quick wins, build a case to adopt a GovStack approach to digital service co-design standard and delivery protocol using reusable building blocks.&#x20;
+Defining which services should be digitized first varies from country to country. Prioritization criteria shall be based on data gathered through Request for Information Forms (RFI) [I](../learning-and-exchange/artefacts.md#request-for-information-1-rfi-1), [II](../learning-and-exchange/artefacts.md#request-for-information-2-rfi-2), [III](../learning-and-exchange/artefacts.md#request-for-information-3-rfi-3), & [IV](../learning-and-exchange/artefacts.md#request-for-information-4-rfi-4) in order to rank according to impact and feasibility. Services that are simple and done in a single iteration within one Ministry outreach are good candidates for quick wins, build a case to adopt a GovStack approach to digital service co-design standard and delivery protocol using reusable building blocks.
 
-Once the information has been gathered and validated with different service owners, strategic services will be accommodated in a matrix format to facilitate clustering and ranking. Implementation will therefore be guided by the previous analysis, starting with services that are of the highest importance and highest feasibility, followed by those with high importance but low feasibility.&#x20;
+Once information has been gathered and validated with different service owners, strategic services should be accommodated in a matrix format to facilitate clustering and ranking. The criterion for prioritization will be based on information obtained from Request for Information Forms (RFI) through RFI, [I](../learning-and-exchange/artefacts.md#request-for-information-1-rfi-1), [II](../learning-and-exchange/artefacts.md#request-for-information-2-rfi-2), [III](../learning-and-exchange/artefacts.md#request-for-information-3-rfi-3), & [IV](../learning-and-exchange/artefacts.md#request-for-information-4-rfi-4) to rank services to work with according to the impact & feasibility of implementation.
 
-The criteria presented in this playbook is a reference criterion. Each country can calibrate current criterion according to information availability, context & needs. &#x20;
+Implementation will therefore be guided by the previous analysis, starting with services that are of the highest importance and highest feasibility, followed by those with high importance but low feasibility.
+
+The criteria presented in this playbook can work as a reference to guide prioritization. However, each country can calibrate current criteria according to information availability, context, and needs.
 
 <figure><img src="../../.gitbook/assets/GetImage.png" alt=""><figcaption><p>Prioritization criteria matrix</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Scope of work" %}
-A comprehensive prioritisation strategy...
+A comprehensive prioritization strategy...
 
-* Defines prioritisation criteria that applies to all government services in the government service catalog
+* Defines prioritization criteria that applies to all government services in the government service catalog
 * Set one or two exemplar services to work with implementing the GovStack approach to digital service co-design and delivery
 * Identify building blocks/shared services to be developed, or re-use from the Digital Public Goods Catalogue&#x20;
-* Rank services according to the priotisation criteria defined
-* Set a road map for digitization of services&#x20;
-{% endtab %}
-
-{% tab title="Activities " %}
-
-{% endtab %}
-
-{% tab title="Digital team" %}
-
+* Rank services according to the prioritization criteria defined
+* Set a roadmap for digitization of services&#x20;
 {% endtab %}
 
 {% tab title="Resources" %}
-The criteria presented in this playbook is a reference criterion. Each digital team can calibrate current criterion according to information availability, context & needs:&#x20;
+The criteria presented in this playbook is a reference criterion. Each digital team can calibrate current criterion according to information availability, context & needs:
 
 | Strategic importance    | Users demand                       | <p></p><ul><li>Number of transactions per month </li><li>Number of service users    </li><li>Is a cross-border service  </li></ul>                                                                                                                                                                                               |
 | ----------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -4,21 +4,20 @@ description: Version for TAC Review October 2022
 
 # Leadership and Governance
 
-The trend towards a digital society has caused many governments to adapt their position and their role in order to be able to provide adequate digital government services.&#x20;
+The trend towards a digital society has caused many governments to adapt their roles, organizations, and processes in order to meet citizens and businesses’ expectations digital government services.
 
-Digital government transformation therefore often comes with the need for changes especially in  legal, institutional, technological, and cultural matters. High-level political commitment is critical to helping the government make necessary reforms in a timely and effective manner. &#x20;
+Digital government transformation, therefore, often requires changes, especially in legal, institutional, technological, and cultural matters. High-level political commitment is critical to helping governments make necessary reforms in a timely and effective manner.
 
-Leading countries in digital government have shown to have strong political leadership, clear vision and strategy, effective governance and organizational structure, and secured funding resources.  \
-In the following, we would like to present guiding questions that can be assessed and answered by the government with regards to its leadership and governance readiness. An internal self-assessment of such will help to focus on potential gaps that could be addressed as a priority: &#x20;
+Leading countries in digital government have shown to have strong political leadership, clear vision and strategy, effective governance and organizational structure, and adequate financial resources.
+
+The section below presents a questionnaire that can be used as a supporting tool to assess the country’s leadership and governance readiness. This internal self-assessment can help identify areas for improvement and define policy priorities as government seek to strengthen their capacities to thrive in the digital age:
 
 {% tabs %}
-{% tab title="Vission" %}
-
-
-* Does the Government have a shared vision for digital transformation? A digital strategy linked to the national development agenda?&#x20;
-* Do top Government leaders (e.g., Ministers, Under-Secretaries, Departments Heads, etc.) understand, own and support the digital government vision? Are non-Government stakeholders included and consulted in the digital government strategy and implementation?&#x20;
+{% tab title="Vision" %}
+* Is there a digital strategy linked to the national development agenda?
+* Do high-level public officials (e.g., Ministers, Deputies, Departments Heads, etc.) understand, support, and engage with the digital government vision? Do non-state stakeholders participate and meaningfully engage with the digital government strategy and implementation?
 * Is the government's vision/digital strategy communicated internally? And externally?&#x20;
-* Does the vision set specific goals for citizens, businesses, employees and other stakeholders?&#x20;
+* Does the vision set specific goals for citizens, businesses, employees, and other stakeholders?&#x20;
 {% endtab %}
 
 {% tab title="Strategy" %}
@@ -38,9 +37,10 @@ In the following, we would like to present guiding questions that can be assesse
 
 {% tab title="Funding " %}
 * Does the government have the sustained funding to implement its digital strategy? Is there a dedicated budget line for digital government?&#x20;
-* Is there a system and processes to monitor government's financial expenditures on digitization based on clear government-wide digital procurement policy?&#x20;
+* Is there a system and processes to monitor the government's financial expenditures?
+* Is there a system and processes to monitor digital procurement?&#x20;
 * Is budget allocation to the digital government strategy tied to KPI and results, cross-agency collaboration, and maintenance and operations?&#x20;
 
-([Cite](https://openknowledge.worldbank.org/handle/10986/32547))&#x20;
+([World Bank 2019](https://openknowledge.worldbank.org/handle/10986/32547))&#x20;
 {% endtab %}
 {% endtabs %}

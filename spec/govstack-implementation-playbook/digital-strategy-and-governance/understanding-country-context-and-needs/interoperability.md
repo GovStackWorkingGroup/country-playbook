@@ -4,20 +4,9 @@ description: Version for TAC Review October 2022
 
 # Interoperability
 
-In the context of Digital Government, Interoperability is the ability of ICT systems and business processes in government agencies to share information and knowledge within and across organizational boundaries, in order to better support the provision of public services as well as strengthen support to public policies and processes.&#x20;
+In the context of digital government, interoperability is the ability of ICT systems and business processes in government agencies to share information and knowledge within and across organizational boundaries, in order to better support the provision of public services as well as strengthen support for the implementation of public policies and processes.&#x20;
 
-&#x20;
-
-Interoperability must be achieved between Government and  they are usually classified as: &#x20;
-
-* Government to Citizen/Community interaction – G2C;&#x20;
-* Government to Employee interaction – G2E; &#x20;
-* Government to Business interaction – G2B; &#x20;
-* Government to Government interaction – G2G.&#x20;
-
-&#x20;
-
-For this section we adopt the Interoperability Maturity Assessment of a Public Service (IMPAS)  tool in order to assess and improve the behavioral interoperability maturity of a digital public service.  The IMPAS provides public administrations insight into two key aspects of their interoperability performance:&#x20;
+For this section we adopt the Interoperability Maturity Assessment of a Public Service (IMAPS)  tool in order to assess and improve the behavioral interoperability maturity of a digital public service.  The IMPAS provides public administrations insight into two key aspects of their interoperability performance:&#x20;
 
 • The current interoperability maturity level of a Public Service&#x20;
 
@@ -37,7 +26,7 @@ A five-stage approach is often seen in proven maturity models and is considered 
 
 <figure><img src="../../../.gitbook/assets/GetImage (15).png" alt=""><figcaption></figcaption></figure>
 
-The desired interoperability level for a digital public service is at least level 4: “Sustainable”. At this level, the digital public service is considered to have implemented all relevant best practices. ([Cite](https://joinup.ec.europa.eu/sites/default/files/distribution/access\_url/2021-09/6314de11-0846-4fa6-970f-58feca63aede/IMAPS%20v2.0.0%20User%20Guide.pdf))
+The desired interoperability level for a digital public service is at least level 4: “Sustainable”. At this level, the digital public service is considered to have implemented all relevant best practices. ([European Union 2021](https://joinup.ec.europa.eu/sites/default/files/distribution/access\_url/2021-09/6314de11-0846-4fa6-970f-58feca63aede/IMAPS%20v2.0.0%20User%20Guide.pdf))
 
 IMAPS Components’ attributes&#x20;
 

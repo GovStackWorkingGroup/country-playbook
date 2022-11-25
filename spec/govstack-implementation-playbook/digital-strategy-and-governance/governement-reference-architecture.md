@@ -4,11 +4,11 @@ description: Version for TAC Review October 2022
 
 # Governement Ecosystem Reference Architecture (GERA)
 
-Government Enterprise Architecture (GEA) provides a structured, model-driven methodology to approach strategic transformations, in both business operations as well as for supporting information systems. The drivers for an architecture project commonly include the need to address business-technology alignment and management of complexity. The architecture provides structure and rigor to documenting, analyzing and integrating the components of an enterprise, ranging from its business operating model to system design, to physical technology infrastructure. Analysis is performed between the current state business and the current state systems, as well as between the current and future state of the business operating model.
+Government Enterprise Architecture (GEA) provides a structured, model-driven methodology to support strategic changes in business operations and information systems. The drivers of an architecture project commonly include the need to address business-technology alignment and management of complexity. The architecture provides structure and rigor to documenting, analyzing and integrating the components of an enterprise, ranging from its business operating model to system design and physical technology infrastructure. The analysis considers both the present and future states of the business operating model and systems.
 
-The chief objective of the GERA is to provide an (approach to) open source reference architecture ecosystem supported by interoperable building blocks, digital service standards so as to increase the efficiency and effectiveness of core government services through optimized digital infrastructure. The GERA encourages the nations to adopt the framework to develop the Minimum Viable Products (in the short run) so as to move towards the giant leap of digital transformation (in the long run); both may be useful to be referred by the decision makers.
+The main goal of the GERA is to provide an (approach to) open source reference architecture ecosystem supported by interoperable building blocks and digital service standards to leverage the efficiency and effectiveness of core government services through optimized digital infrastructure. The GERA encourages countries to adopt its framework to develop the Minimum Viable Products (in the short run) so as to move towards the giant leap of digital transformation (in the long run); both may be useful to be referred by the decision makers.
 
-Reference architecture is the blueprint you use to put the pieces of a puzzle together. Digital teams use reference architecture to promote the reuse of common assets, and identify gaps in capability. ([Cite](https://www.digital.nsw.gov.au/delivery/digital-service-toolkit/resources/technology-and-tools/reference-architecture))&#x20;
+Reference architecture is the blueprint used to put the pieces of the organizational puzzle together. Digital teams use reference architecture to promote the reuse of common assets and identify capability gaps ([NSW Government n.d.](https://www.digital.nsw.gov.au/delivery/digital-service-toolkit/resources/technology-and-tools/reference-architecture))&#x20;
 
 It does this by:&#x20;
 
@@ -52,7 +52,7 @@ Who does what:
 * LMS Modules: 1, 2, 3 &#x20;
 * [Architecture and non0functional requirements](https://app.gitbook.com/s/Mv07ks4AhtBDCIkO2zgW/building-blocks/architecture-and-nonfunctional-requirements)
 * [GovStack Ecosystem Reference Architecture and Business Guide for Public Digital Platforms](https://docs.google.com/document/d/14iQyWWhH284GEkNvLWlwZOEdOBgYSDQw/edit?usp=sharing\&ouid=107531587157017296326\&rtpof=true\&sd=true),  [The Open Group Standard](https://www.opengroup.org/)
-* In Australia, their [reference architecture document](https://www.digital.nsw.gov.au/delivery/digital-service-toolkit/resources/technology-and-tools/reference-architecture) provides digital teams the guidance they need to align current and emerging tech into a sound orchestration of solutions to enable digital government service design and delivery
+* In New South Wales Australia, their [reference architecture document](https://www.digital.nsw.gov.au/delivery/digital-service-toolkit/resources/technology-and-tools/reference-architecture) provides digital teams the guidance they need to align current and emerging tech into a sound orchestration of solutions to enable digital government service design and delivery
 {% endtab %}
 {% endtabs %}
 
