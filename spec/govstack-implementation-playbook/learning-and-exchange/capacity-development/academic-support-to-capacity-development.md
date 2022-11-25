@@ -6,7 +6,7 @@ description: Version for TAC Review October 2022
 
 ### How Academia can help to build capacity?
 
-To understand the current state of education in the digital transformation domain, it is useful to take a look through the lens of established competences and qualifications frameworks. These frameworks help to identify the necessary skills in a certain career path related to [GovStack Implementation journey](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B5E3EDC8E-BC41-478D-9FF7-F6A701D3D8E1%7D\&file=version0.7Country%20Engagement%20Journey.pptx\&action=edit\&mobileredirect=true\&cid=83986c72-9b1b-46c0-99b3-4b4a30a6c1f7). It is useful for education institutions in the process of designing curriculum and ensuring the students get the necessary skills to support GovStack approach. Additionally, when designing the curriculum, several issues need to be addressed, as a first step to supporting the long term development of capacity building in the country [Digital skills](onenote:https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/General/Country%20Engagement/Country%20Engagement%20Playbook/Chapter%201%20-%20Governance%20and%20Strategy/Chapter%201%20Governance%20and%20Strategy/Readiness%20assessment.one#Digital%20skills\&section-id=882b8633-13a3-4a26-bb96-b683c5fc3937\&page-id=95a6eeaa-8bfd-4cb6-97c7-d574d4e4fb0c\&end) ([Web view](https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc={9e9fdba0-3f52-4af6-8c3c-0bcf9e0b338e}\&action=edit\&wd=target%28Readiness%20assessment.one%7C882b8633-13a3-4a26-bb96-b683c5fc3937%2FDigital%20skills%7C95a6eeaa-8bfd-4cb6-97c7-d574d4e4fb0c%2F%29\&wdorigin=703\&wdpreservelink=1)).&#x20;
+To understand the current state of education in the digital transformation domain, it is useful to take a look through the lens of established competences and qualifications frameworks. These frameworks help to identify the necessary skills in a certain career path needed in the digitalization journey. It is useful for education institutions in the process of designing curriculum and ensuring the students get the necessary skills to support GovStack approach. Additionally, when designing the curriculum, several issues need to be addressed, as a first step to supporting the long term development of capacity building in the country [Digital skills](../../digital-strategy-and-governance/understanding-country-context-and-needs/digital-skills.md).
 
 The multidisciplinary approach should be considered as it allows students to increase their strengths as well as fill in gaps in their knowledge in the areas of technical skills, service design, ethics, creative problem solving, the regulation of technologies, legislation, and generally in the digital transformation.&#x20;
 
@@ -26,7 +26,7 @@ GovStack Approach supportive curricula are following the [European Qualification
 
 
 
-_**Table Showing e-CF Stages, and Relevant Competencies recommended for the Stakeholders Involved**_
+_**Table Showing**_ [_**e-CF Stages**_](academic-support-to-capacity-development.md#e-competence-framework-e-cf)_**, and Relevant Competencies recommended for the Stakeholders Involved**_
 
 {% tabs %}
 {% tab title="Plan" %}
@@ -128,17 +128,19 @@ In order to sustain a digital society, it is equally important to continuously m
 
 ### Skills and Competences to support academic programmes
 
-In terms of the GovStack approach, the country should consider the long term strategy for digitalization and that means that academic support must be considered. In short term perspective to keep things up and running within the GovStack eco-system, the general GovStack approach is sufficient. However, in order to create sustainability within country digital teams, academic support is very valuable. &#x20;
+The successful implementation of the GovStack Approach requires countries to consider a long-term strategy that accounts for the kind of academic support that is needed to achieve digitalization goals. From a short-term perspective, the general GovStack approach is sufficient to keep the GovStack eco-system up and running. However, in order to foster sustainability within country digital teams, academic support is a valuable asset to ensure that long-term goals are met. &#x20;
 
-While developing university programmes for Masters' level, universities should consider in addition to theoretical approaches also labour market needs based on different competency and qualification frameworks. These frameworks mirror clearly the skills what are needed in different domains. &#x20;
+While developing university programmes at the Masters' level, universities should consider not only theoretical approaches, but also labor market needs based on different competency and qualification frameworks. These frameworks reflect the skills that are needed in different domains within digitalization. &#x20;
 
 <details>
 
-<summary><a href="https://eapc.gencat.cat/web/.content/home/publicacions/col_leccio_eines_per_als_recursos_humans/11_Marc_competencial/Eines-11_angles.pdf">EAPC Competency Framework</a></summary>
+<summary><a href="https://eapc.gencat.cat/web/.content/home/publicacions/col_leccio_eines_per_als_recursos_humans/11_Marc_competencial/Eines-11_angles.pdf">Public Administration School of Catalonia (</a><a href="https://eapc.gencat.cat/web/.content/home/publicacions/col_leccio_eines_per_als_recursos_humans/11_Marc_competencial/Eines-11_angles.pdf">EAPC) Competency Framework</a></summary>
 
 _**Description**_
 
-EAPC [Competency framework](http://eapc.gencat.cat/web/.content/home/publicacions/col\_leccio\_eines\_per\_als\_recursos\_humans/11\_Marc\_competencial/Eines-11\_angles.pdf) is meant for innovative professionals in public administrations. It describes the eight key skills that are necessary to tackle innovation in the public sector: self-organization, independent learning, creativity, communication, teamwork, networking, capturing trends and risk management. The publication reflects three primary vectors, the individual, the team, and the organization. To achieve innovation, the individual needs to be action-oriented; the team needs to be cooperative; and the organization must be sustainable.&#x20;
+The [EAPC Competency framework](http://eapc.gencat.cat/web/.content/home/publicacions/col\_leccio\_eines\_per\_als\_recursos\_humans/11\_Marc\_competencial/Eines-11\_angles.pdf) is destined for innovative professionals working in public sector organizations. It describes the eight skills that are necessary to promote innovation in the public sector: self-organizations, independent learning, creativity, communication, teamwork, networking, capturing trends and risk management. The framework reflects three primary vector:, the individual, the team, and the organization. To achieve innovation, the individual needs to be action-oriented; the team needs to be cooperative; and the organization must be sustainable.
+
+This kind of competency framework aligns with the GovStack Approach as it supports co-design and an agile mindset. As such, it is easy to combine its iterative style with the training plans that GovStack envisages for capacity building.
 
 ![](<../../../.gitbook/assets/GetImage (4).png>)
 
@@ -152,7 +154,7 @@ This type of competency framework serves well GovStack approach as it supports c
 
 _**Description**_
 
-(ISCO) is one of the main international classifications for which ILO is responsible. ISCO is a tool for organizing jobs into a clearly defined set of groups according to the tasks and duties undertaken in the job. ISCO-08 is a four-level hierarchically structured classification that allows all jobs to be classified into 436 unit groups. They are aggregated into 130 minor groups, 43 sub-major groups and 10 major groups.[\[1\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn1)&#x20;
+(ISCO) is one of the main international classifications for which the International Labor Organization (ILO) is responsible. ISCO is a tool for organizing jobs into a clearly defined set of groups according to the tasks and duties undertaken in the job. ISCO-08 is a four-level hierarchically structured classification that allows all jobs to be classified into 436 unit groups. They are aggregated into 130 minor groups, 43 sub-major groups and 10 major groups.[\[1\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn1)&#x20;
 
 _**Link**_
 
@@ -224,13 +226,13 @@ It includes 97 skills across 6 categories: Strategy and architecture, Change and
 
 SFIA introduces 7 different levels of responsibility, at which skills can be exercised. However, the seven levels are not applicable to all skills, as some are necessary at entry level and some at senior roles.[\[8\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn8) &#x20;
 
-A practical example of using SFIA is Australian work on the creation of [Digital Career Pathways Framework.](https://data.gov.au/data/dataset/aps-digital-career-pathways/resource/760f26e7-41e2-4991-814b-3e168fd80444)[\[9\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn9), which is supposed to help identify career routes and spot the skill gaps.&#x20;
+An example of the SFIA application can be found in the Australian work on the creation of the [Digital Career Pathways Framework ](https://www.psc.nsw.gov.au/workforce-management/capability-framework/digital-career-pathways-tool)[\[9\]](https://www.psc.nsw.gov.au/workforce-management/capability-framework/digital-career-pathways-tool) a supporting tool to identify career routes and skill gap
 
 _**Links**_
 
 [\[8\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref8) [https://sfia-online.org/en](https://sfia-online.org/en) &#x20;
 
-[\[9\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftnref9) [https://www.dta.gov.au/blogs/future-digital-career-pathways-aps](https://www.dta.gov.au/blogs/future-digital-career-pathways-aps)&#x20;
+[\[9\] https://sfia-online.org/en  ](https://www.psc.nsw.gov.au/workforce-management/capability-framework/digital-career-pathways-tool)
 
 </details>
 
@@ -272,46 +274,43 @@ _**Links**_
 
 _**Description**_
 
-[e-CGF](https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FCountry%20Engagement%20Playbook%2FStandards%20and%20regulations%2Fe%5Fgovernance%5Fcompetency%5Fframework%5F1%5FIndia%2Epdf\&parent=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FCountry%20Engagement%20Playbook%2FStandards%20and%20regulations) provides along with the toolkit easy steps on how to structure an e-Governance team and how to conduct fact based training needs analysis for competency benchmarking. It includes 19 identified e-governance roles categorized into 2 major roles: 8 administrative and 11 technical roles.&#x20;
+[e-GCF](https://www.unapcict.org/resources/ictd-infobank/e-governance-competency-framework-digital-india-implementation-toolkit) provides along with the toolkit easy steps on how to structure an e-Governance team and how to conduct fact-based training needs analysis for competency benchmarking. It includes 19 identified e-governance roles categorized into 2 major roles: 8 administrative and 11 technical roles.&#x20;
 
-It covers all kinds of competences and is not limited to IT capabilities only. The [e-GCF ](https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FCountry%20Engagement%20Playbook%2FStandards%20and%20regulations%2Fe%5Fgovernance%5Fcompetency%5Fframework%5F1%5FIndia%2Epdf\&parent=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FCountry%20Engagement%2FCountry%20Engagement%20Playbook%2FStandards%20and%20regulations)aligns competencies across four dimensions: Professional Skills Set, Knowledge Set, Behavioral Set and Qualifications Set. It also recommends improvements in recruitment processes and outcomes, and performance evaluation.&#x20;
+It covers all kinds of competencies and is not limited to IT capabilities only. The [e-GCF](https://www.unapcict.org/resources/ictd-infobank/e-governance-competency-framework-digital-india-implementation-toolkit) aligns competencies across four dimensions: Professional Skills Set, Knowledge Set, Behavioral Set, and Qualifications Set. It also recommends improvements in recruitment processes and outcomes, and performance evaluation.&#x20;
 
 </details>
 
 ### Study Programs Structure
 
-GovStack will be using a descriptive and e-learning approach i.e. module and LMS to train the stakeholders.&#x20;
+GovStack uses a descriptive and e-learning approach, that is the [GovStack Learning Management System](../govstack-learning-management-system/) to train the stakeholders.&#x20;
 
 The main learning outcomes to support the GovStack's approach will give &#x20;
 
-* Understanding of the different competencies need for digital journey &#x20;
-* help different co-design techniques and know how to use this knowledge in GovStack approach&#x20;
+* Enabling an understanding of the different competencies needed for digital journey
+* Informing different co-design techniques and applying this knowledge to implement the GovStack Approach
 
 {% tabs %}
 {% tab title="Learning Objectives" %}
 #### Learning Objectives
 
-Within GovStack approach, it is very important to educate the future leaders of the digital transformation who are able to implement the GovStack vision. As GovStack requires various knowledge in the field of transformation the academic education path should follow the GovStack's standard users profiles:&#x20;
-
-* IT specialist&#x20;
-* Service Designers&#x20;
-* Top management and Policy makers&#x20;
-* Trainers&#x20;
+Within GovStack approach, it is very important to educate the future leaders of the digital transformation who are able to implement the GovStack vision. As GovStack requires various knowledge in the field of transformation the academic education path should follow the [GovStack's standard users profiles](../../annex/govstack-user-profiles-taxonomy.md).
 {% endtab %}
 
 {% tab title="Learning Content" %}
-The main areas which should be covered in the masters programmes are the follows:&#x20;
+The main areas which should be covered in the masters programs are as follows:&#x20;
 
 * **Digital Government** where the purpose to get students to recognize what is different about governing in an era filled with pervasive digital technologies.&#x20;
 * **The building blocks of the digital government** which is about understanding that government digital systems are made up from components, and that the choice of which components to use is critical. It also lays out the idea of 'Government as a Platform'.&#x20;
 * **Service orientation in the public sector** which is about using practices and technologies of the digital era to rapidly and continually improve government services and policies as well move towards proactive life event services.&#x20;
 * **Service design** where students learn why public servants need to be focused on users and their needs. Instructors will help students understand when and why they will need to apply design methods to solve problems.
-* **Interoperability and next generation government architecture** where students will learn about  single-source governance rules and security protocols to be implemented across all data assets, virtually eliminating the possibility of units within the same organization creating wrinkles in cyber defenses through varied processes&#x20;
+* **Interoperability and next generation government architecture** where students will learn about  single-source governance and security protocols to be implemented across all data assets
 * **Data management** is to help understand statistics as well identify opportunities to use data to solve real world government problems. The practical challenges related to data access and privacy/security&#x20;
 * **Automatization and data** where purpose is to help students to be aware that digital era governments create and manage data as a function for every activity to allow participatory AI solutions for public service a&#x20;
 * **Participatory governance** is to help students understand what it means to ‘work in the open’ in government, and to explain the many different interpretations and manifestations of ‘openness’ that are applied in modern governments.&#x20;
 * **Legal framework** to help students to anticipate the most common barriers related to legal acts and standards which government encounter within real government functions &#x20;
 * **Identity management and security in networked world** where students learn about identity management in data governance – how it to ensure data quality and security through access controls across critical data systems. The topic sums up the policies, processes, standards, metrics, and roles that ensure that data is used effectively to help an organization realize its objectives&#x20;
+
+__[_Source: Teaching Public Service_](https://www.teachingpublicservice.digital/en/syllabus-index)__
 {% endtab %}
 
 {% tab title="Teaching Techniques" %}
@@ -327,7 +326,7 @@ As GovStack approach is very focused on country engagement and involves much col
 
 <figure><img src="../../../.gitbook/assets/Academia.png" alt=""><figcaption><p>An interdisciplinary approach of the study programme</p></figcaption></figure>
 
-The **expected learning outcomes** should ensure the programme meets the following: &#x20;
+The **expected learning outcomes** should ensure the program meets the following: &#x20;
 
 {% tabs %}
 {% tab title="Knowing" %}
@@ -363,4 +362,4 @@ b. Learning to analyze and propose  digital concepts for governance and public s
 {% endtab %}
 {% endtabs %}
 
-The academic study programme should serve as an enabler of providing knowledge and skills at the intersection of technology, business and management, design thinking and policy sides. The reason for such an interdisciplinary approach lies in the needs of the labour market.&#x20;
+The academic study program should serve as an enabler of providing knowledge and skills at the intersection of technology, business and management, design thinking and policy sides. The reason for such an interdisciplinary approach lies in the needs of the labor market.&#x20;

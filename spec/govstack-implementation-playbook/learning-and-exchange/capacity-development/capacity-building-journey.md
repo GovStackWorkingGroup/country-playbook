@@ -6,19 +6,21 @@ description: Version for TAC Review October 2022
 
 ### Capacity Building Journey&#x20;
 
-Capacity-building is defined as the process of developing and strengthening the skills, instincts, abilities, processes and resources that organizations and communities need to survive, adapt, and thrive in a fast-changing world. Through capacity building, organizations share knowledge, expertise and good practices to react better and faster to emergencies. GovStack approach is very iterative and co-creation based. The main activities within GovStack GovStack Capacity Building approach is described as follows:&#x20;
+Capacity-building process involves establishing and enhancing skills, instincts, abilities, processes, and resources that organizations and communities require to survive, adapt, and thrive in a rapidly changing world. Organizations share information, skills, and best practices through capacity development. GovStack's methodology is highly iterative and co-creation based [(ITU 2022).](https://www.un.org/en/academic-impact/capacity-building)
+
+The main activities within GovStack GovStack Capacity Building approach is described as follows:&#x20;
 
 <details>
 
 <summary>12 steps of the Capacity Framework Journey</summary>
 
-1. Define profiles, [roles](https://gizonline.sharepoint.com/:w:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B814A41FB-59BA-4851-99E6-D164CCCA77DE%7D\&file=Team%20profile%20skills%2C%20roles%20and%20responsibilities.docx\&action=default\&mobileredirect=true), and qualifications in order to understand the existing roles of the country. Prioritize profiles based on its criticality.&#x20;
+1. Define [profiles, roles, and qualifications](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy) to understand the existing roles of the country. Prioritize profiles based on its criticality.&#x20;
 2. Conduct capacity building needs assessment and SWOT analysis&#x20;
-3. Identify gaps and try to understand what type of skills are needed, using [RFI 4](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B5E3EDC8E-BC41-478D-9FF7-F6A701D3D8E1%7D\&file=version0.7Country%20Engagement%20Journey.pptx\&action=edit\&mobileredirect=true\&cid=83986c72-9b1b-46c0-99b3-4b4a30a6c1f7) as a guide.   &#x20;
+3. Identify gaps and try to understand what type of skills are needed, using [RFI 4 ](https://form.jotform.com/222551422978056)as a guide.   &#x20;
 4. Review capacity-building inventory and identify gaps in capacity-building assets.
 5. Complete curriculum map and validate with users in order to understand what type of skills are needed.&#x20;
-6. Align capacity-building intervention with the HOAI's program lifecycle.
-7. Design learning journeys per one user persona and refine [Excel spreadsheet](https://gizonline.sharepoint.com/:x:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B3376623E-C009-4D74-81AB-75C54849E6CE%7D\&file=Capacity%20Building%20Framework.xlsx\&action=default\&mobileredirect=true).
+6. Align capacity-building intervention.
+7. Design learning journeys per one user persona.
 8. The design team and organizational interventions.
 9. Complete and cost capacity building program and MEL.
 10. Consolidate capacity building activities.
@@ -27,7 +29,7 @@ Capacity-building is defined as the process of developing and strengthening the 
 
 </details>
 
-The process of these activities and main tools used can be found here [Capacity Building Framework Journey](https://miro.com/app/board/uXjVPfe\_-C4=/). The framework encompasses the whole [Country Implementation Journey](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B5E3EDC8E-BC41-478D-9FF7-F6A701D3D8E1%7D\&file=version0.7Country%20Engagement%20Journey.pptx\&action=edit\&mobileredirect=true\&cid=83986c72-9b1b-46c0-99b3-4b4a30a6c1f7), and timeline for all the Capacity Building activities.
+The process of these activities and main tools used can be found in the Capacity Building Framework Journey below.&#x20;
 
 
 
@@ -37,7 +39,7 @@ Additionally, GovStack has created a supportive environment for capacity buildin
 
 ### Development and Customization of Capacity Building
 
-GovStack focuses a lot on process and people within the implementation journey. We have defined capacity building as a process in which individuals, organizations and societies, develop, strengthen and maintain the skills to implement GovStack’s BB. Capacity development is not a single intervention but an iterative process of design-application-learning-adjustment.&#x20;
+GovStack focuses a lot on process and people within the implementation journey. Capacity building is the process in which individuals, organizations and societies, develop, strengthen and maintain the skills to implement GovStack’s Building Blocks. Capacity development is not a single intervention but an iterative process of design-application-learning-adjustment.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2022-10-19 175040 (1).png" alt=""><figcaption><p>GovStack Design Thinking Framework for Creating Learning Experiences</p></figcaption></figure>
 
@@ -138,12 +140,12 @@ d. Curriculum adaptation&#x20;
 
 e. Action Plan. Find below an example&#x20;
 
-|   |   |   |   |   |   |
-| - | - | - | - | - | - |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
+| Detailed description of the Strengthening Measure | Responsibility | Timeline |  Total Funding |  Funding source | Technical Assistance |
+| ------------------------------------------------- | -------------- | -------- | -------------- | --------------- | -------------------- |
+|                                                   |                |          |                |                 |                      |
+|                                                   |                |          |                |                 |                      |
+|                                                   |                |          |                |                 |                      |
+|                                                   |                |          |                |                 |                      |
 
 &#x20;
 
@@ -169,10 +171,11 @@ e. Action Plan. Find below an example&#x20;
 
 &#x20;
 
-The [training plan](https://gizonline.sharepoint.com/:w:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/General/Country%20Engagement/Country%20Engagement%20Playbook/Templates/Training%20plan%20template.docx?d=wb3af34478fba47319ec60068220d86f6\&csf=1\&web=1\&e=Vvhe5b) as an important plan of the capacity building \
-Different platforms and tools which can be used as a training platform&#x20;
+5\. The training plan as an important plan of the capacity building:&#x20;
 
-[Different level of the trainings](https://gizonline.sharepoint.com/:b:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/General/Country%20Engagement/Country%20Engagement%20Playbook/Standards%20and%20regulations/eGov%20Roles%20Catalog.pdf?csf=1\&web=1\&e=iC8fOA) (top/middle management, end users, service designers, technician who should know the BB)&#x20;
+The platforms and tools which can be used as a training platform&#x20;
+
+Different level of the trainings (top/middle management, end users, service designers, technician who should know the BB)&#x20;
 
 Implementation methodology and possible timeline (what kind of trainings are needed, who is responsible)&#x20;
 {% endtab %}
@@ -184,19 +187,25 @@ For many years, research and practice has recognized differences between how chi
 
 {% tabs %}
 {% tab title="Rationale" %}
-**Adults need to know the reason for learning something,** translating into practice, when adapting content is important that trainers clearly describe the learning objectives and provide spaces to understand participant's motivations (e.g., collecting participant's information during pre-planning stage, facilitating the "participant's expectations" at the beginning of capacity building sessions and make connections throughout the sessions). &#x20;
+**Adults need to know the reason for learning something..**
+
+In practical terms, it is important that instructors clearly describe the learning objectives and provide spaces to understand participant’s motivations when preparing learning materials (e.g., collecting participants’ information during the planning stage, mapping participants’ expectations at the beginning of capacity building sessions and making connections between the content presented throughout the sessions&#x20;
 {% endtab %}
 
 {% tab title="Experiences" %}
-**Adult life experiences are a rich resource for learning (or barrier).** Over the years, adults have accumulated knowledge and experiences that can be leveraged as a resource for learning. In fact, cognitive science has shown that adults tend to refer back to past knowledge first. This experiences can be sourced through pairing exercises, group discussion, and problem solving exercises.&#x20;
+**Adult life experiences are a rich resource for learning (or barrier)...**
+
+Over the years, adults accumulate knowledge and experiences that can be leveraged as learning resources. In fact, cognitive science has shown that adults tend to resort to past knowledge as a primary learning tool. These experiences can be harnessed through pairing exercises, groups discussions, and problem-solving exercises.
 {% endtab %}
 
 {% tab title="Pertinence" %}
-**As people mature there is a change in time perspective** – from future application of knowledge to immediacy. In other words, adults want to learn a skill or acquire knowledge that they can apply pragmatically to their immediate circumstances. Life or work-related situations present a more appropriate framework for adult learning than academic or theoretical approaches. &#x20;
+**As people mature there is a change in time perspective...**
+
+Adults tend to prioritize acquiring knowledge that ca be applied immediately. In that sense, knowledge that can directly applied to life or work-related situations can be more attractive to adult learners than purely academic or theoretical approaches
 {% endtab %}
 
 {% tab title="Learning Styles" %}
-**Learning styles are influenced** by personality type, educational specialization, career choice, and current job role and task. Designing capacity building programs that engage different learning styles and adapt to different contexts are more effective.&#x20;
+**Learning styles are influenced** by personality type, educational background, career choices, and current job role and associated tasks. Designing capacity building programs that engage different learning styles techniques and adapt to different contexts can be an effective way to ensure that learning objectives are met.
 {% endtab %}
 {% endtabs %}
 

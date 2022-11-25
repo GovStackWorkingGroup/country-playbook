@@ -6,12 +6,16 @@ description: Version for TAC Review October 2022
 
 This playbook section underscores a systematic and synergistic approach to learning and knowledge-sharing. Furthermore, it outlines the framework and steps for Capacity Building, digital skills in relation to Capacity Building, capacity assessment, and how academic institutions support a country's capacity development.&#x20;
 
-{% hint style="info" %}
-Describes:
+{% hint style="danger" %}
+It describes:
 
-1. Capacity building framework
-2. Capacity building journey
-3. Digital skills in relation to capacity building
-4. Assessment of capacity.
-5. Academic support to Capacity development
+&#x20; 1\. Capacity building framework
+
+&#x20; 2\. Capacity building journey
+
+&#x20; 3\. Digital skills in relation to capacity building
+
+&#x20; 4\. Assessment of capacity.
+
+&#x20; 5\. Academic support to Capacity development
 {% endhint %}

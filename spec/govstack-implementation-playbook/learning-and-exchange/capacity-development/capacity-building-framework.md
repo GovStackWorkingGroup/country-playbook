@@ -6,7 +6,7 @@ description: Version for TAC Review October 2022
 
 ### _**Key Definitions and Activities**_
 
-GovStack focuses a lot on process and people within the implementation journey. We have defined capacity building as a process in which individuals, organizations and societies, develop, strengthen and maintain the skills to implement GovStack’s BB. Capacity development is not a single intervention but an iterative process of design-application-learning-adjustment.&#x20;
+GovStack focuses a lot on process and people within the implementation journey. Capacity building is a process in which individuals, organizations and societies, develop, strengthen and maintain the skills to implement GovStack’s Building Blocks. Capacity development is not a single intervention but an iterative process of design-application-learning-adjustment.&#x20;
 
 Capacity building activities include:
 
@@ -36,7 +36,7 @@ GovStack supports its governments throughout the knowledge management cycle with
 
 ### How GovStack Approach can be supported
 
-While we are talking how GovStack approach can be supported then we often ask questions first such as; how can governments become more open and transparent, while simultaneously dealing with various challenges, such as data sensitivity?  Which technologies are available to make governments more open and to use open government data? How can data be turned into smartness? &#x20;
+In its ongoing efforts to improve how governments can reap the benefits of digitalization, the GovStack team frequently asks key questions to guide the development of its activities. These questions include; how can governments become more open and transparent, while simultaneously dealing with various challenges, such as data sensitivity?  Which technologies are available to make governments more open and to use open government data? How can data be turned into smartness? &#x20;
 
 #### Reuse and Improve Principle
 
@@ -46,13 +46,13 @@ The GovStack Initiative strongly believes in the principle to" reuse and improve
 {% tab title="Creating" %}
 _**Creating new training resources**_
 
-There are still gaps for trainings around whole of government approach, developing digital infrastructure. The GovStack Initiative is happy to collaborate on the creation of new learning content with our partners.&#x20;
+There are still training gaps concerning the whole-of-government approach and the development of digital infrastructure&#x20;
 {% endtab %}
 
 {% tab title="Sharing" %}
 _**Sharing e-learnings, guidelines, toolkits or training material**_
 
-Numerous institutions, both governmental and private sector, have created their own learning material to increase skills needed around the digital transformation of government services. We don´t have to reinvent the wheel but build on team members' ideas, share them with other governments and initiatives like GovStack.&#x20;
+Numerous institutions, both from the public and private sectors, have created their own learning materials to increase the skills needed to push the digital transformation of government services forward
 {% endtab %}
 
 {% tab title="Sharing Formats" %}
@@ -76,12 +76,12 @@ Foster openness to chance and chance management. Digitizing Government Services 
 
 ### Specialized Communities of Practice
 
-Within GovStack approach as a starting point we have developed Communities of Practice in order to share knowledge and experiences between various stakeholders and countries' focal points. \
+The starting point of the GovStack approach was the development Communities of Practice in order to share knowledge and experiences between various stakeholders and countries' focal points.\
 &#x20;
 
 <figure><img src="../../../.gitbook/assets/GetImage.jpeg" alt=""><figcaption><p>GovStack Communities of Practice</p></figcaption></figure>
 
-GovStack approach is very dependent on best practices, experiences and knowledge sharing. The Communities of Practice (CoPs) are topic related or regional exchange forums to share knowledge and experiences related to the GovStack approach. The current CoPs are the following:
+The GovStack approach relies heavily on best practices, experiences and knowledge sharing. The Communities of Practice (CoPs) are topic-related or regional exchange forums to share knowledge and experiences concerning the GovStack approach. The current CoPs are the following:
 
 {% tabs %}
 {% tab title="Technical Review Committee" %}
@@ -123,7 +123,7 @@ Aim: Map and identify opportunities to collaborate and extend existing work rela
 {% endtab %}
 
 {% tab title="Resources" %}
-See the recent work: [GovStack Definitions: Understanding the Relationship between Digital Public Infrastructure, Building Blocks & Digital Public Goods](https://digitalpublicgoods.net/DPI-DPG-BB-Definitions.pdf)&#x20;
+See the recent work: [GovStack Definitions: Understanding the Relationship between Digital Public Infrastructure, Building Blocks & Digital Public Goods (GIZ and DPGA 2022).](https://digitalpublicgoods.net/DPI-DPG-BB-Definitions.pdf)
 {% endtab %}
 {% endtabs %}
 
@@ -135,15 +135,15 @@ Additionally, the CoPs seek to learn from other countries such as India and Sing
 
 In India, the Department of Administrative Reforms & Public Grievances (DARPG) under the Ministry of Personnel, Public Grievances and Pensions has set-up an “E-Governance Division” that coordinates and supports the implementation of National eGovernance Plan (NeGP) and Digital India programs owned by Ministry of Electronics and Information Technology (MeitY).
 
-The division has conceptualized “Capacity Building through Master eGovernance Training Plan (MeTP)” for the years 2013-15. MeTP intends to build the capacity of central government employees for implementing e-Governance projects.
+The division has conceptualized “[Capacity Building through Master eGovernance Training Plan (MeTP)](https://www.meity.gov.in/dic)” for the years 2013-15. MeTP intends to build the capacity of central government employees for implementing e-Governance projects.
 
 The core areas targeted to be addressed as part of training needs in MeTP are as follows
 
 **Type-1 : Basic ICT Skills** for Office work (office productivity applications, internet, email etc.)
 
-**Type-2: eGovernance related knowledge and skills** (eGovernance life cycle, Government Process Reengineering, Business Models, Public Private Partnerships, Regulatory Frameworks, Information Technology Act, Contract Management, Detailed Project Report (DPR), Request for Proposal (RFP), Change Management etc.)
+**Type-2: eGovernance related knowledge and skills** (These include topics such as eGovernance life cycle, Government Process Reengineering, Business Models, Public Private Partnerships, Regulatory Frameworks, Information Technology Act, Contract Management, Detailed Project Report (DPR), Request for Proposal (RFP), and Change Management.)
 
-**Type-3: Domain/Sector/Mission Mode Project specific** (Agriculture, Banking etc.)
+**Type-3: Domain/Sector/Mission Mode Project specific** (for example, Agriculture, Banking)
 
 **Type-4: Soft skills** (Team building, Leadership, effective presentation & communication etc.)
 
@@ -168,29 +168,25 @@ Subsequently, the National eGovernance Division (NeGD) under the Ministry of Ele
 
 <summary><a href="https://www.smartnation.gov.sg/community/contribute-to-smart-nation">Singapore</a></summary>
 
-Singapore has set its sights on becoming a world-class, tech-driven city-state. It is transforming itself to become a [Smart Nation](https://www.smartnation.gov.sg/about-smart-nation/transforming-singapore), harnessing technology to transform how its people and businesses live, work and play. The vision for a digital-first Singapore is one where a Digital Government, Digital Economy and Digital Society harness technology to effect transformation in health, transport, urban living, government services and businesses. The key objectives of Smart Nation are as follows:
-
-* ****[**Digital Government**](https://www.smartnation.gov.sg/about-smart-nation/digital-government) continues to invest in infrastructure and create shared open platforms for our businesses and citizens to learn and develop.
-* ****[**Digital Economy**](https://www.smartnation.gov.sg/about-smart-nation/digital-economy) spurs businesses to invest in technology and talent to encourage growth beyond our shores.
-* ****[**Digital Society**](https://www.smartnation.gov.sg/about-smart-nation/digital-society) **** empowers individuals to cultivate their talents and arm themselves with the latest digital technologies to realize their biggest inspirations, and live better lives together.
+Singapore is committed to becoming a world leader in digitalization. Capitalizing on the huge potential opened up by technology, Singapore is putting forward an overarching [Smart Nation](https://www.smartnation.gov.sg/about-smart-nation/transforming-singapore) vision that is based on three pillars: [Digital Government](https://www.smartnation.gov.sg/about-smart-nation/digital-government), [Digital Economy](https://www.smartnation.gov.sg/about-smart-nation/digital-economy), and [Digital Society](https://www.smartnation.gov.sg/about-smart-nation/digital-society). Taken together, these three pillars are responsible for effecting significant shits across all sectors and policy areas.&#x20;
 
 #### Capacity Building in Singapore
 
-Our secondary research on Singapore observes that there are three ways to address the capacity building needs of citizens, civil servants and leaders and professionals. Brief details are listed below.
+Singapore observes that there are three ways to address the capacity building needs of citizens, civil servants and leaders and professionals, whose details are listed described below.
 
 **Citizens:**![](<../../../.gitbook/assets/GetImage (10).png>)****
 
 ****
 
-The Ministry of Communications and Information (MCI), Government of Singapore has a set of portfolios to drive the digital transformation. One such is “Digital Readiness” with four strategic outcomes (a) Digital access (b) Digital Literacy (c) Digital participation and (d) Digital inclusion by design. In regard to “Digital Literacy”, the “[Digital Readiness](https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint)” blue print recommends the following.
+The Ministry of Communications and Information (MCI), Government of Singapore has a set of portfolios to drive the digital transformation. One such is “Digital Readiness” with four strategic outcomes (a) Digital access (b) Digital Literacy (c) Digital participation and (d) Digital inclusion by design. In regard to “Digital Literacy”, the “[Digital Readiness (MCI n.d.)"](https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint) blueprint recommends the following.
 
-* Identify a set of basic digital skills for everyday activities to spur take-up of digital technology, especially among the less digitally savvy.
+* Identify a set of basic digital skills for everyday activities to spur the take-up of digital technology, especially among the less digitally savvy.
 * Strengthen focus on information and media literacy, to build resilience in an era of online falsehoods.
 * Ensure that our children and youth grow up to form meaningful relationships with people around them and use technology to benefit their communities.
 
 **B. Civil Servants**
 
-The [Digital Government Blueprint](https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint) recommends raising digital capabilities to pursue innovation so that the government is able to “think fast, start small and act fast” to seize new opportunities. The Government has been deepening its technical capabilities through a Centre of Excellence (or CentEx) for ICT and Smart Systems, where specialist engineering expertise will be grown to support the WOG. The CentEx will house capability centres such as Data Science and AI, ICT Infrastructure, Application Development, Sensors and IoT, Cybersecurity, and Geospatial. The CentEx may expand into new technology capability areas as the need arises – for example, in robotics, VR/AR, digital twins or blockchain.
+The [Digital Government Blueprint](https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint) recommends raising digital capabilities to pursue innovation so that the government is able to “think fast, start small and act fast” to seize new opportunities. The Government has been deepening its technical capabilities through a Centre of Excellence (or CentEx) for ICT and Smart Systems, where specialist engineering expertise will be grown to support the WOG. The CentEx will house capability centers such as Data Science and AI, ICT Infrastructure, Application Development, Sensors and IoT, Cybersecurity, and Geospatial. The CentEx may expand into new technology capability areas as the need arises – for example, in robotics, VR/AR, digital twins or blockchain.
 
 The CentEx will support the development of ICT skills and leadership for WOG through:
 
@@ -216,9 +212,9 @@ The NUS-ISS offers a wide range of programs to build the capacities. They are br
 
 <summary><a href="https://www.dta.gov.au/help-and-advice/communities-practice">Australia</a></summary>
 
-Communities of practice are groups of people working in the same field in government. They bring those people together to share ideas, show their work, solve problems and explore best practice. These include:
+Communities of practice [(Australia Government n.d.)](https://www.digitalprofession.gov.au/about-digital-profession) are groups of people working in the same field in government. They bring those people together to share ideas, show their work, solve problems and explore best practice. These include:
 
-* [ ] **Agile & Lean Community** - The Agile & Lean Community is a open group for anyone interested in agile, lean, lean start-up, DevOps and more!
+* [ ] **Agile & Lean Community** - The Agile & Lean Community is an open group for anyone interested in agile, lean, lean start-up, DevOps and more!
 * [ ] **Content Community of Practice -** The Content Community of Practice is a place for government content specialists, practitioners and leaders to share ideas, solve problems, connect to peers and work in the open.
 * [ ] **Cross-Discipline Community of Practice** - The Cross-Discipline Community of Practice is open to everyone. It’s a place for all people working in government, educational institutions and industry practitioners, leaders, or people interested in design for government to share ideas, solve problems, connect to peers and work in the open.
 * [ ] **Cyber Security -** The Cyber Security community is for Digital Profession members interested in Cyber Security.
@@ -229,7 +225,7 @@ Communities of practice are groups of people working in the same field in govern
 * [ ] **P3M community** - This community is for people involved in portfolio, program and project management (P3M) in any part of government in Australia.
 * [ ] **Open data community** - This community is for people who work with public data in the Australian Public Service or who carry out publicly funded research. It's also for people who develop, innovate or carry out research using Australia’s public datasets.
 
-Apart from the above CoP's, the Australian Government has established the [**Digital Profession center**](https://www.digitalprofession.gov.au/about-digital-profession) as part of the Australian Government with the aim to lift the digital capability of the Australian Public Service (APS) to transform government services and build a government fit for the digital age.
+Apart from the above CoP's, the Australian Government has established the [**Digital Profession center (Australian Government n.d.)** ](https://www.digitalprofession.gov.au/about-digital-profession)as part of the Australian Government with the aim to lift the digital capability of the Australian Public Service (APS) to transform government services and build a government fit for the digital age.
 
 
 
@@ -239,7 +235,7 @@ Apart from the above CoP's, the Australian Government has established the [**Dig
 
 <summary><a href="https://www.gov.uk/service-manual/communities">United Kingdom</a></summary>
 
-The UK as part of their Government Digital Service (gov.uk) has created a set of service manuals and several communities of practice. One of these manuals is a handbook for people developing communities of practice in government - [Community Development Handbook](https://www.gov.uk/government/publications/community-development-handbook/community-development-handbook).&#x20;
+The UK as part of their Government Digital Service (gov.uk) has created a set of service manuals and several communities of practice. One of these manuals is a handbook for people developing communities of practice in government - [Community Development Handbook (GOV.UK 2017).](https://www.gov.uk/government/publications/community-development-handbook/community-development-handbook)
 
 The **** [**UK government states that**](https://www.gov.uk/government/publications/community-development-handbook/community-development-handbook) **** Communities of practice are for people who share common job roles, responsibilities or remits. They do well through regular interaction and common goals.
 
