@@ -4,9 +4,9 @@ description: Version for TAC Review Oct 2022
 
 # Govstack design principles
 
-GovStack design principles guide our design & delivery work. They are based on the [Principles for Digital Development](https://digitalprinciples.org/) and offer specific best practices to make our digital work better. As you engage in implementing a GovStack approach to citizen-centric digitization of government services you will see these principles embedded in our iteration processes, tools & methods. We invite you to embrace them and make this your way of work at your organization and digital team.  &#x20;
+GovStack design principles guide our design and delivery work. They are based on the [Principles for Digital Development](https://digitalprinciples.org/) and offer specific best practices to make our digital work better. As you engage in implementing a GovStack approach to citizen-centric digitization of government services you will see these principles embedded in our iteration processes, tools and methods. We invite you to embrace them and make this your way of work at your organization and digital team.  &#x20;
 
-1. **Design with the user**: User-centered design starts with getting to know the people you are designing for through conversation, observation, and co-creation. Click [here](onenote:Digitize%20the%20service.one#section-id={aad96891-9b48-4890-b293-590890b3b645}\&end) to know more.&#x20;
+1. **Design with the user**: User-centered design starts with getting to know the people you are designing for through conversation, observation, and co-creation. &#x20;
 2. **Understand the existing ecosystem**: Well-designed initiatives and digital tools consider the particular structures and needs that exist in each country, region, and community.&#x20;
 3. **Design for scale**: Achieving scale requires adoption beyond an initiative's pilot population and often necessitates securing funding or partners that take the initiative to new communities or regions.&#x20;
 4. **Build for Sustainability**: Building sustainable programs, platforms and digital tools is essential to maintain user and stakeholder support, as well as to maximize long-term impact.&#x20;
@@ -21,4 +21,4 @@ GovStack design principles guide our design & delivery work. They are based on t
 13. **Design for everyone**: A service is something that helps people to do something. Our job is to uncover user needs and build the service that meets those needs. Of course, much of that will be pages on the web, but we’re not here to build websites.&#x20;
 14. **Do the hard work to make it simple**: Making something look simple is easy. Making something simple to use is much harder. Don’t take “It’s always been that way” for an answer. It’s usually more and harder work to make things simple, but it’s the right thing to do.&#x20;
 
-_Sources: Principles for digital development, and Gov.uk design principles_&#x20;
+_Sources:_ [_The Principles for Digital Development,_ ](https://icthelp.org/the-principles-for-digital-development/)[_Gov.uk design principles_](https://www.gov.uk/guidance/government-design-principles)__
