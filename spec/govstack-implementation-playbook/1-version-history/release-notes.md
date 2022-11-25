@@ -4,7 +4,7 @@ description: Version for TAC Review Oct 2022
 
 # Release notes
 
-## Version for TAC review - October 2022
+## Version for TAC review - November 2022
 
 The version for the Technical Advisory Committee (TAC) is an **early version** of the GovStack Implementation Playbook that contains major features under each section and has been released to TAC panel members, pilot countries' digital teams, and the organic public that reach the GovStack website, Govstack GitHub and GovStack community of practices for initial comments and feedback.&#x20;
 
