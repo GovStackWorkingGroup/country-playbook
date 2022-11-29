@@ -424,7 +424,13 @@ A combination of knowledge, skills and attitudes with regards to be use of techn
 
 An enterprise characterized by the creation of digitalized products or services that are either delivered fully digitally (eg, digital media or online banking); or where physical products and services are obtained by the customer by digital means (e.g., online car sharing services).
 
-&#x20;
+
+
+#### Digital Government Service
+
+Government service delivered through digital channels like SMS, virtual assistant, website, web apps, and applications.
+
+
 
 **Digital Identifier**
 
@@ -1388,9 +1394,9 @@ Stands for Unique Identity Number, this number uniquely identifies a person in a
 
 &#x20;
 
-**Use Case**
+#### **Use Case**
 
-A sequence of actions (steps) to achieve a specific goal in a specific context of usage. E.g., in one use case the IM BB may be used to let a BB access a service provided by another BB; in another use case it may be used to relay an event notification from one BB to several other BBs via PubSub.
+A sequence of actions (steps) to achieve a specific goal in a specific context of usage. E.g., in one use case the IM BB may be used to let a BB access a service provided by another BB; in another use case it may be used to relay an event notification from one BB to several other BBs via PubSub. Digital government services are enabled by architecting dfferent use cases according to the service workflow.
 
 &#x20;
 
