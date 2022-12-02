@@ -24,176 +24,617 @@ Top managers plan, direct, coordinate and evaluate the overall activities of ent
 
 Tasks performed by top managers usually include formulating and advising on the policy, budgets, laws and regulations of enterprises, governments and other organizational units; establishing objectives and standards and formulating and evaluating programmes and policies and procedures for their implementation. The roles include:
 
-### [Chief Data Officer](https://esco.ec.europa.eu/en/classification/occupation\_main)
-
-Chief data officers manage companies' enterprise-wide data administration and data mining functions. They ensure data are used as a strategic business asset at the executive level and implement and support a more collaborative and aligned information management infrastructure for the benefit of the organization at large.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/data/chief-data-officer/1228152)
-
-**Qualifications and Skills**
-
-An experienced senior leader with a proven track record of data and analytics transformations in complex compliance intensive data environments.
-
-Experience building teams within the fields of data governance, data architecture, data science and analytics&#x20;
-
-Expertise in crafting a compelling data strategy and architecture to unlock value of data assets spread across a disparate and complex data ecosystem&#x20;
-
-Outstanding executive communication skills, connecting the dots between business strategy and outcomes, data strategy and execution of data and analytics initiatives&#x20;
-
-Analytical-minded, creative, collaborative and comfortable driving change, and transforming the most valuable ideas into actionable plans, products and results&#x20;
-
-A strong collaborator with experience leading initiatives across and partnering with multiple groups and stakeholders&#x20;
-
-Knowledgeable of data practices (e.g., Operational Data Store, Master Data Management, Data Lakes) and tools (e.g., Tableau, Power BI, Azure, Oracle, Snowflake, Python, R)
-
 ### [Chief Information Officer](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/82f90e87-de92-4678-adae-61d3e5f7e1e4)
 
-Chief Information Officers define and implement the ICT strategy and governance. They determine necessary resources for the ICT strategy implementation, anticipate ICT market evolutions and company business needs. They contribute to the development of the organization's strategic plan and ensure that the ICT infrastructure supports the organization's overall operations and priorities.
+Chief Information Officers define and implement the ICT strategy and governance. They determine necessary resources for the ICT strategy implementation, anticipate ICT market evolutions and company business needs. They contribute to the development of the organization's strategic plan and ensure that the ICT infrastructure supports the organization's overall operations and priorities
 
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/operations/vp-cio-rapid7/1335168)
+**Qualifications**
 
-**Qualifications and Skills**
+Bachelor’s degree in computer science, computer or software engineering, information systems or related role.
 
-10+ years of experience in IT, Engineering and/or Product Leadership roles.
+Postgraduate qualification and/or a recognized professional credential relevant to the role is a plus.&#x20;
 
-Proven ability to build and scale teams in fast-paced environments.
+3-5 years’ supervisory or management experience in a technology role&#x20;
 
-Outstanding leadership experience with proven ability to develop talent, unite teams and foster an innovative environment for teams to thrive in.
+Minimum 7 years’ experience in a private or public managerial role in the technology field,
 
-Proven experience at growing the skills, knowledge, and impact of technical and non-technical team members.
+Solid understanding of data analysis, budgeting, and business operations&#x20;
 
-Proven experience in change management and aligning organizations for maximum impact.
+Superior analytical and problem-solving capabilities&#x20;
 
-Proven experience managing technical teams and understanding of architecture, approach, and implementation decisions.
+A strong strategic and business mindset&#x20;
 
-Strong relationship-building and management skills with experience working cross-functionally to achieve team and company goals.
+Excellent organizational and leadership skills&#x20;
 
-Strong collaboration and negotiation skills
+Outstanding communication and interpersonal abilities
 
-Experience in a technology vendor leadership role is highly preferred
-
-Bachelor’s degree is highly desirable.
-
-### [Chief Design Officer](https://www.myskillsfuture.gov.sg/content/student/en/preu/world-of-work/occupation/occupation-detail.Chief-Design-Officer-Chief-Innovation-Officer-Chief-Experience-Officer-Chief-Strategy-Officer-137658.html)
-
-The Chief Design Officer, who is also known as Chief Innovation Officer, Chief Experience Officer or Chief Strategy Officer oversees all design projects in the organization. They direct and design tests from conception stage to completion, to analyze the feasibility of new products and services. They are responsible for the quality management of all design output and formulates new business ideas. They also identify emerging business trends or issues in the industry to align design solutions with evolving customer needs.&#x20;
-
-The qualifications and skills for this profile have been developed based on [McKinsey job profile.](https://www.mckinsey.com/capabilities/mckinsey-design/our-insights/business-value-of-design/interactives/defining-the-role-of-a-chief-design-officer)
-
-**Qualifications and Skills**
-
-Extensive design experience (15+ years) in either design-led organizations or agencies&#x20;
-
-10+ years’ experience in positions of design leadership with proven track record
-
-Experience in 5+ major product (or portfolio) releases&#x20;
-
-Capable of creating comprehensive metrics systems across multiple products, consumer journeys, and teams. Ability to link design and commercial metrics and convey insights to peers. \
-\
-Ability to manage diverse team consisting of multiple disciplines and spread over multiple geographies. Ability to forge strong sense of connection between the team and other departments. \
-\
-Comfort with basics of running a large department (eg, team prioritization and allocation, budgeting). \
-\
-Aptitude for convincing others (internally and externally) of the value of their ideas. Ability to represent the brand in public domain (2 to 4 industry events, 2+ press articles). \
-\
-Evidence of design ability—for example, 2+ top- tier design awards. Ethnographic skills also valuable to understand quickly and effectively the potential for design in organization; experience with 3+ organizations preferred.&#x20;
-
-\
-Demonstrated ability and willingness to develop innovative, exciting solutions to business problems. Possesses passion to challenge status quo and find new solutions. \
-\
-Takes collaborative approach required to understand organizational problems. Believes in a nonhierarchical culture of collaboration, transparency, safety, and trust. \
-\
-Is fascinated with how users experience products and services and has a hunger to improve those experiences. \
-\
-Possesses significant personal and professional drive to improve standing of design internally.&#x20;
-
-### [Chief Information Security Officer (CISO)](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/276ba420-ef09-4a0e-b215-2c2e2f80ad28)&#x20;
+### [Chief Security Information Officer (CISO)](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/276ba420-ef09-4a0e-b215-2c2e2f80ad28)&#x20;
 
 Chief ICT security officers protect company and employee information against unauthorized access. They also define the Information System security policy, manage security deployment across all Information Systems and ensure the provision of information availability.
 
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/operations/chief-information-security-officer-ciso/1412951)
+**Qualifications**
 
-**Qualifications and Skills**
+Bachelor’s degree in computer science, computer or software engineering, information systems or related role.&#x20;
 
-10+ years of experience in information security.
+MSc Information Security or postgraduate qualification in a related IT field.&#x20;
 
-Experience developing, implementing, and monitoring a strategic, comprehensive information security and IT risk management program
+One or more qualifications in: • Certified Information Security Manager (CISM) • Certified Information Systems Security Professional (CISSP) • Certified Information systems Auditor (CISA)&#x20;
 
-Bachelor's or Master's degree in Computer Science or Information Systems.
+Member of the Institute of Information Security Professionals is a plus.&#x20;
 
-Network+, Security+, CISSP or any accredited security certifications.
+An excellent understanding of best practice within Information Security and risk management including standards such as ISO/IEC 27001, Cyber Essentials and COBIT&#x20;
 
-Knowledge of Wi-Fi security protocols and troubleshooting.
+An excellent understanding of legislation and regulations that impact information Security An understanding of current and emerging threats and countermeasures and the organizational challenges to addressing these threats&#x20;
 
-Knowledge of full-stack development concepts.
+An understanding of Application Security threats and countermeasures&#x20;
 
-Experience with data loss prevention and endpoint security products.
+A good practical knowledge of security technologies and wider business solutions including Firewalls, IDS/IPS, Identity and access management, SIEM, remote working and cloud technologies&#x20;
 
-Experience in setting up and maintaining WAFs (web application firewalls.
+Substantial experience in senior management in a complex IT organization encompassing service delivery, application development and IT infrastructure&#x20;
 
-Experience with major IaaS/PaaS providers (AWS, Azure, GCP).
+Proven track record in the management and delivery of transformational security improvements across an organization&#x20;
 
-Knowledge of industry-standard security framework, technologies, protocols, and best practices including but not limited to NIST, ISO/IEC, SOC 2, and OWASP.
+Proven experience in directing and managing innovative change and continuous improvement, ensuring excellent organizational performance and outcomes across a complex portfolio of responsibilities&#x20;
 
-Understanding of database functionality and security.
+Proven experience at managing complex budgets and resources with a track record of identifying and securing approval for business cases at enterprise level for organizational investment in information and cyber security&#x20;
 
-Familiarity with programming languages (Python, Java, etc.) and automation of system tasks.
-
-Familiarity with Agile practices and CI/CD concepts.
-
-Familiarity with SAST/DAST tools - implementation and maintenance.
-
-Experience in communicating and leading discussions regarding technical solutions or problems to varying levels of the organization.
-
-Experience developing and maintaining strong relationships with partners, key vendors, and customers.
-
-Ability to think creatively to solve problems and continuously improve.
-
-Knowledge of enumeration (nmap / zenmap), Kali Linux, vulnerability scanning tools (Nessus, ZAP, BurpSuite) and penetration testing concepts.
-
-Knowledge of security frameworks such as NIST, NYDFS, OWASP, and ISO-27001.
-
-Strong understanding of the global data protection regulatory framework
+Experience in leading, developing and motivating a team
 
 ### [Chief Technology Officer](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/7b1b5da8-573a-49bb-a38e-68725a949f4f)
 
 Chief technology officers contribute to a company's technical vision and lead all aspects of technology development, according to its strategic direction and growth objectives. They match technology with business needs.
 
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/operations/cto/1441843)
+**Qualifications**
 
-**Qualifications and Skills**
+Bachelor’s degree in computer science, computer or software engineering, information systems or related role.
 
-BS in computer science, engineering, or relevant field; MSc/MBA will be preferred
+MBA and/or postgraduate qualification in a related IT field.
 
-10+ years in technical leadership or management roles.
+8+ years progressive experience in technology leadership role.
 
-10+ years in hands-on programming and architecture design for a variety of software applications, with a proven track record of delivering complex products and solutions.
+Good understanding of how technology can achieve company objectives (and how to utilise it to do so).
 
-Executive presence and the gravitas to drive strategy and operations.
+Deep understanding of interconnected systems and the cost, performance, and strategic implications of making particular architecture choices
 
-Customer knowledge relationship and service focus.
+Experience building and leading world-class software development teams and processes across geographies
 
-Demonstrated ability to Inspire, motivate, and empower others.
+Product management experience
 
-Strong Executive leadership skills: collaborative partner able to influence and drive accountability across organizational, geographic, and domain boundaries for alignment, approvals, decision-making, and governance. Experience leading large, global matrix-managed initiatives
+Successful in owning business results, and knows how to inspire the team to feel empowered and accountable for their decisions
 
-Excels at leading and directing activities of distributed, global teams and ability to direct, motivate and develop project staff in an evolving environment. Fosters teamwork and collaboration. Proven experience building accountable teams empowered to achieve results.
+Ability to step outside your own technical domain and take the “voice” of the customer as input into their direction setting and decision making
 
-Strong analytical skills, and proven ability to influence and negotiate complex situations.
+Domain expertise in IaaS, PaaS, or SaaS products
 
-Strong interpersonal skills with high emotional intelligence and the ability to work with all levels of management across all functional areas
+Excellent understanding of cloud computing technologies, highly reliable and available large scale distributed systems
 
-Strong financial acumen and analysis to build the appropriate business case
+Experience leading and motivating software engineering teams and managing complex software projects
 
-Executive-level relationship building/management, risk management, and vendor governance experience
+Exceptional team management skills.
 
-Knowledge of IT Risk and Compliance (including audit and regulatory inspections)
+Excellent verbal and written communication.
 
-Demonstrated experience as a change agent in an enterprise environment
+Ability to delegate efficiently.
 
-Excellent planning and organizational skills.
+Extensive industry knowledge with an eye towards the future.
 
-Strategic thinker: conceive, plan, and manage information technology to support complex business initiatives.
+### [ICT Operations Manager](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/f0ca39a8-1e30-487c-95f9-ef2d5e734adc)
+
+ICT operations managers coordinate ICT services and infrastructure ensuring that the organization has the required infrastructural resources. They also plan and monitor stages of either a business process or a computer process, negotiate contracts and take mitigation action in case of non-fulfilment of agreements. They oversee the day-to-day tasks involving infrastructure components, ICT systems and software.
+
+**Qualifications**
+
+Bachelor’s degree in computer science, computer or software engineering, information systems or related role.
+
+MBA and/or postgraduate qualification in a related IT field.
+
+Extensive experience in a related senior ICT management role typically in the region of ten years’ experience in a similar discipline
+
+Experience of working in a customer focused environment operating **** under a formal ICT Service Management structure such as ITIL.
+
+Significant experience in the development and implementation of processes related to ICT Technical Operations.
+
+Ability to think strategically to plan complex service delivery in a demanding and changing environment.
+
+Experience of managing budgets and delivering savings against those budgets.
+
+Significant experience in the management of ICT supplier contracts with a track record of building effective working relationships with suppliers.
+
+A deep and extensive technical knowledge of the technologies and ICT systems used in large organizations.
+
+Ability to formulate technical reports using information for performance monitoring and develop process documentation and diagrams to support new and existing ICT services.
+
+Ability to apply a mature and rational approach to complex issues and problem solving, including conflict resolution.
+
+Ability to work at a high level in a large organization, acting as an ambassador for the ICT Service
+
+</details>
+
+<details>
+
+<summary>IT Specialist</summary>
+
+IT personnel perform a wide range of activities related to the Information Technology and Cybersecurity of the government ranging from information security and technology, information security operations and maintenance, information security overseeing and governance, cyber security infrastructure, defense, analysis and investigations. It includes roles such as:
+
+### [Back-end developers](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d)
+
+Backend developers develop, implement and document web-accessible software based on the designs provided. They align the client's web presence with its business strategy, troubleshoot software problems and issues and look for ways to improve the application.
+
+**Qualifications**
+
+Bachelor’s degree in in a field such as Computer science, web design, digital design, or graphic arts; an associate degree with proven years of experience may be a substitute.&#x20;
+
+Experience focusing on enterprise scale backend architectures&#x20;
+
+3+ years of experience designing, developing, debugging, and deploying software&#x20;
+
+Experience working with either relational or non-relational databases – ideally both&#x20;
+
+Experience working with cloud architectures – such as AWS Experience with programming languages like Java, Ruby, PHP or Python.&#x20;
+
+Solid understanding of the entire product development process.&#x20;
+
+Basic knowledge of front-end technologies like HTML, JavaScript, and CSS.
+
+### [Cloud engineers](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/349ee6f6-c295-4c38-9b98-48765b55280e)
+
+Cloud engineers are responsible for the design, planning, management and maintenance of cloud-based systems. They develop and implement cloud-applications, handle the migration of existing on-premise applications to the cloud, and debug cloud stacks.
+
+**Qualifications**
+
+Bachelor’s degree in Computer Science, Computer Engineering, or Information Technology, or in a relevant field.
+
+Master’s degree in a relevant field and certifications such as Azure, AWS Certified Solutions Architect certification is a plus.
+
+At least 5 years relevant professional work experience in the cloud computing industry
+
+Expertise in **** practical object-oriented development knowledge with at least Scala or Java, knowledge of systems like ZooKeeper, Consul etc.,&#x20;
+
+Familiarity with containerization technologies such as Docker and Pivotal Cloud Foundry Docker, OpenStack, and Public cloud delivery know-how with AWS and/or Azure
+
+Solid understanding of software development, engineering, programming languages and tools; Java, Python, Ruby, .NET/C#, HTML, CSS, JavaScript, PowerShell, CI/CD pipelines
+
+Ability to work with Agile methodologies (Scrum, Kanban, Lean Startup, XP)
+
+Solid experience crafting solutions for the server-side of scalable cloud software applications and platforms
+
+Extensive skills and knowledge in architecting a highly distributed cloud system and responding to operational issues
+
+Experience with cloud migration, as well as experience with OpenStack, Linux, Amazon Web Services, Microsoft Azure, DevOps, NoSQL etc.
+
+A good team player and able to work in a team-driven environment
+
+Exceptional verbal, presentation, and written communications skills to convey information clearly to the different audience
+
+Willingness to learn and work with new and emerging technologies.
+
+### [Cloud architect](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/349ee6f6-c295-4c38-9b98-48765b55280e)
+
+Cloud architects are responsible for the design, planning, management and maintenance of cloud-based systems. They develop and implement cloud-applications, handle the migration of existing on-premise applications to the cloud, and debug cloud stacks.
+
+**Qualifications**
+
+Bachelor’s degree in Computer Science, Computer Engineering, or Information Technology, or in a relevant field.&#x20;
+
+Master’s degree in a relevant field and certifications such as AWS Certified Solutions Architect certification is a plus.&#x20;
+
+At least 5 years relevant professional work experience designing, executing, and supporting IT Cloud solutions.&#x20;
+
+Solid knowledge of full software development lifecycle processes, enterprise application software installation and maintenance, integrating with third-party applications through API interfaces and other means&#x20;
+
+Familiarity with mobile application development, ability to build applications using microservices architecture, and capacity to debug and optimize code and automate routine tasks&#x20;
+
+Technical knowledge of Agile, frontend and backend programming languages, databases and Cloud Infrastructure, auto scaling, and automated testing&#x20;
+
+Fundamental knowledge of networking, security, and systems engineering concepts.&#x20;
+
+Hands-on experience in cloud provisioning tools such as CloudFormation, Terraform, and experience in Linux operating system&#x20;
+
+Ability to work in a team, Good written and verbal communication skills.
+
+### [Data **** Analysts](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2)
+
+Data analysts import, inspect, clean, transform, validate, model, or interpret collections of data with regard to the business goals of the company. They ensure that the data sources and repositories provide consistent and reliable data. Data analysts use different algorithms and IT tools as demanded by the situation and the current data. They might prepare reports in the form of visualizations such as graphs, charts, and dashboards.
+
+**Qualifications**
+
+Bachelor's Degree in Computer Science, Engineering, Information Systems, Information Technology related field.&#x20;
+
+Postgraduate qualification and/or a recognized professional ITIL is an added advantage.&#x20;
+
+5+ years of experience in migrating data between disparate systems, with strong exposure to data migration and PostgreSQL&#x20;
+
+Knowledge related to computer technology, network infrastructure, systems and applications, security, and storage&#x20;
+
+Strong agile project management and organizational skills.&#x20;
+
+Strong analytical and problem-solving skills and excellent verbal and written communication skills&#x20;
+
+Hands on experience with MS Excel and Macros
+
+### [Data Scientist](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30)
+
+Data scientists find and interpret rich data sources, manage large amounts of data, merge data sources, ensure consistency of datasets, and create visualizations to aid in understanding data. They build mathematical models using data, present and communicate data insights and findings to specialists and scientists in their team and if required, to a non-expert audience, and recommend ways to apply the data.
+
+**Qualifications**
+
+A Bachelor’s degree in Data Science, Computer Science, Engineering or relevant field
+
+Postgraduate qualification and/or a recognized professional credential relevant to the role is an added advantage.
+
+5+ years hands on experience with Data Science tools, business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop)
+
+Knowledge of statistical programming languages like R, Python, and database query languages like SQL, Hive, Pig is desirable. Familiarity with Scala, Java, or C++ is an added advantage.
+
+Good applied statistical skills, including knowledge of statistical tests, distributions, regression, maximum likelihood estimators, etc.
+
+Good knowledge of machine learning methods like k-Nearest Neighbors, Naive Bayes, SVM, Decision Forests and operations research.
+
+Strong Math Skills (Multivariable Calculus and Linear Algebra) -and understanding the fundamentals of Multivariable Calculus and Linear Algebra
+
+Proficiency in data mining and wrangling
+
+Experience with Data Visualization Tools like Matplotlib, ggplot, d3.js., Tableau that help to visually encode data
+
+Excellent communication and presentation skills
+
+Problem-solving aptitude
+
+Analytical mind and business acumen
+
+### [Database managers](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/8c57af09-719c-42b3-be40-6ed4946236cc)
+
+Database managers test, implement and administer computer databases. They use their expertise in database management systems to plan, coordinate and implement security measures to safeguard computer databases. They also use scripts and configuration files to tailor a database to users' needs.
+
+**Qualifications**
+
+A Bachelor’s degree in Management Information Systems, Computer Science, Information Systems, or Information Technology or a related field&#x20;
+
+Postgraduate qualification and/or a recognized professional credential relevant to the role is an added advantage.&#x20;
+
+At least 2 years’ experience in database management or similar role&#x20;
+
+Solid experience designing, developing, and producing database reports.&#x20;
+
+Advanced proficiency in Structured Query Language (SQL).&#x20;
+
+In-depth knowledge of database technologies, architecture, and data security and best practices in database management.&#x20;
+
+Advanced analytical, leadership, and problem-solving skills. Exceptional organizational skills and attention to detail. Excellent interpersonal and communication skills.
+
+### ****[**DevOps Specialist**](https://www.gov.uk/guidance/development-operations-devops-engineer)****
+
+DevOps specialists support the development and operation of software through tools, environments and practices. They organise and implement a process to manage changes throughout the lifecycle of ICT assets such as software, applications, ICT systems, etc. ICT change and configuration managers have a sound knowledge of the main technologies and processes used in system engineering and to manage the lifecycle of ICT systems and subsystems.
+
+**Qualifications**
+
+Bachelor's Degree in Computer Science, Engineering, Information Systems, Information Technology related field.&#x20;
+
+Postgraduate qualification and/or a recognised professional credential is an added advantage.&#x20;
+
+5+ years of overall experience Strong hands-on Linux experience (RHEL/CentOS, Debian/Ubuntu,Core OS)&#x20;
+
+Strong hands on Experience in managing AWS/Azure cloud instance Strong scripting skills (Bash, Python, Perl) with Automation.&#x20;
+
+Strong hands-on in Git/Github, Maven, DSN/Networking Fundamentals.&#x20;
+
+Strong knowledge of CI/CD Jenkins continuous integration tool&#x20;
+
+Good knowledge of infrastructure automation tools (Ansible,Terraform)&#x20;
+
+Good hands-on experience with Docker containers including container management platforms like Kubernetes&#x20;
+
+Strong hands-on in Web Servers (Apache/NGINX) and Application Servers (Jboss/Tomcat/Spring boot)
+
+### [Digital security manager](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/7754d570-9519-48c2-b1c9-8e165f8bca0f)
+
+A Digital security manager proposes and implements necessary security updates. They advise, support, inform and provide training and security awareness and take direct action on all or part of a network or system.
+
+**Qualifications**
+
+Bachelor’s degree in Information Assurance, Information Security, Cybersecurity, or IT related field.&#x20;
+
+Postgraduate qualification and a recognized professional credential Security certification such as CISSP or CISM are desirable.&#x20;
+
+5+ years working experience in the digital security field.&#x20;
+
+Proven experience in planning, organizing, and developing the strategy for an organizations Security Operation.&#x20;
+
+Strong knowledge of technology, particularly as it relates to digital safety tools, best practice, and information management.&#x20;
+
+A solid understanding and experience with intrusion detection, incident response, threat hunting, common attack methodologies, tactics and protocols, and indicators of compromise required.&#x20;
+
+Excellent written and verbal communication skills with the ability to tailor communications for technical and non-technical audiences.
+
+### [Emerging Technologies Officer](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/35553663-deab-4d9a-bf22-15c1625d28e8) (AI, Blockchain, IoT, Quantum Computing)&#x20;
+
+ICT intelligent systems designers apply methods of artificial intelligence in engineering, robotics and computer science to design programs which simulate intelligence including thinking models, cognitive and knowledge-based systems, problem solving, and decision making. They also integrate structured knowledge into computer systems (ontologies, knowledge bases) in order to solve complex problems normally requiring a high level of human expertise or artificial intelligence methods.
+
+**Qualifications**
+
+Bachelor’s degree in Data Science, Statistics, Machine Learning, Computer Science or IT related field.
+
+Postgraduate qualification and/or a recognized professional credential is an added advantage.&#x20;
+
+3+ years proven experience in Artificial Intelligence, deep learning, and other relevant fields.
+
+At least 3 years of experience in formulating and strategizing AI solutions and applying AI to practical and all-inclusive technology solutions
+
+Familiarity with functional design principles, object-oriented programming principles, basic algorithms.
+
+Hands-on knowledge in machine learning, deep learning, Tensorflow, Python, NLP
+
+Hands-on experience in REST API and designs such as RDBMS design, NoSQL design.
+
+### &#x20;[Front-end developer](https://www.gov.uk/guidance/frontend-developer)
+
+A frontend developer designs, builds and improves website software that meets user needs.
+
+**Qualifications**
+
+Bachelor’s degree in in a field such as Computer science, web design, digital design, or graphic arts; an associate degree with proven years of experience may be a substitute.
+
+&#x20;3+ years' experience with scripting languages (Python, Perl, or equivalent). 3-5 years of expert-level HTML and CSS experience.&#x20;
+
+1+ years of JavaScript and jQuery experience.&#x20;
+
+3+ plus years of work experience building web apps.&#x20;
+
+Hands-On experience with JavaScript UI frameworks.&#x20;
+
+Experience using industry-standard version control systems.
+
+### [Help Desk Support Analyst](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/aaeec9a7-dc57-4485-890c-86b3eef735f9)
+
+ICT help desk analysts provide technical assistance to end users, answer questions or solve computer problems for clients via telephone or electronically. They provide assistance concerning the use of computer hardware and software.
+
+**Qualifications**
+
+High school graduate, GED, or equivalent&#x20;
+
+At least 2 years information technology or systems administration experience preferred Knowledge of Operating Systems, System Administration, LAN, managing helpdesk.&#x20;
+
+Fluency in the local language&#x20;
+
+Excellent typing skills.&#x20;
+
+Strong process and application knowledge&#x20;
+
+Excellent problem solving, verbal communication and customer service skills.
+
+### [ICT System Integration Consultant](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/bd9d395a-d587-45c6-8d72-ceef226df9e1)
+
+ICT system integration consultants advise on bringing together different systems to interoperate within an organization for enabling data sharing and reducing redundancy.
+
+**Qualifications**
+
+Bachelor's Degree in computer science, or IT related field MBA and a recognised professional credential relevant to the role is an added advantage.&#x20;
+
+Minimum of 5 years of experience in the consulting and technology design industries&#x20;
+
+Minimum of five (5) years relevant experience in application design and integration into service platforms.&#x20;
+
+Minimum of five (5) years of experience in software and application development and/or working with software developers.&#x20;
+
+Experience in managing projects involving systems analysis, design, development, and implementation, and/or provide key inputs for the establishment of long-term solutions.&#x20;
+
+Demonstrable understanding and experience of technology in the built environment including the challenges of systems integration&#x20;
+
+Excellent interpersonal skills will be needed to develop and maintain effective relationships with clients, Architects, Engineers, Contractors, and other team members
+
+&#x20;Proven ability to utilize critical thinking and problem-solving skills to work with incomplete information and manage unclear or conflicting requirements&#x20;
+
+Knowledge of agile project management
+
+### [Network Support Engineer](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d)&#x20;
+
+ICT network engineers implement, maintain and support computer networks. They also perform network modelling, analysis, and planning. They may also design network and computer security measures. They may research and recommend network and data communications hardware and software.
+
+**Qualifications**
+
+Bachelor's Degree in Computer Science, Engineering, Information Systems, Information Technology related field.&#x20;
+
+Postgraduate qualification and/or a recognised professional credential such as CISCO, ITIL, IASAE is an added advantage.&#x20;
+
+5+ years IT experience with programming languages such as Java, Core java, PostgreSQL, GIT, Linux, Kibana, Elasticsearch, JIRA - Incident management, ReactJS, SpringBoot, Microservices, NodeJS&#x20;
+
+Knowledge of Web service technologies and standards (protocols, security, Restful APIs, and JSON etc.,)&#x20;
+
+Solid experience with recommending and introducing new technologies and technical approaches&#x20;
+
+Demonstrated experience with implementing reporting capabilities, such as SQL Server Reporting or JasperReports
+
+### ****[**Quality Assurance/Tester**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/106f79e4-6264-45f1-9e7a-297435cd684b)****
+
+QA testers perform software tests. They may also plan and design them. They may also debug and repair software although this mainly corresponds to designers and developers. They ensure that applications function properly before delivering them to internal and external clients.
+
+**Qualifications**
+
+Bachelor's Degree in Computer Science, Software Development, or IT related field.&#x20;
+
+A recognised professional credential such as ISTQB, QA is an added advantage.&#x20;
+
+5+ years QA testing experience with skills such as developing, documenting, and maintaining detailed test cases, user scenarios and test requirements/artifacts, execute all levels of testing (System, Integration, and Regression) JIRA - Incident management&#x20;
+
+Proven experience as a Quality Assurance Tester or similar role&#x20;
+
+Experience in project management and QA methodology&#x20;
+
+Familiarity with Agile frameworks and regression testing Experience in analyzing the device logs and usage of debugging tools&#x20;
+
+Experience in using bug tracking and test management&#x20;
+
+Thorough understanding of game test life cycle&#x20;
+
+Proactive, positive, and self-driven mentality that thrives in a collaborative team environment
+
+### [Service Integrator](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/3d190639-90f8-4402-b1b3-a104a17e0d67)
+
+Service integrators perform integration among different databases. They maintain integration and ensure interoperability.
+
+**Qualifications**
+
+Bachelor's Degree in Computer Science, Engineering, Information Systems, Information Technology related field.&#x20;
+
+Postgraduate qualification and/or a recognized professional credential such as CISCO, ITIL, IASAE is an added advantage.&#x20;
+
+5+ years of experience in system administration / deployment / maintenance / integration, build engineering, cloud / SaaS deployment&#x20;
+
+Good understanding of IT Infrastructure implementation or lifecycle development&#x20;
+
+Detailed experience in data center build-out and/or systems migration/re-hosting experience&#x20;
+
+Solid experience on Hardware and Software Environments, heterogeneous systems environments
+
+### [Software Engineer](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1)&#x20;
+
+Software developers implement or program all kinds of software systems based on specifications and designs by using programming languages, tools, and platforms. They Research, design, and develop computer and network software or specialized utility programs. Analyze user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis. Update software or enhance existing software capabilities.&#x20;
+
+**Qualifications**
+
+Bachelor's and Master's Degree in Computer Science, Engineering, Information Technology, Mathematics related discipline&#x20;
+
+Recognized professional credential relevant to the role is an added advantage.&#x20;
+
+Knowledge of the software development life cycle.&#x20;
+
+Ability to develop unit testing of code components or complete applications. Creativity is always a plus.&#x20;
+
+Must be a full-stack developer and understand concepts of software engineering. Experience working on a variety of software development projects.&#x20;
+
+### [Solution Architect](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e)&#x20;
+
+A Solution Architect creates the technical design and the functional model of a software system, based on functional specifications. They also design the architecture of the system or different modules and components related to the business' or customer requirements, technical platform, computer language or development environment.
+
+**Qualifications**
+
+Bachelor’s degree in Computer Science, Information Systems, or equivalent education or work experience&#x20;
+
+Minimum of 5 years of experience related to IT Management or other information technology solutions architecture role&#x20;
+
+Demonstrated ability to communicate the complexities of technical programs&#x20;
+
+Proficiency with information technologies in a secure network environment&#x20;
+
+Expertise with personal computers in a secure network environment and Microsoft applications (Outlook, Word, Excel, Access, PowerPoint and SharePoint) or similar roles&#x20;
+
+Excellent oral and written communication&#x20;
+
+Analytical and problem-solving skills&#x20;
+
+Broad understanding of information technology topics&#x20;
+
+Effective interpersonal skills and collaborative management style to include teamwork and team building ability&#x20;
+
+Technically creative and open-minded.
+
+### ****[**System Developer**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135)****
+
+ICT system developers maintain, audit and improve organizational support systems. They use existing or new technologies to meet particular needs. They test both hardware and software system components, diagnose and resolve system faults. **** May work with computer hardware engineers to integrate hardware and software systems and develop specifications and performance requirements.&#x20;
+
+**Qualifications**
+
+Bachelor's and Master's degree in Computer Science, Engineering, Information Technology, Mathematics related discipline&#x20;
+
+Recognized professional credential relevant to the role is an added advantage.&#x20;
+
+Minimum of 3 years of professional experience working with .Net 4.0, Objective C, CSS, JavaScript, JSON, jQuery, AJAX, SOA, SEO, HTML5, MVC3, Web APIs and secure coding&#x20;
+
+Proficiency with HTML/XHTML, CSS, JavaScript and JQuery&#x20;
+
+Knowledge of WCF, XML, web services and SOA frameworks desired&#x20;
+
+Proficiency with object-oriented principles and patterns
+
+### [System/network designer](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d)
+
+ICT network engineers implement, maintain and support computer networks. They also perform network modelling, analysis, and planning. They may also design network and computer security measures. They may research and recommend network and data communications hardware and software.
+
+**Qualifications**
+
+Bachelor's Degree in Computer Science, Engineering, Information Systems, Information Technology related field.&#x20;
+
+Postgraduate qualification and/or a recognized professional credential such as CISCO, CCNP, CCIE is an added advantage.&#x20;
+
+5+ years’ experience with product design and requirement analysis is strongly preferred, preferably with enterprise software products&#x20;
+
+Working knowledge of and experience with Experience with Network Optimization software&#x20;
+
+Knowledge of cable industry, FCC rules, and NCTA standards&#x20;
+
+Solid understanding of WAN/LAN inter networking including design elements, protocol interoperability, network architecture development and requirements for testing / proof of concept
+
+### [Technical Architect ](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e)
+
+Software architects create the technical design and the functional model of a software system, based on functional specifications. They also design the architecture of the system or different modules and components related to the business' or customer requirements, technical platform, computer language or development environment.
+
+**Qualifications**
+
+Bachelor’s degree in computer science, mathematics, engineering, or information systems; master’s degree a plus&#x20;
+
+At least 2 years previous experience as a software developer or technical architect&#x20;
+
+Experience with software network design and implementation&#x20;
+
+Solid experience on software architecture and design&#x20;
+
+Solid experience on network design and implementation&#x20;
+
+Good understanding of data analysis, business principles, and operations&#x20;
+
+Ability to clearly present technical information to fellow technical professionals as well as non-technical peers&#x20;
+
+Analytical and problem-solving skills
+
+### ****[**Technical Lead**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/f31f487b-4ce2-40f3-90e8-7d0011b4ef1d)****
+
+Technical leads/Software managers oversee the acquisition and development of software systems in order to provide support to all organizational units. They also monitor the results and quality of the different software solutions and projects implemented in the organization.&#x20;
+
+**Qualifications**
+
+Bachelor's Degree in Computer Science, Engineering, Information Systems, Information Technology related field.&#x20;
+
+Postgraduate qualification and/or a recognized professional credential such as AWS, ITIL is an added advantage.&#x20;
+
+8+ years of technology/solutioning experience.&#x20;
+
+Preferred experience of deploying and maintaining large integrated platforms / systems&#x20;
+
+Excellent knowledge on technical development, with proficiencies in relevant technologies (including operating systems, programming languages, database)&#x20;
+
+Good understanding and solid experience with SDLC and required technical documentation for each phase of the life cycle&#x20;
+
+Strong experience in different development technologies like Microsoft technologies, Java framework other major techniques and products&#x20;
+
+Working knowledge of Testing and quality assurance practices including unit testing and code documentation&#x20;
+
+Experience with databases, web applications, programming languages and frontend technologies&#x20;
+
+Excellent problem-solving, analytical and time management skills Excellent communication and interpersonal skills
+
+### [Technical Writer](https://www.gov.uk/guidance/technical-writer)
+
+A technical writer takes a user-centered approach to making complicated technical concepts easier to understand for a specialist audience. He/she focuses on specialist content and software documentation, and write for technologists such as developers, technical architects, and technology leaders.
+
+**Qualifications**
+
+Bachelor's Degree in Information Systems, Information Technology, Computer Science, or other related disciplines.
+
+Postgraduate qualification and/or a recognized professional credential such as CPTC is an added advantage.
+
+6+ years of proven experience in writing technical documentation and procedural materials for multiple audiences
+
+Knowledge of Agile software development methodologies is highly desirable
+
+Experience working with engineering to improve user experience: design, UI, and help refine content and create visuals and diagrams for technical support content
+
+Solid understanding of the Systems Development Life Cycle (SDLC)
+
+Proven ability to handle multiple projects simultaneously, with an eye for prioritization
+
+Superior written and verbal communication skills, with a keen eye for detail
+
+Solid grip on documentation publishing software such as Zendesk Guide, Camtasia, SnagIt, and other software
 
 </details>
 
@@ -756,710 +1197,6 @@ Excellent problem-solving skills, and ability to identify and implement solution
 Experience or demonstrated interest in innovative platforms and mechanisms in Learning & Development.&#x20;
 
 Experience or demonstrated interest in experimenting and learning with new technologies and adult education, skills and competency development within global organizations.
-
-</details>
-
-<details>
-
-<summary>IT Specialist</summary>
-
-IT personnel perform a wide range of activities related to the Information Technology and Cybersecurity of the government ranging from information security and technology, information security operations and maintenance, information security overseeing and governance, cyber security infrastructure, defense, analysis and investigations. It includes roles such as:
-
-### [Back-end developers](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d)
-
-Backend developers develop, implement and document web-accessible software based on the designs provided. They align the client's web presence with its business strategy, troubleshoot software problems and issues and look for ways to improve the application.
-
-The qualifications and skills for this profile have been developed based on [Built in job profile.](https://builtin.com/job/engineer/software-engineer-backend-agile/912971)
-
-**Qualifications and Skills**
-
-Bachelor’s degree in in a field such as Computer science, web design, digital design, or graphic arts; an associate degree with proven years of experience may be a substitute.&#x20;
-
-Minimum 3 years’ experience in web-based application development using .NET or other similar technologies.
-
-Experience or Knowledge in the following or similar:
-
-Application Layer Technologies: .NET framework, .NET Core,  C#, ASP.NET, Entity Framework, ADO.NET, WCF, SOAP, XML, WSDL, REST based API
-
-Database Layer Technologies: MS SQL, Stored Procedures, Views, SQL dacpac
-
-Software Development Methodology: Agile development methodology, Technical Designs, Business requirement gathering, Multi-tier applications with thorough knowledge and experience in each layer
-
-Content Management and Source Control: SharePoint and Azure DevOps, Git
-
-Testing Technologies: Automated E2E API Testing using nUnit, xUnit or similar, Web Application security testing using OWASP
-
-User Interface Technologies: MVC, AJAX, JSON, HTML, CSS, JavaScript, jQuery, Angular 11+ or Comparable JavaScript Framework is plus
-
-Experience with Developing in Azure Cloud is plus
-
-Experience in TDD, continuous integration, and code review practice is strongly desired
-
-Engagement and collaboration skills and ability to successfully work in a team environment
-
-Experience with object-oriented programming and design concepts
-
-Ability to have ownership and autonomy to work on tasks and be pro-active in managing them end to end
-
-Ability to adapt in a fast-paced and changing environment
-
-### [Cloud engineers](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/349ee6f6-c295-4c38-9b98-48765b55280e)
-
-Cloud engineers are responsible for the design, planning, management and maintenance of cloud-based systems. They develop and implement cloud-applications, handle the migration of existing on-premise applications to the cloud, and debug cloud stacks.
-
-The qualifications and skills for this profile have been developed based on [Google job profiles](https://careers.google.com/jobs/results/90331545690088134-cloud-engineer-full-stack-global-delivery-center/?distance=50\&q=back%20end%20developer).
-
-**Qualifications and Skills**
-
-Bachelor's degree in Computer Science, a related technical field, or equivalent practical experience.
-
-5 years of experience with Java and one or more general purpose programming languages.
-
-Experience with relational databases (e.g., PostgreSQL), and in troubleshooting problems across services and functional areas.
-
-Experience in leading application modernization projects or application architecture projects.
-
-Experience working with two or more of the following: web application development, Unix/Linux environments, Cloud native application development, distributed and parallel systems, machine learning, information retrieval, mainframe/iSeries knowledge or networking.
-
-Knowledge of Developer Operations, including within the context of containers (e.g., Kubernetes).
-
-Ability to collaborate across organizational boundaries including partners, build relationships, and collaborate ideas to achieve organizational goals.
-
-### [Cloud architect](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/349ee6f6-c295-4c38-9b98-48765b55280e)
-
-Cloud architects are responsible for the design, planning, management and maintenance of cloud-based systems. They develop and implement cloud-applications, handle the migration of existing on-premise applications to the cloud, and debug cloud stacks.
-
-The qualifications and skills for this profile have been developed based on[ Built In job profile.](https://builtin.com/job/engineer/cloud-solutions-architect/1413925)
-
-**Qualifications and Skills**
-
-5+ years of experience in solution architecture specific to Cloud Data Solutions-data Lake, data warehouse deployments on AWS/Azure/GCP
-
-3+ years of experience in architecture on Kubernetes and general container technology and microservices/API
-
-Experience in implementing Data architectural paradigms - Lakehouse, Mesh
-
-Experience designing, developing, deploying, and securing public SaaS cloud deployments
-
-Experience securing IaaS / PaaS private cloud or DevOps environments
-
-Experience in SQL, ETL/ELT, Data warehousing concepts, Automation
-
-Experience in Data modelling solutions and handling semi-structured and structured datasets
-
-Development experience in Big Data / Cloud ecosystem - ability to design, develop, document and architect Hadoop / Cloud applications
-
-Previous or Current development experience in Python / Scala / Java / C# / NoSQL
-
-Knowledge of Data Pipeline/workflow management tools such as Airflow
-
-Expertise in one or more Streaming solutions - Kafka, Kinesis, Event Hub, DataFlow
-
-Knowledge of one or more Cloud Datawarehouse platforms - Snowflake, Redshift, Synapse, BigQuery
-
-Knowledge of the Agile methodology for delivering software solutions
-
-Knowledge and understanding of technical design patterns
-
-Financial Services & Insurance experience a plus
-
-Exceptional communication skills and ability to communicate appropriately with corporate executives and technical teams
-
-Excellent verbal, written, and interpersonal communication skills
-
-Ability to interact with all levels of an organization
-
-### [Data **** Analysts](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2)
-
-Data analysts import, inspect, clean, transform, validate, model, or interpret collections of data with regard to the business goals of the company. They ensure that the data sources and repositories provide consistent and reliable data. Data analysts use different algorithms and IT tools as demanded by the situation and the current data. They might prepare reports in the form of visualizations such as graphs, charts, and dashboards.
-
-The qualifications and skills for this profile have been developed based on [UN jobs profile](https://unjobs.org/vacancies/1669039701364).
-
-**Qualifications and Skills**
-
-Education to postgraduate level in social sciences, information management, statistics, data science, or other relevant subject. Other degrees with relevant experience may be considered.
-
-At least 3 years of relevant working experience in data analysis, information management, or similar
-
-Experience working in NGO or humanitarian sector is an asset
-
-Expertise in data analysis, data manipulation, data management, and data visualisation.
-
-Training and proven understanding/application of quantitative and qualitative research methods
-
-Sound knowledge of Python or R, or other similar software. Familiarity with database query languages such as SQL is an asset.
-
-Sound knowledge of statistics and experience using statistical packages for analysing data.
-
-Sound knowledge and experience of data visualization tools such as Power BI, Tableau, etc.
-
-Strong analytical skills with the ability to collect, organize, analyse, and disseminate significant amounts of information with attention to detail and accuracy
-
-Adept at report writing and presenting findings in a clear and meaningful way.
-
-Understanding of or interest in the humanitarian sector and emergency response context.
-
-Fluent written and oral communication skills in English. Working knowledge of regional languages is beneficial
-
-Cartographic skills, including use of GIS software and graphic packages such as Adobe suite is an asset
-
-### &#x20;[Data Scientist](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30)
-
-Data scientists find and interpret rich data sources, manage large amounts of data, merge data sources, ensure consistency of datasets, and create visualizations to aid in understanding data. They build mathematical models using data, present and communicate data insights and findings to specialists and scientists in their team and if required, to a non-expert audience, and recommend ways to apply the data.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile](https://builtin.com/job/data/data-scientist/1443894).
-
-**Qualifications and Skills**
-
-Bachelor's Degree in Business Analytics, Statistics (Theoretical/Computational), Applied Mathematics, MIS, Computer Science, or a related analytical field.&#x20;
-
-MS/MBA degree, Ph.D., or progress toward Masters/Ph.D. in Business Analytics, Statistics (Theoretical/Computational), Applied Mathematics, Computer Science, Machine Learning or Artificial Intelligence.&#x20;
-
-3-5 years of professional experience in analytics, marketing, business analysis, spatial analysis. Advanced statistical and predictive modeling experience using both supervised and unsupervised modeling techniques.&#x20;
-
-Experience manipulating large datasets and databases with working knowledge of Hadoop or other big data cloud technologies (e.g. Azure or AWS)&#x20;
-
-Extensive knowledge doing Machine Learning, Artificial Intelligence, and/or production level model deployment in the cloud&#x20;
-
-Strong technical competency and programming skills in large-scale data analysis using coding/querying languages including at least one of SAS, Python, or R. Others desired to be cognizant of are Spark, T-SQL, and PL-SQL.
-
-Analysis, design, development, test, troubleshooting and documentation of complex systems including several of the following: predictive models, feature extraction, data-driven analysis, application of machine learning algorithms, text mining, decision support, variable selection and model fit
-
-Knowledge of data migration and integration across datasets and technology platforms
-
-Deep analytical capability to debug, monitor, and troubleshoot issues with data solutions
-
-Effective communication (verbal/written) and leadership skills to foster enterprise influence on data-driven business decision-making&#x20;
-
-Ability to transform technical jargon into meaningful business insight at varying levels of the organization &#x20;
-
-Continuous self-learner with perspective on industry trends in the data space&#x20;
-
-Experience with data visualization in Power BI, Tableau, SSRS, or other comparable tools.&#x20;
-
-Experience working with large enterprise databases with demonstrated ability to independently query and prepare data for analysis.&#x20;
-
-Familiarity with Machine Learning, Artificial Intelligence, and/or production level model deployment.&#x20;
-
-Basic HTML knowledge, and knowledge of front-end tools such as query tools, report writers, data mining, and analysis tools.&#x20;
-
-Advanced level of proficiency with Microsoft Excel, Access, Word, and PowerPoint&#x20;
-
-Ability to locate and summarize data characteristics&#x20;
-
-Experience in translating and documenting business needs to technical requirements&#x20;
-
-Strong project management skills&#x20;
-
-### [Database managers](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/8c57af09-719c-42b3-be40-6ed4946236cc)
-
-Database managers test, implement and administer computer databases. They use their expertise in database management systems to plan, coordinate and implement security measures to safeguard computer databases. They also use scripts and configuration files to tailor a database to users' needs.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/data/oracle-database-administrator/1023621)
-
-**Qualifications and Skills**
-
-BS/BA degree or equivalent experience
-
-7 to 10 years of Oracle DBA Experience with strong understanding of databases and oracle engineered systems like Exadata, ZFS and ZDLRA
-
-Expert experience administering various multi-Terabyte, 24x7 uptime Oracle databases as a Systems/Infrastructure Database Administrator required
-
-Strong experience working with Oracle versions 11gR1/2, 12c and 19c n a Linux environment
-
-Experience with Zero Data Loss Recovery Appliance is a plus
-
-Strong, proven Oracle Database Performance Diagnostic skills (at both the SQL and system levels)
-
-Experience with features such as Oracle Real Application Clusters (RAC), Automatic Storage Management (ASM), Active Data Guard, Oracle Enterprise Manager (OEM) and Golden Gate replication
-
-Experience with Backup and Recovery using Oracle Recovery Manager (RMAN)
-
-Experience architecting, supporting and implementing advanced, strategic database management system
-
-Demonstrated ability to drive Agile development and implement automated process to improve database system reliability
-
-Advanced knowledge of IT infrastructure, with a background in systems and network administration
-
-Proficient development skills in a dynamic programming language such as Python, JavaScript, .NET, Perl, PL/SQL, UNIX Shell Scripting. Also experience with Microservices is desirable
-
-
-
-### ****[**DevOps Specialist**](https://www.gov.uk/guidance/development-operations-devops-engineer)****
-
-DevOps specialists support the development and operation of software through tools, environments and practices. They organise and implement a process to manage changes throughout the lifecycle of ICT assets such as software, applications, ICT systems, etc. ICT change and configuration managers have a sound knowledge of the main technologies and processes used in system engineering and to manage the lifecycle of ICT systems and subsystems.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/engineer/devops-engineer/1363411)
-
-**Qualifications and Skills**
-
-5+ years of hands-on development experience in at least one object-orientated language e.g. Java/C#, JavaScript, Golang
-
-3+ years of experience in using Atlassian suite (Jira, Bitbucket, Bamboo, Confluence), GIT, Sonar, Nexus, Fortify, DevSecOps
-
-2+ year of experience in using AWS, GCP and/or Azure with a strong understanding of AWS networking and security features and services
-
-Experience in the Software Development Lifecycle with both a Dev and Ops mindset
-
-Experience working with Ansible or Elastic Stack
-
-Experience working within a TCP / IP stack
-
-Experience working with Hadoop, Redis, and Kafka
-
-Experience/understanding of Kubernetes, Istio and knowledge of related tools (Kiali, Fortio etc.)
-
-Experience owning infrastructure in production, as well as designing and creating build/deploy & monitoring systems
-
-Experienced in Automation and Configuration Management tools such as Ansible, Chef, Puppet and Helm
-
-Hands on Test Orchestration experience with Cucumber, Karate, Selenium
-
-### [Digital security manager](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/7754d570-9519-48c2-b1c9-8e165f8bca0f)
-
-A Digital security manager proposes and implements necessary security updates. They advise, support, inform and provide training and security awareness and take direct action on all or part of a network or system.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile](https://builtin.com/job/product/senior-product-manager-cyber-security/1279056).
-
-**Qualifications and Skills**
-
-BA/BS in computer science, information security, related discipline, or equivalent work experience.
-
-4+ years of experience within a software security team or similar operating environment with a current focus on secure application development.
-
-Strong information security risk-based prioritization abilities.
-
-General understanding of common application security flaws, and how to fix them.
-
-Desire to up-skill and self-develop
-
-Information security professional certifications encouraged, such as SANS GIAC, CISSP
-
-Experience teaching application security and secure development practices;
-
-Experience with DevOps processes in a Cloud/SaaS environment.
-
-Experience architecting, securing, and operating one or more public cloud environments: Amazon Web Services, Google App Engine, Azure, and Oracle Cloud.
-
-Experience with service-oriented architectures and web services security.
-
-Experience operating in regulated environments, such as Finance, Healthcare, Military
-
-### [Emerging Technologies Officer](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/35553663-deab-4d9a-bf22-15c1625d28e8) (AI, Blockchain, IoT, Quantum Computing)&#x20;
-
-ICT intelligent systems designers apply methods of artificial intelligence in engineering, robotics and computer science to design programs which simulate intelligence including thinking models, cognitive and knowledge-based systems, problem solving, and decision making. They also integrate structured knowledge into computer systems (ontologies, knowledge bases) in order to solve complex problems normally requiring a high level of human expertise or artificial intelligence methods.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/project/sr-product-strategy-technical-partnerships-manager-emerging-technologies/1326509)
-
-**Qualifications and Skills**
-
-Bachelor's degree required, in relevant field. MSc/PhD is a plus
-
-3+ years prior working experience in areas like product manager, or product design/strategy lead, technical partnerships or engineering
-
-Deep passion and insight for delivering value through innovation and technical excellence
-
-Analytical mind with a problem-solving aptitude and demonstrable strategic thinking abilities
-
-Excellent interpersonal skills and solid communication with all levels of management
-
-Strong interests in the latest technologies such as AI, ML, Blockchain, Metaverse, Web3.0, Security, IoT, and so on
-
-Understanding of market research and data analysis
-
-Proven track record influencing decision making
-
-Knowledge of business operations and procedures.
-
-### &#x20;[Front-end developer](https://www.gov.uk/guidance/frontend-developer)
-
-A frontend developer designs, builds and improves website software that meets user needs.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/engineer/front-end-engineer-chase/956085)
-
-**Qualifications and Skills**
-
-Firm grasp of modern JavaScript
-
-Experience with React/ Angular/ React Native/ Kotlin / Swift
-
-Ability to write testable, clean JavaScript code
-
-Understanding of REST APIs
-
-Strong knowledge of testing best practices and standards
-
-Experience working in an automated deployment environment with a focus on integrating automated testing into continuous integration / continuous delivery pipelines.
-
-Familiarity with BDD practices and test automation tools and frameworks to support it.
-
-Accountable for adherence to established test standards and procedures.
-
-Strong working knowledge of accessibility testing as it relates to mobile (using standards such as WCAG 2.1 or ADA)
-
-Ability to work in a dynamic, agile environment within a geographically distributed team
-
-Ability to focus on promptly addressing customer needs
-
-Technically curious, versatile and solution-oriented
-
-Excellent written and verbal communication skills in English
-
-### [Help Desk Support Analyst](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/aaeec9a7-dc57-4485-890c-86b3eef735f9)
-
-ICT help desk analysts provide technical assistance to end users, answer questions or solve computer problems for clients via telephone or electronically. They provide assistance concerning the use of computer hardware and software.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/operations/information-technology-help-desk-support/1298593)
-
-**Qualifications and Skills**
-
-Basic understanding of IT hardware/software
-
-1-3 years of relevant experience in a Helpdesk role
-
-Time management and problem-solving skills
-
-Self-confident, motivated person with a strong work ethic and excellent communication skills who enjoys a fast-paced, team-driven environment.
-
-Experience with Google Suite of Products and Zoom
-
-Basic understanding of networks
-
-Fluency in the local language
-
-Strong process and application knowledge&#x20;
-
-Excellent problem solving, verbal communication and customer service skills.
-
-### [ICT System Integration Consultant](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/bd9d395a-d587-45c6-8d72-ceef226df9e1)
-
-ICT system integration consultants advise on bringing together different systems to interoperate within an organization for enabling data sharing and reducing redundancy.
-
-The qualifications and skills for this profile have been developed based on [UN jobs profile](https://unjobs.org/vacancies/1668783201758).
-
-**Qualifications and Skills**
-
-Bachelor’s degree in computer science, Information Technology, Business Administration, mathematics, engineering, or related area. Masters will be an added advantage.
-
-Experience in IT or database administration a plus
-
-Experience in: Multiple OS platforms with strong emphasis on Linux (CentOS, Red Hat, Ubuntu), Mac OS X, and Windows systems
-
-Experience working in a research/projects environment that relies extensively on Open-Source solutions
-
-Experience in setting up and managing SMS gateway and integration with MNOs.
-
-Experience in Software design, documentation, testing, and maintenance
-
-Hardware requirements experience
-
-Data management and programming skills
-
-&#x20;Proven skills in communication, networking systematic thinking and ability to conceptualize, plan and execute ideas.
-
-Knowledge of agile project management
-
-### [Network Support Engineer](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d)&#x20;
-
-ICT network engineers implement, maintain and support computer networks. They also perform network modelling, analysis, and planning. They may also design network and computer security measures. They may research and recommend network and data communications hardware and software.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/operations/network-support-engineer-l1/1309088)
-
-**Qualifications and Skills**
-
-CCNA (Cisco Certified Network Administrator)
-
-Must have basic network level troubleshooting/understanding of network switching
-
-Must have 3-7 years system administration knowledge of Microsoft and Linux environments
-
-Must have 3-7 years Ticketing system tools experience (Such as ServiceNow, Jira, Remedy but not limited to)
-
-3 years or more recent and significant experience working in a Help Desk, first level support environment.
-
-Must demonstrate mature interpersonal and communication skills and behaviors.
-
-Must have excellent organizational and multitasking skills, including the ability to meet deadlines, follow written procedures, while maintaining superior customer service at all times with all users.
-
-Requires the disposition and ability to adapt to ongoing changes and the adoption of new technologies in a rapidly evolving IT environment.
-
-Familiarity with service management frameworks strongly desired. ITIL Certification or similar, a plus.
-
-Demonstrated knowledge of the OSI model.
-
-Must be able to create, manage and oversee telecoms and hardware troubleshooting tickets.
-
-Requires the ability to learn to effectively triage core applications and know when to escalate.
-
-Requires the ability to exercise a reasonable amount of independent judgment.
-
-Good understanding of computer systems and other tech products.
-
-Basic understanding of Wi-Fi networking and protocols
-
-### ****[**Quality Assurance/Tester**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/106f79e4-6264-45f1-9e7a-297435cd684b)****
-
-QA testers perform software tests. They may also plan and design them. They may also debug and repair software although this mainly corresponds to designers and developers. They ensure that applications function properly before delivering them to internal and external clients.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/engineer/technology-qa-tester/1236193)
-
-**Qualifications and Skills**
-
-Bachelor’s Degree or equivalent related QA experience
-
-Minimum of 1 yr experience in test strategy, test design and test planning
-
-Working Knowledge of Enterprise Testing standards
-
-Extensive expertise with QA Deliverables toolset - (Jira, Quality Center, SharePoint and Microsoft Project/Excel)
-
-Understanding of building and designing test cases including knowledge of test methodologies
-
-Excellent communication skills and ability to speak and write clearly and accurately, particularly as it relates to technical concepts
-
-Highly motivated and able to work independently
-
-Strong problem-solving and analytical skills
-
-Selenium Manual and Automation testing and through knowledge of STLC and testing methodologies
-
-Strong web services testing
-
-Solid functional testing skillset
-
-### [Service Integrator](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/3d190639-90f8-4402-b1b3-a104a17e0d67)
-
-Service integrators perform integration among different databases. They maintain integration and ensure interoperability.
-
-The qualifications and skills for this profile have been developed based on[ Built In job profile.](https://builtin.com/job/engineer/technical-architect-integrationplatform-services/1060358)
-
-**Qualifications and Skills**
-
-Bachelor's degree (or equivalent) in Computer Science or Engineering or other relevant disciplines strongly preferred
-
-Experience implementing and leading the integration workstream on customer projects, with at least 5 full cycle implementations in an integration role.
-
-10 years of relevant industry background with demonstrable experience in an enterprise-level service configuration, deployments, and integration patterns.
-
-Technical background with experience in installing, tuning, and deploying services on Linux and/or Windows environments
-
-Experience programming with PL/SQL, T-SQL, Python, MuleSoft.
-
-Demonstrated strong knowledge of: Enterprise integration patterns, Service-oriented and microservices architecture patterns, Deploying, configuring and testing services, APIs (REST and SOAP), Data modelling concepts
-
-Preferable strong knowledge of: Enterprise architecture and Issue & tracking tools like Salesforce, ServiceNow, Jira
-
-Strong customer-facing skills and communication skills (verbal and written).
-
-Self-motivated, strong initiative, strong sense of ownership, ability to work autonomously with minimal direction.
-
-### [Software Engineer](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1)&#x20;
-
-Software developers implement or program all kinds of software systems based on specifications and designs by using programming languages, tools, and platforms. They Research, design, and develop computer and network software or specialized utility programs. Analyze user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis. Update software or enhance existing software capabilities.&#x20;
-
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/engineer/senior-software-engineer/1445499)
-
-**Qualifications and Skills**
-
-3+ years of experience building, testing, deploying and debugging distributed systems in production environments.
-
-Strong front-end experience with some back-end foundation, and enthusiastically approach everything from UI to API design with the same level of respect, intention, ownership and accountability.
-
-You understand the importance of shipping early and often, and you have demonstrable experience working and delivering iteratively.
-
-An enthusiastic and effective communicator: interactions with our users across the business should be engaging to you, and you should be able to appeal to technical and non-technical listeners alike.
-
-Experience with full-stack web technology (Node.js, React, TypeScript, HTML, CSS) to develop MVPs and run experiments to validate ideas and iterate quickly
-
-Solid understanding of functional programming.
-
-A firm grasp on Agile software development methodologies
-
-Willing to pick up new technologies and languages, and aren’t afraid to admit what you don’t know.
-
-Strive to write code that’s easily readable, testable, maintainable, and observable.
-
-Passionate about ensuring that all systems -- software and human -- scale smoothly.
-
-### [Solution Architect](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e)&#x20;
-
-A Solution Architect creates the technical design and the functional model of a software system, based on functional specifications. They also design the architecture of the system or different modules and components related to the business' or customer requirements, technical platform, computer language or development environment.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile](https://builtin.com/job/engineer/solutions-architect/1410565).
-
-**Qualifications and Skills**
-
-Bachelor’s degree is preferred or an equivalent combination of experience, certifications and training
-
-2+ years of client-facing experience working as a solution architect
-
-Proven delivery of complex, large-scale IT solutions&#x20;
-
-General understanding of integration and application development lifecycles, including knowledge of integration architectures, software development frameworks
-
-Understands thoroughly and exemplifies Lean, Agile, and DevOps delivery principles
-
-Experience with professional services and consulting practices
-
-Effective communicator - both written and verbal - for technical and business audiences
-
-Ability to develop and maintain relationships with internal client-facing teams including Sales, Customer Success, Product, and Implementation
-
-Ability to effectively manage software projects with internal and external developers/consultants
-
-Proactive analytical expertise and problem-solving approach
-
-### ****[**System Developer**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135)****
-
-ICT system developers maintain, audit and improve organizational support systems. They use existing or new technologies to meet particular needs. They test both hardware and software system components, diagnose and resolve system faults. **** May work with computer hardware engineers to integrate hardware and software systems and develop specifications and performance requirements.&#x20;
-
-The qualifications and skills for this profile have been developed based on [Built In job profile](https://builtin.com/job/engineer/experienced-systems-engineer/812677).
-
-**Qualifications and Skills**
-
-Bachelor's Degree or higher from an accredited course of study, in engineering, computer science, mathematics, physics or chemistry.
-
-3 years or more of experience in systems development/engineering.
-
-A clear understanding of how to break down business problems into a viable technical solution
-
-Experience with Ops Product architecture, design, development, and test.
-
-Experience with software requirements verification testing.
-
-Experience with scripting languages (i.e. Tcl/Tk, Python).
-
-Experience with Configuration Management tools and processes.
-
-Experience working with Agile teams, methodologies
-
-### [System/network designer](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d)
-
-ICT network engineers implement, maintain and support computer networks. They also perform network modelling, analysis, and planning. They may also design network and computer security measures. They may research and recommend network and data communications hardware and software.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile](https://builtin.com/job/engineer/network-engineer-professional-services/1236737).
-
-**Qualifications and Skills**
-
-5+ years in professional services technical consulting in the networking space.
-
-Experience with SonicWall, Cisco ASA, enterprise-grade firewalls, and security skills preferred.
-
-Industry-related certifications including; Current CompTIA Network+, Cisco CCNA, and current industry network certifications
-
-Current knowledge of Cloud communications as well as associated networking products, tools and services.
-
-Strong understanding of network architecture, infrastructure components, Ethernet, fiber transport, call flow and traffic testing automation
-
-Experience with monitoring enterprise networks using network-monitoring tools that include Frame-Relay, ATM, Wireshark and TCP/IP technologies.
-
-Experience with monitoring LAN performance and network availability to all system users.
-
-Thorough understanding of AWS cloud architecture, Kubernetes networking and 5G networking
-
-Detailed understanding of optical Networks, optical transmission technologies, Ethernet, Wave, Switching, Routing, Data Networks, and Synchronization of optical networks.
-
-Experience analyzing new network requirements, deployments, augmentations, bandwidth and software upgrades.
-
-Experience with patching, hot cuts, trunking, and migrations.
-
-Excellent communication, analytical and problem-solving skills.
-
-Able to work independently, manage multiple commitments simultaneously, know when to follow-up and escalate issues appropriately.
-
-Must be able to convey technical topics clearly and communicate professionally.
-
-### &#x20;[Technical Architect ](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e)
-
-Software architects create the technical design and the functional model of a software system, based on functional specifications. They also design the architecture of the system or different modules and components related to the business' or customer requirements, technical platform, computer language or development environment.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/engineer/technical-architect/1439449)
-
-**Qualifications and Skills**
-
-BA or BS, preferably in computer science, engineering, or science/technology-based discipline OR equivalent work experience.  Cloud certification is an added advantage.
-
-Effective and professional communication skills (both verbal and written) across technical, business, and executive audiences
-
-5+ years of hands-on experience in the implementation, support, and design of complex high-volume software systems
-
-Expertise with C#/.NET Core applications
-
-Experience with front-end architecture and React/Angular applications
-
-Experience working with both front and back-end technologies, architecture, and patterns with extensive expertise in one or more languages
-
-Experience with enterprise security best practices and design, including API security design, OWASP, and access management
-
-Experience working with cloud-based software architecture solutions and DevOps best practices
-
-Experience with legacy integrations and modernization/digitalization of legacy systems
-
-Experience designing and developing event-driven architectural solutions, microservice patterns, and SOA
-
-Expertise in relational and/or NoSQL data persistence
-
-Experienced in formulating roadmap strategies, including providing thought leadership around emerging technologies
-
-Experience working in Agile/Lean/CD environments
-
-### ****[**Technical Lead**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/f31f487b-4ce2-40f3-90e8-7d0011b4ef1d)****
-
-Technical leads/Software managers oversee the acquisition and development of software systems in order to provide support to all organizational units. They also monitor the results and quality of the different software solutions and projects implemented in the organization.&#x20;
-
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/engineer/software-engineer-manager/970666)
-
-**Qualifications and Skills**
-
-Bachelor’s in Computer Science, Electrical/Computer Systems Engineering or a similar math or engineering discipline
-
-Demonstrated knowledge and application of Agile principles to support the development teams with a focus on quality and continuous improvement
-
-Experience building systems to scale with cloud technology (AWS, Azure)
-
-Demonstrated history of implementing and managing significant software development projects
-
-Solid fundamental background in multiple testing disciplines (e.g. APIs, Functional UI testing, Performance testing, data-oriented systems test, distributed systems, etc.)
-
-Familiarity with multiple technology stacks including both static and dynamic programming languages, and code and architecture concerns in a modern programming environment (such as Java, J2EE, Cloud enablement, Micro Services Architecture)
-
-Ability to work in large, collaborative teams to achieve organizational goals, and passionate about building an innovative culture
-
-Proficiency in multiple modern programming languages such as Java, or C# (at least 5 years)
-
-Knowledge of industry-wide technology trends and best practices
-
-Keen understanding of financial control and budget management
-
-Expertise in application, data, and infrastructure architecture disciplines
-
-Advanced knowledge of architecture and design across all systems
-
-### [Technical Writer](https://www.gov.uk/guidance/technical-writer)
-
-A technical writer takes a user-centered approach to making complicated technical concepts easier to understand for a specialist audience. He/she focuses on specialist content and software documentation, and write for technologists such as developers, technical architects, and technology leaders.
-
-The qualifications and skills for this profile have been developed based on [Built In job profile.](https://builtin.com/job/operations/technical-writing-lead/1203975)
-
-**Qualifications and Skills**
-
-4+ years of demonstrated excellence generating technical documentation for an opinionated audience
-
-2+ years of people management experience
-
-A passion for excellent documentation and user experiences
-
-Successfully recruited and built great teams of technical writers previously
-
-Experience reading and interpreting mechanical drawings and API documentation
-
-Clear and persuasive writing and in-person communication skills, for a variety of audiences
-
-Familiarity with existing documentation systems - understanding enough about existing toolkits in this domain to consider capabilities and limitations, and ultimately produce realistic buy-vs-build tooling determinations alongside engineers
-
-The ability to thrive with a high level of autonomy and responsibility, managing competing demands and occasional tight deadlines
-
-Knowledge of Agile software development methodologies is highly desirable
 
 </details>
 
