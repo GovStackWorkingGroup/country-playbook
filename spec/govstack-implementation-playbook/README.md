@@ -10,7 +10,11 @@ The GovStack Implementation Playbook is an extension of the [SDG Digital Investm
 
 <figure><img src="../.gitbook/assets/GovStack Playbook (1)-overlay.png" alt=""><figcaption></figcaption></figure>
 
-### How is the playbook structured?
+### &#x20;Who's the GovStack Implementation Playbook for?
+
+The Playbook is intended to be used by digital teams involved in the digitization of government services. The digital teams comprise of Chief Information/Innovation/Digital Officers, service designers, solution architects, software developers, legal advisors, and other roles as mentioned in the [GovStack Digital Team Composition section of the Playbook](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/digital-teams-composition).
+
+### How is the Playbook structured?
 
 The Playbook is structured in five sections according to the GovStack implementation framework, each section can have subsections according to its content:
 
