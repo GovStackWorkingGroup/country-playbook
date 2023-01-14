@@ -10,7 +10,7 @@ A holistic (Whole-of-Government) digital platform that can be used by any govern
 
 Instead of creating unique and disparate solutions, use a common reusable stack of Building Blocks to form the core platform engine and contextualize various e-government services on top.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-09-19 180821.png" alt=""><figcaption><p>[Recommended reading: <a href="https://www.newamerica.org/digital-impact-governance-initiative/reports/digital-government-mapping-project/key-findings">Key findings on digital government “stacks” by New America]</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/BBa.png" alt=""><figcaption><p>[Recommended reading: <a href="https://www.newamerica.org/digital-impact-governance-initiative/reports/digital-government-mapping-project/key-findings">Key findings on digital government “stacks” by New America]</a></p></figcaption></figure>
 
 ## How to make a BB approach sustainable over time?
 
