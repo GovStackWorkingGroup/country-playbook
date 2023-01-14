@@ -32,7 +32,7 @@
     * [Develop, test, iterate a functional prototype](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/develop-test-iterate-and-release-the-functional-prototype-of-the-service.md)
     * [Launch the service](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/launch-the-service.md)
     * [Co-design the scaling strategy](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol/co-design-the-scaling-strategy.md)
-  * [GovStack Building Block approach](govstack-implementation-playbook/govstack-building-block-approach.md)
+  * [GovStack Building block approach](govstack-implementation-playbook/govstack-building-block-approach.md)
   * [Digital Teams Composition](govstack-implementation-playbook/digital-teams-composition.md)
   * [Learning and Exchange](govstack-implementation-playbook/learning-and-exchange/README.md)
     * [Capacity Development](govstack-implementation-playbook/learning-and-exchange/capacity-development/README.md)

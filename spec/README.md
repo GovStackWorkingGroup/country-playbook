@@ -34,3 +34,9 @@ A primary aim of this framework is to assist decision-makers and enterprise plan
 The example below illustrates the business processes and supporting technologies for an illustrative **Rural Advisory Service Use Case.**
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Rural Advisory Service Use Case (ITU, DIAL, 2019)</p></figcaption></figure>
+
+## What is the relationship between Digital Public Goods and building blocks?
+
+GovStack building blocks are interoperable, generic Digital Public Goods that enable digital public infrastructure.
+
+<figure><img src=".gitbook/assets/DPGS BBS.png" alt=""><figcaption><p>Source: https://digitalpublicgoods.net/blog/unpacking-concepts-definitions-digital-public-infrastructure-building-blocks-and-their-relation-to-digital-public-goods/</p></figcaption></figure>
