@@ -81,7 +81,8 @@ LMS: Modules [1](../learning-and-exchange/govstack-learning-management-system/#a
 * [How to conduct user research:](https://methods.18f.gov/interview-checklist/) Methods provide instruction on several different research activities to consider, including [interviews](https://methods.18f.gov/stakeholder-and-user-interviews), [contextual inquiries](https://methods.18f.gov/contextual-inquiry), [heuristic evaluation](https://methods.18f.gov/heuristic-evaluation), and more.&#x20;
 * [How to conduct user research](https://handbook.tts.gsa.gov/research-guidelines/): Guidelines on how research is done at TTS, including informing and getting consent, and managing Personally Identifiable Information (PII).&#x20;
 * [How to synthesize user research](https://methods.18f.gov/): Methods provide instructions on several different ways to tell users’ stories, including [journey maps](https://methods.18f.gov/journey-mapping), [user scenarios](https://methods.18f.gov/user-scenarios), [storyboards](https://methods.18f.gov/storyboarding), and [task flow analysis](https://methods.18f.gov/decide/task-flow-analysis/).&#x20;
-* [How to share user research](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/): How to present findings to your partner and allow room for reaching consensus before making recommendations.&#x20;
+* [How to share user research](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/): How to present findings to your partner and allow room for reaching a consensus before making recommendations.&#x20;
+* [User Persona template with examples](../learning-and-exchange/artefacts.md#user-personas).
 
 References: F18, GDS Service Manual &#x20;
 {% endtab %}

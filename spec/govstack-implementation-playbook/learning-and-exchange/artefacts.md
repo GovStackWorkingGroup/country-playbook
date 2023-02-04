@@ -97,7 +97,7 @@ Description of artefact: The artefact provides contact information and role prof
 
 Link to artefact:&#x20;
 
-{% file src="../../.gitbook/assets/Country's Who's Who Report.docx" %}
+{% file src="../../.gitbook/assets/Country Who's Who Report.docx" %}
 
 Part of Module 2 on GovStack LMS
 
@@ -292,6 +292,12 @@ Part of Module 8 on GovStack LMS
 {% endtab %}
 
 {% tab title="Digital Service Design Standard and Delivery Protocol" %}
+### User personas
+
+Description of artefact: User personas are archetypical users whose goals and characteristics represent the needs of a larger group of users.
+
+{% file src="../../.gitbook/assets/User persona template and examples.pptx" %}
+
 ### User Needs Research Plan
 
 Description of artefact:  Includes interview guide, focus group guide, mystery shopper instructions, user journey workshop agenda&#x20;
