@@ -2,7 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Digital Strategy & Governance
+# Digital Strategy and Governance
+
+![](../.gitbook/assets/Playbook\_01.png)
 
 This playbook section provides reference measurements, and frameworks, use to assess a Country/State/Municipality´s digital landscape and maturity.  It also provides guidance on the characteristics of enabling institutional governance and a digital regulatory environment for digitizing government services at scale using a citizen-centric design approach. It provides examples of:&#x20;
 

@@ -4,6 +4,8 @@ description: Version for TAC Review October 2022
 
 # Digital Teams Composition
 
+![](../.gitbook/assets/Playbook\_03.png)
+
 Digital service teams (DST) are teams tasked with redesigning government services and processes to align with new technologies. These teams play a critical role in driving new practices in government services, such as agile development processes and user-centered design.
 
 The team comprises of various experts who contribute to the service digitalization journey, see [sample composition of a digital team here](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/OpvYVTiY5820LuHfEAbv/govstack-implementation-playbook/annex/sample-digital-team-composition).
