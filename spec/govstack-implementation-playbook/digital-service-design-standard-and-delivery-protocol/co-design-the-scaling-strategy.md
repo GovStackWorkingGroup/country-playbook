@@ -86,8 +86,8 @@ Scaling Strategy requires the following top management:
   * [Uk governemnt performance dashboard](https://webarchive.nationalarchives.gov.uk/ukgwa/20210315084926/https://www.gov.uk/performance)
 * [List of generic workflows from Mexico](../learning-and-exchange/artefacts.md#list-of-generic-workflows)
 * [Context on existing Digital Service Design Standards and Delivery Protocol (Request for Information, RFI-1)](../learning-and-exchange/artefacts.md#context-on-existing-digital-service-design-standards-and-delivery-protocol-request-for-information-r)
-* [Service Catalogue (Request for Information, RFI-2)](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-* [User/Business Life events (Request for Information, RFI-3)](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+* [Service Catalogue (Request for Information, RFI-2)](broken-reference)
+* [User/Business Life events (Request for Information, RFI-3)](broken-reference)
 * [Current digital capability in country (Request for Information, RFI-4)](../learning-and-exchange/artefacts.md#request-for-information-4-rfi-4)
 * [User journey (Request for Information, RFI-5)](../learning-and-exchange/artefacts.md#request-for-information-5-rfi-5)
 {% endtab %}

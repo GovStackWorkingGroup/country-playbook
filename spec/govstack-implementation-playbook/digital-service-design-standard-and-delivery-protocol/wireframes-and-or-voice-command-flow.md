@@ -34,9 +34,9 @@ The following actions are recomended in developing a prototype.&#x20;
 Who does what&#x20;
 
 * [Service designers](../annex/govstack-user-profiles-taxonomy.md#service-designer)/ Design lead – Lead the activites within the 'Activities' Tab.
-* [User needs researchers](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/) – Prepare & apply user interviews, focus groups, facilitates user journey workshops &#x20;
+* [User needs researchers](broken-reference) – Prepare & apply user interviews, focus groups, facilitates user journey workshops &#x20;
 * [Legal policy officer](../annex/govstack-user-profiles-taxonomy.md#legal-policy-officer)– Clarify regulations that apply to the service &#x20;
-* [UX/IU Designers](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/) – If the service under analysis is already online, UX/UI designers can join the co-design sessions to have firsthand interaction with the users &#x20;
+* [UX/IU Designers](broken-reference) – If the service under analysis is already online, UX/UI designers can join the co-design sessions to have firsthand interaction with the users &#x20;
 * [Product/Tech experts](../annex/govstack-user-profiles-taxonomy.md#back-end-developers)  - If the service under analysis is already online, Product/Tech team members can participate in the iteration session with users to see reaction to white-frame prototype &#x20;
 {% endtab %}
 
@@ -44,13 +44,13 @@ Who does what&#x20;
 * [Wireframes and/or voice command flow](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow) &#x20;
 * Apply the country digital service design standards.This includes standards for:
   * [Service information sheet](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#information-service-sheets)
-  * [Downloadable forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Web forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Electronic documents](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Notifications](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Performance analytics](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Citizen satisfaction survey](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Accessibility ](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Downloadable forms](broken-reference)
+  * [Web forms](broken-reference)
+  * [Electronic documents](broken-reference)
+  * [Notifications](broken-reference)
+  * [Performance analytics](broken-reference)
+  * [Citizen satisfaction survey](broken-reference)
+  * [Accessibility ](broken-reference)
 {% endtab %}
 
 {% tab title="Next steps" %}

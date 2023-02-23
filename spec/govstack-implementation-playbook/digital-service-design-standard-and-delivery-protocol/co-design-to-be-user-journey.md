@@ -22,13 +22,13 @@ A good co-design process requires:
 * Identifing country legislation, policies & standards regulating the service that need to be updated to enable the 'To-Be' User journey.
 * Identifing service components to be standardized. These will become a part of Country digital service design standards. Standardisation inculcates familiarity with service users, allowing them to easily identify offecial forms/documents/resources and disregard forged ones:
   * [Service information sheet](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#information-service-sheets)
-  * [Downloadable forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Web forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Electronic documents](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Notifications](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Performance analytics](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Citizen satisfaction survey](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Accessibility ](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Downloadable forms](broken-reference)
+  * [Web forms](broken-reference)
+  * [Electronic documents](broken-reference)
+  * [Notifications](broken-reference)
+  * [Performance analytics](broken-reference)
+  * [Citizen satisfaction survey](broken-reference)
+  * [Accessibility ](broken-reference)
 {% endtab %}
 
 {% tab title="Activities" %}

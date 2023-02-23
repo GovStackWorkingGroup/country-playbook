@@ -17,13 +17,13 @@ A good functional prototype of the service …
 * Complies with the approved 'To-be user journey' and wireframe and/or voice command flow
 * Complies to Country digital service design standards. This includes standards for:&#x20;
   * [Service information sheet](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#information-service-sheets)
-  * [Downloadable forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Web forms](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Electronic documents](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Notifications](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Performance analytics](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Citizen satisfaction survey](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
-  * [Accessibility ](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/zlgZ7XvqYnhGTNjlQo19/)
+  * [Downloadable forms](broken-reference)
+  * [Web forms](broken-reference)
+  * [Electronic documents](broken-reference)
+  * [Notifications](broken-reference)
+  * [Performance analytics](broken-reference)
+  * [Citizen satisfaction survey](broken-reference)
+  * [Accessibility ](broken-reference)
 * Complies with Country enterprise architecture, including digital security protocols approved by the country technical team&#x20;
 {% endtab %}
 
