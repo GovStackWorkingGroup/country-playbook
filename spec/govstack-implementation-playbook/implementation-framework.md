@@ -14,4 +14,4 @@ To further facilitate the implementation process, the **GovStack digital service
 
 The aim of the GovStack digital service co-Design & delivery protocol is to facilitate digital teams around the world to build their own digital service design standard and government technology stack organically. Starting with one or two priority services that use a small set of reusable software components (BBs) that will have high utilization by other services in their service catalog.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-26 183218.png" alt=""><figcaption><p>GovStack Building Block approach for scalling digitisation of governemnt services</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2. Scaling approach (4).jpg" alt=""><figcaption><p>GovStack Building Block approach for scalling digitisation of governemnt services</p></figcaption></figure>

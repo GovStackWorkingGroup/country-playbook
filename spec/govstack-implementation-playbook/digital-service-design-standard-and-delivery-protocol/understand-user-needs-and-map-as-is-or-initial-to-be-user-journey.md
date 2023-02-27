@@ -8,7 +8,7 @@ Understanding who are we solving a problem for is important for creating a user-
 
 Once we know who our service users are, we need to understand how they are currently “getting the job done” or how their needs are currently being met. This is achieved by developing the 'As-Is' user journey (if the service is already in place) or an '[initial to-be](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=546357928944)' user journey (If it is an entirely new service).&#x20;
 
-<figure><img src="../../.gitbook/assets/User Journey (1).png" alt=""><figcaption><p>'As-is' / 'initial to-be' user journey</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5. As-is initial-to-be user journey (1).jpg" alt=""><figcaption><p>As-is and To-be user journeys</p></figcaption></figure>
 
 Observational and structured research will help you hear what users say they like or dislike about their current state. Using a [design thinking](../3-terminology.md#design-thinking) mindset to translate user feedback into underlying goals and problems will allow to identify problems and solutions the users may not have thought to articulate.&#x20;
 
