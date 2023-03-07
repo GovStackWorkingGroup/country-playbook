@@ -4,8 +4,6 @@ description: Version for TAC Review October 2022
 
 # GovStack Overview
 
-<figure><img src="../../.gitbook/assets/spaces_4D3oEcPGpYoKnwkQmCzJ_uploads_BkwYTgTpUZ92ijyaLhzE_version0 (1).webp" alt=""><figcaption></figcaption></figure>
-
 ## What is it?&#x20;
 
 GovStack initiative is an expert community-driven multistakeholder effort aimed at deriving common technical practice and understanding of the Building Blocks approach as seen in implemented countries.&#x20;
