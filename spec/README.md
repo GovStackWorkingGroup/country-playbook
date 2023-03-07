@@ -10,8 +10,6 @@ description: Version for TAC Review October 2022
 
 The GovStack Implementation Playbook is an extension of the [SDG Digital Investment Framework](https://www.itu.int/pub/D-STR-DIGITAL.02-2019) that provides a step-by-step guide on incorporating a BB approach at the level of institutional governance, ICT policy, citizen-centric co-design & delivery of government digital services as referred to in the [GovStack Implementation Framework](govstack-implementation-playbook/implementation-framework.md).&#x20;
 
-<figure><img src=".gitbook/assets/Screenshot 2023-02-19 234318.png" alt=""><figcaption></figcaption></figure>
-
 ### &#x20;Who's the GovStack Implementation Playbook for?
 
 The Playbook is intended to be used by digital teams involved in the digitization of government services. The digital teams comprise of Chief Information/Innovation/Digital Officers, service designers, solution architects, software developers, legal advisors, and other roles as mentioned in the [GovStack Digital Team Composition section of the Playbook](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/digital-teams-composition). The playbook can be implemented with or without the assistance of GovStack country engement team. While the playbook can be utilised without the assistance of GovStack, readers are bound to find GovStack Sandbox and GovStack marketplace of great interest and currently under development.
