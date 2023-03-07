@@ -30,9 +30,10 @@ A good functional prototype of the service …
 {% tab title="Activities" %}
 How to get there:
 
-* Develop the front end of the service according to the approved wireframes and/or voice command flow &#x20;
-* Prepare a test script considering all the branches of "to-be" user journey. &#x20;
-* Prepare the security and quality assurance check list &#x20;
+* Develop Product and Technical specifications for the service.
+* Develop the front end and back end of the service according to the Product and Technical specifications and approved wireframes and/or voice command flow. &#x20;
+* Develop a test script considering all the branches of "to-be" user journey. &#x20;
+* Prepare the security and quality assurance checklist &#x20;
 * Prepare the digital service release plan &#x20;
 * Prepare the stabilization and maintenance routine &#x20;
 * Launch the functional prototype to a limited set of citizens/business users, admins, and public officials.&#x20;
