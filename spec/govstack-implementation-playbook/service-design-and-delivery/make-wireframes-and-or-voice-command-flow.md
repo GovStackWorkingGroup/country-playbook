@@ -10,6 +10,8 @@ Within this stage we create a testable design based on a thorough understadning 
 
 Wireframes and/or voice command flow enables direct examination of a design concept’s viability with users. It is helpful for gaining feedback on users’ intentions and various design elements and observing users interaction with the product.&#x20;
 
+{% embed url="https://www.figma.com/file/JBV6d6CBM1DyVGlFfdJCRQ/Rwanda---Irembo-Business-Expansion-Prototype?node-id=0:1&t=ZkY2CQ1d9sASvdT3-1" %}
+
 {% tabs %}
 {% tab title="Scope of work" %}
 A good wireframes and/or voice command flow requires:
