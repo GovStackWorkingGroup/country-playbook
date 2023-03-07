@@ -22,8 +22,8 @@ The Playbook is structured in five sections according to the GovStack implementa
 [strategy-and-governance](govstack-implementation-playbook/strategy-and-governance/)
 {% endcontent-ref %}
 
-{% content-ref url="govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol.md" %}
-[digital-service-design-standard-and-delivery-protocol.md](govstack-implementation-playbook/digital-service-design-standard-and-delivery-protocol.md)
+{% content-ref url="govstack-implementation-playbook/service-design-and-delivery/" %}
+[service-design-and-delivery](govstack-implementation-playbook/service-design-and-delivery/)
 {% endcontent-ref %}
 
 {% content-ref url="govstack-implementation-playbook/digital-teams-composition.md" %}
