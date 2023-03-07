@@ -25,7 +25,7 @@ Become a key partner for regional piloting and incorporating GovStack into
 
 To learn more about how to become a Reference Implementation Country please follow the [link](https://www.govstack.global/join-the-community/#reference-implementation-country).
 
-<img src="../.gitbook/assets/Screenshot 2022-09-19 220850.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot 2022-09-19 220850.png" alt="" data-size="original">
 
 </details>
 
@@ -48,7 +48,7 @@ Become a Champion Country by sharing Country DPGs & Expertise to other Countries
 
 To learn more about becoming a Champion Country please follow the [link](https://www.govstack.global/join-the-community/#communities-of-practice).
 
-<img src="../.gitbook/assets/Screenshot 2022-09-22 101729.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot 2022-09-22 101729.png" alt="" data-size="original">
 
 </details>
 
@@ -60,7 +60,7 @@ Participate in the co-design and review of Building Block technical specificatio
 
 Find specifications for GovStack Building Blocks linked [here](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/Mv07ks4AhtBDCIkO2zgW/).
 
-<img src="../.gitbook/assets/Screenshot 2022-09-19 221657.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot 2022-09-19 221657.png" alt="" data-size="original">
 
 </details>
 
@@ -74,7 +74,7 @@ Share best practices in our GovStack communities of practice and exchange format
 * GovStack Demo Days
 * GovStack Learning Management System (LMS)
 
-<img src="../.gitbook/assets/Screenshot 2022-09-19 221727.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot 2022-09-19 221727.png" alt="" data-size="original">
 
 </details>
 

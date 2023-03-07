@@ -1,10 +1,10 @@
 # Table of contents
 
-* [GovStack Overview](README.md)
-  * [Building block approach](2-description/objectives-and-scope.md)
-  * [Governance model](2-description/governance-model.md)
-  * [Engagement opportunities](2-description/engagement-opportunities.md)
-* [GovStack Implementation Playbook](govstack-implementation-playbook/README.md)
+* [GovStack Implementation Playbook](README.md)
+  * [GovStack Overview](govstack-implementation-playbook/2-description/README.md)
+    * [Building block approach](govstack-implementation-playbook/2-description/building-block-approach.md)
+    * [Governance model](govstack-implementation-playbook/2-description/governance-model.md)
+    * [Engagement opportunities](govstack-implementation-playbook/2-description/engagement-opportunities.md)
   * [Implementation framework](govstack-implementation-playbook/implementation-framework.md)
   * [Govstack design principles](govstack-implementation-playbook/govstack-design-principles.md)
   * [Digital Strategy and Governance](govstack-implementation-playbook/digital-strategy-and-governance.md)

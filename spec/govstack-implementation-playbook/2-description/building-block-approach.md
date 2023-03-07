@@ -10,7 +10,7 @@ A holistic (Whole-of-Government) digital platform that can be used by any govern
 
 Instead of creating unique and disparate solutions, use a common reusable stack of Building Blocks to form the core platform engine and contextualize various e-government services on top.&#x20;
 
-<figure><img src="../.gitbook/assets/BBa.png" alt=""><figcaption><p>[Recommended reading: <a href="https://www.newamerica.org/digital-impact-governance-initiative/reports/digital-government-mapping-project/key-findings">Key findings on digital government “stacks” by New America]</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/BBa.png" alt=""><figcaption><p>[Recommended reading: <a href="https://www.newamerica.org/digital-impact-governance-initiative/reports/digital-government-mapping-project/key-findings">Key findings on digital government “stacks” by New America]</a></p></figcaption></figure>
 
 ## How to make a BB approach sustainable over time?
 
@@ -20,13 +20,13 @@ Common ICT Building Blocks enable generic business processes, or WorkFlows, that
 
 The illustration below describes **savings through a reusable digital investment approach**:
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Illustration of Savings Through Reusable Digital Investment Approach (ITU, DIAL, 2019)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Illustration of Savings Through Reusable Digital Investment Approach (ITU, DIAL, 2019)</p></figcaption></figure>
 
 ## What are the benefits of the BB approach?
 
 A whole-of-government approach to digital investment to help achieve the SDGs stands to benefit the entire value chain: citizens, businesses, governments, and their partners, and the supporting ecosystem of ICT developers and implementers.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Framework benefits by stakeholder type</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Framework benefits by stakeholder type</p></figcaption></figure>
 
 
 
