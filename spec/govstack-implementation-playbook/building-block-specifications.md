@@ -2,7 +2,7 @@
 description: Version for TAC Review October 2022
 ---
 
-# GovStack Building Block approach
+# Building Block specifications
 
 **Building blocks** (BBs) are software modules that can be deployed and combined in a standardized manner. Each building block is capable of working independently, but they can be combined to do much more.
 
@@ -11,6 +11,8 @@ Building blocks are composable, interoperable software modules that can be used 
 Each building block exposes a set of services in the form of REST APIs that can be consumed by other building blocks or applications.
 
 In this release of the GovStack specification, the following building blocks are specified:
+
+<figure><img src="../.gitbook/assets/6.-Digital-Strategy-and-Governance.jpg" alt=""><figcaption></figcaption></figure>
 
 <details>
 
