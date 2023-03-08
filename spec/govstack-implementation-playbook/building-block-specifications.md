@@ -12,10 +12,6 @@ Each building block exposes a set of services in the form of REST APIs that can 
 
 In this release of the GovStack specification, the following building blocks are specified:
 
-<figure><img src="../.gitbook/assets/6.-Digital-Strategy-and-Governance.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/16. Stages of Implementation (1).jpg" alt=""><figcaption></figcaption></figure>
-
 <details>
 
 <summary><a href="https://govstack.gitbook.io/bb-information-mediation">Information Mediation</a></summary>
