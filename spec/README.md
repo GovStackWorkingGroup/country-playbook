@@ -4,7 +4,7 @@ description: Version for TAC Review October 2022
 
 # GovStack Implementation Playbook
 
-<figure><img src=".gitbook/assets/Scherm_afbeelding 2023-03-06 om 18.13.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/18. Govstack Playbook a tool for all (2).jpg" alt=""><figcaption></figcaption></figure>
 
 ### What is the GovStack implementation playbook?
 
