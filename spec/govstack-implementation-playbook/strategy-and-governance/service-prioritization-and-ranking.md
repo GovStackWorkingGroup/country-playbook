@@ -8,7 +8,7 @@ Implementation will therefore be guided by the previous analysis, starting with 
 
 The criteria presented in this playbook can work as a reference to guide prioritization. However, each country can calibrate current criteria according to information availability, context, and needs.
 
-<figure><img src="../../.gitbook/assets/GetImage.png" alt=""><figcaption><p>Prioritization criteria matrix</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Scherm_afbeelding 2023-02-24 om 12.08.27 (1).png" alt=""><figcaption><p>Prioritization criteria matrix</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Scope of work" %}
