@@ -48,7 +48,7 @@ Each step of the implementation journey describes activities, and deliverables a
 
 
 
-<figure><img src=".gitbook/assets/Screenshot 2022-09-27 185618.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/15.-How-to-read-the-Playbook (3).jpg" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Iterative Implementation of Playbook" %}
