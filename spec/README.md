@@ -60,7 +60,7 @@ Our aim is to constantly iterate GovStack playbook tools & methods, join us in t
 
 
 
-<figure><img src=".gitbook/assets/Screenshot 2022-09-19 223817.png" alt=""><figcaption><p><em>GovStack Iteration Model</em> </p></figcaption></figure>
+<figure><img src=".gitbook/assets/14.-Double-Diamond-iteration-country-implementation (1).jpg" alt=""><figcaption><p><em>GovStack Iteration Model</em> </p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
