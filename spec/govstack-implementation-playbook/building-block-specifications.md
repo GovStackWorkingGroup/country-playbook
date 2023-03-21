@@ -10,13 +10,28 @@ Building blocks are composable, interoperable software modules that can be used 
 
 Each building block exposes a set of services in the form of REST APIs that can be consumed by other building blocks or applications.
 
-In this release of the GovStack specification, the following building blocks are specified:
+In this release of the GovStack specification, the following building blocks and their corresponding policy and governance recommendations are provided below:
 
 <details>
 
 <summary><a href="https://govstack.gitbook.io/bb-information-mediation">Information Mediation</a></summary>
 
 Provides a gateway between external digital applications and other ICT Building Blocks, thereby ensuring interoperability and implementation of standards, which is essential for integrating various ICT Building Blocks and applications.
+
+**Policy recommendations**&#x20;
+
+* Interoperability should be a transversal mandate that applies to all government entities usually (With no exceptions). Said mandates can be put in place using General laws and/or presidential/secretarial decrees regulating the following principles:
+  * Only one principle states that citizens should be required to provide information once to the government.
+  * No government entity can request information from a citizen or interested party that other government entity already has.
+  * Citizens or interested parties should give consent for their information to be exchanged and or consulted in order to access government services.
+* Examples of General laws and/or presidential/secretarial decrees
+  * [Estonia](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)
+  * [Mexico](https://www.gob.mx/wikiguias/articulos/decreto-por-el-que-se-establece-la-ventanilla-unica-nacional-para-los-tramites-e-informacion-del-gobierno-173691?state=published)
+
+&#x20;**Governance recommendations**&#x20;
+
+* Digital authorities should have the transversal mandate to coordinate the implementation of the aforementioned policy at the political, organizational, and technical levels ensuring service-level agreements that can guarantee continuity in service provision across all government entities.
+* Digital authorities are encouraged to have a shared service team to support the development, maintenance, and update of APIs as with any other Building Block within the government stack.
 
 </details>
 
