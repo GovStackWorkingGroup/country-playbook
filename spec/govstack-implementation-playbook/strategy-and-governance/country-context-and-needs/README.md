@@ -10,11 +10,11 @@ description: Version for TAC Review October 2022
 
 ## Readiness assessment
 
-To advance on the GovStack implementation in the country, there is a need to draw a simple overview with clear narratives about the country’s capacity to digitally transform, and the various components contributing to this process.
+To advance the GovStack implementation in the country, there is a need to draw a simple overview with clear narratives about the country’s capacity to digitally transform and the various components contributing to this process.
 
-When starting the readiness assessment, the associated country should be implicated to the process right away. All parties should go through which chapters the assessment will cover, which expectations the engaged country has on the content and what documents, done by the country should be consulted. It should be also agreed upon whether the paper will be public or no.
+All stakeholders must be involved in the process of readiness assessment. They should go through all chapters the assessment will cover, the expectations the implementing government (national, regional, municipal) has on the content, and what documents done by the country should be consulted. It should also be agreed upon whether the paper will be public or not.
 
-The readiness assessment responds to this need by analyzing the current digital readiness of the public sector, thus providing stakeholders with a good understanding of the current digitalisation landscape in the country. It draws general findings in key areas and guides further activities for the development and implementation of strategic national documents and projects on digital transformation.
+The readiness assessment responds to this need by analyzing the current digital readiness of the public sector, thus providing stakeholders with a good understanding of the current digitalization landscape in the country. It draws general findings in key areas and guides further activities for the development and implementation of strategic national documents and projects on digital transformation.
 
 The assessment may benefit from secondary research, including various publications of the GovStack founding partners, multiple resources provided by the development partners of the implementing country, as well as additional research in the form of questionnaires, meetings, and interviews.
 
