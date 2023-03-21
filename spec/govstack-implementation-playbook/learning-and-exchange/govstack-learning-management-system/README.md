@@ -283,13 +283,16 @@ Facilitatory training including:&#x20;
 * [Guide to Design Shared Service Policy](https://gizonline.sharepoint.com/:w:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B2AA86C24-6123-459E-AB1A-FE72F382EF51%7D\&file=Design%20Shared%20Service%20Policy.docx\&action=default\&mobileredirect=true)&#x20;
 * [Enterprise Architecture Framework](https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FWorking%20Groups%202022%2FC%5FArchitecture%2FReferences%2F2%2E%20A%20Practitioners%27%20Approach%20to%20Developing%20EA%20with%20TOGAF%2Epdf\&parent=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FWorking%20Groups%202022%2FC%5FArchitecture%2FReferences)&#x20;
 * [Agile Architecture](https://www.tangly.net/insights/continuous-learning/agile-architecture-course)&#x20;
+* [Interopeability as a key enabler for Digital Governments](https://documents1.worldbank.org/curated/en/099550101092318102/pdf/P1694820242a9c041083900346bab0910eb.pdf)
 * Guidance on Agile Framework prototyping for developing prototype&#x20;
 * Guidance on integrating GovStack with Digital Government Architecture Process&#x20;
 * Guidance on Architecture Continuity&#x20;
 
+
+
 ### Related courses (Moodle Atingi & Open source courses)
 
-[Facilitation technique](https://www.udemy.com/course/facilitation-skills-learn-the-secrets-of-facilitation/) and [education techniques](https://www.udemy.com/course/the-complete-employee-engagement-course-for-beginners/), [Agile Methodology](https://www.villanovau.com/programs/course/foundations-of-agile-methodology/?parent\_program=a034M00000Z1YOiQAN),  [Design thinking](https://www.edx.org/micromasters/ritx-design-thinking?index=product\&queryID=41fc9e7399550c47ecc7579a80af130b\&position=3), [Customized UI/UX design](https://www.udemy.com/course/master-digital-product-design-ux-research-ui-design/), [Web development](https://www.udemy.com/course/web-development-for-beginners/), [Innovation in Government](https://www.unsdglearn.org/courses/innovation-ecosystem-101-fundamentals-on-building-competitive-and-innovative-ict-centric-ecosystems/),  [Agile Architecture](https://www.tangly.net/insights/continuous-learning/agile-architecture-course), [Enterprise Architecture Framework](https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FWorking%20Groups%202022%2FC%5FArchitecture%2FReferences%2F2%2E%20A%20Practitioners%27%20Approach%20to%20Developing%20EA%20with%20TOGAF%2Epdf\&parent=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FWorking%20Groups%202022%2FC%5FArchitecture%2FReferences)&#x20;
+[Facilitation technique](https://www.udemy.com/course/facilitation-skills-learn-the-secrets-of-facilitation/) and [education techniques](https://www.udemy.com/course/the-complete-employee-engagement-course-for-beginners/), [Agile Methodology](https://www.villanovau.com/programs/course/foundations-of-agile-methodology/?parent\_program=a034M00000Z1YOiQAN),  [Design thinking](https://www.edx.org/micromasters/ritx-design-thinking?index=product\&queryID=41fc9e7399550c47ecc7579a80af130b\&position=3), [Customized UI/UX design](https://www.udemy.com/course/master-digital-product-design-ux-research-ui-design/), [Web development](https://www.udemy.com/course/web-development-for-beginners/), [Innovation in Government](https://www.unsdglearn.org/courses/innovation-ecosystem-101-fundamentals-on-building-competitive-and-innovative-ict-centric-ecosystems/),  [Agile Architecture](https://www.tangly.net/insights/continuous-learning/agile-architecture-course), [Enterprise Architecture Framework](https://gizonline.sharepoint.com/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/Forms/AllItems.aspx?id=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FWorking%20Groups%202022%2FC%5FArchitecture%2FReferences%2F2%2E%20A%20Practitioners%27%20Approach%20to%20Developing%20EA%20with%20TOGAF%2Epdf\&parent=%2Fsites%2FICTBuildingBlocks%2DCommondigitalSDGplatformwithguests%2FFreigegebene%20Dokumente%2FGeneral%2FWorking%20Groups%202022%2FC%5FArchitecture%2FReferences), [Interoperability on the Public Sector](https://documents1.worldbank.org/curated/en/099550101092318102/pdf/P1694820242a9c041083900346bab0910eb.pdf)
 {% endtab %}
 
 {% tab title="8" %}
@@ -479,20 +482,3 @@ The module also provides accredited training materials by GovStack that guides s
 {% endtab %}
 {% endtabs %}
 
-
-
-
-
-
-
-&#x20;
-
-[https://gizonline.sharepoint.com/:x:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/General/Training%20%26%20Capacity%20Building/Capacity%20building%20research.xlsx?d=w6a97ca53f4134e73b084520c94b4d091\&csf=1\&web=1\&e=4iLPDe](https://gizonline.sharepoint.com/:x:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/General/Training%20%26%20Capacity%20Building/Capacity%20building%20research.xlsx?d=w6a97ca53f4134e73b084520c94b4d091\&csf=1\&web=1\&e=4iLPDe)&#x20;
-
-&#x20;
-
-[https://gizonline.sharepoint.com/:w:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/General/Training%20%26%20Capacity%20Building/List\_Training\_Courses\_OS.docx?d=w294c784885ee404588eae8ecf5ad7201\&csf=1\&web=1\&e=lnxgNV](https://gizonline.sharepoint.com/:w:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/General/Training%20%26%20Capacity%20Building/List\_Training\_Courses\_OS.docx?d=w294c784885ee404588eae8ecf5ad7201\&csf=1\&web=1\&e=lnxgNV)&#x20;
-
-&#x20;
-
-[The Syllabus — Teaching Public Service in the Digital Age](https://www.teachingpublicservice.digital/en/syllabus)&#x20;
