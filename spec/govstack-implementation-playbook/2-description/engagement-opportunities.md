@@ -58,7 +58,7 @@ To learn more about becoming a Champion Country please follow the [link](https:/
 
 Participate in the co-design and review of Building Block technical specifications in GovStack working groups.
 
-Find specifications for GovStack Building Blocks linked [here](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/Mv07ks4AhtBDCIkO2zgW/).
+Find specifications for GovStack Building Blocks linked [here](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/Mv07ks4AhtBDCIkO2zgW/).
 
 <img src="../../.gitbook/assets/Screenshot 2022-09-19 221657.png" alt="" data-size="original">
 

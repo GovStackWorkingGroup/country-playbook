@@ -50,7 +50,7 @@ Who does what:
 
 {% tab title="Resources" %}
 * LMS Modules: 1, 2, 3 &#x20;
-* [Architecture and non0functional requirements](https://app.gitbook.com/s/Mv07ks4AhtBDCIkO2zgW/building-blocks/architecture-and-nonfunctional-requirements)
+* [Architecture and non0functional requirements](http://localhost:5000/s/Mv07ks4AhtBDCIkO2zgW/building-blocks/architecture-and-nonfunctional-requirements)
 * [GovStack Ecosystem Reference Architecture and Business Guide for Public Digital Platforms](https://docs.google.com/document/d/15hMyrGZHNPJkA0w2KdGpL59gXg2V6GyM/edit?usp=sharing\&ouid=107531587157017296326\&rtpof=true\&sd=true),  [The Open Group Standard](https://www.opengroup.org/)
 * In New South Wales Australia, their [reference architecture document](https://www.digital.nsw.gov.au/delivery/digital-service-toolkit/resources/technology-and-tools/reference-architecture) provides digital teams the guidance they need to align current and emerging tech into a sound orchestration of solutions to enable digital government service design and delivery
 {% endtab %}
