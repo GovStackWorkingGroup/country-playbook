@@ -2,13 +2,11 @@
 description: Version for TAC Review October 2022
 ---
 
-# Context & needs
+# Readiness assessment
 
 ## Understanding country context and needs
 
 <figure><img src="../../../.gitbook/assets/7.-Readiness-assessment (4).jpg" alt=""><figcaption></figcaption></figure>
-
-## Readiness assessment
 
 To advance the GovStack implementation in the country, there is a need to draw a simple overview with clear narratives about the country’s capacity to digitally transform and the various components contributing to this process.
 

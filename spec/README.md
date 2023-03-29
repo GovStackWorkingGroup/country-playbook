@@ -18,8 +18,8 @@ The Playbook is intended to be used by digital teams involved in the digitizatio
 
 The Playbook is structured in five sections according to the GovStack implementation framework, each section can have subsections according to its content:
 
-{% content-ref url="govstack-implementation-playbook/strategy-and-governance/" %}
-[strategy-and-governance](govstack-implementation-playbook/strategy-and-governance/)
+{% content-ref url="govstack-implementation-playbook/context-and-assessment/" %}
+[context-and-assessment](govstack-implementation-playbook/context-and-assessment/)
 {% endcontent-ref %}
 
 {% content-ref url="govstack-implementation-playbook/design-and-delivery/" %}

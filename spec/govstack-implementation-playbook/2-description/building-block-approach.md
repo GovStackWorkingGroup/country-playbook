@@ -26,7 +26,7 @@ The illustration below describes **savings through a reusable digital investment
 
 A whole-of-government approach to digital investment to help achieve the SDGs stands to benefit the entire value chain: citizens, businesses, governments, and their partners, and the supporting ecosystem of ICT developers and implementers.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Framework benefits by stakeholder type</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/42.-Table-Illustration-of-Savings-Through-Reusable-Digital-Investment-Approach.jpg" alt=""><figcaption><p>Framework benefits by stakeholder type</p></figcaption></figure>
 
 
 
