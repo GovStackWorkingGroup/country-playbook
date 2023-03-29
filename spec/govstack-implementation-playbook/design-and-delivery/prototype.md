@@ -2,7 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Develop, test, iterate a functional prototype
+# Prototype
+
+## Develop, test, iterate a functional prototype
 
 Once the wireframe and/or voice command flow is approved we are ready to start developing and orchestrating a functional prototype of the service. Digital teams can either use govStack sandbox or their own infrastructure. Since GovStack is currently in the process of developing the sandbox, future versions of playbook will describe the processes to use GovStack sandbox to deply the functional prototype.&#x20;
 

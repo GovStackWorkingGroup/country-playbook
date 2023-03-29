@@ -29,7 +29,7 @@
     * ['As-Is' user journey](govstack-implementation-playbook/design-and-delivery/as-is-user-journey.md)
     * ["To-Be" user journey](govstack-implementation-playbook/design-and-delivery/to-be-user-journey.md)
     * [Wireframes](govstack-implementation-playbook/design-and-delivery/wireframes.md)
-    * [Develop, test, iterate a functional prototype](govstack-implementation-playbook/design-and-delivery/develop-test-iterate-a-functional-prototype.md)
+    * [Prototype](govstack-implementation-playbook/design-and-delivery/prototype.md)
     * [Launch the service](govstack-implementation-playbook/design-and-delivery/launch-the-service.md)
     * [Scaling strategy](govstack-implementation-playbook/design-and-delivery/scaling-strategy.md)
     * [Use cases](govstack-implementation-playbook/design-and-delivery/use-cases/README.md)
