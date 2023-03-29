@@ -2,7 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Country digital landscape and maturity
+# Digital landscape
+
+## Country digital landscape and maturity
 
 Wide ICT usage, coverage, and accessibility are key enablers of innovative services development and citizen uptake. Given its importance, ICT usage is a crucial factor in the assessment of any country’s digital landscape and maturity. Meaningful connectivity can be unpacked into a few indicators, including:
 

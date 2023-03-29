@@ -1,14 +1,16 @@
-# Service prioritization and ranking
+# Service prioritization
 
-Defining which services should be digitized first varies from country to country. Prioritization criteria shall be based on data gathered through Request for Information Forms (RFI) [I](../learning-and-exchange/artefacts.md#request-for-information-1-rfi-1), [II](../learning-and-exchange/artefacts.md#request-for-information-2-rfi-2), [III](../learning-and-exchange/artefacts.md#request-for-information-3-rfi-3), & [IV](../learning-and-exchange/artefacts.md#request-for-information-4-rfi-4) in order to rank according to impact and feasibility. Services that are simple and done in a single iteration within one Ministry outreach are good candidates for quick wins, build a case to adopt a GovStack approach to digital service co-design standard and delivery protocol using reusable building blocks.
+## Service prioritization & ranking
 
-Once information has been gathered and validated with different service owners, strategic services should be accommodated in a matrix format to facilitate clustering and ranking. The criterion for prioritization will be based on information obtained from Request for Information Forms (RFI) through RFI, [I](../learning-and-exchange/artefacts.md#request-for-information-1-rfi-1), [II](../learning-and-exchange/artefacts.md#request-for-information-2-rfi-2), [III](../learning-and-exchange/artefacts.md#request-for-information-3-rfi-3), & [IV](../learning-and-exchange/artefacts.md#request-for-information-4-rfi-4) to rank services to work with according to the impact & feasibility of implementation.
+Defining which services should be digitized first varies from country to country. Prioritization criteria shall be based on data gathered through Request for Information Forms (RFI) [I](learning-and-exchange/artefacts.md#request-for-information-1-rfi-1), [II](learning-and-exchange/artefacts.md#request-for-information-2-rfi-2), [III](learning-and-exchange/artefacts.md#request-for-information-3-rfi-3), & [IV](learning-and-exchange/artefacts.md#request-for-information-4-rfi-4) in order to rank according to impact and feasibility. Services that are simple and done in a single iteration within one Ministry outreach are good candidates for quick wins, build a case to adopt a GovStack approach to digital service co-design standard and delivery protocol using reusable building blocks.
+
+Once information has been gathered and validated with different service owners, strategic services should be accommodated in a matrix format to facilitate clustering and ranking. The criterion for prioritization will be based on information obtained from Request for Information Forms (RFI) through RFI, [I](learning-and-exchange/artefacts.md#request-for-information-1-rfi-1), [II](learning-and-exchange/artefacts.md#request-for-information-2-rfi-2), [III](learning-and-exchange/artefacts.md#request-for-information-3-rfi-3), & [IV](learning-and-exchange/artefacts.md#request-for-information-4-rfi-4) to rank services to work with according to the impact & feasibility of implementation.
 
 Implementation will therefore be guided by the previous analysis, starting with services that are of the highest importance and highest feasibility, followed by those with high importance but low feasibility.
 
 The criteria presented in this playbook can work as a reference to guide prioritization. However, each country can calibrate current criteria according to information availability, context, and needs.
 
-<figure><img src="../../.gitbook/assets/Scherm_afbeelding 2023-02-24 om 12.08.27 (1).png" alt=""><figcaption><p>Prioritization criteria matrix</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Scherm_afbeelding 2023-02-24 om 12.08.27 (1).png" alt=""><figcaption><p>Prioritization criteria matrix</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Scope of work" %}

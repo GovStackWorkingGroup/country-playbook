@@ -2,7 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Leadership and Governance
+# Governance
+
+## Leadership & Governance
 
 The trend towards a digital society has caused many governments to adapt their roles, organizations, and processes in order to meet citizens and businesses’ expectations digital government services.
 

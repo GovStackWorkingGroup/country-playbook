@@ -2,7 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Make wireframes and/or voice command flow
+# Wireframes
+
+## Make wireframes and/or voice command flow
 
 Within this stage we create a testable design based on a thorough understadning of users’ expectations and ''to-be'' user journey. Sketching, wireframes and/or voice command flow will help you ensure your service reflects your users’ needs. It is a reprsentation of a realistic form and functional service.&#x20;
 
@@ -66,7 +68,7 @@ What to do next
 {% endtab %}
 
 {% tab title="Resources" %}
-* LMS Modules: [1](../learning-and-exchange/govstack-learning-management-system/#awareness-building-and-expression-of-interest),[2](../learning-and-exchange/govstack-learning-management-system/#agreement-of-cooperation),[3](../learning-and-exchange/govstack-learning-management-system/#govstack-internal-kick-off) &#x20;
+* LMS Modules: [1](../learning-and-exchange/govlearn.md#awareness-building-and-expression-of-interest),[2](../learning-and-exchange/govlearn.md#agreement-of-cooperation),[3](../learning-and-exchange/govlearn.md#govstack-internal-kick-off) &#x20;
 * [Gov.uk Design system](https://design-system.service.gov.uk/community/resources-and-tools/)&#x20;
 * [Be creative and think out of the box. Feel free to use Gov.uk sketches template](https://designnotes.blog.gov.uk/2014/05/22/gov-uk-sketching-templates/)&#x20;
 * [Beginner's Guide | Mockitt Tutorial](https://www.youtube.com/watch?v=X5HVZQ9Nii4)&#x20;

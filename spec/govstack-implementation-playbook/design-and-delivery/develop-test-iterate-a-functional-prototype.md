@@ -77,7 +77,7 @@ Since GovStack is starting it's reference implementations in countries, the foll
 {% tab title="Resources" %}
 Since GovStack is starting it's reference implementations in countries, the following resources will be linked as soon as they are generated:
 
-* LMS Modules: [1](../learning-and-exchange/govstack-learning-management-system/#awareness-building-and-expression-of-interest),[2](../learning-and-exchange/govstack-learning-management-system/#agreement-of-cooperation),[3](../learning-and-exchange/govstack-learning-management-system/#govstack-internal-kick-off)   &#x20;
+* LMS Modules: [1](../learning-and-exchange/govlearn.md#awareness-building-and-expression-of-interest),[2](../learning-and-exchange/govlearn.md#agreement-of-cooperation),[3](../learning-and-exchange/govlearn.md#govstack-internal-kick-off)   &#x20;
 * Test scripts &#x20;
 * QA sequence
 * Cutover plan

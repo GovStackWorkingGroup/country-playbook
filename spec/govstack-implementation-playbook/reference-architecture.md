@@ -2,9 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Governement Ecosystem Reference Architecture (GERA)
+# Reference Architecture
 
-Government Enterprise Architecture (GEA) provides a structured, model-driven methodology to support strategic changes in business operations and information systems. The drivers of an architecture project commonly include the need to address business-technology alignment and management of complexity. The architecture provides structure and rigor to documenting, analyzing and integrating the components of an enterprise, ranging from its business operating model to system design and physical technology infrastructure. The analysis considers both the present and future states of the business operating model and systems.
+Governement Ecosystem Reference Architecture (GERA) provides a structured, model-driven methodology to support strategic changes in business operations and information systems. The drivers of an architecture project commonly include the need to address business-technology alignment and management of complexity. The architecture provides structure and rigor to documenting, analyzing and integrating the components of an enterprise, ranging from its business operating model to system design and physical technology infrastructure. The analysis considers both the present and future states of the business operating model and systems.
 
 The main goal of the GERA is to provide an (approach to) open source reference architecture ecosystem supported by interoperable building blocks and digital service standards to leverage the efficiency and effectiveness of core government services through optimized digital infrastructure. The GERA encourages countries to adopt its framework to develop the Minimum Viable Products (in the short run) so as to move towards the giant leap of digital transformation (in the long run); both may be useful to be referred by the decision makers.
 

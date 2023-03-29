@@ -2,7 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Capacity Development
+# Capacity Building
+
+## Capacity Development
 
 This playbook section underscores a systematic and synergistic approach to learning and knowledge-sharing. Furthermore, it outlines the framework and steps for Capacity Building, digital skills in relation to Capacity Building, capacity assessment, and how academic institutions support a country's capacity development.&#x20;
 

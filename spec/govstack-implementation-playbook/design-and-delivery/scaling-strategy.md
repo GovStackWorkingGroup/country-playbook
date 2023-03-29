@@ -2,7 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Co-design the scaling strategy
+# Scaling strategy
+
+## Co-design the scaling strategy
 
 Based on previous steps in the Digital Sevice Desing Standards and Delivery Protocal, digital teams can iterate the process and streamline the process of identifying critical Building Blocks that must be added to the National stack. These Building Blocks will enable further digitisation of prioritised services. The country must set targets within a roadmap to digise 100% of governemnt services. This will involve, improving currently digitised services, digitising new services from the prioritisation list and identifying new services that provide value to their users.
 

@@ -2,7 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Access to e-services, awareness raising
+# Access
+
+## Access and awareness raising
 
 To harness the advantages a digital society brings, citizens and businesses should be able to access public services online. These should not simply be available, but also inclusive, user-friendly, and easy to access on different devices and platforms.
 

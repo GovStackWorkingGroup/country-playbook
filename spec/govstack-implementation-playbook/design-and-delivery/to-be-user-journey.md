@@ -2,7 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Co-design "to-be" user journey
+# "To-Be" user journey
+
+## Co-design "To-Be" user journey
 
 The "as-is"/"Initial To-Be" user journey along with its qualitative & quantitative findings enable you to run co-designing sessions with service community and relevant stakeholders. These co-designing sessions aim to improve the service and deliver a user friendly experience documented in form of a "to-be" user journey. [Co-design must be treated as a process rather than as a event. ](https://www.ncoss.org.au/wp-content/uploads/2017/06/Codesign-principles.pdf)The following image describes the aforementioned co-design process.
 
@@ -69,7 +71,7 @@ What to do next:
 {% endtab %}
 
 {% tab title="Resources" %}
-* LMS Modules: [1](../learning-and-exchange/govstack-learning-management-system/#awareness-building-and-expression-of-interest),[2](../learning-and-exchange/govstack-learning-management-system/#agreement-of-cooperation),[3](../learning-and-exchange/govstack-learning-management-system/#govstack-internal-kick-off) &#x20;
+* LMS Modules: [1](../learning-and-exchange/govlearn.md#awareness-building-and-expression-of-interest),[2](../learning-and-exchange/govlearn.md#agreement-of-cooperation),[3](../learning-and-exchange/govlearn.md#govstack-internal-kick-off) &#x20;
 * Use the Facilitation PPT for the "To-Be" user journey co-design sessions &#x20;
 * Use the [GovStack user journey guideline  ](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-5-rfi-5)
 * Use the [GovStack "To-Be" user journey template (](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=546357928944)Explore the "To-Be" user journeys of Rwanda EPR Use Case[)](https://miro.com/app/board/uXjVPJNVyjg=/?share\_link\_id=546357928944) and adapted to your needs &#x20;

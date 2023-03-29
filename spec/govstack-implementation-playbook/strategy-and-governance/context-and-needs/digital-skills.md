@@ -10,7 +10,7 @@ It is crucial and highly recommendable to lay a common digital mindset among the
 
 In addition to equipping all citizens and public officials with basic skills, government entities need [ICT experts](../../annex/govstack-user-profiles-taxonomy.md) with advanced IT and project management skills to maintain the ICT architecture, provide user support, manage ICT procurements, and implement the government’s digital strategy.
 
-Such public officials/civil servants, Digital Transformation Project Managers, and ICT specialists, among other professionals, should be involved in regular internal [capacity strengthening measures](../../learning-and-exchange/govstack-learning-management-system/) to keep pace with new technologies and to be able to continuously foster a digital society.
+Such public officials/civil servants, Digital Transformation Project Managers, and ICT specialists, among other professionals, should be involved in regular internal [capacity strengthening measures](../../learning-and-exchange/govlearn.md) to keep pace with new technologies and to be able to continuously foster a digital society.
 
 As an organization progresses through each implementation stage, it is advisable to establish [a digital talent archive](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/capacity-development/digital-skills-in-relation-to-capacity-building) that supports the workforce in the long run ([e-Governance Academy 2022](https://ega.ee/publication/study-kenya-digital-readiness/)).
 

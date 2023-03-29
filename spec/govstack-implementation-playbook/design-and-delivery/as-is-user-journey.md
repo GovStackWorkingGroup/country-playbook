@@ -2,7 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Understand user needs & map 'as-is' / 'initial to-be' user journey
+# 'As-Is' user journey
+
+## Understand user needs & map 'as-is' / 'initial to-be' user journey
 
 Understanding who are we solving a problem for is important for creating a user-centric mindset within a digital service team  and build empathy and motivation for digital service design work. If there is a design lead on your team, they will likely lead this work, but the entire service team should be closely involved.&#x20;
 
@@ -73,7 +75,7 @@ What to do next:
 {% endtab %}
 
 {% tab title="Resorces" %}
-LMS: Modules [1](../learning-and-exchange/govstack-learning-management-system/#awareness-building-and-expression-of-interest),[2](../learning-and-exchange/govstack-learning-management-system/#agreement-of-cooperation),[3](../learning-and-exchange/govstack-learning-management-system/#govstack-internal-kick-off) &#x20;
+LMS: Modules [1](../learning-and-exchange/govlearn.md#awareness-building-and-expression-of-interest),[2](../learning-and-exchange/govlearn.md#agreement-of-cooperation),[3](../learning-and-exchange/govlearn.md#govstack-internal-kick-off) &#x20;
 
 * Use the GovStack [user journey template](../learning-and-exchange/artefacts.md#request-for-information-5-rfi-5) and adapt it to your service context and needs to generate "As-Is" User Journey.&#x20;
 * Explore the [User + Business Life Event Board.](https://miro.com/app/board/uXjVOiQif00=/?share\_link\_id=574341797123)

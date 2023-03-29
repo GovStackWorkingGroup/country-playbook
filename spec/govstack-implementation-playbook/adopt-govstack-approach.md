@@ -2,7 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Incorporating the GovStack approach in country's digital strategy and roadmap
+# Adopt GovStack approach
+
+## GovStack approach in the country's digital strategy and roadmap
 
 Over the past years, digital transformation has become a policy priority along with traditional areas such as health policy, economic policy, labor and social protection policies. National Digital Strategies or National Digital Agendas have become guiding policy documents to establish the priorities and focus areas that respond to the country´s context and needs.
 

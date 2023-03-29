@@ -2,7 +2,7 @@
 description: Version for TAC Review October 2022
 ---
 
-# Building Block specifications
+# BB specifications
 
 **Building blocks** (BBs) are software modules that can be deployed and combined in a standardized manner. Each building block is capable of working independently, but they can be combined to do much more.
 
@@ -14,17 +14,19 @@ In this release of the GovStack specification, the following building blocks and
 
 <details>
 
-<summary><a href="https://govstack.gitbook.io/bb-information-mediation">Information Mediation</a></summary>
+<summary>Information Mediation</summary>
 
-Provides a gateway between external digital applications and other ICT Building Blocks, thereby ensuring interoperability and implementation of standards, which is essential for integrating various ICT Building Blocks and applications.
+**Specifications**
+
+The [Information Mediator](https://govstack.gitbook.io/bb-information-mediation) provides a gateway between external digital applications and other ICT Building Blocks, thereby ensuring interoperability and implementation of standards, which is essential for integrating various ICT Building Blocks and applications.
 
 **Policy recommendations**&#x20;
 
-* Interoperability should be a transversal mandate that applies to all government entities usually (With no exceptions). Said mandates can be put in place using General laws and/or presidential/secretarial decrees regulating the following principles:
-  * Only one principle states that citizens should be required to provide information once to the government.
+* Interoperability should be a transversal mandate that applies to all government entities (With no exceptions). These types of mandates can be implemented using General laws and/or presidential/secretarial decrees regulating the following principles:
+  * 'Only one principle' states that citizens should be required to provide information once to the government.
   * No government entity can request information from a citizen or interested party that other government entity already has.
-  * Citizens or interested parties should give consent for their information to be exchanged and or consulted in order to access government services.
-* Examples of General laws and/or presidential/secretarial decrees
+  * Citizens or interested parties should give consent for their information to be exchanged and or consulted in order to access government services according to data protection law applicable in the country.
+* Examples of regulations:
   * [Estonia](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)
   * [Mexico](https://www.gob.mx/wikiguias/articulos/decreto-por-el-que-se-establece-la-ventanilla-unica-nacional-para-los-tramites-e-informacion-del-gobierno-173691?state=published)
 

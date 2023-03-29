@@ -2,11 +2,11 @@
 description: Version for TAC Review October 2022
 ---
 
-# Academic support to Capacity development
+# Academic support
 
 ### How Academia can help to build capacity?
 
-To understand the current state of education in the digital transformation domain, it is useful to take a look through the lens of established competences and qualifications frameworks. These frameworks help to identify the necessary skills in a certain career path needed in the digitalization journey. It is useful for education institutions in the process of designing curriculum and ensuring the students get the necessary skills to support GovStack approach. Additionally, when designing the curriculum, several issues need to be addressed, as a first step to supporting the long term development of capacity building in the country [Digital skills](../../strategy-and-governance/country-context-and-needs/digital-skills.md).
+To understand the current state of education in the digital transformation domain, it is useful to take a look through the lens of established competences and qualifications frameworks. These frameworks help to identify the necessary skills in a certain career path needed in the digitalization journey. It is useful for education institutions in the process of designing curriculum and ensuring the students get the necessary skills to support GovStack approach. Additionally, when designing the curriculum, several issues need to be addressed, as a first step to supporting the long term development of capacity building in the country [Digital skills](../../strategy-and-governance/context-and-needs/digital-skills.md).
 
 The multidisciplinary approach should be considered as it allows students to increase their strengths as well as fill in gaps in their knowledge in the areas of technical skills, service design, ethics, creative problem solving, the regulation of technologies, legislation, and generally in the digital transformation.&#x20;
 
@@ -26,7 +26,7 @@ GovStack Approach supportive curricula are following the [European Qualification
 
 
 
-_**Table Showing**_ [_**e-CF Stages**_](academic-support-to-capacity-development.md#e-competence-framework-e-cf)_**, and Relevant Competencies recommended for the Stakeholders Involved**_
+_**Table Showing**_ [_**e-CF Stages**_](academic-support.md#e-competence-framework-e-cf)_**, and Relevant Competencies recommended for the Stakeholders Involved**_
 
 {% tabs %}
 {% tab title="Plan" %}
@@ -282,7 +282,7 @@ It covers all kinds of competencies and is not limited to IT capabilities only. 
 
 ### Study Programs Structure
 
-GovStack uses a descriptive and e-learning approach, that is the [GovStack Learning Management System](../govstack-learning-management-system/) to train the stakeholders.&#x20;
+GovStack uses a descriptive and e-learning approach, that is the [GovStack Learning Management System](../govlearn.md) to train the stakeholders.&#x20;
 
 The main learning outcomes to support the GovStack's approach will give &#x20;
 

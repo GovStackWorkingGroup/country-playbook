@@ -2,9 +2,7 @@
 description: Version for TAC Review October 2022
 ---
 
-# Use cases implementations
-
-This playbook section provides:
+# Use cases
 
 ## Country implementation examples&#x20;
 

@@ -2,7 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Cybersecurity, Privacy and Resilience
+# Privacy
+
+## Cybersecurity, Privacy & Resilience
 
 The reliability of ICT infrastructure is critical for building a digital government. Cybersecurity, privacy, and resilience go hand in hand in ensuring a reliable service delivery that fosters trust toward their use.
 

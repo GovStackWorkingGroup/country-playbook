@@ -2,7 +2,9 @@
 description: Version for TAC Review October 2022
 ---
 
-# Capacity building Framework
+# CB Framework
+
+## Capacity building Framework
 
 ### _**Key Definitions and Activities**_
 
@@ -28,7 +30,7 @@ The key to knowledge management is sharing of information. Sharing knowledge lea
 {% endtab %}
 
 {% tab title="Knowledge Management Eco-system" %}
-GovStack supports its governments throughout the knowledge management cycle with different resources and tools.  Internally, Teams, Jira and Confluence are the communication channels for co-creating knowledge pieces. On the other hand, [GitBook](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/c/4Q4PEWGtVCZpBYdPkxe3) and [GovStack LMS](../govstack-learning-management-system/) are the resources used to disseminate to the public, the Technical Specifications and Training materials that aids the GovStack implementation journey.&#x20;
+GovStack supports its governments throughout the knowledge management cycle with different resources and tools.  Internally, Teams, Jira and Confluence are the communication channels for co-creating knowledge pieces. On the other hand, [GitBook](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/c/4Q4PEWGtVCZpBYdPkxe3) and [GovStack LMS](../govlearn.md) are the resources used to disseminate to the public, the Technical Specifications and Training materials that aids the GovStack implementation journey.&#x20;
 
 <figure><img src="../../../.gitbook/assets/KMCC.png" alt=""><figcaption><p>GovStack Knowledge Management Eco-System</p></figcaption></figure>
 {% endtab %}
@@ -160,7 +162,7 @@ _**The primary objectives of the training are as follows**_
 
 Seminar/workshop, Instructor Led Training (ILT), Virtual Classroom (VC), e-Learning, Blended mode of learning.
 
-Subsequently, the National eGovernance Division (NeGD) under the Ministry of Electronics and Information Technology (MeitY), has extensively conducted a research with various key stakeholders and has developed[ “eGovernance Competency Framework (eGCF)](academic-support-to-capacity-development.md#skills-and-competences-to-support-academic-programmes) for Digital India with Implementation Toolkit” in the year 2014. This is a crucial document for conducting all the eGovernance Capacity Building initiatives for the civil servants of federal/state/union territory ministries/departments in India.&#x20;
+Subsequently, the National eGovernance Division (NeGD) under the Ministry of Electronics and Information Technology (MeitY), has extensively conducted a research with various key stakeholders and has developed[ “eGovernance Competency Framework (eGCF)](academic-support.md#skills-and-competences-to-support-academic-programmes) for Digital India with Implementation Toolkit” in the year 2014. This is a crucial document for conducting all the eGovernance Capacity Building initiatives for the civil servants of federal/state/union territory ministries/departments in India.&#x20;
 
 </details>
 
