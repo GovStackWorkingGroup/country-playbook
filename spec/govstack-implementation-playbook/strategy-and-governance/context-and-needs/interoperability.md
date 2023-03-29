@@ -24,7 +24,7 @@ IMAPS uses a five-stage model to indicate the interoperability maturity of the d
 
 A five-stage approach is often seen in proven maturity models and is considered as best practice for assessing and improving maturity. The five maturity levels for IMAPS are summarised in the table below.&#x20;
 
-<figure><img src="../../../.gitbook/assets/GetImage (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/29.-Table-5-stage-approach (6).jpg" alt=""><figcaption></figcaption></figure>
 
 The desired interoperability level for a digital public service is at least level 4: “Sustainable”. At this level, the digital public service is considered to have implemented all relevant best practices. ([European Union 2021](https://joinup.ec.europa.eu/sites/default/files/distribution/access\_url/2021-09/6314de11-0846-4fa6-970f-58feca63aede/IMAPS%20v2.0.0%20User%20Guide.pdf))
 

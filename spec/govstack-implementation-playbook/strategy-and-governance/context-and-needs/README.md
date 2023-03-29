@@ -2,11 +2,11 @@
 description: Version for TAC Review October 2022
 ---
 
-# Country context & needs
+# Context & needs
 
 ## Understanding country context and needs
 
-<figure><img src="../../../.gitbook/assets/7.-Readiness-assessment (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/7.-Readiness-assessment (4).jpg" alt=""><figcaption></figcaption></figure>
 
 ## Readiness assessment
 
@@ -22,7 +22,7 @@ When following the GovStack country engagement journey, a minimum level of data 
 
 The assessment should also offer a solid base for advancing on the necessary steps in the process of digital service implementation. A good example of the usefulness of this kind of assessment can be found in the framework put in place by the Government of Ukraine and presented below. This Ukrainian framework demonstrates the importance of carrying out a comprehensive analysis at the beginning of the journey, whose outcomes shape subsequent steps along the digitisation workflow
 
-<figure><img src="../../../.gitbook/assets/GetImage (3) (1).png" alt=""><figcaption><p>Source: Government of Ukraine</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/21a.-GovStack-country-engagement-journey (1).jpg" alt=""><figcaption><p>Source: Government of Ukraine</p></figcaption></figure>
 
 The e-Governance Academy Digital Readiness Study provides an overview of digitisation in the country and advances recommendations that can inform the development and implementation of strategic national documents and projects in the field of digital government. The study’s assessment methodology is follows five steps: 1) Preliminary research; 2) Digital Readiness Study questionnaire; 3) Preparations for online data collection interviews; 4) Conducting interviews with key stakeholders; and 5) Development of the Digital Readiness Study report.
 

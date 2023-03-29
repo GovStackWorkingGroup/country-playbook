@@ -18,9 +18,9 @@ To give a comprehensive view of the financial analysis needed for the GovStack i
 
 
 
-<figure><img src="../../../.gitbook/assets/GetImage (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/26.A-Table-sources-of-government-funding.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/GetImage (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/27.-Table-various-scaling-pathways (2).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/GetImage (14) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
