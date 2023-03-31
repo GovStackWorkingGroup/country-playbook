@@ -25,7 +25,7 @@ The SDG Digital Investment Framework helps governments and their partners to tak
 * **WorkFlows** are generic business processes, such as "client communication" or "procurement", that support the delivery of a Use Case.&#x20;
 * **ICT Building Blocks** are reusable software components that enable WorkFlows and Use Cases across multiple sectors.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-01-14 222553.png" alt=""><figcaption><p><em>Example architectural map using the SDG Digital Investment Framework (ITU, DIAL, 2019)</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/41.-Example-architectural-map-using-the-SDG-Digital-Investment-Framework (2).jpg" alt=""><figcaption><p><em>Example architectural map using the SDG Digital Investment Framework (ITU, DIAL, 2019)</em></p></figcaption></figure>
 
 A primary aim of this framework is to assist decision-makers and enterprise planners in the identification of common business processes and ICT solutions that can serve as the basis for a shared information architecture. A Use Case is an effective starting point for this analysis, because each step in a Use Case is comprised of one or more business processes, each of which may be supported by ICT solutions.&#x20;
 

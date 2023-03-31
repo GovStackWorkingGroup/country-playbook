@@ -20,13 +20,13 @@ Common ICT Building Blocks enable generic business processes, or WorkFlows, that
 
 The illustration below describes **savings through a reusable digital investment approach**:
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Illustration of Savings Through Reusable Digital Investment Approach (ITU, DIAL, 2019)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/42.-Illustration-of-Savings-Through-Reusable-Digital-Investment-Approach (1).jpg" alt=""><figcaption><p>Illustration of Savings Through Reusable Digital Investment Approach (ITU, DIAL, 2019)</p></figcaption></figure>
 
 ## What are the benefits of the BB approach?
 
 A whole-of-government approach to digital investment to help achieve the SDGs stands to benefit the entire value chain: citizens, businesses, governments, and their partners, and the supporting ecosystem of ICT developers and implementers.
 
-<figure><img src="../../.gitbook/assets/42.-Table-Illustration-of-Savings-Through-Reusable-Digital-Investment-Approach.jpg" alt=""><figcaption><p>Framework benefits by stakeholder type</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/43.-Framework-benefits-by-stakeholder-type (1).jpg" alt=""><figcaption><p>Framework benefits by stakeholder type</p></figcaption></figure>
 
 
 
