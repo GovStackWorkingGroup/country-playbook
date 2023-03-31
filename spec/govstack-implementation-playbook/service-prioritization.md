@@ -2,19 +2,15 @@
 
 ## Service prioritization & ranking
 
-Defining which services should be digitized first varies from country to country. Prioritization criteria shall be based on data gathered through Request for Information Forms (RFI) [I](learning-and-exchange/artefacts.md#request-for-information-1-rfi-1), [II](learning-and-exchange/artefacts.md#request-for-information-2-rfi-2), [III](learning-and-exchange/artefacts.md#request-for-information-3-rfi-3), & [IV](learning-and-exchange/artefacts.md#request-for-information-4-rfi-4) in order to rank according to impact and feasibility. Services that are simple and done in a single iteration within one Ministry outreach are good candidates for quick wins, build a case to adopt a GovStack approach to digital service co-design standard and delivery protocol using reusable building blocks.
+Defining which services should be digitized first varies from country to country. Prioritization criteria shall be based on the impact to citizens and businesses and the feasibility of digitizing based on the current technology stack.
 
-Once information has been gathered and validated with different service owners, strategic services should be accommodated in a matrix format to facilitate clustering and ranking. The criterion for prioritization will be based on information obtained from Request for Information Forms (RFI) through RFI, [I](learning-and-exchange/artefacts.md#request-for-information-1-rfi-1), [II](learning-and-exchange/artefacts.md#request-for-information-2-rfi-2), [III](learning-and-exchange/artefacts.md#request-for-information-3-rfi-3), & [IV](learning-and-exchange/artefacts.md#request-for-information-4-rfi-4) to rank services to work with according to the impact & feasibility of implementation.
+<figure><img src="../.gitbook/assets/2. Scaling approach (4) (1).jpg" alt=""><figcaption><p>Service Prioritisation Roadmap</p></figcaption></figure>
 
-Implementation will therefore be guided by the previous analysis, starting with services that are of the highest importance and highest feasibility, followed by those with high importance but low feasibility.
-
-The criteria presented in this playbook can work as a reference to guide prioritization. However, each country can calibrate current criteria according to information availability, context, and needs.
-
-<figure><img src="../.gitbook/assets/2. Scaling approach (4) (1).jpg" alt=""><figcaption><p>Prioritization criteria matrix</p></figcaption></figure>
+The [criteria](service-prioritization.md#criteria) presented in this playbook can work as a reference to guide prioritization. However, each country can calibrate current criteria according to information availability, context, and needs.
 
 {% tabs %}
 {% tab title="Resources" %}
-* Abu Dhabi has developed a [catalog of services](https://www.tamm.abudhabi/) that are mapped to user/business life events.&#x20;
+* Abu Dhabi has developed a [catalog of services](https://www.tamm.abudhabi/) that maps services to user/business life events.&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-03-31 160338.png" alt=""><figcaption><p>User/businesslife events, from Abu Dabhi, Finalist of GovStack WSIS Special Prize 2023</p></figcaption></figure>
 
@@ -22,9 +18,9 @@ The criteria presented in this playbook can work as a reference to guide priorit
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-03-31 160404.png" alt=""><figcaption><p>Catalog of services related to 'Manage your Business', from Abu Dabhi, Finalist of GovStack WSIS Special Prize 2023</p></figcaption></figure>
 
+#### Criteria
 
-
-* The criteria presented in this playbook is a reference. Each digital team can calibrate current criterion according to information availability, context & needs:
+The criteria presented in this playbook are a reference. Each digital team can calibrate current criterion according to information availability, context & needs:
 
 | Strategic importance    | Users demand                       | <p></p><ul><li>Number of transactions per month </li><li>Number of service users    </li><li>Is a cross-border service  </li></ul>                                                                                                                                                                                               |
 | ----------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,28 +40,23 @@ The criteria presented in this playbook can work as a reference to guide priorit
 A comprehensive prioritization strategy...
 
 * Defines prioritization criteria that apply to all government services in the government service catalog
-
-
-
-
-
 * Set one or two exemplar services to work with implementing the GovStack approach to digital service co-design and delivery
-* Identify building blocks/shared services/DPGs to be developed, or re-use from the Digital Public Goods Catalogue&#x20;
+* Identify building blocks/shared services/DPGs to be developed, or re-use from the Digital Public Goods Catalog
 * Rank services according to the prioritization criteria defined
 * Set a roadmap for the digitization of services&#x20;
 {% endtab %}
 
 {% tab title="Activites" %}
-* Define prioritization criteria.
-* Map services to the user/business life events
+* Customize prioritization criteria according to country context and needs
+* Map services to the user/business life events: No process, service, or product lives in a vacuum, so we want to understand how these fit together to impact the overall user experience. This can be understood in detail through the use of [User/Business Life event map](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-3-rfi-3). Past efforts and solutions will offer useful lessons to refine the understanding of what works and doesn’t work. In addition to mapping services to the user/business life events, you also create a catalog of services.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-03-31 122713.png" alt=""><figcaption><p>Go to <a href="https://miro.com/app/board/uXjVOiQif00=/?share_link_id=431542248103">User/Business life evnets template</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/life event1 (1).png" alt=""><figcaption><p>Go to <a href="https://miro.com/app/board/uXjVOiQif00=/?share_link_id=431542248103">User/Business life evnets template</a></p></figcaption></figure>
 
 * Gather data on the services by using the Service Catalog Template ([RFI-2](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#service-catalogue-request-for-information-rfi-2)). This allows analysis of prerequisites and identification of opportunities to simplify services before establishing a digitalization roadmap.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-03-31 123850.png" alt=""><figcaption><p>Example of information in RFI-2</p></figcaption></figure>
 
-* Identify building blocks/shared services/DPGs to be developed, or re-use from the Digital Public Goods Catalogue &#x20;
+* Identify building blocks/shared services/DPGs to be developed, or re-use from the Digital Public Goods Catalog &#x20;
 * Set one or two exemplar services to work with implementing the GovStack approach to digital service co-design and delivery
 * Compose a multi-disciplinary team to co-design and deliver the service
 * Rank services according to the prioritization criteria defined

@@ -26,7 +26,7 @@
   * [Reference Architecture](govstack-implementation-playbook/reference-architecture.md)
   * [Service prioritization](govstack-implementation-playbook/service-prioritization.md)
   * [Design & Delivery](govstack-implementation-playbook/design-and-delivery/README.md)
-    * ['As-Is' user journey](govstack-implementation-playbook/design-and-delivery/as-is-user-journey.md)
+    * [User Jounreys](govstack-implementation-playbook/design-and-delivery/user-jounreys.md)
     * ["To-Be" user journey](govstack-implementation-playbook/design-and-delivery/to-be-user-journey.md)
     * [Wireframes](govstack-implementation-playbook/design-and-delivery/wireframes.md)
     * [Prototype](govstack-implementation-playbook/design-and-delivery/prototype.md)

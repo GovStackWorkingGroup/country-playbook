@@ -31,7 +31,7 @@ A primary aim of this framework is to assist decision-makers and enterprise plan
 
 The example below illustrates the business processes and supporting technologies for an illustrative **Rural Advisory Service Use Case.**
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Rural Advisory Service Use Case (ITU, DIAL, 2019)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/40.-Rural-Advisory-Service-use-case.jpg" alt=""><figcaption><p>Rural Advisory Service Use Case (ITU, DIAL, 2019)</p></figcaption></figure>
 
 ## What is the relationship between Digital Public Goods and building blocks?
 
