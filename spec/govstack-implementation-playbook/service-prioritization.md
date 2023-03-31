@@ -10,21 +10,21 @@ Implementation will therefore be guided by the previous analysis, starting with 
 
 The criteria presented in this playbook can work as a reference to guide prioritization. However, each country can calibrate current criteria according to information availability, context, and needs.
 
-<figure><img src="../.gitbook/assets/Scherm_afbeelding 2023-02-24 om 12.08.27 (1).png" alt=""><figcaption><p>Prioritization criteria matrix</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2. Scaling approach (4) (1).jpg" alt=""><figcaption><p>Prioritization criteria matrix</p></figcaption></figure>
 
 {% tabs %}
-{% tab title="Scope of work" %}
-A comprehensive prioritization strategy...
-
-* Defines prioritization criteria that applies to all government services in the government service catalog
-* Set one or two exemplar services to work with implementing the GovStack approach to digital service co-design and delivery
-* Identify building blocks/shared services to be developed, or re-use from the Digital Public Goods Catalogue&#x20;
-* Rank services according to the prioritization criteria defined
-* Set a roadmap for digitization of services&#x20;
-{% endtab %}
-
 {% tab title="Resources" %}
-The criteria presented in this playbook is a reference criterion. Each digital team can calibrate current criterion according to information availability, context & needs:
+* Abu Dhabi has developed a [catalog of services](https://www.tamm.abudhabi/) that are mapped to user/business life events.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-03-31 160338.png" alt=""><figcaption><p>User/businesslife events, from Abu Dabhi, Finalist of GovStack WSIS Special Prize 2023</p></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-03-31 160404.png" alt=""><figcaption><p>Catalog of services related to 'Manage your Business', from Abu Dabhi, Finalist of GovStack WSIS Special Prize 2023</p></figcaption></figure>
+
+
+
+* The criteria presented in this playbook is a reference. Each digital team can calibrate current criterion according to information availability, context & needs:
 
 | Strategic importance    | Users demand                       | <p></p><ul><li>Number of transactions per month </li><li>Number of service users    </li><li>Is a cross-border service  </li></ul>                                                                                                                                                                                               |
 | ----------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,8 +38,48 @@ The criteria presented in this playbook is a reference criterion. Each digital t
 | Political feasibility   | Political acceptability            | <ul><li>Alignment with national digital agenda - Services that a presidential or ministerial commitment.</li></ul><p> </p>                                                                                                                                                                                                       |
 |                         | Regional harmonization             | <ul><li>Data Taxonomy / Semantics </li><li>Regulatory synergies  </li></ul>                                                                                                                                                                                                                                                      |
 |                         | Stakeholder consensus              | <ul><li>Number of Govt Agencies involved in the user journey that work well together </li></ul>                                                                                                                                                                                                                                  |
+{% endtab %}
+
+{% tab title="Scope of work" %}
+A comprehensive prioritization strategy...
+
+* Defines prioritization criteria that apply to all government services in the government service catalog
 
 
+
+
+
+* Set one or two exemplar services to work with implementing the GovStack approach to digital service co-design and delivery
+* Identify building blocks/shared services/DPGs to be developed, or re-use from the Digital Public Goods Catalogue&#x20;
+* Rank services according to the prioritization criteria defined
+* Set a roadmap for the digitization of services&#x20;
+{% endtab %}
+
+{% tab title="Activites" %}
+* Define prioritization criteria.
+* Map services to the user/business life events
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-03-31 122713.png" alt=""><figcaption><p>Go to <a href="https://miro.com/app/board/uXjVOiQif00=/?share_link_id=431542248103">User/Business life evnets template</a></p></figcaption></figure>
+
+* Gather data on the services by using the Service Catalog Template ([RFI-2](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#service-catalogue-request-for-information-rfi-2)). This allows analysis of prerequisites and identification of opportunities to simplify services before establishing a digitalization roadmap.
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-03-31 123850.png" alt=""><figcaption><p>Example of information in RFI-2</p></figcaption></figure>
+
+* Identify building blocks/shared services/DPGs to be developed, or re-use from the Digital Public Goods Catalogue &#x20;
+* Set one or two exemplar services to work with implementing the GovStack approach to digital service co-design and delivery
+* Compose a multi-disciplinary team to co-design and deliver the service
+* Rank services according to the prioritization criteria defined
+
+<figure><img src="../.gitbook/assets/Scherm_afbeelding 2023-02-24 om 12.08.27 (1).png" alt=""><figcaption></figcaption></figure>
+
+* Set a roadmap for the digitization of services&#x20;
+{% endtab %}
+
+{% tab title="Responsibilities" %}
+Who does what:
+
+* Head of Service Design - Lead the integration of the service catalog.
+* Service Design and Delivery Focal point - Complement and update the service catalog with services from their organizations. They follow up and coordinate the actions within their organization to digitize services according to the approved digitization roadmap.
 {% endtab %}
 {% endtabs %}
 
