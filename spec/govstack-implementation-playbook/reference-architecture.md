@@ -56,9 +56,4 @@ Who does what:
 {% endtab %}
 {% endtabs %}
 
-
-
-
-
-
-
+<figure><img src="../.gitbook/assets/govStack GERA (1).png" alt=""><figcaption></figcaption></figure>

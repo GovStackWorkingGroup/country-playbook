@@ -2,7 +2,7 @@
 description: Version for TAC Review October 2022
 ---
 
-# Strategy & Governance
+# Context & assessment
 
 ![](../../.gitbook/assets/Playbook\_01.png)
 
@@ -16,5 +16,5 @@ This playbook section provides reference measurements, and frameworks, use to as
 * Government services digitalization roadmap
 * Exemplars of Government Enterprise Reference Architecture (GERA). &#x20;
 
-<figure><img src="../../.gitbook/assets/govStack GERA.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6. Digital Strategy and Governance (2).jpg" alt=""><figcaption></figcaption></figure>
 
