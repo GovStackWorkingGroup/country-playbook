@@ -4,9 +4,11 @@ description: Version for TAC Review October 2022
 
 # User Jounreys
 
-Understanding who are we solving a problem for is important for creating a user-centric mindset. User journeys (As-Is and To-Be) allow us to understand touchpoints, pain points, and opportunities for improvement associated with each action taken by the user to obtain the service.
+Understanding who we are solving a problem for is important for creating user-centric digital services. An 'As-Is' user journey can help identify touchpoints, inefficiencies, pain points, opportunities for improvement and can inform the design of a 'To-Be' user journey that represents the desired state of the user experience after changes have been made.
 
 <figure><img src="../../.gitbook/assets/5. As-is initial-to-be user journey (1).jpg" alt=""><figcaption><p>As-is and To-be user journeys</p></figcaption></figure>
+
+Abu Dabhi Digital Authority aligned its digitization strategy around 80 user journeys available through TAMM, a one-stop shop for all digital government services.
 
 {% embed url="https://www.youtube.com/watch?v=oVVpS741k08" %}
 Abu Dhabi's digitisation based on user journeys, Finalist of GovStack WSIS Special Prize 2023
