@@ -16,7 +16,7 @@ Abu Dabhi Digital Authority aligned its digitization strategy around 80 user jou
 Abu Dhabi's digitisation based on user journeys, Finalist of GovStack WSIS Special Prize 2023
 {% endembed %}
 
-The To Be user journey is created in the context of a redesign or improvement of service. It's aim is to create a better user experience by identifying and implementing changes that will improve the user's journey and ultimately lead to greater satisfaction for its users. Redesign of the service can be based on the following simplification principles:
+The 'To-Be' user journey is created in the context of a redesign or improvement of service. It's aim is to create a better user experience by identifying and implementing changes that will improve the user's journey and ultimately lead to greater satisfaction for its users. Redesign of the service can be based on the following simplification principles:
 
 <details>
 
@@ -44,7 +44,7 @@ Find below a translated version of the aforementioned methodology.
 * Identify service owners, users, and stakeholders using the [glossary for roles](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy) as well as the [User Persona template.](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/370/govstack-implementation-playbook/learning-and-exchange/artefacts#user-personas)
 * Ask the service owner if there have been any previous efforts in digitizing the service, and seek out any resulting reports, findings, or raw data.&#x20;
 * Conduct user research using [interviews](https://methods.18f.gov/stakeholder-and-user-interviews), [contextual inquiries](https://methods.18f.gov/contextual-inquiry), [heuristic evaluation](https://methods.18f.gov/heuristic-evaluation), with [consent](https://handbook.tts.gsa.gov/research-guidelines/). (Source: 18F and TTS)
-* Use GovStack [user journey template](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-5-rfi-5) to map 'As-Is' and 'To-Be user journeys. Example of 'Initial to-be' and To-Be user journeys for [Extended Producer responsibility (EPR) in Rwanda](https://miro.com/app/board/uXjVP56Uir8=/?share\_link\_id=755323073673).
+* Use GovStack [user journey template](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-5-rfi-5) to map 'As-Is' and 'To-Be' user journeys. Example of 'Initial To-Be' and 'To-Be' user journeys for [Extended Producer responsibility (EPR) in Rwanda](https://miro.com/app/board/uXjVP56Uir8=/?share\_link\_id=755323073673).
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-03-31 171334 (1).png" alt=""><figcaption><p> <a href="https://miro.com/app/board/uXjVP56Uir8=/?share_link_id=755323073673">Extended Producer responsibility (EPR) in Rwanda</a>.</p></figcaption></figure>
 

@@ -27,7 +27,6 @@
   * [Service prioritization](govstack-implementation-playbook/service-prioritization.md)
   * [Design & Delivery](govstack-implementation-playbook/design-and-delivery/README.md)
     * [User Jounreys](govstack-implementation-playbook/design-and-delivery/user-jounreys.md)
-    * ["To-Be" user journey](govstack-implementation-playbook/design-and-delivery/to-be-user-journey.md)
     * [Wireframes](govstack-implementation-playbook/design-and-delivery/wireframes.md)
     * [Prototype](govstack-implementation-playbook/design-and-delivery/prototype.md)
     * [Launch the service](govstack-implementation-playbook/design-and-delivery/launch-the-service.md)
