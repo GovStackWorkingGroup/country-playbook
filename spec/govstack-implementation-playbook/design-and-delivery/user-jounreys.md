@@ -8,7 +8,9 @@ Understanding who we are solving a problem for is important for creating user-ce
 
 <figure><img src="../../.gitbook/assets/5. As-is initial-to-be user journey (1).jpg" alt=""><figcaption><p>As-is and To-be user journeys</p></figcaption></figure>
 
+{% hint style="info" %}
 Abu Dabhi Digital Authority aligned its digitization strategy around 80 user journeys available through TAMM, a one-stop shop for all digital government services.
+{% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=oVVpS741k08" %}
 Abu Dhabi's digitisation based on user journeys, Finalist of GovStack WSIS Special Prize 2023
