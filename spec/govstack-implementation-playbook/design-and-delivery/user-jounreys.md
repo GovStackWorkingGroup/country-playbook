@@ -40,32 +40,7 @@ Find below a translated version of the aforementioned methodology.
 {% file src="../../.gitbook/assets/metodologia_privind_reingineria_serviciilor_publice (2).pdf" %}
 
 {% tabs %}
-{% tab title="Resorces" %}
-* [User Persona template with examples](../learning-and-exchange/artefacts.md#user-personas).&#x20;
-* Service design proposal template: this is a document that describes the service design process, user journeys, opportunities for improvement, current & future Building Blocks/DPGs, service architecture, user personas, and service digitization roadmap.
-* Example of service design proposal: Extended Producer Responsibility, Rwanda
-
-{% embed url="https://docs.google.com/presentation/d/1ccGtd9eAQPtPZtgwCcCg3uk8lwbhHfEJ/edit?ouid=107531587157017296326&rtpof=true&sd=true&usp=sharing" %}
-
-References: F18, GDS Service Manual &#x20;
-{% endtab %}
-
-{% tab title="Scope of work" %}
-Service design Proposal:
-
-* Service owners and stakeholders&#x20;
-* As-Is and To-be user journeys, in which are mapped:
-  * Actions are taken by the user to obtain a service
-  * Legal justification
-  * Touchpoints
-  * Pain points
-  * Opportunity for improvement
-  * Current Building Blocks/DPGs
-* Current and future stack
-* Simplification opportunities
-{% endtab %}
-
-{% tab title="Activities & resources" %}
+{% tab title="Activities / Resources" %}
 * Identify service owners, users, and stakeholders using the [glossary for roles](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy) as well as the [User Persona template.](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/370/govstack-implementation-playbook/learning-and-exchange/artefacts#user-personas)
 * Ask the service owner if there have been any previous efforts in digitizing the service, and seek out any resulting reports, findings, or raw data.&#x20;
 * Conduct user research using [interviews](https://methods.18f.gov/stakeholder-and-user-interviews), [contextual inquiries](https://methods.18f.gov/contextual-inquiry), [heuristic evaluation](https://methods.18f.gov/heuristic-evaluation), with [consent](https://handbook.tts.gsa.gov/research-guidelines/). (Source: 18F and TTS)
@@ -89,19 +64,18 @@ Who does what:
 {% endtab %}
 
 {% tab title="Deliverables" %}
-* Research plan &#x20;
-* As-Is user journey &#x20;
-* [User/Business Life event Map](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-3-rfi-3)
-* [Findings & recommendations report](../learning-and-exchange/artefacts.md#findings-and-recommendations-report) (Should include qualitative & quantitative findings) .
+* Service design Proposal:
+  * Service owners and stakeholders&#x20;
+  * As-Is and To-be user journeys, in which are mapped:
+    * Actions are taken by the user to obtain a service
+    * Legal justification
+    * Touchpoints
+    * Pain points
+    * Opportunity for improvement
+    * Current Building Blocks/DPGs
+  * Current and future stack
+  * Simplification opportunities
 * Who is who report &#x20;
-{% endtab %}
-
-{% tab title="Next steps" %}
-What to do next:
-
-* Present the "as-is" / "[Initial to-be](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-5-rfi-5)" user journey with qualitative & quantitative findings to organizational stakeholders to build empathy around the current state.&#x20;
-* Translate your findings into preliminary recommendations or decision points around the problems and use cases to support.&#x20;
-* Draw on your research to help your team articulate a concise problem statement, create an inspirational vision, and develop a strategy for achieving their desired [future state](https://product-guide.18f.gov/define/).&#x20;
 {% endtab %}
 {% endtabs %}
 
