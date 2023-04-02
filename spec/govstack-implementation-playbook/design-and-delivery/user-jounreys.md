@@ -86,7 +86,7 @@ Service design Proposal:
 
 **Painpoint:** A persistent or recurring problem, as with a step within the service, that frequently inconveniences or annoys users. Example: filling multiple forms to access a service.
 
-**Opportunity for improvement**: These are possible simplifications that can improve the user experience. Please refer to the [simplification principles](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/).
+**Opportunity for improvement**: These are possible simplifications that can improve the user experience. Please refer to the [simplification principles](user-jounreys.md#simplification-principles).
 
 </details>
 
