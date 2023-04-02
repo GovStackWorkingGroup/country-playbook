@@ -14,11 +14,11 @@ Abu Dabhi Digital Authority aligned its digitization strategy around 80 user jou
 Abu Dhabi's digitisation based on user journeys, Finalist of GovStack WSIS Special Prize 2023
 {% endembed %}
 
+The To Be user journey is created in the context of a redesign or improvement of service. It's aim is to create a better user experience by identifying and implementing changes that will improve the user's journey and ultimately lead to greater satisfaction for its users. Redesign of the service can be based on the following simplification principles:
+
 <details>
 
 <summary>Simplification principles </summary>
-
-The co-design of the To-Be user journeys can be based on the following principles:
 
 * Minimize redundancies by integrating and streamlining steps across the user journey. This can be achieved by: retrieving information required to obtain a service from registries; tailoring unified forms that are auto-filled and require only the data that does not already exist within registries.&#x20;
 * Silence signifies tacitly expressed consent. Shifting the burden of proof in administrative proceedings. Example: Notifying the government of new business operations instead of requesting a business license.
@@ -28,6 +28,14 @@ The co-design of the To-Be user journeys can be based on the following principle
 * Immediate resolution procedure. Access to registries should be completely automated, for example, obtaining birth certificates and attestation of no prosecution.
 
 </details>
+
+{% hint style="info" %}
+'Public Service Reengineering Methodology' from Moldova, the winner of WSIS Special Prize 2023 is a good example of service re-design guidelines used to train digital service teams across Moldova's Government entities.
+
+Find below a translated version of the aforementioned methodology.
+{% endhint %}
+
+{% file src="../../.gitbook/assets/metodologia_privind_reingineria_serviciilor_publice (2).pdf" %}
 
 {% tabs %}
 {% tab title="Resorces" %}
