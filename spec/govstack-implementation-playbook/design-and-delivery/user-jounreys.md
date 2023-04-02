@@ -41,17 +41,8 @@ Find below a translated version of the aforementioned methodology.
 
 {% tabs %}
 {% tab title="Resorces" %}
-* GovStack [user journey template](../learning-and-exchange/artefacts.md#request-for-information-5-rfi-5)
-* Example 'Initial to-be' and To-Be user journeys for [Extended Producer responsibility (EPR) in Rwanda](https://miro.com/app/board/uXjVP56Uir8=/?share\_link\_id=755323073673).
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-03-31 171334.png" alt=""><figcaption><p>'Initial to-be' and To-Be user journeys for <a href="https://miro.com/app/board/uXjVP56Uir8=/?share_link_id=755323073673">Extended Producer responsibility (EPR) in Rwanda</a>.</p></figcaption></figure>
-
-* [How to conduct user research:](https://methods.18f.gov/interview-checklist/) Methods provide instruction on several different research activities to consider, including [interviews](https://methods.18f.gov/stakeholder-and-user-interviews), [contextual inquiries](https://methods.18f.gov/contextual-inquiry), [heuristic evaluation](https://methods.18f.gov/heuristic-evaluation), and more.&#x20;
-* [How to conduct user research](https://handbook.tts.gsa.gov/research-guidelines/): Guidelines on how research is done at TTS, including informing and getting consent, and managing Personally Identifiable Information (PII).&#x20;
-* [How to synthesize user research](https://methods.18f.gov/): Methods provide instructions on several different ways to tell users’ stories, including [journey maps](https://methods.18f.gov/journey-mapping), [user scenarios](https://methods.18f.gov/user-scenarios), [storyboards](https://methods.18f.gov/storyboarding), and [task flow analysis](https://methods.18f.gov/decide/task-flow-analysis/).&#x20;
-* [How to share user research](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/): How to present findings to your partner and allow room for reaching a consensus before making recommendations.&#x20;
 * [User Persona template with examples](../learning-and-exchange/artefacts.md#user-personas).&#x20;
-* Service design proposal template: is a document that describes the service design process, user journeys, opportunities for improvement, current & future Building Blocks/DPGs, service architecture, user personas, and service digitization roadmap.
+* Service design proposal template: this is a document that describes the service design process, user journeys, opportunities for improvement, current & future Building Blocks/DPGs, service architecture, user personas, and service digitization roadmap.
 * Example of service design proposal: Extended Producer Responsibility, Rwanda
 
 {% embed url="https://docs.google.com/presentation/d/1ccGtd9eAQPtPZtgwCcCg3uk8lwbhHfEJ/edit?ouid=107531587157017296326&rtpof=true&sd=true&usp=sharing" %}
@@ -74,16 +65,19 @@ Service design Proposal:
 * Simplification opportunities
 {% endtab %}
 
-{% tab title="Activities" %}
-The following actions are recomended in gaining a thorough understanding of  user needs and mapping of a detailed user journey throughout various co-designing sessions (with users).&#x20;
+{% tab title="Activities & resources" %}
+* Identify service owners, users, and stakeholders using the [glossary for roles](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy) as well as the [User Persona template.](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/370/govstack-implementation-playbook/learning-and-exchange/artefacts#user-personas)
+* Ask the service owner if there have been any previous efforts in digitizing the service, and seek out any resulting reports, findings, or raw data.&#x20;
+* Conduct user research using [interviews](https://methods.18f.gov/stakeholder-and-user-interviews), [contextual inquiries](https://methods.18f.gov/contextual-inquiry), [heuristic evaluation](https://methods.18f.gov/heuristic-evaluation), with [consent](https://handbook.tts.gsa.gov/research-guidelines/). (Source: 18F and TTS)
+* Use GovStack [user journey template](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-5-rfi-5) to map 'As-Is' and 'To-Be user journeys. Example of 'Initial to-be' and To-Be user journeys for [Extended Producer responsibility (EPR) in Rwanda](https://miro.com/app/board/uXjVP56Uir8=/?share\_link\_id=755323073673).
 
-* Ask the service owner if there have been any previous efforts in digitising the service, and seek out any resulting reports, findings, or raw data.&#x20;
-* Map out the current user journey end-to-end, identifying the key actors involved, the activities they are doing, their goals, and the tools or systems they are using, as well as how this process fits into their daily life. You can use GovStack [user journey template](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-5-rfi-5) for this task and adjust it according to your research plan. &#x20;
+<figure><img src="../../.gitbook/assets/Screenshot 2023-03-31 171334 (1).png" alt=""><figcaption><p> <a href="https://miro.com/app/board/uXjVP56Uir8=/?share_link_id=755323073673">Extended Producer responsibility (EPR) in Rwanda</a>.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-03-31 170153 (1).png" alt=""><figcaption><p>GovStack <a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-5-rfi-5">user journey template</a></p></figcaption></figure>
+* [Synthesize user research](https://methods.18f.gov/): Methods provide instructions on several different ways to tell users’ stories, including[ journey maps](https://methods.18f.gov/journey-mapping),[ user scenarios](https://methods.18f.gov/user-scenarios),[ storyboards](https://methods.18f.gov/storyboarding). (Source: 18F)
+* Depending on the complexity of the service, you can request alignment from business leads on initial prioritization to focus on additional research activities.
+* Present research findings, service design process, user journeys, opportunities for improvement, current & future Building Blocks/DPGs, service architecture, user personas, and service digitization roadmap in a 'Service Design Proposal'. An example of EPR Service Design proposal can be found below:
 
-* Depending on the complexity of the service, you can request alignment from business leads on initial prioritization to focus additional research activities.
-* Updating [glossary for roles](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy), workflows, and organizational entity responsible for each step within a user journey.&#x20;
+{% embed url="https://docs.google.com/presentation/d/1ccGtd9eAQPtPZtgwCcCg3uk8lwbhHfEJ/edit?ouid=107531587157017296326&rtpof=true&sd=true&usp=sharing" %}
 {% endtab %}
 
 {% tab title="Responsibilities" %}
