@@ -73,7 +73,6 @@ Service design Proposal:
   * Touchpoints
   * Pain points
   * Opportunity for improvement
-  * Current Building Blocks/DPGs
 * Current and future stack
 * Simplification opportunities&#x20;
 {% endtab %}
