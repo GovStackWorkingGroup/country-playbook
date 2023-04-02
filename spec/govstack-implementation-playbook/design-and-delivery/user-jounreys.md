@@ -80,13 +80,13 @@ Service design Proposal:
 
 <details>
 
-<summary>Terminology from this page</summary>
+<summary>Terminology</summary>
 
 **Touchpoint**: A point of contact or interaction between a service and the user. Examples: physical visits to a government office, sending documents via post, phone call, sms, e-mail, voice command, and more.
 
-**Pinpoint:** A persistent or recurring problem, as with a step within the service, that frequently inconveniences or annoys users. Example: filling multiple forms to access a service.
+**Painpoint:** A persistent or recurring problem, as with a step within the service, that frequently inconveniences or annoys users. Example: filling multiple forms to access a service.
 
-**Opportunity for improvement**: These are possible simplifications that can improve the user experience. Example:
+**Opportunity for improvement**: These are possible simplifications that can improve the user experience. Please refer to the [simplification principles](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/).
 
 </details>
 
