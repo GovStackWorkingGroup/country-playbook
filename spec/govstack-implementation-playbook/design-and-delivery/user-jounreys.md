@@ -64,18 +64,18 @@ Who does what:
 {% endtab %}
 
 {% tab title="Deliverables" %}
-* Service design Proposal:
-  * Service owners and stakeholders&#x20;
-  * As-Is and To-be user journeys, in which are mapped:
-    * Actions are taken by the user to obtain a service
-    * Legal justification
-    * Touchpoints
-    * Pain points
-    * Opportunity for improvement
-    * Current Building Blocks/DPGs
-  * Current and future stack
-  * Simplification opportunities
-* Who is who report &#x20;
+Service design Proposal:
+
+* Service owners and stakeholders&#x20;
+* As-Is and To-be user journeys, in which are mapped:
+  * Actions are taken by the user to obtain a service
+  * Legal justification
+  * Touchpoints
+  * Pain points
+  * Opportunity for improvement
+  * Current Building Blocks/DPGs
+* Current and future stack
+* Simplification opportunities&#x20;
 {% endtab %}
 {% endtabs %}
 
