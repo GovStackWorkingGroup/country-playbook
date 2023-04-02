@@ -4,13 +4,28 @@ description: Version for TAC Review October 2022
 
 # User Jounreys
 
-Understanding who are we solving a problem for is important for creating a user-centric mindset. User journeys (As-Is and To-Be) allow us to understand, touchpoints, pain points, and opportunities for improvement associated with each action taken by the user to obtain the service.
+Understanding who are we solving a problem for is important for creating a user-centric mindset. User journeys (As-Is and To-Be) allow us to understand touchpoints, pain points, and opportunities for improvement associated with each action taken by the user to obtain the service.
 
 <figure><img src="../../.gitbook/assets/5. As-is initial-to-be user journey (1).jpg" alt=""><figcaption><p>As-is and To-be user journeys</p></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=oVVpS741k08" %}
 Abu Dhabi's digitisation based on user journeys, Finalist of GovStack WSIS Special Prize 2023
 {% endembed %}
+
+<details>
+
+<summary>Simplification principles </summary>
+
+The co-design of the To-Be user journeys can be based on the following principles:
+
+* Minimize redundancies by integrating and streamlining steps across the user journey. This can be achieved by: retrieving information required to obtain a service from registries; tailoring unified forms that are auto-filled and require only the data that does not already exist within registries.&#x20;
+* Silence signifies tacitly expressed consent. Shifting the burden of proof in administrative proceedings. Example: Notifying the government of new business operations instead of requesting a business license.
+* Elimination of requirements, data, or documents. Example: Validation of information through consulting the data from registries instead of requesting the user to present copies of documents.
+* Reduction of the maximum term of resolution. Example: reduction in the time between application and approval for a business license.
+* Extension of validity (to avoid the need for continuous renewals).
+* Immediate resolution procedure. Access to registries should be completely automated, for example, obtaining birth certificates and attestation of no prosecution.
+
+</details>
 
 {% tabs %}
 {% tab title="Resorces" %}
@@ -84,5 +99,15 @@ What to do next:
 {% endtab %}
 {% endtabs %}
 
+<details>
 
+<summary>Terminology from this page</summary>
+
+**Touchpoint**: A point of contact or interaction between a service and the user. Examples: physical visits to a government office, sending documents via post, phone call, sms, e-mail, voice command, and more.
+
+**Pinpoint:** A persistent or recurring problem, as with a step within the service, that frequently inconveniences or annoys users. Example: filling multiple forms to access a service.
+
+**Opportunity for improvement**: These are possible simplifications that can improve the user experience. Example:
+
+</details>
 
