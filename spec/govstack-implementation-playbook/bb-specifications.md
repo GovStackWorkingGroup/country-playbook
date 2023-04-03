@@ -37,6 +37,14 @@ The [Information Mediator](https://govstack.gitbook.io/bb-information-mediation)
 
 </details>
 
+{% hint style="info" %}
+Estonia uses an open source information mediator platform called '[X-Road](https://e-estonia.com/solutions/interoperability-services/x-road/)' to enable secure and private data exchange between public and private entities. Funding to develop and maintain X-Road is provided by the Governments of Estonia, Finland, and Iceland through [Nordic Interoperability Institute](https://www.niis.org/).
+{% endhint %}
+
+{% embed url="https://youtu.be/9PaHinkJlvA" %}
+Source: [https://e-estonia.com/solutions/interoperability-services/x-road/](https://e-estonia.com/solutions/interoperability-services/x-road/)
+{% endembed %}
+
 <details>
 
 <summary><a href="https://govstack.gitbook.io/bb-registration">Registration</a></summary>
