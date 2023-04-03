@@ -37,4 +37,4 @@ The example below illustrates the business processes and supporting technologies
 
 GovStack building blocks are interoperable, generic Digital Public Goods that enable digital public infrastructure.
 
-<figure><img src="../../.gitbook/assets/DPGS BBS.png" alt=""><figcaption><p>Source: https://digitalpublicgoods.net/blog/unpacking-concepts-definitions-digital-public-infrastructure-building-blocks-and-their-relation-to-digital-public-goods/</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/39.-Digital-Public-infrastructure (1).jpg" alt=""><figcaption><p>Source: https://digitalpublicgoods.net/blog/unpacking-concepts-definitions-digital-public-infrastructure-building-blocks-and-their-relation-to-digital-public-goods/</p></figcaption></figure>
