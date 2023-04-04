@@ -4,7 +4,7 @@ description: Version for TAC Review October 2022
 
 # Reference Architecture
 
-Governement Ecosystem Reference Architecture (GERA) provides a structured, model-driven methodology to support strategic changes in business operations and information systems. The drivers of an architecture project commonly include the need to address business-technology alignment and management of complexity. The architecture provides structure and rigor to documenting, analyzing and integrating the components of an enterprise, ranging from its business operating model to system design and physical technology infrastructure. The analysis considers both the present and future states of the business operating model and systems.
+Government Ecosystem Reference Architecture (GERA) provides a structured, model-driven methodology to support strategic changes in business operations and information systems. The drivers of an architecture project commonly include the need to address business-technology alignment and management of complexity. The architecture provides structure and rigor to documenting, analyzing and integrating the components of an enterprise, ranging from its business operating model to system design and physical technology infrastructure. The analysis considers both the present and future states of the business operating model and systems.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-03-31 125720.png" alt=""><figcaption><p>Enterprise Architecture from Abu Dabhi, Finalist of GovStack WSIS Special Prize 2023</p></figcaption></figure>
 
@@ -57,4 +57,4 @@ Who does what:
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="../.gitbook/assets/govStack GERA (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/21.-GERA---Government-Enterprise-Reference-Architecture.jpg" alt=""><figcaption><p>Government Ecosystem Reference Architecture (GERA)</p></figcaption></figure>
