@@ -8,7 +8,7 @@ description: Version for TAC Review October 2022
 
 Within this stage we create a testable design based on a thorough understadning of users’ expectations and ''to-be'' user journey. Sketching, wireframes and/or voice command flow will help you ensure your service reflects your users’ needs. It is a reprsentation of a realistic form and functional service.&#x20;
 
-<figure><img src="../../.gitbook/assets/13598453674_bdc7d5a385_c.jpg" alt=""><figcaption><p>Gov.uk sketch example</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/52.-Sketching,-wireframes,-voice-command-flow.jpg" alt=""><figcaption><p>Gov.uk sketch example</p></figcaption></figure>
 
 Wireframes and/or voice command flow enables direct examination of a design concept’s viability with users. It is helpful for gaining feedback on users’ intentions and various design elements and observing users interaction with the product.&#x20;
 
