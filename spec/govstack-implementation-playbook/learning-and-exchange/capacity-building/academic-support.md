@@ -310,7 +310,7 @@ The main areas which should be covered in the masters programs are as follows:&#
 * **Legal framework** to help students to anticipate the most common barriers related to legal acts and standards which government encounter within real government functions &#x20;
 * **Identity management and security in networked world** where students learn about identity management in data governance – how it to ensure data quality and security through access controls across critical data systems. The topic sums up the policies, processes, standards, metrics, and roles that ensure that data is used effectively to help an organization realize its objectives&#x20;
 
-__[_Source: Teaching Public Service_](https://www.teachingpublicservice.digital/en/syllabus-index)__
+[_Source: Teaching Public Service_](https://www.teachingpublicservice.digital/en/syllabus-index)
 {% endtab %}
 
 {% tab title="Teaching Techniques" %}

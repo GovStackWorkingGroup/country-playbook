@@ -23,4 +23,4 @@ GovStack design principles guide our design and delivery work. They are based on
 | ![](<../.gitbook/assets/Design principles\_-13.png>) | **Design for everyone**: Accessible design is good design. Services should be as inclusive, legible and readable as possible. Services should be built for needs and designed for the whole country, not just the ones who are used to using the web.                                     |
 | ![](<../.gitbook/assets/Design principles\_-14.png>) | **Do the hard work to make it simple**: Making something look simple is easy. Making something simple to use is much harder. Don’t take “It’s always been that way” for an answer. It’s usually more and harder work to make things simple, but it’s the right thing to do.               |
 
-_Sources:_ [_The Principles for Digital Development,_ ](https://icthelp.org/the-principles-for-digital-development/)[_Gov.uk design principles_](https://www.gov.uk/guidance/government-design-principles)__
+_Sources:_ [_The Principles for Digital Development,_ ](https://icthelp.org/the-principles-for-digital-development/)[_Gov.uk design principles_](https://www.gov.uk/guidance/government-design-principles)

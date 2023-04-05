@@ -514,7 +514,7 @@ A hardware device to be used during electronic transactions in order to provide 
 
 The customer of a digital financial services provider. the customer may be a consumer, a merchant, a government, or another form of enterprise.
 
-&#x20;****&#x20;
+&#x20;
 
 **End-of-life Product (EOL)**
 
@@ -560,7 +560,7 @@ A diversion point of a business process flow. For a given instance of the proces
 
 **eXtensible Access Control Markup Language (XACML)**
 
-An open standard XML-based language used to express security policies and **** access rights to information. It defines a declarative fine-grained, attribute-based access control policy, language, an architecture, and a processing model describing how to evaluate access requests according to the rules defined in policies all in XMLSchema.
+An open standard XML-based language used to express security policies and access rights to information. It defines a declarative fine-grained, attribute-based access control policy, language, an architecture, and a processing model describing how to evaluate access requests according to the rules defined in policies all in XMLSchema.
 {% endtab %}
 
 {% tab title="F" %}
@@ -1238,7 +1238,7 @@ A slot is the time period of a session defined by its Starting and ending date-t
 
 **Session Status**&#x20;
 
-The current state of a session **** (proposed/published/booked/started/completed/no\_show/failed/canceled).
+The current state of a session (proposed/published/booked/started/completed/no\_show/failed/canceled).
 
 &#x20;
 

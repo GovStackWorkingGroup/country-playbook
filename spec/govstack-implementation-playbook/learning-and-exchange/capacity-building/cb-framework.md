@@ -176,9 +176,9 @@ Singapore is committed to becoming a world leader in digitalization. Capitalizin
 
 Singapore observes that there are three ways to address the capacity building needs of citizens, civil servants and leaders and professionals, whose details are listed described below.
 
-**Citizens:**![](<../../../.gitbook/assets/GetImage (10).png>)****
+**Citizens:**![](<../../../.gitbook/assets/GetImage (10).png>)
 
-****
+
 
 The Ministry of Communications and Information (MCI), Government of Singapore has a set of portfolios to drive the digital transformation. One such is “Digital Readiness” with four strategic outcomes (a) Digital access (b) Digital Literacy (c) Digital participation and (d) Digital inclusion by design. In regard to “Digital Literacy”, the “[Digital Readiness (MCI n.d.)"](https://www.mci.gov.sg/en/portfolios/digital-readiness/digital-readiness-blueprint) blueprint recommends the following.
 
@@ -239,29 +239,29 @@ Apart from the above CoP's, the Australian Government has established the [**Dig
 
 The UK as part of their Government Digital Service (gov.uk) has created a set of service manuals and several communities of practice. One of these manuals is a handbook for people developing communities of practice in government - [Community Development Handbook (GOV.UK 2017).](https://www.gov.uk/government/publications/community-development-handbook/community-development-handbook)
 
-The **** [**UK government states that**](https://www.gov.uk/government/publications/community-development-handbook/community-development-handbook) **** Communities of practice are for people who share common job roles, responsibilities or remits. They do well through regular interaction and common goals.
+The [**UK government states that**](https://www.gov.uk/government/publications/community-development-handbook/community-development-handbook) Communities of practice are for people who share common job roles, responsibilities or remits. They do well through regular interaction and common goals.
 
 &#x20;The communities of Practice that the UK government has established CoPs that include:
 
-* ****[**Accessibility community**](https://www.gov.uk/service-manual/communities/accessibility-community) **** - For anyone with an interest in accessibility.&#x20;
-* ****[**Agile delivery community** ](https://www.gov.uk/service-manual/communities/agile-delivery-community)- For anyone interested in using agile methods to deliver government projects.&#x20;
-* ****[**Assisted digital and digital take-up community**](https://www.gov.uk/service-manual/communities/assisted-digital-and-digital-take-up-community) - For anyone procuring, designing or managing assisted digital support.&#x20;
-* ****[**Content community**](https://www.gov.uk/service-manual/communities/content-community) - For anyone involved in content or website publishing.&#x20;
-* ****[**Data Engineering community**](https://www.gov.uk/service-manual/communities/data-engineering-community) - For anyone designing and building data products and services.
-* ****[**Data science community**](https://www.gov.uk/service-manual/communities/data-science-community) - For anyone interested in data science best practice and using evidence to make decisions.&#x20;
-* ****[**Design community**](https://www.gov.uk/service-manual/communities/design-community) - For anyone working in interaction design, graphic design, service design or content design.&#x20;
+* [**Accessibility community**](https://www.gov.uk/service-manual/communities/accessibility-community) - For anyone with an interest in accessibility.&#x20;
+* [**Agile delivery community** ](https://www.gov.uk/service-manual/communities/agile-delivery-community)- For anyone interested in using agile methods to deliver government projects.&#x20;
+* [**Assisted digital and digital take-up community**](https://www.gov.uk/service-manual/communities/assisted-digital-and-digital-take-up-community) - For anyone procuring, designing or managing assisted digital support.&#x20;
+* [**Content community**](https://www.gov.uk/service-manual/communities/content-community) - For anyone involved in content or website publishing.&#x20;
+* [**Data Engineering community**](https://www.gov.uk/service-manual/communities/data-engineering-community) - For anyone designing and building data products and services.
+* [**Data science community**](https://www.gov.uk/service-manual/communities/data-science-community) - For anyone interested in data science best practice and using evidence to make decisions.&#x20;
+* [**Design community**](https://www.gov.uk/service-manual/communities/design-community) - For anyone working in interaction design, graphic design, service design or content design.&#x20;
 * [**Digital buying community**](https://www.gov.uk/service-manual/communities/digital-buying-community) - For anyone in the public sector buying digital data and technology services.&#x20;
-* ****[**Performance analysis community**](https://www.gov.uk/service-manual/communities/performance-and-data-analysis-community) - For anyone working with data and analytics.
-* ****[**Policy design community**](https://www.gov.uk/service-manual/communities/policy-design-community) - Discuss and learn about the role of policy design in government.&#x20;
-* [**Product and service community**](https://www.gov.uk/service-manual/communities/product-and-service-community) **** - For anyone using product management methods to deliver government products and services .
-* ****[**Standards and assurance community** ](https://www.gov.uk/service-manual/communities/standards-and-assurance-community)- For anyone designing, implementing or assessing government digital or technology standards.&#x20;
+* [**Performance analysis community**](https://www.gov.uk/service-manual/communities/performance-and-data-analysis-community) - For anyone working with data and analytics.
+* [**Policy design community**](https://www.gov.uk/service-manual/communities/policy-design-community) - Discuss and learn about the role of policy design in government.&#x20;
+* [**Product and service community**](https://www.gov.uk/service-manual/communities/product-and-service-community) - For anyone using product management methods to deliver government products and services .
+* [**Standards and assurance community** ](https://www.gov.uk/service-manual/communities/standards-and-assurance-community)- For anyone designing, implementing or assessing government digital or technology standards.&#x20;
 * [**Technical writing community** ](https://www.gov.uk/service-manual/communities/technical-writing-community)**-** For anyone interested in writing about technology.
-* ****[**Technology community (backend development)**](https://www.gov.uk/service-manual/communities/technology-community-backend-development) - For anyone working in backend development for services.&#x20;
-* ****[**Technology community (frontend development)**](https://www.gov.uk/service-manual/communities/technology-community-frontend-development) - For anyone working in frontend development for services.&#x20;
-* ****[**Technology community (technical architecture)**](https://www.gov.uk/service-manual/communities/technology-community-technical-architecture) - For anyone working in technical architecture for services.&#x20;
-* ****[**Technology community (web operations)**](https://www.gov.uk/service-manual/communities/technology-community-web-operations) - For anyone working in web operations for services.&#x20;
-* ****[**User research community**](https://www.gov.uk/service-manual/communities/user-research-community) -  For anyone interested in improving user research practices across government.&#x20;
-* [**User support community**](https://www.gov.uk/service-manual/communities/user-support-community) **** - For anyone working in user support for services. &#x20;
+* [**Technology community (backend development)**](https://www.gov.uk/service-manual/communities/technology-community-backend-development) - For anyone working in backend development for services.&#x20;
+* [**Technology community (frontend development)**](https://www.gov.uk/service-manual/communities/technology-community-frontend-development) - For anyone working in frontend development for services.&#x20;
+* [**Technology community (technical architecture)**](https://www.gov.uk/service-manual/communities/technology-community-technical-architecture) - For anyone working in technical architecture for services.&#x20;
+* [**Technology community (web operations)**](https://www.gov.uk/service-manual/communities/technology-community-web-operations) - For anyone working in web operations for services.&#x20;
+* [**User research community**](https://www.gov.uk/service-manual/communities/user-research-community) -  For anyone interested in improving user research practices across government.&#x20;
+* [**User support community**](https://www.gov.uk/service-manual/communities/user-support-community) - For anyone working in user support for services. &#x20;
 
 </details>
 

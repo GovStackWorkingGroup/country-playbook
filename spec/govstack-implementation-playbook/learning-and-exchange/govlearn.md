@@ -183,7 +183,7 @@ To give a deeper understanding of the identified prioritized sectors, GovStack's
 
 **Discovery Kit 2 including:**&#x20;
 
-1. ****[Presentation to explain GovStack approach to digitize services](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B1C0A9B15-C7A2-49FC-A650-D2E71DE6D75B%7D\&file=GovStack%20approach%20to%20Services%20Identification%2C%20Prioritization%20%26%20Ranking.pptx\&action=edit\&mobileredirect=true) based on the responses to [RFI-1](https://form.jotform.com/221854827115356)&#x20;
+1. [Presentation to explain GovStack approach to digitize services](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B1C0A9B15-C7A2-49FC-A650-D2E71DE6D75B%7D\&file=GovStack%20approach%20to%20Services%20Identification%2C%20Prioritization%20%26%20Ranking.pptx\&action=edit\&mobileredirect=true) based on the responses to [RFI-1](https://form.jotform.com/221854827115356)&#x20;
    1. [RF1-2](https://gizonline.sharepoint.com/:x:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/Freigegebene%20Dokumente/General/Country%20Engagement/RFIs/RFI-2/version0.2CE%20DSDS%20RFI2.xlsx?d=wfeba28ba9997488fbefe2fcd280ce14d\&csf=1\&web=1\&e=kerTYj)&#x20;
    2. [RFI-3](https://miro.com/app/board/uXjVOiQif00=/?share\_link\_id=816348815953)&#x20;
    3. [RFI-4](https://form.jotform.com/222256248199059)&#x20;

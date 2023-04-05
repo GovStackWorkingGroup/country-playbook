@@ -130,7 +130,7 @@ MBA and/or postgraduate qualification in a related IT field.
 
 Extensive experience in a related senior ICT management role typically in the region of ten years’ experience in a similar discipline
 
-Experience of working in a customer focused environment operating **** under a formal ICT Service Management structure such as ITIL.
+Experience of working in a customer focused environment operating under a formal ICT Service Management structure such as ITIL.
 
 Significant experience in the development and implementation of processes related to ICT Technical Operations.
 
@@ -188,7 +188,7 @@ Master’s degree in a relevant field and certifications such as Azure, AWS Cert
 
 At least 5 years relevant professional work experience in the cloud computing industry
 
-Expertise in **** practical object-oriented development knowledge with at least Scala or Java, knowledge of systems like ZooKeeper, Consul etc.,&#x20;
+Expertise in practical object-oriented development knowledge with at least Scala or Java, knowledge of systems like ZooKeeper, Consul etc.,&#x20;
 
 Familiarity with containerization technologies such as Docker and Pivotal Cloud Foundry Docker, OpenStack, and Public cloud delivery know-how with AWS and/or Azure
 
@@ -232,7 +232,7 @@ Hands-on experience in cloud provisioning tools such as CloudFormation, Terrafor
 
 Ability to work in a team, Good written and verbal communication skills.
 
-### [Data **** Analysts](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2)
+### [Data Analysts](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2)
 
 Data analysts import, inspect, clean, transform, validate, model, or interpret collections of data with regard to the business goals of the company. They ensure that the data sources and repositories provide consistent and reliable data. Data analysts use different algorithms and IT tools as demanded by the situation and the current data. They might prepare reports in the form of visualizations such as graphs, charts, and dashboards.
 
@@ -302,7 +302,7 @@ In-depth knowledge of database technologies, architecture, and data security and
 
 Advanced analytical, leadership, and problem-solving skills. Exceptional organizational skills and attention to detail. Excellent interpersonal and communication skills.
 
-### ****[**DevOps Specialist**](https://www.gov.uk/guidance/development-operations-devops-engineer)****
+### [**DevOps Specialist**](https://www.gov.uk/guidance/development-operations-devops-engineer)
 
 DevOps specialists support the development and operation of software through tools, environments and practices. They organise and implement a process to manage changes throughout the lifecycle of ICT assets such as software, applications, ICT systems, etc. ICT change and configuration managers have a sound knowledge of the main technologies and processes used in system engineering and to manage the lifecycle of ICT systems and subsystems.
 
@@ -444,7 +444,7 @@ Solid experience with recommending and introducing new technologies and technica
 
 Demonstrated experience with implementing reporting capabilities, such as SQL Server Reporting or JasperReports
 
-### ****[**Quality Assurance/Tester**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/106f79e4-6264-45f1-9e7a-297435cd684b)****
+### [**Quality Assurance/Tester**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/106f79e4-6264-45f1-9e7a-297435cd684b)
 
 QA testers perform software tests. They may also plan and design them. They may also debug and repair software although this mainly corresponds to designers and developers. They ensure that applications function properly before delivering them to internal and external clients.
 
@@ -528,9 +528,9 @@ Effective interpersonal skills and collaborative management style to include tea
 
 Technically creative and open-minded.
 
-### ****[**System Developer**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135)****
+### [**System Developer**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/a7c1d23d-aeca-4bee-9a08-5993ed98b135)
 
-ICT system developers maintain, audit and improve organizational support systems. They use existing or new technologies to meet particular needs. They test both hardware and software system components, diagnose and resolve system faults. **** May work with computer hardware engineers to integrate hardware and software systems and develop specifications and performance requirements.&#x20;
+ICT system developers maintain, audit and improve organizational support systems. They use existing or new technologies to meet particular needs. They test both hardware and software system components, diagnose and resolve system faults. May work with computer hardware engineers to integrate hardware and software systems and develop specifications and performance requirements.&#x20;
 
 **Qualifications**
 
@@ -586,7 +586,7 @@ Ability to clearly present technical information to fellow technical professiona
 
 Analytical and problem-solving skills
 
-### ****[**Technical Lead**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/f31f487b-4ce2-40f3-90e8-7d0011b4ef1d)****
+### [**Technical Lead**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/f31f487b-4ce2-40f3-90e8-7d0011b4ef1d)
 
 Technical leads/Software managers oversee the acquisition and development of software systems in order to provide support to all organizational units. They also monitor the results and quality of the different software solutions and projects implemented in the organization.&#x20;
 
@@ -666,7 +666,7 @@ Proficiency with Microsoft Office, including Word, Excel, Outlook, and PowerPoin
 
 Have excellent interpersonal, communication and presentation skills.
 
-### ****[**Business Analyst**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/60082a99-d8ef-4e84-9290-78902681b6ed)****
+### [**Business Analyst**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/60082a99-d8ef-4e84-9290-78902681b6ed)
 
 Business analysts research and understand the strategic position of businesses and companies in relation to their markets and their stakeholders. They analyse and present their views on how the company, from many perspectives, can improve its strategic position and internal corporate structure. They assess needs for change, communication methods, technology, IT tools, new standards and certifications.
 
@@ -888,7 +888,7 @@ MBA and/or postgraduate qualification in a related IT field.
 
 Extensive experience in a related senior ICT management role typically in the region of ten years’ experience in a similar discipline
 
-Experience of working in a customer focused environment operating **** under a formal ICT Service Management structure such as ITIL.
+Experience of working in a customer focused environment operating under a formal ICT Service Management structure such as ITIL.
 
 Significant experience in the development and implementation of processes related to ICT Technical Operations.
 
@@ -1072,7 +1072,7 @@ Experience in managing delivery of customer-facing and internally facing product
 
 Intermediate to advanced proficiency with industry-standard word processing, spreadsheet, and presentation software programs.
 
-### ****[**Project Support Officer**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/5ccb2c34-e860-43a5-9869-342487518115)****
+### [**Project Support Officer**](https://esco.ec.europa.eu/en/classification/occupation?uri=http://data.europa.eu/esco/occupation/5ccb2c34-e860-43a5-9869-342487518115)
 
 Project support officers provide different types of services for the successful execution of a project as part of a horizontal project management office. They offer administrative support, assistance and training to project managers and other staff members, manage the project’s documentation and assist the project manager with project scheduling, resource planning, coordination and reporting. Project support officers are responsible for quality assurance activities and for monitoring the adherence to methodology guidelines and other organizational standards. They also offer advice on project management tools and related administrative services.
 
@@ -1324,7 +1324,7 @@ Strong communication skills&#x20;
 
 Excellent attention to detail
 
-### ****[**Content Designer**](https://www.gov.uk/guidance/content-designer)****
+### [**Content Designer**](https://www.gov.uk/guidance/content-designer)
 
 Content designers make things easier for people to understand and use. This can involve working on a single piece of content or on the end-to-end journey of a service to help users complete their goal and government deliver a policy intent. This role may involve the creation of, or change to, a transaction, product or single piece of content that stretches across digital and offline channels.
 
@@ -1379,7 +1379,7 @@ A product owner represents the needs of the stakeholder community, the voice of 
 
 **Qualifications and Skills**
 
-### ****[**Product Manager**](https://www.gov.uk/guidance/product-manager)****
+### [**Product Manager**](https://www.gov.uk/guidance/product-manager)
 
 A product manager is responsible for the quality of their products. They use their knowledge of user needs and business goals to frame problems and set priorities for your delivery teams.
 
@@ -1401,7 +1401,7 @@ Solid technical background with understanding and/or hands-on experience in soft
 
 Strong analytical and problem-solving skills. Excellent written and verbal communication skills
 
-### ****[Service designer](https://www.gov.uk/guidance/service-designer)
+### [Service designer](https://www.gov.uk/guidance/service-designer)
 
 Service designers design the end-to-end journey of a service. This involves the creation of, or change to, transactions, products and content across both digital and offline channels provided by different parts of government.&#x20;
 

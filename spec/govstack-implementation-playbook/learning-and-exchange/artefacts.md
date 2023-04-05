@@ -19,7 +19,7 @@ Link to artefact:&#x20;
 
 {% file src="../../.gitbook/assets/GovStack Intro Deck.pptx" %}
 
-### ****
+###
 
 ### **GovStack YouTube channel**
 
@@ -65,7 +65,7 @@ Link to artefact
 
 Part of Module 2 on GovStack LMS
 
-****
+
 
 ### **High Level Roadmap (MoU)**
 
@@ -213,7 +213,7 @@ Link to artefact: [RFI-1](https://form.jotform.com/221854827115356)
 
 Part of Module 8 on GovStack LMS
 
-****
+
 
 ### **Service Catalogue (Request for Information, RFI-2)**
 
@@ -240,7 +240,7 @@ Links to example of service catalogue from&#x20;
 
 Part of Module 8 on GovStack LMS
 
-****
+
 
 ### **User/Business Life events (Request for Information, RFI-3)**
 
@@ -296,7 +296,7 @@ Part of Module 8 on GovStack LMS
 
 Description of artefact: User personas are archetypical users whose goals and characteristics represent the needs of a larger group of users.
 
-{% file src="../../.gitbook/assets/User persona template and examples.pptx" %}
+{% file src="../../.gitbook/assets/User persona template and example.pptx" %}
 
 ### User Needs Research Plan
 
@@ -346,7 +346,7 @@ Link to artefact: \*to be developed
 
 Part of Module 9.3 on GovStack LMS
 
-****
+
 
 ### **Digital Security Drill template**
 
@@ -376,7 +376,7 @@ Part of Module 9.3 on GovStack LMS
 
 ### Findings & recommendations report
 
-**Description of artefact**: **** Restate briefly the work carried out, the aims and objectives of research plan. Highlight the most important findings from mapping of User needs, Journeys and Life events. Make concrete recommendations which act as an input to the design of 'To-be' user journey. Shared below is an actual Findings & recommendations report co-developed by Rwanda's digital team and GovStack as part of Electthe ronic Product Registration Service design process.
+**Description of artefact**: Restate briefly the work carried out, the aims and objectives of research plan. Highlight the most important findings from mapping of User needs, Journeys and Life events. Make concrete recommendations which act as an input to the design of 'To-be' user journey. Shared below is an actual Findings & recommendations report co-developed by Rwanda's digital team and GovStack as part of Electthe ronic Product Registration Service design process.
 
 Examples of Findings & recomendations report:
 

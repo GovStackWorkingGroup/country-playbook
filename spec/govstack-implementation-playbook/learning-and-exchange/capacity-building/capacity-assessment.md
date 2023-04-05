@@ -2,7 +2,7 @@
 description: Version for TAC Review October 2022
 ---
 
-# Assessment of capacity
+# Capacity assessment
 
 ### Assessing the Level of Knowledge
 
@@ -64,7 +64,7 @@ When **evaluating a country's level of knowledge and readiness**, the following 
 {% tab title="Current digital capability in country (RFI-4)" %}
 As one of the Capacity Building assessment tools, GovStack uses [RFI 4](https://form.jotform.com/222551422978056) in order to nail our approach.&#x20;
 
-&#x20;**Goals/Objectives for** [**RFI 4**](https://form.jotform.com/222551422978056)****
+&#x20;**Goals/Objectives for** [**RFI 4**](https://form.jotform.com/222551422978056)
 
 * Define the recipients and their skills development needs&#x20;
 * Design the appropriate content based on the existing level of knowledge&#x20;
