@@ -4,13 +4,13 @@ description: Version for TAC Review October 2022
 
 # Prototype
 
-## Develop, test, iterate a functional prototype
+## Develop, test, and iterate a functional prototype.
 
-Once the wireframe and/or voice command flow is approved we are ready to start developing and orchestrating a functional prototype of the service. Digital teams can either use govStack sandbox or their own infrastructure. Since GovStack is currently in the process of developing the sandbox, future versions of playbook will describe the processes to use GovStack sandbox to deply the functional prototype.&#x20;
+Once the wireframe and/or voice command flow is approved, we are ready to start developing and orchestrating a functional prototype of the service. Digital teams can either use GovStack sandbox or their own infrastructure. Since GovStack is currently in the process of developing the sandbox, future versions of the playbook will describe the processes to use GovStack sandbox to deply the functional prototype.&#x20;
 
-In case the functional prototype is decided to be deployed on country sandbox the functional protoype can be configured following GovStack enterprise architecture. Aditionaly, resources such as the Test script template, QA templates and more (these resources will be added in the playbook as and when they are developed) will be useful when deploying the functional prototype on GovStack or country sandbox.
+In case the functional prototype is decided to be deployed on the country sandbox the functional prototype can be configured following GovStack enterprise architecture. Additionally, resources such as the Test script template, QA templates, and more (these resources will be added in the playbook as and when they are developed) will be useful when deploying the functional prototype on GovStack or country sandbox.
 
-<figure><img src="../../.gitbook/assets/deployment.png" alt=""><figcaption><p>Options for countries to delpoy the functional prototype.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/53.-Functional-prototype.jpg" alt=""><figcaption><p>Options for countries to delpoy the functional prototype.</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Scope of work" %}

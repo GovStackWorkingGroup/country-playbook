@@ -4,6 +4,8 @@ Information about public services is often complicated to access and understand 
 
 The service catalog facilitates the display and presentation of services and their information in a user-centric way.
 
+<figure><img src="../../.gitbook/assets/56.-Service-level-catalogue---3-screens.jpg" alt=""><figcaption></figcaption></figure>
+
 <details>
 
 <summary>How does a good service catalog benfit its users?</summary>
@@ -31,6 +33,8 @@ A good service catalog allows:
 5. Better management of services portfolio.
 
 </details>
+
+<figure><img src="../../.gitbook/assets/54.-Service-level-catalogue.jpg" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Activities/Resources" %}
