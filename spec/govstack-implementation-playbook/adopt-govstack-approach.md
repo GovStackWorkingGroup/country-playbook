@@ -52,7 +52,7 @@ To incorporate the GovStack approach into a Digital Strategy/Agenda:
 Who does what:
 
 * Head of the Digital Authority – Leads the Digital Agenda Co-Design process, coordinates the implementation and reporting mechanisms, and enables delivery of the action lines
-* Legal advisors – Prepare a regulatory plan to adapt/update Country legal framework according to the Digitial Agenda action lines
+* [Legal advisors](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#legal-policy-officer) – Prepare a regulatory plan to adapt/update Country legal framework according to the Digitial Agenda action lines
 * The leadership team (chief data officer, cybersecurity officer, chief architect, lead service designer, etc) – Coordinate stakeholder community to participate in the co-design and implementation of the digital agenda&#x20;
 * Digital teams in each government entity - Implement, monitor, and continuously iterate the digital services under their jurisdiction in the user journeys&#x20;
 * Stakeholder community - Private sector, academia, civil society, and international organizations.&#x20;

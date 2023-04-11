@@ -52,8 +52,8 @@ _3._      Reference Case studies
 Who does what:
 
 * Chief government architects - Coordinate the work around the GERA document&#x20;
-* Solutions architects from government entities - Actively participate in the co-design of the document, the GERA working group, and the training program&#x20;
-* Service designers - Actively participate in co-design sessions, the GERA working groups and the training program&#x20;
+* [Solutions architects](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/389/govstack-implementation-playbook/sample-digital-team-composition/govstack-user-profiles-taxonomy#solution-architect) from government entities - Actively participate in the co-design of the document, the GERA working group, and the training program&#x20;
+* [Service designers](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) - Actively participate in co-design sessions, the GERA working groups and the training program&#x20;
 {% endtab %}
 {% endtabs %}
 

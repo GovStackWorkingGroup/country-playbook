@@ -58,8 +58,8 @@ Find below a translated version of the aforementioned methodology.
 {% tab title="Responsibilities" %}
 Who does what:
 
-* Service designers/ Design lead – Creates a research plan (What are the research objectives, what methods to use, and participants) and guides the creation of user journeys.
-* User needs researchers – Prepare & conduct user interviews, focus groups, facilitate user journey workshops &#x20;
+* [Service designers](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) / [Design lead](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/389/govstack-implementation-playbook/sample-digital-team-composition/govstack-user-profiles-taxonomy#design-lead) – Creates a research plan (What are the research objectives, what methods to use, and participants) and guides the creation of user journeys.
+* [User needs researchers](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) – Prepare & conduct user interviews, focus groups, facilitate user journey workshops &#x20;
 * Legal advisors – Clarify regulations that apply to the service &#x20;
 {% endtab %}
 
