@@ -26,7 +26,7 @@ GovStack Approach supportive curricula are following the [European Qualification
 
 
 
-_**Table Showing**_ [_**e-CF Stages**_](academic-support.md#e-competence-framework-e-cf)_**, and Relevant Competencies recommended for the Stakeholders Involved**_
+_**Table Showing**_ [_**e-CF Stages**_](academic-support-to-capacity-development.md#e-competence-framework-e-cf)_**, and Relevant Competencies recommended for the Stakeholders Involved**_
 
 {% tabs %}
 {% tab title="Plan" %}
@@ -182,6 +182,16 @@ _**Links**_
 
 <details>
 
+<summary><a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC128415">The European Framework of Digital Competencies DigComp 2.2</a></summary>
+
+_**Description**_
+
+The Digital Competence Framework for Citizen (DigComp) provides a common understanding of what digital competence is. The integrated DigComp 2.2 framework provides more than 250 new examples of knowledge, skills and attitudes that help citizens engage confidently, critically and safely with digital technologies, and new and emerging ones such as systems driven by artificial intelligence (AI).
+
+</details>
+
+<details>
+
 <summary><a href="https://europa.eu/europass/en/european-qualifications-framework-eqf">The European Qualifications Framework (e-QF)</a> </summary>
 
 _**Description**_
@@ -277,6 +287,14 @@ _**Description**_
 [e-GCF](https://www.unapcict.org/resources/ictd-infobank/e-governance-competency-framework-digital-india-implementation-toolkit) provides along with the toolkit easy steps on how to structure an e-Governance team and how to conduct fact-based training needs analysis for competency benchmarking. It includes 19 identified e-governance roles categorized into 2 major roles: 8 administrative and 11 technical roles.&#x20;
 
 It covers all kinds of competencies and is not limited to IT capabilities only. The [e-GCF](https://www.unapcict.org/resources/ictd-infobank/e-governance-competency-framework-digital-india-implementation-toolkit) aligns competencies across four dimensions: Professional Skills Set, Knowledge Set, Behavioral Set, and Qualifications Set. It also recommends improvements in recruitment processes and outcomes, and performance evaluation.&#x20;
+
+</details>
+
+<details>
+
+<summary><a href="https://digital-strategy.ec.europa.eu/en/events/digital-maturity-tool-and-innovation-radar">The European Digital Maturity Assessment (DMA) tool &#x26; the Innovation Radar Methodology (IR) . JRC/EC</a></summary>
+
+
 
 </details>
 

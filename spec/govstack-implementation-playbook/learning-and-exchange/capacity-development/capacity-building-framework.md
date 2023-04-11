@@ -72,7 +72,7 @@ Establish a training center in your country and link GovStack to the institution
 {% tab title="Change Management" %}
 _**Change management**_&#x20;
 
-Foster openness to chance and chance management. Digitizing Government Services is not only about creating digital tools and infrastructure, it is also about changing processes, simplifying them, creating citizen-centered services. This new approach means a lot of change for government processes, and therefore change management is a big part of the digitization journey. &#x20;
+Foster openness to change and change management. Digitizing Government Services is not only about creating digital tools and infrastructure, it is also about changing processes, simplifying them, creating citizen-centered services. This new approach means a lot of change for government processes, and therefore change management is a big part of the digitization journey. &#x20;
 {% endtab %}
 {% endtabs %}
 
@@ -162,7 +162,7 @@ _**The primary objectives of the training are as follows**_
 
 Seminar/workshop, Instructor Led Training (ILT), Virtual Classroom (VC), e-Learning, Blended mode of learning.
 
-Subsequently, the National eGovernance Division (NeGD) under the Ministry of Electronics and Information Technology (MeitY), has extensively conducted a research with various key stakeholders and has developed[ “eGovernance Competency Framework (eGCF)](academic-support.md#skills-and-competences-to-support-academic-programmes) for Digital India with Implementation Toolkit” in the year 2014. This is a crucial document for conducting all the eGovernance Capacity Building initiatives for the civil servants of federal/state/union territory ministries/departments in India.&#x20;
+Subsequently, the National eGovernance Division (NeGD) under the Ministry of Electronics and Information Technology (MeitY), has extensively conducted a research with various key stakeholders and has developed[ “eGovernance Competency Framework (eGCF)](academic-support-to-capacity-development.md#skills-and-competences-to-support-academic-programmes) for Digital India with Implementation Toolkit” in the year 2014. This is a crucial document for conducting all the eGovernance Capacity Building initiatives for the civil servants of federal/state/union territory ministries/departments in India.&#x20;
 
 </details>
 
