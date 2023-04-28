@@ -26,8 +26,8 @@ The Playbook is structured in five sections according to the GovStack implementa
 [design-and-delivery](govstack-implementation-playbook/design-and-delivery/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="govstack-implementation-playbook/reference-architecture.md" %}
+[reference-architecture.md](govstack-implementation-playbook/reference-architecture.md)
 {% endcontent-ref %}
 
 {% content-ref url="govstack-implementation-playbook/learning-and-exchange/" %}
