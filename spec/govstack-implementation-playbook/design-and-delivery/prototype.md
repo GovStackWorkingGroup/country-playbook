@@ -6,44 +6,44 @@ description: Version for TAC Review October 2022
 
 ## Develop, test, and iterate a functional prototype.
 
-Once the wireframe and/or voice command flow is approved, we are ready to start developing and orchestrating a functional prototype of the service. Digital teams can either use GovStack sandbox or their own infrastructure. Since GovStack is currently in the process of developing the sandbox, future versions of the playbook will describe the processes to use GovStack sandbox to deply the functional prototype.&#x20;
+Once the [wireframe ](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/design-and-delivery/wireframes)[and/or voice command flow](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/design-and-delivery/wireframes) is approved, we are ready to start developing and orchestrating a functional prototype of the service. Digital teams can either use GovStack sandbox or their own infrastructure. Since GovStack is currently in the process of developing the sandbox, future versions of the playbook will describe the processes to use GovStack sandbox to deploy the functional prototype.&#x20;
 
-In case the functional prototype is decided to be deployed on the country sandbox the functional prototype can be configured following GovStack enterprise architecture. Additionally, resources such as the Test script template, QA templates, and more (these resources will be added in the playbook as and when they are developed) will be useful when deploying the functional prototype on GovStack or country sandbox.
+The prototype is iteratively developed. Each successive iteration adds new functionalities and refines the prototype based on user feedback. This results in a service that meets the desired level of functionality and usability. Following are the stages of prototyping a digital government service, from α version to the Launch version:
+
+| α version                                                                                                                                                                                                                                                                                                                                                                               | β version                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Launch version                                                                                                                                                                                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| α version is a rough functional prototype used to test the initial concept and get feedback from a limited number of users and stakeholders. The duration for the α version must be agreed upon between service owners and stakeholders. It usually lasts between a few weeks and months. α version can be hosted in a testing environment that may or may not be the GovStack Sandbox. | <p>Once the α version is tested and feedback is collected, the β version is developed. This prototype is more refined and is closer to the final digital service. It includes more features and functionalities and is tested by a larger group of users or stakeholders to identify any final issues before launching the next iteration.</p><p>In case the β version is hosted on GovStack Sandbox, preparations must be made to deploy it on the country's cloud infrastructure/ production environment.</p> | The launch version is the first version of the service that is released to the public. It includes the core features and functionalities that meet the needs of the users and further iterated based on future user feedback. It is deployed, operated, and maintained on the country's cloud infrastructure/ production environment. |
+
+
+
+<figure><img src="../../.gitbook/assets/Protype (8).png" alt=""><figcaption></figcaption></figure>
+
+If the launch version is decided to be deployed on the country's cloud and infrastructure/ production environment, it can be configured following GovStack enterprise architecture.
 
 <figure><img src="../../.gitbook/assets/53.-Functional-prototype.jpg" alt=""><figcaption><p>Options for countries to delpoy the functional prototype.</p></figcaption></figure>
 
 {% tabs %}
-{% tab title="Scope of work" %}
-A good functional prototype of the service …
-
-* Complies with the approved 'To-be user journey' and wireframe and/or voice command flow
-* Complies to Country digital service design standards. This includes standards for:&#x20;
-  * [Service information sheet](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#information-service-sheets)
-  * [Downloadable forms](broken-reference)
-  * [Web forms](broken-reference)
-  * [Electronic documents](broken-reference)
-  * [Notifications](broken-reference)
-  * [Performance analytics](broken-reference)
-  * [Citizen satisfaction survey](broken-reference)
-  * [Accessibility ](broken-reference)
-* Complies with Country enterprise architecture, including digital security protocols approved by the country technical team&#x20;
-{% endtab %}
-
-{% tab title="Activities" %}
+{% tab title="Activities  / Resources" %}
 How to get there:
 
 * Develop Product and Technical specifications for the service.
 * Develop the front end and back end of the service according to the Product and Technical specifications and approved wireframes and/or voice command flow. &#x20;
 * Develop a test script considering all the branches of "to-be" user journey. &#x20;
+* Prepare and implement test scripts
 * Prepare the security and quality assurance checklist &#x20;
 * Prepare the digital service release plan &#x20;
 * Prepare the stabilization and maintenance routine &#x20;
-* Launch the functional prototype to a limited set of citizens/business users, admins, and public officials.&#x20;
-* Collect their feedback on the functional protoype and identify concreet steps to improve it.
-* Go through a limited set of iterations to deliver a functional prototype that meets the requirements and needs of citizens/business users, admins, and public officials
+* Launch α, β versions to a limited set of citizens/business users, admins, and public officials.&#x20;
+* Collect their feedback on the functional prototype and identify concrete steps to improve it.
+* Iteratively developed and deliver the launch version that meets the requirements and needs of citizens/business users, admins, and public officials.
+* Prepare and implement a cutover plan.
+* Next steps:
+  * Prepare the migration plan for the launch version into the country's cloud and infrastructure/ production environment.&#x20;
+  * Prepare the launch of the service.
+  * Stabilize the service
 {% endtab %}
 
-{% tab title="Digital team" %}
+{% tab title="Responsibilities" %}
 Who does what
 
 * [Service designer](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#service-designer) – Lead the service co-design journey&#x20;
@@ -68,21 +68,20 @@ Since GovStack is starting it's reference implementations in countries, the foll
 * Training plan and support strategy per role &#x20;
 * Release plan &#x20;
 * Stabilization and maintenance routine &#x20;
-{% endtab %}
 
-{% tab title="Next steps" %}
-* Prepare the migration plan for the functional protoype into production environment&#x20;
-* Prepare the launch of service.
-* Stabalize the service
-{% endtab %}
+Deliver a functional prototype of the service which:
 
-{% tab title="Resources" %}
-Since GovStack is starting it's reference implementations in countries, the following resources will be linked as soon as they are generated:
-
-* LMS Modules: [1](../learning-and-exchange/govlearn.md#awareness-building-and-expression-of-interest),[2](../learning-and-exchange/govlearn.md#agreement-of-cooperation),[3](../learning-and-exchange/govlearn.md#govstack-internal-kick-off)   &#x20;
-* Test scripts &#x20;
-* QA sequence
-* Cutover plan
+* Complies with the approved 'To-be user journey' and wireframe and/or voice command flow
+* Complies to Country digital service design standards. This includes standards for:&#x20;
+  * [Service information sheet](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#information-service-sheets)
+  * [Downloadable forms](broken-reference)
+  * [Web forms](broken-reference)
+  * [Electronic documents](broken-reference)
+  * [Notifications](broken-reference)
+  * [Performance analytics](broken-reference)
+  * [Citizen satisfaction survey](broken-reference)
+  * [Accessibility ](broken-reference)
+* Complies with Country enterprise architecture, including digital security protocols approved by the country technical team&#x20;
 {% endtab %}
 {% endtabs %}
 
