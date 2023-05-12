@@ -6,44 +6,40 @@ description: FIIAPP proposal – draft March 2023
 
 ## Change models and digital change
 
-At a conceptual level there is little that is truly new about how governments adopt digital change, as compared with other kinds of change. Different types of change can be (and have been) theorised in various diverse ways, from Kurt Lewin's change model (1947) through to Mark Moore's strategic triangle (1995) or John Kotter (1995). In the period of 1900 to 1945 started the First studies on Change Management. In the period from 1945 to 1990 were improved the Understanding of the mechanisms associated to change. Between 1990 and 2000 were stablished as an academic discipline which progressed first deepening and modelling concepts and tools from 2000 to 2010, and then targeting the improvement of internal capacities of the persons, teams and organisations.
+At a conceptual level there is little that is truly new about how governments adopt digital change, as compared with other kinds of change. Various theoretical models have been developed to understand different types of change, from Kurt Lewin's change model (1947) through to Mark Moore's strategic triangle (1995) and John Kotter's (1995) model. The study of change management began between 1900 to 1945, and from 1945 to 1990, studies improved to understand the mechanisms associated with change. Between 1990 and 2000 change management was established as an academic discipline. This discipline progressed to deepening and modelling concepts and tools from 2000 to 2010, and currently, the focus is on improving the internal capacities of individuals, teams and organizations.
 
-There are numerous accounts and studies of attempts to bring about digital era change in governments around the world. There are already available powerful tools that can be deployed when attempting to overcome the range of barriers already outlined. Their knowledge and effective use in the practice forms part of the competencies needed for the people participating in the digitisation journey, in particular with managerial responsibilities or innovation and change management processes.
+Numerous studies have examined attempts to introduce digital era change in governments around the world. As of today, there are powerful tools that can be deployed as an attempt to overcome the range of barriers to change. However, the effective use of these tools necessitates competencies for the [digital team](../sample-digital-team-composition/), especially for those in managerial, innovation, and change management roles.
 
-There is no single generalisable model about how to bring about significant digital change in governments. There are competing ideas about 'what matters most', and we still away from having clarity on the 'winners', but there are some generalizable insights which can be projected for similar contexts, as geographic, cultural or sectorial interests.
+There is no universal model for implementing significant digital change in governments.  Even though there are competing ideas about 'what matters most', we are still away from having clarity on the 'winners'. Nonetheless, some generalizable insights such as geographic, cultural, or sectorial interests, can always be applied in similar contexts,&#x20;
 
-Digital era government is not just about developing new practices and capabilities. There exists a larger question of high new practices and technologies will cause a rethinking of how government institutions are structured and managed. The nature of digital transformation that governments want to implement doesn´t scape the theories of change towards a 'digital government as a platform' approach, and forms part of the digitisation journey.
+Digital era government is not just about developing new practices and capabilities. It involves a larger question of whether new practices and technologies will lead to a rethinking of how government institutions are structured and managed. The theories of change towards a 'digital government as a platform' approach are relevant to the digital transformation that governments seek to implement, and this approach is an integral part of the digitization journey.
 
 ### Models of strategic change management
 
-There are many theories about how to manage change. The theories given by Kotter, Prosci, Lewis and others are milestones of the research on change management. Their theories have helped in thorough understanding the nature of change and to cope with it ideally without disturbing the working of the organization. The identify the need for change and assess the driving factors.
+Various theories have been developed regarding change management, including those proposed by Kotter, Prosci, and Lewis, among others. These theories have been instrumental in providing a comprehensive understanding of the nature of change and in enabling organizations to manage change effectively without disrupting their operations. They help organizations identify the need for change and assess the driving factors behind it.
 
 {% tabs %}
 {% tab title="Lewin's framework of change (1947)" %}
-The programme of planned change and improved performance developed by Lewin involves the management of a three-phase process of behaviour modification.
+Lewin's program for planned change and improved performance involves a three-phase process of behavior modification.&#x20;
 
-The associated framework shows how organizations and their routines need to be "unfrozen " first, in order to prepare the organization for the coming changes, reducing those forces which behaviour in its present form, recognition of the need for change and improvement to occur.
+The framework proposes that organizations and their routines need to be "**unfrozen**" in the first phase, which involves reducing the forces that maintain the behavior in its present form and recognizing the need for change and improvement.&#x20;
 
-During the second phase, Movement – Development of new attitudes or behaviour and the implementation of change. Their might be restraining forces that are contradicting the change process and work against the driving forces for change.
+The second phase, **Movement**, entails the development of new attitudes or behavior and the implementation of change. However, there may be restraining forces that work against the driving forces for change.&#x20;
 
-In the last phase, after the change process has been moved through the organization, the new routines and procedures are frozen again. Ideally stabilising change at the new level and reinforcement (Hardy 1996)
+In the final phase, after the change process has been implemented, the new routines and procedures are frozen again, ideally stabilizing the change at the new level and reinforcing it (Hardy, 1996).<img src="file:///C:/Users/VICTOR~1.MAR/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif" alt="" data-size="line">
 
-<img src="file:///C:/Users/VICTOR~1.MAR/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif" alt="" data-size="line">
-
-<figure><img src="../../.gitbook/assets/Imagen1.png" alt=""><figcaption></figcaption></figure>
-
-_Kurt Lewin's change model (1947)_
+<figure><img src="../../.gitbook/assets/Imagen1.png" alt=""><figcaption><p><em>Kurt Lewin's change model (1947)</em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Implementation of organizational change" %}
 The second change framework refers to the three phases of change (prepare, manage and reinforce change). This framework is closely aligned with the previous framework and is oftentimes used in practice:
 
-<figure><img src="../../.gitbook/assets/Imagen2.png" alt=""><figcaption></figcaption></figure>
-
-_Implementing organizational change: preparing, managing, and reinforcing change_
+<figure><img src="../../.gitbook/assets/Imagen2.png" alt=""><figcaption><p><em>Implementing organizational change: preparing, managing, and reinforcing change</em></p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Eight steps to transforming an organization (Kotter.J, 1995)" %}
+Kotter’s research presented a novel approach to change management. He suggested that organizations should create a new culture where managers view change as an opportunity and modify their business systems to meet continuously emerging conditions [(Hussey, D.E. (2000). How to Manage Organisational Change (Vol. 28). Kogan Page Publishers: London).](https://books.google.ee/books?hl=en\&lr=\&id=vpJLQHlN-BQC\&oi=fnd\&pg=PA108\&dq=\(Hussey,+D.E.+\(2000\).+How+to+Manage+Organisational+Change+\(Vol.+28\).+Kogan+Page+Publishers:+London\).\&ots=ma7aLM5GH\_\&sig=BpXyijIiHFIyaR\_EWlZSvsHGKfw\&redir\_esc=y#v=onepage\&q\&f=false)
+
 The following eight steps in the change process are his contribution.
 
 > * Establishing a sense of urgency
@@ -53,11 +49,7 @@ The following eight steps in the change process are his contribution.
 > * Empowering others to act on the vision
 > * Planning and creating short term wins
 > * Consolidating improvements and producing still more change
-> * Institutionalising new approaches
-
-_Kotter’s research gave a whole new way to managing change._
-
-A new culture should be created within the organization such that managers look to change as an opportunity and adapt their business system to continuously emerging conditions. (Hussey 2000)
+> * Institutionalizing new approaches
 {% endtab %}
 
 {% tab title="Prosci’s ADKAR" %}
@@ -88,9 +80,7 @@ As practical result, our GovStack model approach to Change Management includes 6
 > 5. Driving the change
 > 6. Consolidate change
 {% endtab %}
-
-{% tab title="References" %}
-
-{% endtab %}
 {% endtabs %}
+
+
 
