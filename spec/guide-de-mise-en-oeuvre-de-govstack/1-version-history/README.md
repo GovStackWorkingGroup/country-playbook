@@ -1,0 +1,15 @@
+---
+description: Version pour la révision du TAC d'octobre 2022
+---
+
+# Historique des versions
+
+{% hint style="success" %}
+Add a line to the version history table describing the major changes to the specifications between _published_ versions. Ideally, include links to issues and authors on GitHub.
+{% endhint %}
+
+| Version                                                                                                      | Authors               | Comment                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------ | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Version for TAC Review](../../govstack-implementation-playbook/1-version-history/release-notes.md) Oct 2022 | Same as contributors  | TAC review version is the first iteration of the GovStack implementation playbook with TAC panel members and digital teams in pilot countries.  |
+|                                                                                                              |                       |                                                                                                                                                 |
+|                                                                                                              |                       |                                                                                                                                                 |

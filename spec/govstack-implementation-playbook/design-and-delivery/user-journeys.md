@@ -2,14 +2,14 @@
 description: Version for TAC Review October 2022
 ---
 
-# User Jounreys
+# User Journeys
 
 Understanding who we are solving a problem for is important for creating user-centric digital services. An 'As-Is' user journey can help identify touchpoints, inefficiencies, pain points, opportunities for improvement and can inform the design of a 'To-Be' user journey that represents the desired state of the user experience after changes have been made.
 
 <figure><img src="../../.gitbook/assets/5. As-is initial-to-be user journey (1).jpg" alt=""><figcaption><p>As-is and To-be user journeys</p></figcaption></figure>
 
 {% hint style="info" %}
-Abu Dabhi Digital Authority aligned its digitization strategy around 80 user journeys available through TAMM, a one-stop shop for all digital government services.
+Abu Dhabi Digital Authority aligned its digitization strategy around 80 user journeys available through TAMM, a one-stop shop for all digital government services.
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=oVVpS741k08" %}
@@ -86,7 +86,7 @@ Service design Proposal:
 
 **Painpoint:** A persistent or recurring problem, as with a step within the service, that frequently inconveniences or annoys users. Example: filling multiple forms to access a service.
 
-**Opportunity for improvement**: These are possible simplifications that can improve the user experience. Please refer to the [simplification principles](user-jounreys.md#simplification-principles).
+**Opportunity for improvement**: These are possible simplifications that can improve the user experience. Please refer to the [simplification principles](user-journeys.md#simplification-principles).
 
 </details>
 

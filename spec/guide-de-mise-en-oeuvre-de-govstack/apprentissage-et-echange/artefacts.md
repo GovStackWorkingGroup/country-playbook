@@ -1,11 +1,12 @@
 ---
-description: >-
-  This page describes the documents, presentations, and tools related to
-  government engagement that support GovStack's implementation activities in
-  accordance with the implementation framework.
+description: Version pour la révision du TAC d'octobre 2022
 ---
 
 # Artefacts
+
+##
+
+This page describes the documents, presentations, and tools related to government engagement that support GovStack's implementation activities in accordance with the implementation framework.
 
 ## **GovStack Overview**
 
@@ -137,7 +138,7 @@ Part of Module 6 n GovStack LMS
 
 Description of artefact: This artefact describes the various stakeholders that support capacity building during the digital transformation process. Each identified role's qualifications are described in equal detail.
 
-Link to artefact: [User Profiles taxonomy](../annex/govstack-user-profiles-taxonomy.md)
+Link to artefact: [User Profiles taxonomy](../../govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy.md)
 
 Part of Module 6 on GovStack LMS
 
@@ -296,7 +297,7 @@ Part of Module 8 on GovStack LMS
 
 Description of artefact: User personas are archetypical users whose goals and characteristics represent the needs of a larger group of users.
 
-{% file src="../../.gitbook/assets/User persona template and example.pptx" %}
+{% file src="../../.gitbook/assets/User persona template and examples.pptx" %}
 
 ### User Needs Research Plan
 

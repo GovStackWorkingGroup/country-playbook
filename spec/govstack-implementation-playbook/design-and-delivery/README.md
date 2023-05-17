@@ -6,4 +6,4 @@
 
 Deliverables for each step within the Design and Delivery section of the playbook are as mentioned in the following image:
 
-<figure><img src="../../.gitbook/assets/Playbook Sections.png" alt=""><figcaption><p>Digital Service Design Standard and Delivery Protocol</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/UXUI (1).png" alt=""><figcaption><p>Digital Service Design Standard and Delivery Protocol</p></figcaption></figure>

@@ -1,12 +1,12 @@
 ---
-description: Version for TAC Review October 2022
+description: Version pour la révision du TAC d'octobre 2022
 ---
 
-# Academic support
+# Soutien académique au développement des capacités
 
 ### How Academia can help to build capacity?
 
-To understand the current state of education in the digital transformation domain, it is useful to take a look through the lens of established competences and qualifications frameworks. These frameworks help to identify the necessary skills in a certain career path needed in the digitalization journey. It is useful for education institutions in the process of designing curriculum and ensuring the students get the necessary skills to support GovStack approach. Additionally, when designing the curriculum, several issues need to be addressed, as a first step to supporting the long term development of capacity building in the country [Digital skills](../../strategy-and-governance/country-context-and-needs/digital-skills.md).
+To understand the current state of education in the digital transformation domain, it is useful to take a look through the lens of established competences and qualifications frameworks. These frameworks help to identify the necessary skills in a certain career path needed in the digitalization journey. It is useful for education institutions in the process of designing curriculum and ensuring the students get the necessary skills to support GovStack approach. Additionally, when designing the curriculum, several issues need to be addressed, as a first step to supporting the long term development of capacity building in the country [Digital skills](../../../govstack-implementation-playbook/strategy-and-governance/country-context-and-needs/digital-skills.md).
 
 The multidisciplinary approach should be considered as it allows students to increase their strengths as well as fill in gaps in their knowledge in the areas of technical skills, service design, ethics, creative problem solving, the regulation of technologies, legislation, and generally in the digital transformation.&#x20;
 
@@ -26,7 +26,7 @@ GovStack Approach supportive curricula are following the [European Qualification
 
 
 
-_**Table Showing**_ [_**e-CF Stages**_](academic-support-to-capacity-development.md#e-competence-framework-e-cf)_**, and Relevant Competencies recommended for the Stakeholders Involved**_
+_**Table Showing**_ [_**e-CF Stages**_](soutien-academique-au-developpement-des-capacites.md#e-competence-framework-e-cf)_**, and Relevant Competencies recommended for the Stakeholders Involved**_
 
 {% tabs %}
 {% tab title="Plan" %}
@@ -182,16 +182,6 @@ _**Links**_
 
 <details>
 
-<summary><a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC128415">The European Framework of Digital Competencies DigComp 2.2</a></summary>
-
-_**Description**_
-
-The Digital Competence Framework for Citizen (DigComp) provides a common understanding of what digital competence is. The integrated DigComp 2.2 framework provides more than 250 new examples of knowledge, skills and attitudes that help citizens engage confidently, critically and safely with digital technologies, and new and emerging ones such as systems driven by artificial intelligence (AI).
-
-</details>
-
-<details>
-
 <summary><a href="https://europa.eu/europass/en/european-qualifications-framework-eqf">The European Qualifications Framework (e-QF)</a> </summary>
 
 _**Description**_
@@ -290,17 +280,9 @@ It covers all kinds of competencies and is not limited to IT capabilities only. 
 
 </details>
 
-<details>
-
-<summary><a href="https://digital-strategy.ec.europa.eu/en/events/digital-maturity-tool-and-innovation-radar">The European Digital Maturity Assessment (DMA) tool &#x26; the Innovation Radar Methodology (IR) . JRC/EC</a></summary>
-
-
-
-</details>
-
 ### Study Programs Structure
 
-GovStack uses a descriptive and e-learning approach, that is the [GovStack Learning Management System](../govlearn.md) to train the stakeholders.&#x20;
+GovStack uses a descriptive and e-learning approach, that is the [GovStack Learning Management System](../../../govstack-implementation-playbook/learning-and-exchange/govlearn.md) to train the stakeholders.&#x20;
 
 The main learning outcomes to support the GovStack's approach will give &#x20;
 
@@ -311,7 +293,7 @@ The main learning outcomes to support the GovStack's approach will give &#x20;
 {% tab title="Learning Objectives" %}
 #### Learning Objectives
 
-Within GovStack approach, it is very important to educate the future leaders of the digital transformation who are able to implement the GovStack vision. As GovStack requires various knowledge in the field of transformation the academic education path should follow the [GovStack's standard users profiles](../../annex/govstack-user-profiles-taxonomy.md).
+Within GovStack approach, it is very important to educate the future leaders of the digital transformation who are able to implement the GovStack vision. As GovStack requires various knowledge in the field of transformation the academic education path should follow the [GovStack's standard users profiles](../../../govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy.md).
 {% endtab %}
 
 {% tab title="Learning Content" %}

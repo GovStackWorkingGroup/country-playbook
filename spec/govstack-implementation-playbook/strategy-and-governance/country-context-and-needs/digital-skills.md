@@ -8,7 +8,7 @@ Digital skills are a key enabler of the digital transformation journey. Identify
 
 It is crucial and highly recommendable to lay a common digital mindset among the country's population. This could be achieved, for example, through the inclusion of digital skills in education pathways for civil society.
 
-In addition to equipping all citizens and public officials with basic skills, government entities need [ICT experts](../../sample-digital-team-composition/govstack-user-profiles-taxonomy.md) with advanced IT and project management skills to maintain the ICT architecture, provide user support, manage ICT procurements, and implement the government’s digital strategy.
+In addition to equipping all citizens and public officials with basic skills, government entities need [ICT experts](../../annex/govstack-user-profiles-taxonomy.md) with advanced IT and project management skills to maintain the ICT architecture, provide user support, manage ICT procurements, and implement the government’s digital strategy.
 
 Such public officials/civil servants, Digital Transformation Project Managers, and ICT specialists, among other professionals, should be involved in regular internal [capacity strengthening measures](../../learning-and-exchange/govlearn.md) to keep pace with new technologies and to be able to continuously foster a digital society.
 

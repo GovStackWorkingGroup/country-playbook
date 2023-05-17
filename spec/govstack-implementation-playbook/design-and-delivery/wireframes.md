@@ -39,11 +39,11 @@ The following actions are recomended in developing a prototype.&#x20;
 {% tab title="Digital team" %}
 Who does what&#x20;
 
-* [Service designers](../sample-digital-team-composition/govstack-user-profiles-taxonomy.md#service-designer)/ Design lead – Lead the activites within the 'Activities' Tab.
+* [Service designers](../annex/govstack-user-profiles-taxonomy.md#service-designer)/ Design lead – Lead the activites within the 'Activities' Tab.
 * [User needs researchers](broken-reference) – Prepare & apply user interviews, focus groups, facilitates user journey workshops &#x20;
-* [Legal policy officer](../sample-digital-team-composition/govstack-user-profiles-taxonomy.md#legal-policy-officer)– Clarify regulations that apply to the service &#x20;
+* [Legal policy officer](../annex/govstack-user-profiles-taxonomy.md#legal-policy-officer)– Clarify regulations that apply to the service &#x20;
 * [UX/IU Designers](broken-reference) – If the service under analysis is already online, UX/UI designers can join the co-design sessions to have firsthand interaction with the users &#x20;
-* [Product/Tech experts](../sample-digital-team-composition/govstack-user-profiles-taxonomy.md#back-end-developers)  - If the service under analysis is already online, Product/Tech team members can participate in the iteration session with users to see reaction to white-frame prototype &#x20;
+* [Product/Tech experts](../annex/govstack-user-profiles-taxonomy.md#back-end-developers)  - If the service under analysis is already online, Product/Tech team members can participate in the iteration session with users to see reaction to white-frame prototype &#x20;
 {% endtab %}
 
 {% tab title="Deliverables" %}

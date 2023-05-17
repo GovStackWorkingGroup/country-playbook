@@ -1,0 +1,85 @@
+---
+description: Version pour la révision du TAC d'octobre 2022
+---
+
+# Spécifications du bloc de construction
+
+Les blocs de construction (BB) sont des modules logiciels qui peuvent être déployés et combinés de manière standardisée. Chaque bloc de construction est capable de fonctionner indépendamment, mais ils peuvent être combinés pour faire bien plus.
+
+Les blocs de construction sont des modules logiciels composables et interopérables qui peuvent être utilisés dans une variété de cas d'utilisation. Ils sont basés sur des normes, de préférence open source et conçus pour évoluer.
+
+Chaque bloc de construction expose un ensemble de services sous la forme d'API REST qui peuvent être consommées par d'autres blocs de construction ou applications.
+
+Dans cette version de la spécification GovStack, les blocs de construction suivants sont spécifiés :
+
+<details>
+
+<summary><a href="https://govstack.gitbook.io/bb-information-mediation">Information Mediation</a></summary>
+
+Provides a gateway between external digital applications and other ICT Building Blocks, thereby ensuring interoperability and implementation of standards, which is essential for integrating various ICT Building Blocks and applications.
+
+</details>
+
+<details>
+
+<summary><a href="https://govstack.gitbook.io/bb-registration">Registration</a></summary>
+
+Records identifiers and other general information about a person, place or other entity, typically for the purpose of registration or enrollment in specific services or programmes and tracking of that entity over time.
+
+</details>
+
+<details>
+
+<summary><a href="https://govstack.gitbook.io/bb-digital-registries">Digital Registries</a></summary>
+
+Registries are centrally managed databases that uniquely identify persons, vendors, facilities, procedures, products and sites related to an organization, industry or activity.
+
+</details>
+
+<details>
+
+<summary><a href="https://govstack.gitbook.io/bb-identity">Identity</a></summary>
+
+Enables unique identification and authentication of users, organizations and other entities.
+
+</details>
+
+<details>
+
+<summary><a href="https://govstack.gitbook.io/bb-payments">Payments</a></summary>
+
+Implements financial transactions such as remittances, insurance claims, product purchases and payments of service fees, along with the logging of related transactional information. It also provides utilities for tracking costs and extracting audit trials.
+
+</details>
+
+<details>
+
+<summary><a href="https://govstack.gitbook.io/bb-consent">Consent</a></summary>
+
+Manages a set of policies allowing users to determine the information that will be accessible to specific potential information consumers, for which purpose, for how long and whether this information can be shared further.
+
+</details>
+
+<details>
+
+<summary><a href="https://govstack.gitbook.io/bb-workflow">Workflow</a></summary>
+
+Helps to optimize business processes by specifying rules that govern the sequence of activities to be executed as well as the type of information exchanged in order to orchestrate the process flow from its initiation to completion.
+
+</details>
+
+<details>
+
+<summary><a href="https://govstack.gitbook.io/bb-messaging/">Messaging</a></summary>
+
+Facilitates notifications, alerts and two-way communications between applications and communications services, including short message service (SMS), unstructured supplementary service data (USSD), interactive voice response (IVR), email and social media platforms.
+
+</details>
+
+<details>
+
+<summary><a href="https://govstack.gitbook.io/bb-scheduler/">Scheduling</a></summary>
+
+Provides an engine for setting up events based on regular intervals or specific combinations of status of several parameters in order to trigger specific tasks in an automated business process.
+
+</details>

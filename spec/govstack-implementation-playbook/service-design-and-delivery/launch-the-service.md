@@ -29,9 +29,9 @@ The following actions are recomended when launching a service.
 {% tab title="Digital Team composition" %}
 Who does what:
 
-* [Service designers](../sample-digital-team-composition/govstack-user-profiles-taxonomy.md#service-designer)/ Design lead – Lead the activites within the 'Activities' Tab.
+* [Service designers](../annex/govstack-user-profiles-taxonomy.md#service-designer)/ Design lead – Lead the activites within the 'Activities' Tab.
 * [Communications manager](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#communication-manager) - develops communications strategy for the lauch of the service
-* [IT operation](../sample-digital-team-composition/govstack-user-profiles-taxonomy.md#back-end-developers) - Maintain the service
+* [IT operation](../annex/govstack-user-profiles-taxonomy.md#back-end-developers) - Maintain the service
 {% endtab %}
 
 {% tab title="Deliverables" %}

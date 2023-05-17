@@ -142,7 +142,7 @@ This is a very interesting tool for identifying and measuring the impacts that a
 {% tab title="Burke and Litwin model" %}
 This tool makes it possible to analyse and evaluate the organizational and environmental dimensions necessary for successful change: identify the cause and effect links between the different dimensions and allows to make adjustments aiming to improving performance.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Futures Wheel" %}
