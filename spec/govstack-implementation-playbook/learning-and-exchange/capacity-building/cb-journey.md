@@ -1,5 +1,5 @@
 ---
-description: Version for TAC Review October 2022
+description: Version for TAC Review
 ---
 
 # CB Journey
@@ -140,12 +140,7 @@ d. Curriculum adaptation&#x20;
 
 e. Action Plan. Find below an example&#x20;
 
-| Detailed description of the Strengthening Measure | Responsibility | Timeline |  Total Funding |  Funding source | Technical Assistance |
-| ------------------------------------------------- | -------------- | -------- | -------------- | --------------- | -------------------- |
-|                                                   |                |          |                |                 |                      |
-|                                                   |                |          |                |                 |                      |
-|                                                   |                |          |                |                 |                      |
-|                                                   |                |          |                |                 |                      |
+<table data-header-hidden><thead><tr><th width="199">Detailed description of the Strengthening Measure </th><th>Responsibility </th><th>Timeline </th><th>Total Funding</th><th>Funding source</th><th width="115">Technical Assistance </th></tr></thead><tbody><tr><td>Detailed description of the Strengthening Measure</td><td>Responsibility</td><td>Timeline</td><td> Total Funding</td><td> Funding source</td><td>Technical Assistance</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
 
 &#x20;
 

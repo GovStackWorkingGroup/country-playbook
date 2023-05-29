@@ -1,5 +1,5 @@
 ---
-description: Version pour la révision du TAC d'octobre 2022
+description: Version pour l'examen du TAC
 ---
 
 # Soutien académique au développement des capacités
@@ -32,18 +32,7 @@ _**Table Showing**_ [_**e-CF Stages**_](soutien-academique-au-developpement-des-
 {% tab title="Plan" %}
 The following are the relevant e-competencies for this phase
 
-| Relevant e-Competencies                                  | Stakeholders Involved                                               |
-| -------------------------------------------------------- | ------------------------------------------------------------------- |
-| A.1. Information systems and Business Strategy Alignment | Management/Policy makers, Service Designers, IT personnel           |
-| A.2. Service level management                            | Management/Policy makers, IT personnel                              |
-| A.3. Business Plan Development                           | Management/Policy makers, IT personnel                              |
-| A.4. Product/Service Planning                            | Management/Policy makers, Service Designers, IT personnel           |
-| A.5. Architecture Design                                 | Management/Policy makers, Service Designers, IT personnel           |
-| A.6. Application Design                                  | Management/Policy makers, Service Designers, IT personnel           |
-| A.7. Technology Trend Monitoring                         | Management/Policy makers, Service Designers, IT personnel           |
-| A.8. Sustainability Management                           | Management/Policy makers, Service Designers, IT personnel           |
-| A.9. Innovating                                          | Management/Policy makers, Service Designers, IT personnel           |
-| A.10. User Experience                                    | Management/Policy makers, Service Designers, IT personnel, Trainers |
+<table><thead><tr><th width="350">Relevant e-Competencies </th><th>Stakeholders Involved</th></tr></thead><tbody><tr><td>A.1. Information systems and Business Strategy Alignment</td><td>Management/Policy makers, Service Designers, IT personnel</td></tr><tr><td>A.2. Service level management</td><td>Management/Policy makers, IT personnel</td></tr><tr><td>A.3. Business Plan Development</td><td>Management/Policy makers, IT personnel</td></tr><tr><td>A.4. Product/Service Planning</td><td>Management/Policy makers, Service Designers, IT personnel</td></tr><tr><td>A.5. Architecture Design</td><td>Management/Policy makers, Service Designers, IT personnel</td></tr><tr><td>A.6. Application Design</td><td>Management/Policy makers, Service Designers, IT personnel</td></tr><tr><td>A.7. Technology Trend Monitoring</td><td>Management/Policy makers, Service Designers, IT personnel</td></tr><tr><td>A.8. Sustainability Management</td><td>Management/Policy makers, Service Designers, IT personnel</td></tr><tr><td>A.9. Innovating</td><td>Management/Policy makers, Service Designers, IT personnel</td></tr><tr><td>A.10. User Experience</td><td>Management/Policy makers, Service Designers, IT personnel, Trainers</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Build" %}

@@ -1,5 +1,5 @@
 ---
-description: Version pour la révision du TAC d'octobre 2022
+description: Version pour l'examen du TAC
 ---
 
 # Gestion du changement

@@ -1,8 +1,8 @@
 ---
-description: Version for TAC Review October 2022
+description: Version for TAC Review
 ---
 
-# Digital skills in relation to capacity building
+# Digital skills
 
 ### Why digital skills are needed? &#x20;
 
@@ -82,7 +82,7 @@ There can be different kind of stakeholders (government and internal) and extern
 
 <details>
 
-<summary> <strong>Program Sponsor/</strong><a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#top-management"><strong>Top Management</strong></a><strong>/</strong><a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#policy-makers"><strong>Policy Makers</strong></a> <strong></strong> </summary>
+<summary> <strong>Program Sponsor/</strong><a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#top-management"><strong>Top Management</strong></a><strong>/</strong><a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#policy-makers"><strong>Policy Makers</strong></a> </summary>
 
 Their main function is as decision-makers in national or regional governments, and head government entities. They perform legislative duties and are in charge of the long-term planning for the government ministries.&#x20;
 
@@ -92,7 +92,7 @@ On the other hand, policy officials research, analyze and develop policies in va
 
 <details>
 
-<summary><strong></strong><a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#middle-and-lower-management"><strong>Program Implementers</strong> </a><strong></strong></summary>
+<summary><a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#middle-and-lower-management"><strong>Program Implementers</strong> </a></summary>
 
 Program implementers, also known as middle managers plan, organize, direct, control and coordinate various departments within the government such as administrative, digital transformation, human resource, public relations, accounting and finance etc. They take directives from the top managers, implement the strategies and supervise the operations of their entities at the national and regional levels. They also coordinate between the top and lower levels of management to ensure the set targets are met.&#x20;
 
@@ -102,7 +102,7 @@ The ICT professionals undertake various leadership activities (e.g., planning, c
 
 <details>
 
-<summary><strong></strong><a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#service-design"><strong>Service Designers</strong></a> </summary>
+<summary><a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#service-design"><strong>Service Designers</strong></a> </summary>
 
 Service designers are responsible for planning the entire lifecycle of a product or service. This may involve creating or transforming the catalog of products and services delivered by different government departments.&#x20;
 
@@ -110,7 +110,7 @@ Service designers are responsible for planning the entire lifecycle of a product
 
 <details>
 
-<summary><strong></strong><a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#trainers"><strong>Trainers</strong></a><strong></strong></summary>
+<summary><a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#trainers"><strong>Trainers</strong></a></summary>
 
 Trainers are responsible for creating, preparing, and/or delivering professional education programs. These programs are frequently tailored to meet organizational training needs. Moreover, trainers can also carry out research activities and advise policy-makers in connection with education issues.
 
@@ -118,7 +118,7 @@ Trainers are responsible for creating, preparing, and/or delivering professional
 
 <details>
 
-<summary><strong></strong><a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#end-users-1"><strong>End Users</strong></a><strong></strong></summary>
+<summary><a href="https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#end-users-1"><strong>End Users</strong></a></summary>
 
 These are the actual users of applications. These are people who either a) deliver services directly or indirectly to the end beneficiaries or b) are recipients of the services. These include employees and citizens.&#x20;
 

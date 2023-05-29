@@ -1,11 +1,10 @@
 ---
-description: >-
-  This page describes the documents, presentations, and tools related to
-  government engagement that support GovStack's implementation activities in
-  accordance with the implementation framework.
+description: Version for TAC Review
 ---
 
 # Artefacts
+
+This page describes the documents, presentations, and tools related to government engagement that support GovStack's implementation activities in accordance with the implementation framework.
 
 ## **GovStack Overview**
 

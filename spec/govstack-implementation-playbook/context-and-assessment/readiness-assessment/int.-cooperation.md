@@ -1,8 +1,8 @@
 ---
-description: Version for TAC Review October 2022
+description: Version for TAC Review
 ---
 
-# International cooperation
+# Int. Cooperation
 
 International cooperation in the form of a multilateral approach is the most effective way to tackle challenges and enhance innovation. International cooperation can be corroborated by and based on various international agreements based on the continent, focus area or any other political or social tie. This allows to exchange the digitalization experience, utilize knowledge, eliminate the probability of silos and mistakes as well as sustainably reuse sufficient practices and systems. When assessing the level of international cooperation it is worth analyzing how extensively the country’s government is involved in international joint projects, active working groups and committees as well as to what extent the country’s government is eager to contribute to international development and share the raw experience with partner countries. &#x20;
 

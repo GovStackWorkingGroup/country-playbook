@@ -1,8 +1,8 @@
 ---
-description: Version for TAC Review October 2022
+description: Version for TAC Review
 ---
 
-# Digital identity and digital signature
+# eID & eSignature
 
 Digital identity and digital signatures are the core components of public service development. Government services heavily depend on the users’ ability to identify themselves simply and securely. Therefore, governments aiming to be digital and user-centric provide citizens with one or multiple ways to authenticate themselves while accessing government services. These authentication methods can include digital ID, mobile ID, and digital signature, for example.
 

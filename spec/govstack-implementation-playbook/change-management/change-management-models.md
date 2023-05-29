@@ -1,5 +1,5 @@
 ---
-description: FIIAPP proposal – draft March 2023
+description: Version for TAC Review
 ---
 
 # Change Management Models

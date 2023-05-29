@@ -1,5 +1,5 @@
 ---
-description: Version for TAC Review October 2022
+description: Version for TAC Review
 ---
 
 # Interoperability
@@ -32,11 +32,7 @@ The desired interoperability level for a digital public service is at least leve
 
 #### Service Delivery
 
-| Attribute                                                  | Rationale                                                                                                                                                                                                                                                 |
-| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Data, information and knowledge delivered Service Delivery | Assesses the behavioral interoperability specifications of data, information and knowledge delivered by the public service to its end users and/or other client services.                                                                                 |
-| Service Delivery Enablers                                  | Assesses the behavioral interoperability capabilities that enable either i) the delivery of data, information and knowledge by the digital public service to its end users and/or other client services or ii) the discoverability of the public service. |
-| Service Delivery Manifestations                            | Assesses the behavioral interoperability manifestations of the public service delivering data, information and knowledge (manifestations can be performance, results, user experience).                                                                   |
+<table><thead><tr><th width="207">Attribute</th><th>Rationale</th></tr></thead><tbody><tr><td>Data, information and knowledge delivered Service Delivery</td><td>Assesses the behavioral interoperability specifications of data, information and knowledge delivered by the public service to its end users and/or other client services.</td></tr><tr><td>Service Delivery Enablers</td><td>Assesses the behavioral interoperability capabilities that enable either i) the delivery of data, information and knowledge by the digital public service to its end users and/or other client services or ii) the discoverability of the public service.</td></tr><tr><td>Service Delivery Manifestations</td><td>Assesses the behavioral interoperability manifestations of the public service delivering data, information and knowledge (manifestations can be performance, results, user experience).</td></tr></tbody></table>
 
 #### Service Consumption
 
@@ -48,8 +44,4 @@ The desired interoperability level for a digital public service is at least leve
 
 #### Service Management
 
-|                                            |                                                                                                                                                                                       |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Data, information and knowledge management | Assesses the behavioral interoperability specifications of data, information and knowledge consumed by the public service from other server services                                  |
-| Service Management Enablers                | Assesses the behavioral interoperability capabilities that enable the public service to manage data, information and knowledge                                                        |
-| Service Management Manifestations          | Assesses the behavioral interoperability manifestations of the public service managing data, information and knowledge (manifestations can be performance, results, user experience). |
+<table><thead><tr><th width="209"></th><th></th></tr></thead><tbody><tr><td>Data, information and knowledge management</td><td>Assesses the behavioral interoperability specifications of data, information and knowledge consumed by the public service from other server services</td></tr><tr><td>Service Management Enablers</td><td>Assesses the behavioral interoperability capabilities that enable the public service to manage data, information and knowledge</td></tr><tr><td>Service Management Manifestations</td><td>Assesses the behavioral interoperability manifestations of the public service managing data, information and knowledge (manifestations can be performance, results, user experience).</td></tr></tbody></table>

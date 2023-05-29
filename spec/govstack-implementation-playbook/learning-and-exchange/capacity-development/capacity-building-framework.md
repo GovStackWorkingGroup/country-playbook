@@ -1,5 +1,5 @@
 ---
-description: Version for TAC Review October 2022
+description: Version for TAC Review
 ---
 
 # CB Framework
