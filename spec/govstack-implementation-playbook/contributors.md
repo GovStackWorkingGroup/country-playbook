@@ -17,6 +17,7 @@ The first iteration of the Playbook has been co-developed by (listed below in al
   * Jake Watson
   * Sherman Kong
 * **GIZ**&#x20;
+  * Amrit Singh
   * Martha Mundas
   * Moritz Fromageot
   * Nico Lueck
@@ -33,6 +34,7 @@ The first iteration of the Playbook has been co-developed by (listed below in al
   * Hossam Ragheb
   * Ingrid Pappel
   * Luke Cavanaugh
+  * Nabhonil Roy
   * Dr. P.S Ramkumar
   * Valentina Stadnic
   * Vikash Madduri
@@ -41,7 +43,6 @@ The first iteration of the Playbook has been co-developed by (listed below in al
 ### **Partner organizations**&#x20;
 
 * **eGov Foundation of India**&#x20;
-  * Neil Roy
   * Omkar Ghatpande
   * Varun Basu&#x20;
 * **TalTech**&#x20;
@@ -51,4 +52,8 @@ The first iteration of the Playbook has been co-developed by (listed below in al
 ### **Government collaborators**
 
 * **Government of Ukraine**
-  * Maksym Shkilov&#x20;
+  * Maksym Shkilov
+
+### Graphic design
+
+* Nienke Haccou
