@@ -62,6 +62,24 @@ Our aim is to constantly iterate GovStack playbook tools & methods, join us in t
 
 <figure><img src=".gitbook/assets/14.-Double-Diamond-iteration-country-implementation (1).jpg" alt=""><figcaption><p><em>GovStack Iteration Model</em> </p></figcaption></figure>
 {% endtab %}
+
+{% tab title="Submit Feedback" %}
+In order to provide feedback for a particular page
+
+* Open the GovStack Implementation [Playbook](https://govstack.gitbook.io/implementation-playbook/),
+* Navigate to the page you would like to provide feedback on,
+* Click the “Give Feedback” button in the upper right corner,
+
+<figure><img src=".gitbook/assets/Step 1 Navigate to the page where you wish to provide your feedback.png" alt=""><figcaption></figcaption></figure>
+
+* Upon clicking the “Give Feedback” button, a feedback form is created where you can share your name, email address, and your feedback.
+
+<figure><img src=".gitbook/assets/Step 1 Navigate to the page where you wish to provide your feedback (1).jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+It is necessary to mention that the page you are interested in has been pre-filled with the link of the page you were viewing as you clicked on the “Give Feedback.”
+{% endhint %}
+{% endtab %}
 {% endtabs %}
 
 
