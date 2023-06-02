@@ -6,7 +6,7 @@
     * [Governance model](govstack-implementation-playbook/2-description/governance-model.md)
     * [Engagement opportunities](govstack-implementation-playbook/2-description/engagement-opportunities.md)
   * [Implementation framework](govstack-implementation-playbook/implementation-framework.md)
-  * [Govstack design principles](govstack-implementation-playbook/govstack-design-principles.md)
+  * [GovStack design principles](govstack-implementation-playbook/govstack-design-principles.md)
   * [Context & assessment](govstack-implementation-playbook/context-and-assessment/README.md)
     * [Readiness assessment](govstack-implementation-playbook/context-and-assessment/readiness-assessment/README.md)
       * [Digital landscape](govstack-implementation-playbook/context-and-assessment/readiness-assessment/digital-landscape.md)
