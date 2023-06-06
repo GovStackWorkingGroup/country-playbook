@@ -61,6 +61,14 @@ When **evaluating a country's level of knowledge and readiness**, the following 
 **Shared services**&#x20;
 {% endtab %}
 
+{% tab title="Rapid Country Assessment " %}
+To ensure that there is a solid foundation for informed decision-making and guide strategic planning for capacity building, GovStack uses a rapid assessment tool to facilitate an initial assessment in early stages.&#x20;
+
+&#x20;Goal of this tool is to ensure that the digital development training plan aligns with the unique status, requirements and challenges of the government and its ICT practitioners.
+
+This Rapid Assessment **Script** is intended to be used as a protocol for focus group discussion with the selected civil servants (ICT Practitioners) from Government Ministries and/Agencies to collect initial data alongside the country kick-off mission or preliminary engagement with country focal points in order develop a digital development training plan for the government ICT practitioners.
+{% endtab %}
+
 {% tab title="Current digital capability in country (RFI-4)" %}
 As one of the Capacity Building assessment tools, GovStack uses [RFI 4](https://form.jotform.com/222551422978056) in order to nail our approach.&#x20;
 
