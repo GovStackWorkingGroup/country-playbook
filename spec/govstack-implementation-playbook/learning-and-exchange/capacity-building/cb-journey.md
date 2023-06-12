@@ -182,7 +182,7 @@ For many years, research and practice has recognized differences between how chi
 
 {% tabs %}
 {% tab title="Rationale" %}
-**Adults need to know the reason for learning something..**
+**Adults need to know the reason for learning something**
 
 In practical terms, it is important that instructors clearly describe the learning objectives and provide spaces to understand participant’s motivations when preparing learning materials (e.g., collecting participants’ information during the planning stage, mapping participants’ expectations at the beginning of capacity building sessions and making connections between the content presented throughout the sessions&#x20;
 {% endtab %}
