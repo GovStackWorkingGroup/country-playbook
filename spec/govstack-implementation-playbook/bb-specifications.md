@@ -22,10 +22,10 @@ The [Information Mediator](https://govstack.gitbook.io/bb-information-mediation)
 
 **Policy recommendations**&#x20;
 
-* Interoperability should be a transversal mandate that applies to all government entities (With no exceptions). These types of mandates can be implemented using General laws and/or presidential/secretarial decrees regulating the following principles:
+* Interoperability should be a transversal mandate that applies to all government entities (with no exceptions). These types of mandates can be implemented using General laws and/or presidential/secretarial decrees regulating the following principles:
   * 'Only one principle' states that citizens should be required to provide information once to the government.
   * No government entity can request information from a citizen or interested party that other government entity already has.
-  * Citizens or interested parties should give consent for their information to be exchanged and or consulted in order to access government services according to data protection law applicable in the country.
+  * Citizens or interested parties should give consent for their information to be exchanged and/or consulted in order to access government services according to data protection law applicable in the country.
 * Examples of regulations:
   * [Estonia](https://www.stat.ee/sites/default/files/2022-11/Estonian%20IT%20Interoperability%20Framework%20-%20Abridgement%20of%20Version%203.0.pdf)
   * [Mexico](https://www.gob.mx/wikiguias/articulos/decreto-por-el-que-se-establece-la-ventanilla-unica-nacional-para-los-tramites-e-informacion-del-gobierno-173691?state=published)
