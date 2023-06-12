@@ -16,11 +16,11 @@ The [criteria](service-prioritization.md#criteria) presented in this playbook ca
 {% tab title="Resources" %}
 * Abu Dhabi has developed a [catalog of services](https://www.tamm.abudhabi/) that maps services to user/business life events.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-03-31 160338.png" alt=""><figcaption><p>User/businesslife events, from Abu Dabhi, Finalist of GovStack WSIS Special Prize 2023</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-03-31 160338.png" alt=""><figcaption><p>User/business life events, from Abu Dhabi, Finalist of GovStack WSIS Special Prize 2023</p></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-03-31 160404.png" alt=""><figcaption><p>Catalog of services related to 'Manage your Business', from Abu Dabhi, Finalist of GovStack WSIS Special Prize 2023</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-03-31 160404.png" alt=""><figcaption><p>Catalog of services related to 'Manage your Business', from Abu Dhabi, Finalist of GovStack WSIS Special Prize 2023</p></figcaption></figure>
 
 #### Criteria
 
@@ -40,10 +40,10 @@ A comprehensive prioritization strategy...
 {% endtab %}
 
 {% tab title="Activites" %}
-* Customize prioritization criteria according to country context and needs
+* Customize prioritization criteria according to country context and needs.
 * Map services to the user/business life events: No process, service, or product lives in a vacuum, so we want to understand how these fit together to impact the overall user experience. This can be understood in detail through the use of [User/Business Life event map](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-3-rfi-3). Past efforts and solutions will offer useful lessons to refine the understanding of what works and doesn’t work. In addition to mapping services to the user/business life events, you also create a catalog of services.
 
-<figure><img src="../.gitbook/assets/life event1 (1).png" alt=""><figcaption><p>Go to <a href="https://miro.com/app/board/uXjVOiQif00=/?share_link_id=431542248103">User/Business life evnets template</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/life event1 (1).png" alt=""><figcaption><p>Go to <a href="https://miro.com/app/board/uXjVOiQif00=/?share_link_id=431542248103">User/Business life events template</a></p></figcaption></figure>
 
 * Gather data on the services by using the Service Catalog Template ([RFI-2](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#service-catalogue-request-for-information-rfi-2)). This allows analysis of prerequisites and identification of opportunities to simplify services before establishing a digitalization roadmap.
 
