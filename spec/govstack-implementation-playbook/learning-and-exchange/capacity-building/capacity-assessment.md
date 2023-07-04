@@ -66,7 +66,7 @@ To ensure that there is a solid foundation for informed decision-making and guid
 
 &#x20;Goal of this tool is to ensure that the digital development training plan aligns with the unique status, requirements and challenges of the government and its ICT practitioners.
 
-This Rapid Assessment **Script** is intended to be used as a protocol for focus group discussion with the selected civil servants (ICT Practitioners) from Government Ministries and/Agencies to collect initial data alongside the country kick-off mission or preliminary engagement with country focal points in order develop a digital development training plan for the government ICT practitioners.
+This Rapid Assessment [**Tool** ](../artefacts.md#rapid-skills-assesment-tool)is intended to be used as a protocol for focus group discussion with the selected civil servants (ICT Practitioners) from Government Ministries and/Agencies to collect initial data alongside the country kick-off mission or preliminary engagement with country focal points in order develop a digital development training plan for the government ICT practitioners.
 {% endtab %}
 
 {% tab title="Current digital capability in country (RFI-4)" %}

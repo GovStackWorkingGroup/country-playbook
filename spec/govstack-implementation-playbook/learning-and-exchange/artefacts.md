@@ -161,6 +161,14 @@ Link to artefact: \*to be developed
 Part of Module 6 on GovStack LMS
 {% endtab %}
 
+{% tab title="Capacity Building" %}
+### Rapid skills assessment tool&#x20;
+
+{% file src="../../.gitbook/assets/Rapid Skills Assessment Tool.docx" %}
+This script will be used to conduct a rapid assesment of preliminary country capacity needs to inform development & customization of training modules.
+{% endfile %}
+{% endtab %}
+
 {% tab title="Government Reference Architecture & Shared Services Policy" %}
 ### **GovStack Eco-System Reference Architecture**
 
