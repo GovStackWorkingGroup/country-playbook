@@ -640,7 +640,7 @@ Solid grip on documentation publishing software such as Zendesk Guide, Camtasia,
 
 <details>
 
-<summary>Middle and lower management</summary>
+<summary>Middle and Entry-level management</summary>
 
 Middle managers ensure appropriate systems and procedures are developed and implemented to provide budgetary control; authorize material, human and financial resources to implement policies and programmes; monitor and evaluate performance of the organization and its staff; select or approve the selection of staff; ensure compliance with health and safety requirements; and represent and negotiate on behalf of the government, enterprise or organizational unit managed in meetings and other forums.&#x20;
 
