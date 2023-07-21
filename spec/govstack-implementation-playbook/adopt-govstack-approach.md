@@ -21,7 +21,7 @@ A comprehensive National Digital Agenda/Strategy:
 * Define progress reporting and monitoring of KPIs&#x20;
 * Set a digitisation roadmap with time frames for the execution of each action line&#x20;
 * Align the Strategy to the Sustainable Development Goals (SDGs)
-* Set a public dasbboard to share progress in the implementation of the Agenda and its KPIs
+* Set a public dashboard to share progress in the implementation of the Agenda and its KPIs
 
 <figure><img src="../.gitbook/assets/MicrosoftTeams-image (28).png" alt=""><figcaption><p>Example of<a href="http://www.agendadigital.gob.cl/#/"> Chile Digital Agenda dashboard </a>showing progress on each action line covered in the agenda. Chile participated in GovStack WSIS Special Prize 2023.</p></figcaption></figure>
 
@@ -48,7 +48,7 @@ A comprehensive National Digital Agenda/Strategy:
 Who does what:
 
 * Head of the Digital Authority – Leads the Digital Agenda Co-Design process, coordinates the implementation and reporting mechanisms, and enables delivery of the action lines
-* [Legal advisors](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#legal-policy-officer) – Prepare a regulatory plan to adapt/update Country legal framework according to the Digitial Agenda action lines
+* [Legal advisors](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#legal-policy-officer) – Prepare a regulatory plan to adapt/update Country legal framework according to the Digital Agenda action lines
 * The leadership team (chief data officer, cybersecurity officer, chief architect, lead service designer, etc) – Coordinate stakeholder community to participate in the co-design and implementation of the digital agenda&#x20;
 * Digital teams in each government entity - Implement, monitor, and continuously iterate the digital services under their jurisdiction in the user journeys&#x20;
 * Stakeholder community - Private sector, academia, civil society, and international organizations.&#x20;
@@ -57,8 +57,8 @@ Who does what:
 {% tab title="Deliverables" %}
 * National Digital Strategy/Agenda
 * Digitisation Roadmap
-* Public dasbboard to share progress in the implementation of the Agenda and its KPIs
-* Governance mecahnism to report progess made on the implementation of the National Digital Strategy/Agenda (This includes a high level advisory board)
+* Public dashboard to share progress in the implementation of the Agenda and its KPIs
+* Governance mechanism to report progress made on the implementation of the National Digital Strategy/Agenda (This includes a high level advisory board)
 {% endtab %}
 {% endtabs %}
 
