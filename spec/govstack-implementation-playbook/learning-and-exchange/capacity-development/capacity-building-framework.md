@@ -42,7 +42,7 @@ In its ongoing efforts to improve how governments can reap the benefits of digit
 
 #### Reuse and Improve Principle
 
-The GovStack Initiative strongly believes in the principle to" reuse and improve".  We do not have to reinvent the wheel - when it comes to reusing building blocks, but also regarding education material. Many organizations in the field of government technologies as well as Open Source communities and Governments have published readings, guidelines and training material to support public sector digitization. We would like to make use of all this material and channel it to our partner countries looking into increasing their skills and knowledge. These are a few ways to support GovStack Capacity Building:
+The GovStack Initiative strongly believes in the principle to "reuse and improve." We do not have to reinvent the wheel - when it comes to reusing building blocks, but also regarding education material. Many organizations in the field of government technologies as well as Open Source communities and Governments have published readings, guidelines and training material to support public sector digitization. We would like to make use of all this material and channel it to our partner countries looking into increasing their skills and knowledge. These are a few ways to support GovStack Capacity Building:
 
 {% tabs %}
 {% tab title="Creating" %}
@@ -269,7 +269,7 @@ The [**UK government states that**](https://www.gov.uk/government/publications/c
 
 Excellence center, as an umbrella, is a shared facility or an entity that should provide leadership, best practices, research, support and/or training for a focus area to support GovStack approach.&#x20;
 
-Apart from the CoPs, the academia has been involved by involving universities such as [TalTech  ](https://taltech.ee/en/)and Mexico university on board with different research topics in Masters' and doctoral levels. These research gives valuable feedback not only for ongoing projects, but also helps to set a roadmap for future development &#x20;
+Apart from the CoPs, the academia has been involved by involving universities such as [TalTech  ](https://taltech.ee/en/)and Mexico university on board with different research topics in Masters' and doctoral levels. This research gives valuable feedback not only for ongoing projects, but also helps to set a roadmap for future development. &#x20;
 
 To complement the practical and theoretical view within knowledge sharing, technical support is also needed. GovStack Tech Community consists of: &#x20;
 
