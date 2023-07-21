@@ -4,7 +4,7 @@ description: Version for TAC Review
 
 # Launch the service
 
-The service is ready to be launched in a production environment once the functional prototype is tested and QA steps are followed. Migration process is dependent on the sandbox used to develop, test and iterate the service. GovStack team will acompany the country digital team in cases where GovStack sandbox was used.&#x20;
+The service is ready to be launched in a production environment once the functional prototype is tested and QA steps are followed. Migration process is dependent on the sandbox used to develop, test and iterate the service. GovStack team will accompany the country digital team in cases where GovStack sandbox was used.&#x20;
 
 Please note, since GovStack is currently in the process of developing the sandbox, future versions of playbook will describe the migration process in detail.&#x20;
 
@@ -13,11 +13,11 @@ Please note, since GovStack is currently in the process of developing the sandbo
 A good launch of the service …
 
 * Releases the newly digitised service on country production environment.
-* &#x20;Facilitattes monitoring of performance of the service.
+* &#x20;Facilitates monitoring of performance of the service.
 * Builds:
   * awareness around the use of digital service and its functionalities&#x20;
-  * a robust suport structure to  asssist users and public servents adapt to the new service.&#x20;
-* Build awarenes around the new service and its capabilities to enable users and public servents best utilise it.
+  * a robust support structure to assist users and public servants adapt to the new service.&#x20;
+* Build awareness around the new service and its capabilities to enable users and public servents best utilise it.
 {% endtab %}
 
 {% tab title="Activities" %}
@@ -42,7 +42,8 @@ Who does what:
 * Launch of funtional service in production environment.
 * Assisted digital strategy and implementation plan&#x20;
 * Cutover plan
-* Awareness building strategyMonitor the  service
+* Awareness building strategy
+* Monitor the service
 {% endtab %}
 
 {% tab title="Next steps" %}

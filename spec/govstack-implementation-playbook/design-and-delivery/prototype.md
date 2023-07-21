@@ -20,7 +20,7 @@ The prototype is iteratively developed. Each successive iteration adds new funct
 
 If the launch version is decided to be deployed on the country's cloud and infrastructure/ production environment, it can be configured following GovStack enterprise architecture.
 
-<figure><img src="../../.gitbook/assets/53.-Functional-prototype.jpg" alt=""><figcaption><p>Options for countries to delpoy the functional prototype.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/53.-Functional-prototype.jpg" alt=""><figcaption><p>Options for countries to deploy the functional prototype.</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Activities  / Resources" %}
@@ -47,7 +47,7 @@ How to get there:
 Who does what
 
 * [Service designer](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#service-designer) – Lead the service co-design journey&#x20;
-* [Product Owner](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) – Lead software product development according  to the service blueprint &#x20;
+* [Product Owner](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) – Lead software product development according  to the service blueprint &#x20;
 * [Front-end developer](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#front-end-developer) – Develops front-end applications following UX/UI style guide &#x20;
 * [Solution architect](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#solution-architect) – Architects the service according to the BB integration plan &#x20;
 * [Back-end developer](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#back-end-developers) –  Adjust BB, connects legacy systems, and test the application&#x20;
