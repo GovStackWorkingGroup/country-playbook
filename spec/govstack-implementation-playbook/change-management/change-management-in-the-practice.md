@@ -106,11 +106,11 @@ In this sense, human behavior plays a significant role in both the impact of and
 
 ### **Change Management Tools**
 
-Operational and practical tools are well known and usually used by the practitioners of Change Management,  complementing those traditional of Project Management. In many cases They are based in several of the models and methodologies already mentioned.
+Operational and practical tools are well known and usually used by the practitioners of Change Management,  complementing those traditional of Project Management. In many cases they are based in several of the models and methodologies already mentioned.
 
 Some toolkits are better suited to [policymakers](https://oecd-opsi.org/search-toolkits/?\_sft\_discipline-or-practice=digital-transformation&\_sft\_user-type=policy-maker-or-adviser) or [managers](https://oecd-opsi.org/search-toolkits/?\_sft\_discipline-or-practice=digital-transformation&\_sft\_user-type=manager) overseeing a digital transformation initiative or portfolio while other toolkits are better suited to [practitioners](https://oecd-opsi.org/search-toolkits/?\_sft\_discipline-or-practice=digital-transformation&\_sft\_user-type=practitioner) doing the tactical digital transformation work.
 
-Some toolkits touch on skills and behaviours important for digital transformations. Skills and team formation is important, so browse toolkits that reference [team formation](https://oecd-opsi.org/search-toolkits/?\_sft\_good-for=build-a-team) or [collaboration](https://oecd-opsi.org/search-toolkits/?\_sft\_good-for=collaboration)
+Some toolkits touch on skills and behaviours important for digital transformations. Skills and team formation is important, so browse toolkits that reference [team formation](https://oecd-opsi.org/search-toolkits/?\_sft\_good-for=build-a-team) or [collaboration](https://oecd-opsi.org/search-toolkits/?\_sft\_good-for=collaboration).
 
 **Main tools used in Change Management:**
 

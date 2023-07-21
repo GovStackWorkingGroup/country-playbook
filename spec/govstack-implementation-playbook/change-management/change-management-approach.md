@@ -12,7 +12,7 @@ The Digital Journey implies a holistic effort to rethink and transform the core 
 {% tab title="Change Management" %}
 **Definition of Change Management**
 
-Change management can be defined as the methods and manners in which an organization describes and implements change within both its internal and external processes. It encompasses not only the technical aspects but also the human side of change
+Change management can be defined as the methods and manners in which an organization describes and implements change within both its internal and external processes. It encompasses not only the technical aspects but also the human side of change.
 
 In this sense, change management is not only a reactive tool for managing resistance against change; it is most effective as a tool for engaging and involving stakeholders, particularly employees, in the change process.
 

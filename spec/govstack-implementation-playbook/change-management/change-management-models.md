@@ -10,7 +10,7 @@ At a conceptual level there is little that is truly new about how governments ad
 
 Numerous studies have examined attempts to introduce digital era change in governments around the world. As of today, there are powerful tools that can be deployed as an attempt to overcome the range of barriers to change. However, the effective use of these tools necessitates competencies for the [digital team](../annex/sample-digital-team-composition.md), especially for those in managerial, innovation, and change management roles.
 
-There is no universal model for implementing significant digital change in governments.  Even though there are competing ideas about 'what matters most', we are still away from having clarity on the 'winners'. Nonetheless, some generalizable insights such as geographic, cultural, or sectorial interests, can always be applied in similar contexts,&#x20;
+There is no universal model for implementing significant digital change in governments.  Even though there are competing ideas about 'what matters most,' we are still away from having clarity on the 'winners.' Nonetheless, some generalizable insights such as geographic, cultural, or sectorial interests, can always be applied in similar contexts.
 
 Digital era government is not just about developing new practices and capabilities. It involves a larger question of whether new practices and technologies will lead to a rethinking of how government institutions are structured and managed. The theories of change towards a 'digital government as a platform' approach are relevant to the digital transformation that governments seek to implement, and this approach is an integral part of the digitization journey.
 
