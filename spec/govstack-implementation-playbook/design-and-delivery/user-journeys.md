@@ -6,7 +6,7 @@ description: Version for TAC Review
 
 Understanding who we are solving a problem for is important for creating user-centric digital services. An 'As-Is' user journey can help identify touchpoints, inefficiencies, pain points, opportunities for improvement and can inform the design of a 'To-Be' user journey that represents the desired state of the user experience after changes have been made.
 
-<figure><img src="../../.gitbook/assets/5. As-is initial-to-be user journey (1).jpg" alt=""><figcaption><p>As-is and To-be user journeys</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5. As-is initial-to-be user journey (1).jpg" alt=""><figcaption><p>As-Is and To-Be user journeys</p></figcaption></figure>
 
 {% hint style="info" %}
 Abu Dhabi Digital Authority aligned its digitization strategy around 80 user journeys available through TAMM, a one-stop shop for all digital government services.
@@ -16,7 +16,7 @@ Abu Dhabi Digital Authority aligned its digitization strategy around 80 user jou
 Abu Dhabi's digitisation based on user journeys, Finalist of GovStack WSIS Special Prize 2023
 {% endembed %}
 
-The 'To-Be' user journey is created in the context of a redesign or improvement of service. It's aim is to create a better user experience by identifying and implementing changes that will improve the user's journey and ultimately lead to greater satisfaction for its users. Redesign of the service can be based on the following simplification principles:
+The 'To-Be' user journey is created in the context of a redesign or improvement of service. Its aim is to create a better user experience by identifying and implementing changes that will improve the user's journey and ultimately lead to greater satisfaction for its users. Redesign of the service can be based on the following simplification principles:
 
 <details>
 
@@ -58,8 +58,8 @@ Find below a translated version of the aforementioned methodology.
 {% tab title="Responsibilities" %}
 Who does what:
 
-* [Service designers](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) / [Design lead](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/389/govstack-implementation-playbook/sample-digital-team-composition/govstack-user-profiles-taxonomy#design-lead) – Creates a research plan (What are the research objectives, what methods to use, and participants) and guides the creation of user journeys.
-* [User needs researchers](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) – Prepare & conduct user interviews, focus groups, facilitate user journey workshops &#x20;
+* [Service designers](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) / [Design lead](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/389/govstack-implementation-playbook/sample-digital-team-composition/govstack-user-profiles-taxonomy#design-lead) – Creates a research plan (What are the research objectives, what methods to use, and participants) and guides the creation of user journeys.
+* [User needs researchers](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) – Prepare & conduct user interviews, focus groups, facilitate user journey workshops &#x20;
 * Legal advisors – Clarify regulations that apply to the service &#x20;
 {% endtab %}
 
