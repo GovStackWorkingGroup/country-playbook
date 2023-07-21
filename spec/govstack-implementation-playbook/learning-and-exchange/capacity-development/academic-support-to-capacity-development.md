@@ -225,7 +225,7 @@ It includes 97 skills across 6 categories: Strategy and architecture, Change and
 
 SFIA introduces 7 different levels of responsibility, at which skills can be exercised. However, the seven levels are not applicable to all skills, as some are necessary at entry level and some at senior roles.[\[8\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn8) &#x20;
 
-An example of the SFIA application can be found in the Australian work on the creation of the [Digital Career Pathways Framework ](https://www.psc.nsw.gov.au/workforce-management/capability-framework/digital-career-pathways-tool)[\[9\]](https://www.psc.nsw.gov.au/workforce-management/capability-framework/digital-career-pathways-tool) a supporting tool to identify career routes and skill gap
+An example of the SFIA application can be found in the Australian work on the creation of the [Digital Career Pathways Framework ](https://www.psc.nsw.gov.au/workforce-management/capability-framework/digital-career-pathways-tool)[\[9\]](https://www.psc.nsw.gov.au/workforce-management/capability-framework/digital-career-pathways-tool) a supporting tool to identify career routes and skill gap.
 
 _**Links**_
 
@@ -241,9 +241,9 @@ _**Links**_
 
 _**Description**_
 
-The framework uses [e-CF](https://itprofessionalism.org/about-it-professionalism/competences/the-e-competence-framework/) to describe professional roles. The roles are described in a unified manner (name. mission, description of significant activities and tasks, list of competences, trends and factors in change for the job-role, example of a typical deliverable).  &#x20;
+The framework uses [e-CF](https://itprofessionalism.org/about-it-professionalism/competences/the-e-competence-framework/) to describe professional roles. The roles are described in a unified manner (name, mission, description of significant activities and tasks, list of competences, trends and factors in change for the job-role, example of a typical deliverable).  &#x20;
 
-The roles are divided into 7 families: Organization and management of changes to the information system", Project management, Application life cycle, Provision of infrastructure and maintenance in operational condition, Support and assistance, Security, Operational Management, Data, Supplier relationships.[\[10\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn10)&#x20;
+The roles are divided into 7 families: Organization and management of changes to the information system, Project management, Application life cycle, Provision of infrastructure and maintenance in operational condition, Support and assistance, Security, Operational Management, Data, Supplier relationships.[\[10\]](https://euc-word-edit.officeapps.live.com/we/wordeditorframe.aspx?ui=en-us\&rs=de-DE\&wopisrc=https%3A%2F%2Fgizonline.sharepoint.com%2Fsites%2FICTBuildingBlocks-CommondigitalSDGplatformwithguests%2F\_vti\_bin%2Fwopi.ashx%2Ffiles%2F0b1100c9afba47b9a6a3e2c0d2a8e53c\&wdenableroaming=1\&mscc=1\&hid=6eddff5e-65df-4735-9b5c-6d7d2aac69c9.0\&uih=teams\&uiembed=1\&wdlcid=en-us\&jsapi=1\&jsapiver=v2\&corrid=9d613454-5bf2-4f25-b61d-43f1054be3de\&usid=9d613454-5bf2-4f25-b61d-43f1054be3de\&newsession=1\&sftc=1\&uihit=UnifiedUiHostTeams\&muv=v1\&accloop=1\&sdr=6\&scnd=1\&sat=1\&rat=1\&sams=1\&mtf=1\&sfp=1\&halh=1\&hch=1\&hmh=1\&hsh=1\&hwfh=1\&hsth=1\&sih=1\&unh=1\&onw=1\&dchat=1\&sc=%7B%22pmo%22%3A%22https%3A%2F%2Fwww.office.com%22%2C%22pmshare%22%3Atrue%7D\&ctp=LeastProtected\&rct=Medium\&wdorigin=TEAMS-ELECTRON.teamsSdk.openFilePreview\&wdhostclicktime=1657537015924\&instantedit=1\&wopicomplete=1\&wdredirectionreason=Unified\_SingleFlush#\_ftn10)&#x20;
 
 _**Links**_
 
@@ -342,6 +342,12 @@ The **expected learning outcomes** should ensure the program meets the following
 a. Understanding technology that is used in the delivery of the digital state.&#x20;
 
 b. Learning to operate with technology and how to create human centric government e-services.&#x20;
+
+**Knowing** to design / plan / implement / evaluate a practical digital transformation project for an up-to-date range of public services, &#x20;
+
+a. Developing strategic management abilities, &#x20;
+
+b. Learning to analyze and propose  digital concepts for governance and public services.  &#x20;
 {% endtab %}
 
 {% tab title="Understanding" %}
@@ -350,14 +356,6 @@ b. Learning to operate with technology and how to create human centric governmen
 a. Understanding the state-of-the-art of digital transformation and the available market solutions with a level deep enough to start implementation, &#x20;
 
 b. Learning to manage innovative procurement and public-private partnership in public services design and delivery.&#x20;
-{% endtab %}
-
-{% tab title="Knowing" %}
-**Knowing** to design / plan / implement / evaluate a practical digital transformation project for an up-to-date range of public services, &#x20;
-
-a. Developing strategic management abilities , &#x20;
-
-b. Learning to analyze and propose  digital concepts for governance and public services.  &#x20;
 {% endtab %}
 
 {% tab title="Making judgements " %}
