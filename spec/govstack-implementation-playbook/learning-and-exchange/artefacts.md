@@ -399,68 +399,6 @@ Description of artefact:  A digital illustration or a voice command-based flow o
 
 Part of Module on GovStack LMS
 
-### Information service sheets
-
-Description of artefact: Describes prerequisits needed to access the service, channels of interaction with the user (In person, Chatbots, voice commands, web applications, virtual assistant and more), information about costs associated with availing the service and legal framework and foundation of the service. The following is an example of a service sheet for applying for a UK passport online.
-
-Link to exmaple [information service sheet](https://www.gov.uk/apply-renew-passport).
-
-
-
-### Downloadable forms
-
-Description of the artefact: Downloadable forms are an intermediate step within the journey to digitize a service. The following are the attributes of a downloadable form: it has a unique identification number, and follows the official design standards (seals, logos, font, color scheme and more).&#x20;
-
-Link to example [Visa application form Gob.mx](https://consulmex.sre.gob.mx/calgary/images/stories/pdf/visaapplication.pdf)
-
-
-
-### Web forms
-
-Description of artefact: Web forms allow capture and validation of data provided by the user and digital registires. It is a step above in the journey of digitising services. Web forms follow the official design standards (seals, logos, font, color scheme and more).&#x20;
-
-Link to example [Birth certificate gob.mx](https://www.gob.mx/ActaNacimiento/)
-
-
-
-### Electronic documents
-
-Description of the artefact: Electronic documents are printable represntation of an electronic transactions. For example, a birth certificate obtained online is the proof of an electronic consultation to the population registry.
-
-Link to example [Birth certificate gob.mx](https://www.itu.int/net4/wsis/archive/stocktaking/Project/Details?projectId=1514952997)
-
-###
-
-### Notifications
-
-Description of artefact: Notifications allow a service to contact its users, trough multiple channels (email, sms and more). Notifications can be templatized (following the offecial design standards), allow for personalisation of message, bulk sending of information, API integration, seek permissions.
-
-Example of artefacts [Notifications guidelines and tool from gov.uk](https://www.notifications.service.gov.uk/features)
-
-
-
-### Performance analytics
-
-Description of artefact: With the help of standardised set of monitored data, indicators, anlytical tools and reports, performance analytics can provide effective and eficient analysis on various aspects of a service. Performance analytics most commonly used in services are: digital take-up, user satisfaction, completion rate and cost per transaction.
-
-Example of artefacts [Performance analysis by gov.uk](https://www.gov.uk/service-manual/communities/performance-and-data-analysis-community#performance-analysis-in-the-service-manual)
-
-
-
-### Citizen satisfaction survey
-
-Defenition of artefact: Addition of a simple feedback page within a digitised service can allow analytics of user satisfaction with the service. This is a valuable input in driving the improvement of the service.
-
-Example of artefact [Generic feedback form by gov.uk](https://www.gov.uk/service-manual/service-assessments/get-feedback-page)
-
-
-
-### Accessibility
-
-Definition of artefact: Accessability features allow for a wide base of users, specialy the differently abled (visualy impared, limited motor ability, loss of hearing) users to have access to a service.&#x20;
-
-Example of artefact [W3C accessability guidelines](https://www.w3.org/WAI/standards-guidelines/)
-
 
 
 ### List of generic workflows&#x20;

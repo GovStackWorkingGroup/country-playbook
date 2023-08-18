@@ -8,6 +8,6 @@ description: Version for TAC Review
 
 <figure><img src="../../.gitbook/assets/22.-Digital-Service-Design-Standard-and-Delivery-Protocol (2).jpg" alt=""><figcaption><p>UX/UI Desing process </p></figcaption></figure>
 
-Deliverables for each step within the Design and Delivery section of the playbook are as mentioned in the following image:
+A digital service design standard and delivery protocol provides agencies with unified and consistent guidance on the design ([user journeys](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#user-journey-request-for-information-rfi-5), [user/business life events](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#user-business-life-events-request-for-information-rfi-3), [UX](../3-terminology.md#user-experience-ux)/[UI](../3-terminology.md#user-interface-ui), [web forms](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/), electronic documents), development  (micro-services architecture and reusable software components/[Building Blocks](../3-terminology.md#building-block) approach), and implementation (iterative, agile and citizen-centric) of digital services to enable and drive system-wide benefits.
 
 <figure><img src="../../.gitbook/assets/UXUI (1).png" alt=""><figcaption><p>Digital Service Design Standard and Delivery Protocol</p></figcaption></figure>

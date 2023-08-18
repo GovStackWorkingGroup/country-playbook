@@ -24,11 +24,9 @@ If the launch version is decided to be deployed on the country's cloud and infra
 
 {% tabs %}
 {% tab title="Activities  / Resources" %}
-How to get there:
-
 * Develop Product and Technical specifications for the service.
 * Develop the front end and back end of the service according to the Product and Technical specifications and approved wireframes and/or voice command flow. &#x20;
-* Develop a test script considering all the branches of "to-be" user journey. &#x20;
+* Develop a test script considering all the branches of "To-Be" user journey. &#x20;
 * Prepare and implement test scripts
 * Prepare the security and quality assurance checklist &#x20;
 * Prepare the digital service release plan &#x20;
@@ -36,11 +34,8 @@ How to get there:
 * Launch α, β versions to a limited set of citizens/business users, admins, and public officials.&#x20;
 * Collect their feedback on the functional prototype and identify concrete steps to improve it.
 * Iteratively developed and deliver the launch version that meets the requirements and needs of citizens/business users, admins, and public officials.
-* Prepare and implement a cutover plan.
-* Next steps:
-  * Prepare the migration plan for the launch version into the country's cloud and infrastructure/ production environment.&#x20;
-  * Prepare the launch of the service.
-  * Stabilize the service
+* Prepare the plan for migration of the prototype from the test environment to the country's quality assurance and/or production environment for the launch version into the country's cloud and infrastructure/ production environment.&#x20;
+* Prepare the launch of the service.
 {% endtab %}
 
 {% tab title="Responsibilities" %}

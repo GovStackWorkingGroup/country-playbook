@@ -18,6 +18,12 @@ A general term that describes the granting and restriction of the right or oppor
 
 
 
+#### Accessibility
+
+Accessibility features allow for a wide base of users, specialy the differently abled (visualy impared, limited motor ability, loss of hearing) users to have access to a service. Example of artefact [W3C accessibility guidelines](https://www.w3.org/WAI/standards-guidelines/)
+
+
+
 **Activity**
 
 That which is to be done during a specific session.
@@ -156,7 +162,7 @@ A process of building a product, measuring user metrics and learning from them t
 
 &#x20;
 
-**Building Block**
+#### **Building Block**
 
 An interoperable and open-source software component that, when combined with other building blocks, provides key functionalities to facilitate generic workflows common across multiple sectors.
 
@@ -196,7 +202,11 @@ A set of best-practice cybersecurity standards for a range of IT systems and pro
 
 A form of user data management where data is stored in one place, so that users can access all of their applications, websites or other systems with the same set of credentials.
 
-&#x20;
+#### &#x20;Citizen satisfaction survey
+
+The addition of a simple feedback page within a digitized service can allow analytics of user satisfaction with the service. This is a valuable input in driving the improvement of the service. Example [Generic feedback form by gov.uk](https://www.gov.uk/service-manual/service-assessments/get-feedback-page)
+
+
 
 **Civil Registry**
 
@@ -388,7 +398,9 @@ The requirement that all customer content processed and stored in an IT system m
 
 The idea that data is subject to the laws and governance structures of the nation where they are collected.
 
-&#x20;
+#### &#x20;Downloadable forms
+
+Downloadable forms are an intermediate step within the journey to digitize a service. The following are the attributes of a downloadable form: it has a unique identification number, and follows the official design standards (seals, logos, font, color scheme and more). Link to example [Visa application form Gob.mx](https://consulmex.sre.gob.mx/calgary/images/stories/pdf/visaapplication.pdf)
 
 **Delegate**
 
@@ -462,7 +474,20 @@ A no-code application meant to offer intuitive database/register creation and ma
 
 **Digital Service**
 
-The electronic delivery of information (including facts, data, opinions and content) across multiple platforms, devices, and delivery mechanisms like web or mobile.
+Digital service is a government service available through digital channels. Government digital services are usually classified into the following two categories:
+
+* information services: typically websites, or mobile applications, that provide information to the public. This information often includes reports, fact sheets, and videos
+* transactional services: any services that lead to a change in the records held by the government. They typically involve an exchange of information, money, licenses or goods. Examples of transactional services include:
+  * submitting a claim
+  * registering a business
+  * updating contact details
+  * registering a birth, among others
+
+Source: [digital.gov.nz, 2020](https://www.digital.govt.nz/standards-and-guidance/digital-service-design-standard/purpose-scope-and-development-of-the-standard/)
+
+#### Digital Service Design Standard
+
+Standard provides agencies with unified and consistent guidance on the design (user journeys, user/business life events, UX/UI, web forms, electronic documents), development  (micro-services architecture and reusable software components/Building Blocks approach), and implementation (iterative, agile and citizen-centric) of digital services to enable and drive system-wide benefits.
 
 &#x20;
 
@@ -475,6 +500,10 @@ An approach whereby the identity is owned and managed by the end person in a for
 **Documentation**
 
 An umbrella term that encompasses all written documents and materials dealing with a software product’s development and use.
+
+#### Downloadable forms
+
+Downloadable forms are an intermediate step within the journey to digitize a service. The following are the attributes of a downloadable form: it has a unique identification number, and follows the official design standards (seals, logos, font, color scheme and more). Link to example [Visa application form Gob.mx](https://consulmex.sre.gob.mx/calgary/images/stories/pdf/visaapplication.pdf).&#x20;
 {% endtab %}
 
 {% tab title="E" %}
@@ -499,6 +528,12 @@ A regional intergovernmental organisation of six (6) Partner States, comprising 
 **Economic and Monetary Community of Central Africa (CEMAC)**
 
 A regional intergovernmental organisation made up of six States: Gabon, Cameroon, the Central African Republic (CAR), Chad, the Republic of the Congo and Equatorial Guinea.
+
+
+
+#### Electronic documents
+
+Electronic documents are printable representations of electronic transactions. For example, a birth certificate obtained online is proof of an electronic consultation with the population registry. Link to example [Birth certificate gob.mx](https://www.itu.int/net4/wsis/archive/stocktaking/Project/Details?projectId=1514952997)
 
 &#x20;
 
@@ -746,6 +781,12 @@ A service who allows a service provider to verify an identity or some of its att
 
 A report examining undergraduate curricular guidelines in computer engineering, computer science, cybersecurity, information systems, information technology, software engineering, and data science.
 
+
+
+#### Information service sheets
+
+Describes prerequisits needed to access the service, channels of interaction with the user (In person, Chatbots, voice commands, web applications, virtual assistant and more), information about costs associated with availing the service and legal framework and foundation of the service. The following is an example of a service sheet for applying for a UK passport online.&#x20;
+
 &#x20;
 
 **Inclusive Gateway**
@@ -902,7 +943,11 @@ A networking protocol for clock synchronization between computer systems over pa
 
 The process of structuring a relational database in accordance with a series of so-called normal forms in order to reduce data redundancy and improve data integrity.
 
-&#x20;
+#### Notifications
+
+Notifications allow a service to contact its users, through multiple channels (email, sms and more). Notifications can be templatized (following the official design standards), allow for personalization of messages, bulk sending of information, API integration, seek permissions Example of artifacts [Notifications guidelines and tool from gov.uk](https://www.notifications.service.gov.uk/features)
+
+
 
 **Notifications Services**
 
@@ -1016,7 +1061,11 @@ A set of standards used by the payment card industry to secure payment card data
 
 The building block which enables digital financial payments to be tracked, evaluated, initiated, validated, processed, logged, compared and verified against budgets.
 
-&#x20;
+#### Performance Analytics
+
+With the help of a standardized set of monitored data, indicators, analytical tools, and reports, performance analytics can provide effective and efficient analysis on various aspects of a service. Performance analytics most commonly used in services are digital take-up, user satisfaction, completion rate and cost per transaction. Example [Performance analysis by gov.uk](https://www.gov.uk/service-manual/communities/performance-and-data-analysis-community#performance-analysis-in-the-service-manual)
+
+
 
 **Period**
 
@@ -1226,6 +1275,14 @@ SAML and SAML2 are XML markup protocols  designed for federation of identities a
 
 A service is a minimal piece of functionality provided by a building block or use case implementation.
 
+
+
+#### Service Catalog
+
+A service catalog is a list of services, which includes information like level of digitization, demand, cost to deliver, how they’re performing in terms of desired outcomes (for users, for policy, for the organization), whether they should exist in their current form, whether there are patterns that are duplicated, who owns and manages them, number of interactions to complete the service among other data that can facilitate optimization and prioritization of services according to the impact and feasibility of digitizing the services.
+
+Source: [Gov.uk](https://hodigital.blog.gov.uk/2018/06/07/creating-a-list-of-services/)
+
 &#x20;
 
 **Session Locations**
@@ -1410,13 +1467,13 @@ Product documentation that is mainly prepared for end-users of the product and s
 
 &#x20;
 
-**User Experience (UX)**
+#### **User Experience (UX)**
 
 How end users interact with and experience a service, which includes their perception of the actions associated with using that service.
 
 &#x20;
 
-**User Interface (UI)**
+#### **User Interface (UI)**
 
 Any tool or activity by which the end-user accesses, uses or otherwise interacts with a digital service.
 {% endtab %}
@@ -1438,7 +1495,11 @@ A voucher group is a characteristic of a voucher that restricts the function or 
 
 A project management approach that entails a clearly defined sequence of execution with project phases that do not advance until a phase receives final approval. Once a phase is completed, it can be difficult and costly to revisit a previous stage.
 
-&#x20;
+#### Web forms
+
+Web forms allow capturing and validation of data provided by the user and digital registries. They follow the official design standards (seals, logos, font, color scheme, and more). Link to example [Birth certificate gob.mx](https://www.gob.mx/ActaNacimiento/)
+
+
 
 **Webhook**
 
@@ -1446,7 +1507,7 @@ A webhook (also called a web callback or HTTP push API) is a way for an applicat
 
 &#x20;
 
-**Whole-of Government Approach**
+**Whole-of-Government Approach**
 
 The joint activities performed by diverse ministries, public administrations and public agencies in order to provide a common solution to particular problems or issues.
 
@@ -1481,3 +1542,4 @@ A workflow process contains one or many activities.
 An open-source software and secure data exchange layer that allows public and private sector databases to exchange data. All outgoing data on the software is digitally signed and encrypted, and incoming data is authenticated and logged.
 {% endtab %}
 {% endtabs %}
+

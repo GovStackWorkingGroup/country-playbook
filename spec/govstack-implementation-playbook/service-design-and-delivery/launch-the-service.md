@@ -9,57 +9,33 @@ The service is ready to be launched in a production environment once the functio
 Please note, since GovStack is currently in the process of developing the sandbox, future versions of playbook will describe the migration process in detail.&#x20;
 
 {% tabs %}
-{% tab title="Scope of work " %}
-A good launch of the service …
-
-* Releases the newly digitised service on country production environment.
-* &#x20;Facilitates monitoring of performance of the service.
-* Builds:
-  * awareness around the use of digital service and its functionalities&#x20;
-  * a robust support structure to assist users and public servants adapt to the new service.&#x20;
-* Build awareness around the new service and its capabilities to enable users and public servents best utilise it.
-{% endtab %}
-
-{% tab title="Activities" %}
-The following actions are recomended when launching a service.
-
-* Plan and identify material to be added in the assisted digital strategy and implementation plan for training users and public servants in the use of service.&#x20;
-* Train public servents on the use of service and on regulations that frame the newly launched service.
-* Prepare cutover plan that includes minute-by-minute launch, stabalisation and monitoring plan.
-* Prepare strategy and carry out awareness building activities on the use of digital service and its functionalities.
-* Setup a support infrastructure to asssist users and public servents adapt to the new service. This may involve seting up user suport hotlines, forums, newsleters, FAQ pages and more.
-{% endtab %}
-
-{% tab title="Digital Team composition" %}
-Who does what:
-
-* [Service designers](../annex/govstack-user-profiles-taxonomy.md#service-designer)/ Design lead – Lead the activites within the 'Activities' Tab.
-* [Communications manager](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#communication-manager) - develops communications strategy for the lauch of the service
-* [IT operation](../annex/govstack-user-profiles-taxonomy.md#back-end-developers) - Maintain the service
-{% endtab %}
-
-{% tab title="Deliverables" %}
-* Launch of funtional service in production environment.
-* Assisted digital strategy and implementation plan&#x20;
-* Cutover plan
-* Awareness building strategy
-* Monitor the service
-{% endtab %}
-
-{% tab title="Next steps" %}
-* Monitor the service&#x20;
-* Iterate and improve the service based on user feedback and service performance. For example: Increase infrastructure if service has a higher demand than expected, adjust infographics and informmation sheets to better clarify user questions and guide them in using the service to its best potential.
-* Prepare co-desing and scalling strategy.
-{% endtab %}
-
-{% tab title="Resources" %}
-* Awareness building activities for:
+{% tab title="Activities / Resources" %}
+* Release the newly digitized service on the country's production environment.
+* Plan and identify material to be added to the assisted digital strategy and implementation plan for training users and public servants in the use of service. Consider the example of [UK Government approach to assisted digital service](https://www.gov.uk/government/publications/government-approach-to-assisted-digital/government-approach-to-assisted-digital)
+* Prepare strategy and carry out awareness-building activities on the use of the digital service and its functionalities to enable users and public servants best utilize it. Following are examples of awareness-building activities:&#x20;
   * [Birth certificate in Mexico](https://www.gob.mx/actas)
   * [Digital driver licensing in UK](https://www.gov.uk/government/news/dvla-launches-new-campaign-to-help-move-customers-online)
   * [Arogya Setu App in India](https://www.mygov.in/aarogya-setu-app/)
-* Assisted digital strategy and implementation plan&#x20;
-  * [UK Government approach to assisted digital service](https://www.gov.uk/government/publications/government-approach-to-assisted-digital/government-approach-to-assisted-digital)
+* Train public servants on the use of service and on regulations that frame the newly launched service.
+* Prepare a cutover plan that includes a minute-by-minute launch, stabilization, and monitoring plan. Consider the example of [Uk Cutover, Go Live, Adoption, Early Live Support, Floorwalking, and at the elbow support](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/925766262378996)
+* Prepare service performance dashboard. Consider the example of [Gov.uk measuring success](https://www.gov.uk/service-manual/measuring-success).
+* Set up a robust support infrastructure to assist users and public servants adapt to the new service. For example, setting up user support hotlines, forums, newsletters, FAQ pages, and more.&#x20;
+* Iterate and improve the service based on user feedback and [service performance](https://www.gov.uk/service-manual/measuring-success). For example: Increase infrastructure if the service has a higher demand than expected, adjust infographics and information sheets to better clarify user questions, and guide them in using the service to its best potential.
+{% endtab %}
+
+{% tab title="Responsabilites" %}
+Who does what:
+
+* [Service Owner ](../annex/govstack-user-profiles-taxonomy.md#service-owner)- Lead the successful operation and continuous improvement of the service
+* [Service designers](../annex/govstack-user-profiles-taxonomy.md#service-designer)/ Design lead – Incorporate user feedback where applicable
+* [Communications manager](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#communication-manager) - develops communications strategy for the launch of the service
+* [IT operation](../annex/govstack-user-profiles-taxonomy.md#back-end-developers) - Manage the launch and maintain the service
+{% endtab %}
+
+{% tab title="Deliverables" %}
 * Cutover plan
-  * [Uk Cutover, Go Live, Adoption, Early Live Support, Floorwalking and at the elbow support](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/925766262378996)
+* Launch of functional service in the production environment
+* Awareness campaign
+* Service Dashboard
 {% endtab %}
 {% endtabs %}
