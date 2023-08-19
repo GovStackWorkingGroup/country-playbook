@@ -40,7 +40,7 @@ Englobant des sources de données cohérentes dans 198 pays, le GTMI complète l
 {% endtab %}
 
 {% tab title="Digital Maturity Assessment in Health Sector by NHS England" %}
-[L'auto-évaluation de la maturité numérique](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) adopte une approche sectorielle pour mesurer dans quelle mesure les prestataires secondaires en Angleterre utilisent les technologies numériques pour parvenir à un système de santé sans papier. L'auto-évaluation de la maturité numérique aide les organisations individuelles à identifier les principales forces et les lacunes en matière de prestation de services. Ensemble, ces auto-évaluations individuelles donnent un aperçu des progrès de la maturité numérique à travers le pays.
+[L'auto-évaluation de la maturité numérique](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) adopte une approche sectorielle pour mesurer dans quelle mesure les prestataires secondaires en Angleterre utilisent les technologies numériques pour parvenir à un système de santé sans papier. L'auto-évaluation de la maturité numérique aide les organisations individuelles à identifier les principales forces et les lacunes en matière de prestation de services. Ensemble, ces auto-évaluations individuelles donnent un aperçu des progrès de la maturité numérique à travers le pays.
 {% endtab %}
 
 {% tab title="Digital Transformation Maturity Model by OECD Tax Administration Maturity Model Series" %}

@@ -26,7 +26,7 @@ Voici les structures filaires développées pour le service de responsabilité �
 
 Un bon flux de wireframes et/ou de commandes vocales nécessite :
 
-* S'appuyer sur des structures filaires [Lo-Fi ](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)préliminaires et/ou un flux de commandes vocales qui montrent la structure, le placement et la hiérarchie de votre service.
+* S'appuyer sur des structures filaires [Lo-Fi ](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)préliminaires et/ou un flux de commandes vocales qui montrent la structure, le placement et la hiérarchie de votre service.
 * Évitez les choix de polices, de couleurs ou d'autres éléments qui pourraient distraire à la fois le chercheur et l'examinateur. Les conceptions légères sont conceptuellement plus faciles à reconfigurer. Profitez de cette occasion pour commencer à répertorier les modèles UX/UI dont vous aurez besoin.
 * Examiner les structures [filaires et/ou les flux de commandes ](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#wireframes-and-or-voice-command-flow)vocales en fonction du parcours utilisateur spécifique "To-be" pour s'assurer que les utilisateurs accomplissent leurs tâches et que leurs besoins sont satisfaits.
 * Utiliser les [wireframes et/ou le flux de commandes vocales ](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#wireframes-and-or-voice-command-flow)pour obtenir les commentaires de l'équipe sur la faisabilité et la structure.

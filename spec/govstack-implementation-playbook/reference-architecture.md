@@ -35,7 +35,7 @@ Reference architecture is the blueprint used to put the pieces of the organizati
 Australian Whole of Government Architecture &#x20;
 {% endembed %}
 
-* [GovStack Architecture and non-functional requirements](http://localhost:5000/s/Mv07ks4AhtBDCIkO2zgW/building-blocks/architecture-and-nonfunctional-requirements)
+* [GovStack Architecture and non-functional requirements](broken-reference)
 * [GovStack Ecosystem Reference Architecture and Business Guide for Public Digital Platforms](https://docs.google.com/document/d/1Qa31kAy\_Kz9MsphXunS0UqRJpoQ2i8HV/edit?usp=sharing\&ouid=107531587157017296326\&rtpof=true\&sd=true),  [The Open Group Standard](https://www.opengroup.org/)
 {% endtab %}
 
@@ -44,7 +44,7 @@ Who does what:
 
 * Chief government architects - Coordinate the work around the GERA document&#x20;
 * [Solutions architects](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/389/govstack-implementation-playbook/sample-digital-team-composition/govstack-user-profiles-taxonomy#solution-architect) from government entities - Actively participate in the co-design of the document, the GERA working group, and the training program&#x20;
-* [Service designers](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) - Actively participate in co-design sessions, the GERA working groups and the training program&#x20;
+* [Service designers](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) - Actively participate in co-design sessions, the GERA working groups and the training program&#x20;
 {% endtab %}
 
 {% tab title="Deliverables" %}

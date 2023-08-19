@@ -58,7 +58,7 @@ Pour en savoir plus sur comment devenir un pays champion, veuillez suivre le [li
 
 Participer à la co-conception et à la révision des spécifications techniques des Building Blocks dans les groupes de travail GovStack.
 
-Trouvez les spécifications des blocs de construction GovStack liés [ici](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/).
+Trouvez les spécifications des blocs de construction GovStack liés [ici](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/).
 
 <img src="../../.gitbook/assets/Screenshot 2022-09-19 221657.png" alt="" data-size="original">
 

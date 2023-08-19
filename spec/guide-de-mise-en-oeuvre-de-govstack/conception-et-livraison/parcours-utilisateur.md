@@ -58,7 +58,7 @@ La « méthodologie de réingénierie de la fonction publique » de Moldavie, la
 {% endtab %}
 
 {% tab title="Livrables" %}
-* Identifiez les propriétaires de services, les utilisateurs et les parties prenantes à l'aide du [glossaire des rôles](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy) ainsi que du [modèle User Persona](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/).
+* Identifiez les propriétaires de services, les utilisateurs et les parties prenantes à l'aide du [glossaire des rôles](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy) ainsi que du [modèle User Persona](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/).
 * Demandez au propriétaire du service s'il y a eu des efforts antérieurs pour numériser le service et recherchez tous les rapports, résultats ou données brutes qui en résultent.
 * Mener des recherches sur les utilisateurs à[ l'aide d'entretiens](https://methods.18f.gov/stakeholder-and-user-interviews), [d'enquêtes contextuelles](https://methods.18f.gov/contextual-inquiry), d'évaluations heuristiques, avec consentement. (Source : 18F et TTS)
 * Utilisez le modèle de parcours utilisateur GovStack pour cartographier les parcours utilisateur « en l'état » et « à venir ». Exemple de parcours utilisateurs 'Initial To-Be' et 'To-Be' pour la responsabilité élargie du producteur (REP) au Rwanda.

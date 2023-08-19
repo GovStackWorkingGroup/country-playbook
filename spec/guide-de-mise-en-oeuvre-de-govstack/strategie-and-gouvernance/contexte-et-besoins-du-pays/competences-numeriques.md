@@ -10,9 +10,9 @@ Il est crucial et fortement recommandé de créer un état d'esprit numérique c
 
 En plus de doter tous les citoyens et agents publics de compétences de base, les entités gouvernementales ont besoin [d'experts en TIC](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/340/guide-de-mise-en-oeuvre-de-govstack/annexe/taxonomie-des-profils-utilisateur-govstack) dotés de compétences avancées en informatique et en gestion de projet pour maintenir l'architecture des TIC, fournir une assistance aux utilisateurs, gérer les achats de TIC et mettre en œuvre la stratégie numérique du gouvernement.
 
-Ces agents publics/fonctionnaires, chefs de projet de transformation numérique et spécialistes des TIC, entre autres professionnels, devraient être impliqués dans des [mesures régulières de renforcement ](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)des capacités internes pour suivre le rythme des nouvelles technologies et être en mesure de favoriser en permanence une société numérique.
+Ces agents publics/fonctionnaires, chefs de projet de transformation numérique et spécialistes des TIC, entre autres professionnels, devraient être impliqués dans des [mesures régulières de renforcement ](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)des capacités internes pour suivre le rythme des nouvelles technologies et être en mesure de favoriser en permanence une société numérique.
 
-Au fur et à mesure qu'une organisation progresse à travers chaque étape de mise en œuvre, il est conseillé d'établir[ une archive numérique des talents](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) qui soutient la main-d'œuvre à long terme ([e-Governance Academy 2022](https://ega.ee/publication/study-kenya-digital-readiness/)).
+Au fur et à mesure qu'une organisation progresse à travers chaque étape de mise en œuvre, il est conseillé d'établir[ une archive numérique des talents](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) qui soutient la main-d'œuvre à long terme ([e-Governance Academy 2022](https://ega.ee/publication/study-kenya-digital-readiness/)).
 
 Les questions suivantes peuvent étayer l'analyse de l'état actuel des compétences numériques du pays :
 

@@ -78,9 +78,9 @@ Equipe d'évaluation&#x20;
 {% endtab %}
 
 {% tab title="Resources" %}
-*   Modules LMS : [1](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/340/guide-de-mise-en-oeuvre-de-govstack/apprentissage-et-echange/systeme-de-gestion-de-lapprentissage-govstack#awareness-building-and-expression-of-interest), [2](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/340/guide-de-mise-en-oeuvre-de-govstack/apprentissage-et-echange/systeme-de-gestion-de-lapprentissage-govstack#agreement-of-cooperation), [3](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
+*   Modules LMS : [1](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/340/guide-de-mise-en-oeuvre-de-govstack/apprentissage-et-echange/systeme-de-gestion-de-lapprentissage-govstack#awareness-building-and-expression-of-interest), [2](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/340/guide-de-mise-en-oeuvre-de-govstack/apprentissage-et-echange/systeme-de-gestion-de-lapprentissage-govstack#agreement-of-cooperation), [3](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
 
-    Utilisez le modèle de parcours utilisateur ["To-Be" de GovStack et adaptez-le à vos besoins](http://localhost:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
+    Utilisez le modèle de parcours utilisateur ["To-Be" de GovStack et adaptez-le à vos besoins](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/)
 
     Explorez les parcours des utilisateurs[ "To-Be" du cas d'utilisation de l'EPR au Rwanda](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#user-journey-request-for-information-rfi-5)
 {% endtab %}

@@ -4,9 +4,7 @@ description: Version for TAC Review
 
 # Launch the service
 
-The service is ready to be launched in a production environment once the functional prototype is tested and QA steps are followed. Migration process is dependent on the sandbox used to develop, test and iterate the service. GovStack team will accompany the country digital team in cases where GovStack sandbox was used.&#x20;
-
-Please note, since GovStack is currently in the process of developing the sandbox, future versions of playbook will describe the migration process in detail.&#x20;
+The service is ready to be launched in a production environment once the functional prototype is tested and QA steps are followed. Migration process is dependent on the sandbox used to develop, test and iterate the service.&#x20;
 
 {% tabs %}
 {% tab title="Activities / Resources" %}

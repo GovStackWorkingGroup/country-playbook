@@ -56,7 +56,7 @@ GovStack implementation playbook is in continuous iteration according to country
 
 Resources also come from the hearts and minds of GovStack digital team and reference implementation digital teams in GovStack implementation countries, a continuous co-designed effort with the different pool experts and country digital teams.&#x20;
 
-Our aim is to constantly iterate GovStack playbook tools & methods, join us in this endeavor and contribute to the playbook, please refer the instructions provided in the page linked [here](http://localhost:5000/s/Mv07ks4AhtBDCIkO2zgW/contributing).&#x20;
+Our aim is to constantly iterate GovStack playbook tools & methods, join us in this endeavor and contribute to the playbook, please refer the instructions provided in the page linked [here](broken-reference).&#x20;
 
 
 
