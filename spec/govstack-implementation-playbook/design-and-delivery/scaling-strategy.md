@@ -63,11 +63,6 @@ Scaling Strategy requires the following top management:
 * Digital teams of each government entity
 {% endtab %}
 
-{% tab title="Resources" %}
-* LMS Modules:&#x20;
-* [Context on existing Digital Service Design Standards and Delivery Protocol (Request for Information, RFI-1)](../learning-and-exchange/artefacts.md#context-on-existing-digital-service-design-standards-and-delivery-protocol-request-for-information-r)
-{% endtab %}
-
 {% tab title="Deliverables" %}
 * Digital service teams
 * Comprehensive Service Catalog
