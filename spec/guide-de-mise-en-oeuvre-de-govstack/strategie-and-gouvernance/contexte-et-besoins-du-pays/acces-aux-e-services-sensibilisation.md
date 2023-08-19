@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Accès aux e-services, sensibilisation
 
 Pour exploiter les avantages d'une société numérique, les citoyens et les entreprises devraient pouvoir accéder aux services publics en ligne. Celles-ci ne doivent pas simplement être disponibles, mais également inclusives, conviviales et faciles d'accès sur différents appareils et plates-formes.

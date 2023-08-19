@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Cadre juridique
 
 La transformation numérique nécessite des cadres stratégiques et juridiques qui suivent le rythme de la nature évolutive de la numérisation. Ces cadres définissent les priorités actuelles et futures et aident les parties prenantes à suivre la vision commune et à aligner leurs efforts sur des objectifs communs.

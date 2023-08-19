@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # GovStack Overview
 
 ## What is it?&#x20;

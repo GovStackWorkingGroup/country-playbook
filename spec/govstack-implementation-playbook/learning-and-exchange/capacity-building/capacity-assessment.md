@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Capacity assessment
 
 ### Assessing the Level of Knowledge

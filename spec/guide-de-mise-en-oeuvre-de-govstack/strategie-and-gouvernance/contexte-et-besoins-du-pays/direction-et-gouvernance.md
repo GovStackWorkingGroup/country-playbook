@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Direction et gouvernance
 
 La tendance vers une société numérique a amené de nombreux gouvernements à adapter leurs rôles, leurs organisations et leurs processus afin de répondre aux attentes des citoyens et des entreprises en matière de services gouvernementaux numériques. La transformation du gouvernement numérique nécessite donc souvent des changements, notamment en matière juridique, institutionnelle, technologique et culturelle. Un engagement politique de haut niveau est essentiel pour aider les gouvernements à entreprendre les réformes nécessaires en temps opportun et de manière efficace.

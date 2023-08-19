@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Launch the service
 
 The service is ready to be launched in a production environment once the functional prototype is tested and QA steps are followed. Migration process is dependent on the sandbox used to develop, test and iterate the service.&#x20;

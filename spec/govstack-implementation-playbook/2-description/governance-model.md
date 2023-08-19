@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Governance model
 
 The GovStack initiative is a multi-stakeholder initiative led by the Federal Ministry for Economic Cooperation and Development, Gesellschaft für Internationale Zusammenarbeit (GIZ), Estonia, the International Telecommunication Union (ITU) and the Digital Impact Alliance.&#x20;

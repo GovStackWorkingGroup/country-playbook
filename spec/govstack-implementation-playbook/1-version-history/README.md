@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Version History
 
 {% hint style="success" %}

@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Stratégie & Gouvernance
 
 ![](../../.gitbook/assets/Playbook\_01.png)

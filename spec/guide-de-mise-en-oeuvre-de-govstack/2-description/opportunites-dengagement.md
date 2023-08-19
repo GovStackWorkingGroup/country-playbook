@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Opportunités d'engagement
 
 Les opportunités d'engagement de GovStack permettent aux pays de sélectionner le niveau d'implication qui correspond le mieux à leurs besoins. Voici quelques flux à travers lesquels les pays peuvent s'engager avec GovStack.

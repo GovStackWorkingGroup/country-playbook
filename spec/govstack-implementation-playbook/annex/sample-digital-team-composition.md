@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Sample Digital Team Composition
 
 Digital teams are organizational teams that focus on the redesign of government services and processes with the aim of providing digital government services faster and in a more user-centric manner.

@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Reference Architecture
 
 Reference architecture is the blueprint used to put the pieces of the organizational puzzle together. Digital teams use reference architecture to promote the reuse of common assets and identify capability gaps. It does this by:&#x20;

@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Compétences numériques
 
 Les compétences numériques sont un élément clé du parcours de transformation numérique. L'identification des talents numériques existants et des lacunes en matière de talents est une étape préliminaire importante, car l'ensemble du processus de numérisation dépend en grande partie de ces compétences.lls are a key enabler of the digital transformation journey. Identifying existing digital talent and talent gaps is an important preliminary step as the entire digitalization process largely depends on such skills.

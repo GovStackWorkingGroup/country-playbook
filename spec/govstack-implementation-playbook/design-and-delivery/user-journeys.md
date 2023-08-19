@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # User Journeys
 
 Understanding who we are solving a problem for is important for creating user-centric digital services. An 'As-Is' user journey can help identify touchpoints, inefficiencies, pain points, opportunities for improvement and can inform the design of a 'To-Be' user journey that represents the desired state of the user experience after changes have been made.

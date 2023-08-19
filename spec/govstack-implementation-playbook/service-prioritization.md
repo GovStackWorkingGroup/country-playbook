@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Service prioritization
 
 ## Service prioritization & ranking

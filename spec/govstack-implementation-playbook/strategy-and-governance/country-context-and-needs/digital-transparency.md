@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Digital Transparency
 
 Digital transparency is often taken for granted in the shift toward digitalized governance. While digitalized approaches usually ease up data’s transferring, storing, analyzing, and archiving – as it is now clear when and how it was processed – it does not necessarily mean that a transparent cycle with clear oversight over citizens’ data, accountability and access levels are in place. Digital readiness is intertwined with readiness to disclose information about how the government operates, shares, restricts and removes citizens’ data on their systems. Such an approach requires governments to act in the public interest and think of a way to promote a fully transparent data cycle. While it might be hard to directly observe and measure digital transparency, we recommend assessing digital transparency levels with the questionnaire below:

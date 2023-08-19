@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Change Management in the Practice
 
 There are some basic questions about Change management which emerge in practice from the referred models in the previous section:

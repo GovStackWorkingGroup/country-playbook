@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # GovStack user profiles taxonomy
 
 This section describes the various stakeholders that support capacity building during the digital transformation process. Each identified role's qualifications are described in equal detail.

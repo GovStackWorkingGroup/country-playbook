@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Guide de mise en œuvre de GovStack
 
 

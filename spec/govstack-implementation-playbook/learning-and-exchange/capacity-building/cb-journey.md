@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # CB Journey
 
 ### Capacity Building Journey&#x20;

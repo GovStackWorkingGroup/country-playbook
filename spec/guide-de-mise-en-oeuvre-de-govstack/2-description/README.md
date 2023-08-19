@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Présentation de GovStack
 
 ### Qu'est-ce que c'est?

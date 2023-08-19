@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # One-stop-shop
 
 ## Citizen/business one-stop-shop

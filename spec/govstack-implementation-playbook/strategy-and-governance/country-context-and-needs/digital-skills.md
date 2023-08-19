@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Digital skills
 
 Digital skills are a key enabler of the digital transformation journey. Identifying existing digital talent and talent gaps is an important preliminary step as the entire digitalization process largely depends on such skills.

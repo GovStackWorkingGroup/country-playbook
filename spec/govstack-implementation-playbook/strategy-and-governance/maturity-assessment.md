@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Maturity assessment
 
 The UNDP defines Digital maturity assessment (DMA) as a strategic tool for assessing the digital readiness of systems, services and digital capacities to develop an innovative, open, agile and accessible digital government. Its main goal is to assist governments in analyzing key gaps in both internal operations and service delivery.

@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Engagement opportunities
 
 GovStack engagement opportunities allow countries to select that level of involvement that best suits their needs. The following are a few streams through which countries can engage with GovStack.

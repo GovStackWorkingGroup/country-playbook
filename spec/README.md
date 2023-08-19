@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # GovStack Implementation Playbook
 
 <figure><img src=".gitbook/assets/18. Govstack Playbook a tool for all (2).jpg" alt=""><figcaption></figcaption></figure>

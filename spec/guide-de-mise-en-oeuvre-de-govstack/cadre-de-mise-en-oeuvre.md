@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Cadre de mise en œuvre
 
 Le cadre de mise en œuvre de GovStack envisage d'incorporer une approche BB au niveau de la gouvernance institutionnelle numérique, de la politique des TIC et de la co-conception et de la fourniture de services numériques gouvernementaux centrés sur le citoyen. Ce cadre de mise en œuvre est une extension du [SDG Digital Investment Framework](https://www.itu.int/pub/D-STR-DIGITAL.02-2019).

@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Wireframes
 
 ## Make wireframes and/or voice command flow

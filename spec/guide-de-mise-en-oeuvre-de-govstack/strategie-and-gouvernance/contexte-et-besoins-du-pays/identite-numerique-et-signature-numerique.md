@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Identité numérique et signature numérique
 
 L'identité numérique et les signatures numériques sont les éléments essentiels du développement de la fonction publique. Les services gouvernementaux dépendent fortement de la capacité des utilisateurs à s'identifier simplement et en toute sécurité. Par conséquent, les gouvernements qui visent à être numériques et centrés sur l'utilisateur offrent aux citoyens un ou plusieurs moyens de s'authentifier tout en accédant aux services gouvernementaux. Ces méthodes d'authentification peuvent inclure l'identification numérique, l'identification mobile et la signature numérique, par exemple.

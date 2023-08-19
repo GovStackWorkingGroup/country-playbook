@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Release notes
 
 ## Version for TAC review - November 2022

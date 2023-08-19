@@ -1,8 +1,4 @@
----
-description: Version for TAC Review
----
-
-# Rwanda
+# Extended Producer Responsibility, Rwanda
 
 ## The problem
 

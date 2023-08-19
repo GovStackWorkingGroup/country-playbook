@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Modèle de gouvernance
 
 L'initiative GovStack est une initiative multipartite dirigée par le ministère fédéral de la Coopération économique et du Développement, la Gesellschaft für Internationale Zusammenarbeit (GIZ), l'Estonie, l'Union internationale des télécommunications (UIT) et la Digital Impact Alliance.

@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # E-participation
 
 ## E-participation, e-democracy

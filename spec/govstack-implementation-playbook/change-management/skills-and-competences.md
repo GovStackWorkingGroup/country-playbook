@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Skills and Competences
 
 As detailed in the [GovStack Competence Building Module](../learning-and-exchange/capacity-development/academic-support-to-capacity-development.md), the successful implementation of the GovStack Approach requires countries to consider a long-term strategy that incorporates the necessary academic support that is needed to achieve their digitalization goals.&#x20;

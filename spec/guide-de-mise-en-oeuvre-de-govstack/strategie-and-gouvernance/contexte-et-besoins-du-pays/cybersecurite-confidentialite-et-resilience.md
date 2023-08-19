@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Cybersécurité, confidentialité et résilience
 
 La fiabilité de l'infrastructure des TIC est essentielle à la construction d'un gouvernement numérique. La cybersécurité, la confidentialité et la résilience vont de pair pour assurer une prestation de services fiable qui favorise la confiance envers leur utilisation.

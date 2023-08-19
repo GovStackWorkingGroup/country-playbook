@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Interoperability
 
 In the context of digital government, interoperability is the ability of ICT systems and business processes in government agencies to share information and knowledge within and across organizational boundaries, in order to better support the provision of public services as well as strengthen support for the implementation of public policies and processes.&#x20;

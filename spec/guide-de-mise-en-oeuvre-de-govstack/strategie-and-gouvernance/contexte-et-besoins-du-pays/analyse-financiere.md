@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Analyse financière
 
 Pour donner une vue complète de l'analyse financière nécessaire à la mise en œuvre de GovStack, ce chapitre examinera d'abord **l'approche budgétaire** couvrant les sources de financement gouvernemental pour la transformation numérique nationale, puis couvrira le rapport **coût-efficacité du gouvernement numérique**.&#x20;

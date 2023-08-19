@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Principes de conception de Govstack
 
 Les principes de conception de GovStack guident notre travail de conception et de livraison. Ils sont basés sur les [Principes de développement numérique ](https://digitalprinciples.org/)et offrent des meilleures pratiques spécifiques pour améliorer notre travail numérique. Au fur et à mesure que vous vous engagez dans la mise en œuvre d'une approche GovStack pour la numérisation des services gouvernementaux centrée sur le citoyen, vous verrez ces principes intégrés dans nos processus, outils et méthodes d'itération. Nous vous invitons à les adopter et à en faire votre façon de travailler au sein de votre organisation et de votre équipe numérique.

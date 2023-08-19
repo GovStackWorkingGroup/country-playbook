@@ -1,8 +1,4 @@
----
-description: Version for TAC Review
----
-
-# Govstack design principles
+# GovStack design principles
 
 GovStack design principles guide our design and delivery work. They are based on the [Principles for Digital Development](https://digitalprinciples.org/) and offer specific best practices to make our digital work better. As you engage in implementing a GovStack approach to citizen-centric digitization of government services you will see these principles embedded in our iteration processes, tools and methods. We invite you to embrace them and make this your way of work at your organization and digital team.  &#x20;
 

@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Building block approach
 
 There is an existing logical approach practiced by leading e-gov to create a common shared platform to deliver various government services digitally.

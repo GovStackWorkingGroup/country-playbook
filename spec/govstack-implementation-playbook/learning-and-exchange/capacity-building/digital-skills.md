@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Digital skills
 
 ### Why digital skills are needed? &#x20;

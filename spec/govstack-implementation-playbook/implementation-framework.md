@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Implementation framework
 
 The GovStack implementation framework considers incorporating a BB approach at the level of digital institutional governance, ICT policy & citizen-centric co-design & delivery of government digital services. This Implementation framework is an extension of the [SDG Digital Investment Framework](https://www.itu.int/pub/D-STR-DIGITAL.02-2019).&#x20;

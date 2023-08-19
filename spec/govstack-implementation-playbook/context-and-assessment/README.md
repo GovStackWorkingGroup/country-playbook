@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Context & assessment
 
 ![](../../.gitbook/assets/Playbook\_01.png)

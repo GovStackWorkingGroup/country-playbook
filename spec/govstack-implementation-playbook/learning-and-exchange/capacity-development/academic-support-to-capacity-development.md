@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Academic support
 
 ### How Academia can help to build capacity?

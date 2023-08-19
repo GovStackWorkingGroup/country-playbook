@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Scaling strategy
 
 ## &#x20;Co-design the scaling strategy

@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # BB specifications
 
 **Building blocks** (BBs) are software modules that can be deployed and combined in a standardized manner. Each building block is capable of working independently, but they can be combined to do much more.

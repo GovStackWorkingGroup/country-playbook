@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Digital landscape
 
 ## Country digital landscape and maturity

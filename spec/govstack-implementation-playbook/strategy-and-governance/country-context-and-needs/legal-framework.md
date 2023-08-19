@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Legal framework
 
 Digital transformation requires strategic and legal frameworks that keep pace with the evolving nature of digitisation. These frameworks define the current and future priorities and help stakeholders follow the joint vision and align their efforts towards common goals.

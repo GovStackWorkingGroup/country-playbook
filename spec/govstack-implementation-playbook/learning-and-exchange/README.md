@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Learning and Exchange
 
 This section builds on insights for capacity development and knowledge-sharing, which are essential for the success of digital transformation. Digital government is rooted in a vision that strongly believes in continuous learning for the ultimate beneficiaries of its initiatives: governments and their citizens.

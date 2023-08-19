@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Change Management Models
 
 ## Change models and digital change

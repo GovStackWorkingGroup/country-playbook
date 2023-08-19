@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Adopt GovStack approach
 
 ## GovStack approach in the country's digital strategy and roadmap

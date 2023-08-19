@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Interopérabilité
 
 Dans le contexte du gouvernement numérique, l'interopérabilité est la capacité des systèmes TIC et des processus opérationnels des agences gouvernementales à partager des informations et des connaissances au sein et au-delà des frontières organisationnelles, afin de mieux soutenir la fourniture de services publics et de renforcer le soutien à la mise en œuvre de politiques et processus publics.

@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Approche modulaire
 
 Il existe une approche logique existante pratiquée par la direction de l'e-gouvernement pour créer une plate-forme commune partagée pour fournir numériquement divers services gouvernementaux.&#x20;

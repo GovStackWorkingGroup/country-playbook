@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Prototype
 
 ## Develop, test, and iterate a functional prototype.

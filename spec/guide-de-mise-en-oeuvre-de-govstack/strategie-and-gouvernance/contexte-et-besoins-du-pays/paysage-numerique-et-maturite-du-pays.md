@@ -1,7 +1,3 @@
----
-description: Version pour l'examen du TAC
----
-
 # Paysage numérique et maturité du pays
 
 L'utilisation, la couverture et l'accessibilité étendues des TIC sont des facteurs clés du développement de services innovants et de l'adoption par les citoyens. Compte tenu de son importance, l'utilisation des TIC est un facteur crucial dans l'évaluation du paysage numérique et de la maturité d'un pays. Une connectivité significative peut être décomposée en quelques indicateurs, notamment :

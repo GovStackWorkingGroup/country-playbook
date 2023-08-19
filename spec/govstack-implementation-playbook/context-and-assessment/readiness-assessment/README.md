@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Readiness assessment
 
 ## Understanding country context and needs

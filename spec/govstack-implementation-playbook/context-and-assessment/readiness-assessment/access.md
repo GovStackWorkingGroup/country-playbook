@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Access
 
 ## Access and awareness raising

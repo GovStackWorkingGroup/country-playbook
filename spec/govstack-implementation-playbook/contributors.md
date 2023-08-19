@@ -1,7 +1,3 @@
----
-description: Version for TAC Review
----
-
 # Contributors
 
 The first iteration of the Playbook has been co-developed by (listed below in alphabetical order)
