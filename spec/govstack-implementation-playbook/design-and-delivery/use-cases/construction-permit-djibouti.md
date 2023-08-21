@@ -26,8 +26,9 @@ Digital Construction Permit streamlines the building plan approval system with c
 
 ## Expected results
 
-* A user-centric construction permit service that will allow its users to submit applications, required documents and/or certification, make necessary payments and receive the construction permit in a streamlined and easy manner.&#x20;
-* A [generic use case ](https://govstack.gitbook.io/use-cases/readme/inf-1-construction-permit)to be demonstrated on the GovStack Sandbox
+* Digital readiness assessment&#x20;
+* An operational construction permit service
+* A reference[ use case ](https://govstack.gitbook.io/use-cases/readme/inf-1-construction-permit)to be demonstrated on the GovStack Sandbox
 * Digital product integrated with the Djibouti National Stack following the GovStack principles and approach.
-* Build a Djibouti Digital Team
-* Build capacity in Djibouti
+* Build Djibouti Digital Team
+* Build a comprehensive capacity development and change management program

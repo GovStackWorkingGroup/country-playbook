@@ -21,7 +21,8 @@ Traditionally, cabinets have relied on physical documents, memos, and meetings t
 
 ### Expected Results
 
-* An operation e-Cabinet service
+* Digital readiness assessment&#x20;
+* An operational e-Cabinet service
 * Digital product integrated with the Djibouti National Stack following the GovStack principles and approach.
-* Build a Djibouti Digital Team
-* Build capacity in Djibouti
+* Build and train Djibouti Digital Team&#x20;
+* Build a comprehensive capacity development and change management program
