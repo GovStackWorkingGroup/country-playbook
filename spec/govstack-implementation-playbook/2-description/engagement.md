@@ -1,6 +1,6 @@
-# Engagement opportunities
+# Engagement
 
-GovStack engagement opportunities allow countries to select that level of involvement that best suits their needs. The following are a few streams through which countries can engage with GovStack.
+GovStack engagement opportunities allow countries to select the level of involvement that best suits their needs. The following are a few streams through which countries can engage with GovStack.
 
 <details>
 
@@ -75,3 +75,29 @@ Share best practices in our GovStack communities of practice and exchange format
 </details>
 
 Learn more about govStack engagement opportunities by visiting our [website](https://www.govstack.global/join-the-community/).
+
+### **Join Our Collaboration Platforms**
+
+We're excited to invite you to our dynamic workspace! 🌟 Join our Slack channel to stay connected with our vibrant technical and implementation communities where we share ideas, and collaborate in real time. Whether it's brainstorming updates to Building Block Technical specifications, problem-solving, or simply connecting, Slack is the hub of our communication. Join our Slack workplace using the following QR or link
+
+
+
+<figure><img src="../../.gitbook/assets/adobe-express-qr-code (2).png" alt=""><figcaption><p>GovStack Slack: <a href="https://join.slack.com/t/govstack/shared_invite/zt-21x624fea-JzwgUZcMYLinWaOD2g8HDg">https://join.slack.com/t/govstack/shared_invite/zt-21x624fea-JzwgUZcMYLinWaOD2g8HDg</a></p></figcaption></figure>
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-08-24 133155.png" alt=""><figcaption><p>Find our communities of practice, including Egypt Deep Dive on Slack</p></figcaption></figure>
+
+For project management and streamlined workflows, we use JIRA. Dive into JIRA to track tasks, current projects, and our milestones seamlessly. It's where our productivity gets a boost and our goals turn into accomplishments.
+
+
+
+<figure><img src="../../.gitbook/assets/adobe-express-qr-code (3).png" alt=""><figcaption><p>Govstack Jira: <a href="https://govstack-global.atlassian.net/jira/projects?selectedProjectType=software">https://govstack-global.atlassian.net/jira/projects?selectedProjectType=software</a></p></figcaption></figure>
+
+And when it comes to project documentation, we rely on Confluence. Explore Confluence by using the following QR or link:
+
+
+
+<figure><img src="../../.gitbook/assets/adobe-express-qr-code (5).png" alt=""><figcaption><p>GovStack Confluence: <a href="https://govstack-global.atlassian.net/wiki/home">https://govstack-global.atlassian.net/wiki/home</a></p></figcaption></figure>
+
+\
