@@ -16,7 +16,7 @@ The 'To-Be' user journey is created in the context of a redesign or improvement 
 
 <details>
 
-<summary>Simplification principles </summary>
+<summary>Simplification recommendations</summary>
 
 * Minimize redundancies by integrating and streamlining steps across the user journey. This can be achieved by: retrieving information required to obtain a service from registries; tailoring unified forms that are auto-filled and require only the data that does not already exist within registries.&#x20;
 * Silence signifies tacitly expressed consent. Shifting the burden of proof in administrative proceedings. Example: Notifying the government of new business operations instead of requesting a business license.
