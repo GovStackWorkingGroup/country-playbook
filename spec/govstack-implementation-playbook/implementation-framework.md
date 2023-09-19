@@ -2,7 +2,7 @@
 
 The GovStack implementation framework considers incorporating a BB approach at the level of digital institutional governance, ICT policy & citizen-centric co-design & delivery of government digital services. This Implementation framework is an extension of the [SDG Digital Investment Framework](https://www.itu.int/pub/D-STR-DIGITAL.02-2019).&#x20;
 
-<figure><img src="../.gitbook/assets/3.-Implementation-Framework- (3).jpg" alt=""><figcaption><p><em>GovStack Implementation Framework</em> </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Service Blueprint (1).jpg" alt=""><figcaption><p><em>GovStack Implementation Framework</em> </p></figcaption></figure>
 
 To further facilitate the implementation process, the **GovStack digital service co-design & delivery protocol** presents a sequence of tools and methods to understand user needs, map user journeys & life events, and integrate prototypes in an agile way using reusable software components from the GovStack sandbox. &#x20;
 
