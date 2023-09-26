@@ -10,7 +10,7 @@ In this release of the GovStack specification, the following building blocks and
 
 <details>
 
-<summary>Information Mediation</summary>
+<summary><a href="https://govstack.gitbook.io/bb-information-mediation/">Information Mediation</a></summary>
 
 **Specifications**
 
@@ -37,7 +37,7 @@ The [Information Mediator](https://govstack.gitbook.io/bb-information-mediation)
 
 Key question in interaction between governmental bodies is security. Consumer and provider of service must be sure that service is legitimate, confidential, complete, and not changed on the way. Implementation of security is the main task of the IM BB. Place for IM BB is on boundaries or organizations.
 
-**Does IM BB fit for such a big country as Egypt?**
+**Does IM BB fit for large countries?**
 
 IM BB is implementing distributed approach. Only service provider and service consumer are engaged in every interaction. There is no single point of failure in design of the IM BB. Due to this approach the IM BB is easily scalable and can be used in big countries also.
 
@@ -54,14 +54,6 @@ No. If Building Blocks are within the same software system, then they can commun
 
 </details>
 
-{% hint style="info" %}
-Estonia uses an open source information mediator platform called '[X-Road](https://e-estonia.com/solutions/interoperability-services/x-road/)' to enable secure and private data exchange between public and private entities. Funding to develop and maintain X-Road is provided by the Governments of Estonia, Finland, and Iceland through [Nordic Interoperability Institute](https://www.niis.org/).
-{% endhint %}
-
-{% embed url="https://youtu.be/9PaHinkJlvA" %}
-Source: [https://e-estonia.com/solutions/interoperability-services/x-road/](https://e-estonia.com/solutions/interoperability-services/x-road/)
-{% endembed %}
-
 <details>
 
 <summary><a href="https://govstack.gitbook.io/bb-registration">Registration</a></summary>
@@ -70,7 +62,7 @@ Records identifiers and other general information about a person, place or other
 
 **FAQ**
 
-**What is the GovStack Registration Building Block, and how does it benefit the Egyptian Government?**
+**What is the GovStack Registration Building Block, and how does it benefit the government?**
 
 GovStack Registration BB  specifications offer a streamlined pathway for governments to advance their digital transformation initiatives efficiently. These specifications facilitate the creation and administration of seamless e-services for citizens and businesses, expediting their engagement with government processes.
 
@@ -79,13 +71,13 @@ Registration, in this context, is the procedure by which an applicant, whether a
 A registration operation involves a minimum of two participants:
 
 * The applicant, seeking to enroll something or someone within the registry.
-* An authorized representative from the registry responsible for recording the provided data and issuing the corresponding credential.
+* An authorized representative from the registry is responsible for recording the provided data and issuing the corresponding credential.
 
-In certain instances, simultaneous registration processes can occur. This scenario entails a single applicant having their information registered across multiple registries, consequently obtaining diverse credentials. Remarkably known as "single window," "simultaneous registrations," or "integrated registrations," this approach promotes the development of user-centric solutions. Specifically, Registration BB mandates the creation of user-friendly single window solutions, empowering government officials to effortlessly construct next-generation e-services, even without coding expertise.
+In certain instances, simultaneous registration processes can occur. This scenario entails a single applicant having their information registered across multiple registries, consequently obtaining diverse credentials. Remarkably known as "single window," "simultaneous registrations," or "integrated registrations," this approach promotes the development of user-centric solutions. Specifically, Registration BB mandates the creation of user-friendly single-window solutions, empowering government officials to effortlessly construct next-generation e-services, even without coding expertise.
 
 **What is the purpose and scope of the GovStack Registration BB specifications?**
 
-The GovStack Registration BB specifications aim to provide practical solutions for the Egyptian Government's registration needs. Covering three key digital functionalities, including:
+The GovStack Registration BB specifications aim to provide practical solutions for the Government's registration needs. Covering three key digital functionalities, including:
 
 * Online registration: e-services for a citizen/operator to register with an entity for any number of services.
 * Processing of registrations: a back office system to validate registration requests through human or automated operators.
@@ -123,9 +115,9 @@ The future scope of GovStack Registration BB specifications may evolve into the 
 
 GovStack Registration BB internal databases are dynamic and flexible to store any type of data from any type of domain. However, it integrates also with other databases and Digital Registries BB where the important registration data can be stored in a more structured style.&#x20;
 
-**How does GovStack Registration BB contribute to the Egyptian Government's vision for efficient governance?**
+**How does GovStack Registration BB contribute to the government's vision for efficient governance?**
 
-The GovStack Registration Building Block empowers the Egyptian Government by enabling efficient e-governance through better decision-making based on once-only insights. Specifications once implemented can foster the single window services and enable service building by non-programmers as fast as 15 minutes. Moreover, it enables government workers to take power of the service design process and prototype, build and redesign their processes with ease. Digital transformation will be swift and efficient.&#x20;
+The GovStack Registration Building Block empowers the government by enabling efficient e-governance through better decision-making based on once-only insights. Specifications once implemented can foster the single window services and enable service building by non-programmers as fast as 15 minutes. Moreover, it enables government workers to take power of the service design process and prototype, build and redesign their processes with ease. Digital transformation will be swift and efficient.&#x20;
 
 </details>
 
@@ -137,7 +129,7 @@ Registries are centrally managed databases that uniquely identify persons, vendo
 
 **FAQ**
 
-**What is the GovStack Digital Registries Building Block, and how does it benefit the Egyptian Government?**
+**What is the GovStack Digital Registries Building Block, and how does it benefit the government?**
 
 GovStack Digital Registries BB  specifications offer a streamlined pathway for governments to advance their digital transformation initiatives efficiently. These specifications facilitate the creation and administration of registry databases for government officials to store data and claims registered in the Registration process.&#x20;
 
@@ -193,9 +185,9 @@ The future scope of GovStack Digital Registries BB specifications may evolve int
 
 GovStack Digital Registries BB databases are dynamic and flexible to store any type of data from any type of domain. The core architecture design of the Digital Registries is to be agnostic and flexible to store any information needed in government processes. The NO-CODE principles integrated into the specification is enforcing the user to design the data architecture as needed.&#x20;
 
-**How does GovStack Digital Registries BB contribute to the Egyptian Government's vision for efficient governance?**
+**How does GovStack Digital Registries BB contribute to the government's vision for efficient governance?**
 
-The GovStack Digital Registries Building Block empowers the Egyptian Government by enabling efficient e-governance through agile and flexible information management. Specifications once implemented can foster the e-services and registration processes. For example, disaster recovery and unexpected disrupting situations (Earth quake, flood, pandemic) requires immediate action from government. Digital registries is the perfect tool for helping to recover faster as registries can be created by non-programmers as fast as 15 minutes. Moreover, it enables government workers to take power of the service design process and prototype, build and redesign their processes with ease. Digital transformation will be swift and efficient.
+The GovStack Digital Registries Building Block empowers the government by enabling efficient e-governance through agile and flexible information management. Specifications once implemented can foster the e-services and registration processes. For example, disaster recovery and unexpected disrupting situations (Earth quake, flood, pandemic) requires immediate action from government. Digital registries is the perfect tool for helping to recover faster as registries can be created by non-programmers as fast as 15 minutes. Moreover, it enables government workers to take power of the service design process and prototype, build and redesign their processes with ease. Digital transformation will be swift and efficient.
 
 </details>
 
@@ -207,9 +199,9 @@ Enables unique identification and authentication of users, organizations and oth
 
 **FAQ**
 
-**What is the GovStack ID Building Block, and how does it benefit the Egyptian Government?**
+**What is the GovStack ID Building Block, and how does it benefit the government?**
 
-The ID Building Block is an innovative framework to facilitate tools and processes to the Egyptian government and its citizens for managing identity information and digital credentials seamlessly. The specifications are designed to address challenges related to nation-wide digital identity rollout, including:&#x20;
+The ID Building Block is an innovative framework to facilitate tools and processes to the government and its citizens for managing identity information and digital credentials seamlessly. The specifications are designed to address challenges related to nation-wide digital identity rollout, including:&#x20;
 
 * Creating a Foundational Identity database as a single source of truth
 * Authentication through Foundational Identity for Functional Identity, and third parties/partners
@@ -223,7 +215,7 @@ By harmonizing existing identity standards, this framework becomes applicable to
 
 **What is the purpose and scope of the GovStack ID BB specifications?**
 
-The GovStack ID BB specifications aim to provide practical solutions for the Egyptian Government's national identity management requirements. They are versatile and adaptable by various existing and new national identity systems. They can be applied to sectors such as education, banking, healthcare, voting, driving license, passport, legal, etc. The specifications cater to diverse identity system needs, promoting effective identity management while providing security and preserving privacy. The ID BB Specs cover five key digital functionalities, including authentication, identity management, lifecycle management of credentials, identity-related event notifications, and administration of identity systems.&#x20;
+The GovStack ID BB specifications aim to provide practical solutions for the government's national identity management requirements. They are versatile and adaptable by various existing and new national identity systems. They can be applied to sectors such as education, banking, healthcare, voting, driving license, passport, legal, etc. The specifications cater to diverse identity system needs, promoting effective identity management while providing security and preserving privacy. The ID BB Specs cover five key digital functionalities, including authentication, identity management, lifecycle management of credentials, identity-related event notifications, and administration of identity systems.&#x20;
 
 **What examples of use cases do the GovStack ID BB specifications support?**
 
@@ -257,9 +249,9 @@ The future scope of GovStack ID BB includes multi-step enrollment, lifecycle man
 
 GovStack ID BB specifications provides security and preserves privacy while authentication through the foundational identity of a citizen. The specifications follow the secure and open-source standards and protocols, secure biometric interfaces, and widely recognized formats to facilitate creating, sharing, updating, and revoking (temporarily/permanently) the identity related information and credentials of citizen. Citizen information is only shared with prior consent of the citizen while adopting to the country’s legal framework.
 
-**How does GovStack ID BB contribute to the Egyptian Government's vision for digital identity?**
+**How does GovStack ID BB contribute to the government's vision for digital identity?**
 
-The GovStack ID Building Block empowers the Egyptian Government by enabling efficient identity management through secure, established, and widely adopted standards while ensuring the best-known practices for security and privacy. It promotes interoperability, reusability of ID applications, and effective digital service delivery to citizens. Additionally, the planned enhancements ensure that the government stays at the forefront of identity system advancements. In addition, by embracing open standards and APIs, the government taps into the innovation potential of developers and experts, fostering a collaborative environment. This results in developing cutting-edge applications and services that leverage digital ID and authentication, ultimately enhancing Egypt's reputation as a tech-savvy and forward-thinking nation.
+The GovStack ID Building Block empowers the government by enabling efficient identity management through secure, established, and widely adopted standards while ensuring the best-known practices for security and privacy. It promotes interoperability, reusability of ID applications, and effective digital service delivery to citizens. Additionally, the planned enhancements ensure that the government stays at the forefront of identity system advancements. In addition, by embracing open standards and APIs, the government taps into the innovation potential of developers and experts, fostering a collaborative environment. This results in developing cutting-edge applications and services that leverage digital ID and authentication, ultimately enhancing the country's reputation as a tech-savvy and forward-thinking nation.
 
 </details>
 
@@ -303,7 +295,7 @@ A given system needs to configure the Consent BB with an Agreement and a Policy.
 
 Any service outside Consent BB is responsible for ID-handling of the queries. Consent BB validates the source and the given request (via authorisation token) and assumes any request to be valid, if it: 1) validates to be called from a trusted source; 2) via a trusted service/request; 3) as part of a valid session.&#x20;
 
-ID-token must be obtained and provided by the outside service; Consent BB verifies if the ID is valid (via an external independent ID BB/service) and provides relevant response. Consent BB does verify the individual ID authorisation profile (for example, if a given individual has authorised the request) - this is the responsibility of the outside service.&#x20;
+ID-token must be obtained and provided by the outside service; Consent BB verifies if the ID is valid (via an external independent ID BB/service) and provides relevant response. Consent BB does verify the individual ID authorization profile (for example, if a given individual has authorised the request) - this is the responsibility of the outside service.&#x20;
 
 **Can consent be collected without the Consent BB?**
 
@@ -373,7 +365,7 @@ Another very typical scenario in tax administration. After the deadline for subm
 
 There are similar examples can be presented for every area of public administration.
 
-**What is the potential impact of Workflow BB on Egypt's digital transformation?**
+**What is the potential impact of Workflow BB on digital transformation?**
 
 Adoption of Workflow BB in public administration organisations will enable following:
 
@@ -391,7 +383,7 @@ Facilitates notifications, alerts and two-way communications between application
 
 **FAQ**
 
-**What is the GovStack Messaging Building Block, and how does it benefit the Egyptian Government?**&#x20;
+**What is the GovStack Messaging Building Block, and how does it benefit the government?**&#x20;
 
 The Messaging Building Block is an integrated and interoperable microservice that opens up a two-way communication channel between the government and its citizens. For the government, the Messaging Building block is an easy-to-adopt microservice that can add value to the existing digital services by giving them outreach channels to reach their clients, citizens and businesses for providing them various information services. For the citizens, the Messaging Building Block makes it easy to reach Government services through their mobile devices, enabling them to sign up for a doctor’s appointment or reclaim their social benefits, enroll into social programs or file applications for documents.
 
@@ -406,7 +398,7 @@ By harmonizing existing communication standards, this framework becomes applicab
 
 **What is the purpose and scope of the GovStack Messaging BB specifications?**
 
-* The GovStack Messaging BB specifications aim to provide practical solutions for the Egyptian Government's national communication management requirements. They are versatile and adaptable by various existing and new national communication systems. They can be applied to sectors such as education, banking, healthcare, driving license, passport, legal, etc. The specifications cater to diverse communication system needs, promoting effective information management while providing security and preserving privacy. The Messaging BB Specs cover the following key digital functionalities:&#x20;
+* The GovStack Messaging BB specifications aim to provide practical solutions for the government's national communication management requirements. They are versatile and adaptable by various existing and new national communication systems. They can be applied to sectors such as education, banking, healthcare, driving license, passport, legal, etc. The specifications cater to diverse communication system needs, promoting effective information management while providing security and preserving privacy. The Messaging BB Specs cover the following key digital functionalities:&#x20;
 
 ```
 POST. Send a single message/email/SMS. 
@@ -444,9 +436,9 @@ The future scope of GovStack Messaging BB includes integration and delivery of m
 
 GovStack Messaging BB specifications provides security and preserves privacy by design. This means that the messages are accepted in an appropriate format only from a trusted sender, specified in the GovStack requirements. The specifications follow the secure and open-source standards and protocols, and widely recognized formats to facilitate sharing of information and content. All information is encrypted while being transmitted between the services.
 
-**How can GovStack Messaging BB contribute to the Egyptian Government's vision for information services management and delivery?**
+**How can GovStack Messaging BB contribute to the government's vision for information services management and delivery?**
 
-The GovStack Messaging Building Block empowers the Egyptian Government by enabling efficient information delivery through secure, established, and widely adopted standards while ensuring the best-known practices for security and privacy. It promotes interoperability, reusability of existing applications and 3rd party applications, and facilitates effective digital service delivery to citizens. In addition, by embracing open standards and APIs, the government taps into the innovation potential of developers and experts, fostering a collaborative environment. This results in developing cutting-edge applications and services that further enhances Egypt's reputation as a tech-savvy and forward-thinking nation.\
+The GovStack Messaging Building Block empowers the government by enabling efficient information delivery through secure, established, and widely adopted standards while ensuring the best-known practices for security and privacy. It promotes interoperability, reusability of existing applications and 3rd party applications, and facilitates effective digital service delivery to citizens. In addition, by embracing open standards and APIs, the government taps into the innovation potential of developers and experts, fostering a collaborative environment. This results in developing cutting-edge applications and services that further enhances country's reputation as a tech-savvy and forward-thinking nation.\
 
 
 </details>
@@ -471,9 +463,9 @@ eSignature provides a huge advantage over handwritten signatures. They offer ver
 
 **FAQ**
 
-**What is the GovStack eSignature Building Block, and how does it benefit the Egyptian Government?**
+**What is the GovStack eSignature Building Block, and how does it benefit the government?**
 
-The GovStack eSignature Building Block is a technical specification providing the Egyptian Government with an interoperable, secure, robust & inclusive digital service enablement. The specification is designed to address known challenges when it comes to adopting & implementing nationwide eSignature, including:
+The GovStack eSignature Building Block is a technical specification providing the government with an interoperable, secure, robust & inclusive digital service enablement. The specification is designed to address known challenges when it comes to adopting & implementing nationwide eSignature, including:
 
 * Digital Divide
 * Limited Interoperability
@@ -482,11 +474,11 @@ The GovStack eSignature Building Block is a technical specification providing th
 * Data Security and Privacy
 * Connected services
 
-By addressing these challenges the specification lets the Egyptian Government create a faceless digital service delivery that enables trust between the citizens and the service delivery organizations.
+By addressing these challenges the specification lets the government create a faceless digital service delivery that enables trust between the citizens and the service delivery organizations.
 
 **What is the purpose and scope of the GovStack eSignature BB specifications?**
 
-The specification aims to provide an inclusive approach to Egyptian Government electronic signature needs. It also reduces the overall cost and overhead. The specification is unique and lets it be applied across the people at country scale. It caters to government needs from self signed documents to business agreements. The remote model of the digital signature enables trust and transparency. This lets the Egyption government, Corporates & Startups to work towards a faceless digital service enablement covering every citizen & aliens in the country.&#x20;
+The specification aims to provide an inclusive approach to government electronic signature needs. It also reduces the overall cost and overhead. The specification is unique and lets it be applied across the people at country scale. It caters to government needs from self signed documents to business agreements. The remote model of the digital signature enables trust and transparency. This lets the government, Corporates & Startups to work towards a faceless digital service enablement covering every citizen & aliens in the country.&#x20;
 
 **What examples of use cases do the GovStack GIS BB specifications support?**
 
@@ -501,9 +493,9 @@ The GovStack eSignature Building Block specifications are designed to cater to a
 
 The future scope of GovStack eSignature BB includes expanding capabilities to process bulk signatures, standardizing the revocation model to reduce user complexity and support signatures at organization levels, making a B2B transaction easier.
 
-**How does GovStack eSignaure BB contribute to the Egyptian Government's vision for efficient governance?**
+**How does GovStack eSignaure BB contribute to the government's vision for efficient governance?**
 
-The GovStack eSignature Building Block empowers the Egyptian Government by enabling efficient governance through trust and transparency. The BB reduces fraud and enables the government to build layers that could help in faceless digital transactions. It promotes interoperability across multiple applications, and effective service delivery to citizens and businesses. In addition, by embracing open standards and APIs, the government taps into the innovation potential of developers and experts, fostering a collaborative environment. This results in developing cutting-edge applications and services that leverage the underlying trust and reduces fraud, ultimately enhancing Egypt's reputation as a tech-savvy and forward-thinking nation.
+The GovStack eSignature Building Block empowers the government by enabling efficient governance through trust and transparency. The BB reduces fraud and enables the government to build layers that could help in faceless digital transactions. It promotes interoperability across multiple applications, and effective service delivery to citizens and businesses. In addition, by embracing open standards and APIs, the government taps into the innovation potential of developers and experts, fostering a collaborative environment. This results in developing cutting-edge applications and services that leverage the underlying trust and reduces fraud, ultimately enhancing country's reputation as a tech-savvy and forward-thinking nation.
 
 </details>
 
@@ -515,9 +507,9 @@ The GIS (geographic information services) building block enables various applica
 
 **FAQ**
 
-**What is the GovStack GIS Building Block, and how does it benefit the Egyptian Government?**
+**What is the GovStack GIS Building Block, and how does it benefit the government?**
 
-The GovStack GIS Building Block is a specialized framework providing the Egyptian Government with robust tools for managing geospatial information seamlessly. The specifications are designed to address known challenges when it comes to implementing nationwide GIS initiatives, including:
+The GovStack GIS Building Block is a specialized framework providing the government with robust tools for managing geospatial information seamlessly. The specifications are designed to address known challenges when it comes to implementing nationwide GIS initiatives, including:
 
 * Data Silos and Fragmentation
 * Limited Interoperability
@@ -531,7 +523,7 @@ By harmonizing existing GIS standards, this framework becomes applicable to real
 
 **What is the purpose and scope of the GovStack GIS BB specifications?**
 
-The GovStack GIS BB specifications aim to provide practical solutions for the Egyptian Government's geospatial needs. They are versatile and adaptable to various sectors. They can be applied to sectors such as natural resources, planning, business, construction, energy, environment, transportation, and utilities. The specifications cater to diverse governmental needs, promoting effective governance across a wide range of domains. The GIS BB Specs cover eight key digital functionalities, including GIS map display, query operations, data management, geocoding, spatial analysis, reporting, geofencing, and routing. These functionalities support various sectors such as local government, law enforcement, agriculture, healthcare, and more. The specifications facilitate efficient governance, better decision-making, and improved services.
+The GovStack GIS BB specifications aim to provide practical solutions for the government's geospatial needs. They are versatile and adaptable to various sectors. They can be applied to sectors such as natural resources, planning, business, construction, energy, environment, transportation, and utilities. The specifications cater to diverse governmental needs, promoting effective governance across a wide range of domains. The GIS BB Specs cover eight key digital functionalities, including GIS map display, query operations, data management, geocoding, spatial analysis, reporting, geofencing, and routing. These functionalities support various sectors such as local government, law enforcement, agriculture, healthcare, and more. The specifications facilitate efficient governance, better decision-making, and improved services.
 
 &#x20;**What examples of use cases do the GovStack GIS BB specifications support?**
 
@@ -554,9 +546,9 @@ The future scope of GovStack GIS BB includes expanding capabilities to process r
 
 GovStack GIS BB specifications provide functionalities like GIS data management, allowing users to access and perform operations on remote GIS databases. This includes publishing metadata descriptions, querying data, replicating schemas, and managing feature data. These capabilities streamline data management and facilitate better decision-making based on accurate and up-to-date geospatial information.
 
-&#x20;**How does GovStack GIS BB contribute to the Egyptian Government's vision for efficient governance?**
+&#x20;**How does GovStack GIS BB contribute to the government's vision for efficient governance?**
 
-The GovStack GIS Building Block empowers the Egyptian Government by enabling efficient governance through better decision-making based on geospatial insights. It promotes interoperability, reusability of GIS applications, and effective service delivery to citizens and businesses. Additionally, the planned enhancements ensure that the government stays at the forefront of geospatial technology advancements. In addition, by embracing open standards and APIs, the government taps into the innovation potential of developers and experts, fostering a collaborative environment. This results in developing cutting-edge applications and services that leverage geospatial data, ultimately enhancing Egypt's reputation as a tech-savvy and forward-thinking nation.\
+The GovStack GIS Building Block empowers the government by enabling efficient governance through better decision-making based on geospatial insights. It promotes interoperability, reusability of GIS applications, and effective service delivery to citizens and businesses. Additionally, the planned enhancements ensure that the government stays at the forefront of geospatial technology advancements. In addition, by embracing open standards and APIs, the government taps into the innovation potential of developers and experts, fostering a collaborative environment. This results in developing cutting-edge applications and services that leverage geospatial data, ultimately enhancing the country's reputation as a tech-savvy and forward-thinking nation.\
 
 
 </details>
