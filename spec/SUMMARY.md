@@ -31,6 +31,7 @@
     * [Service blueprint](govstack-implementation-playbook/design-and-delivery/service-blueprint.md)
     * [Wireframes](govstack-implementation-playbook/design-and-delivery/wireframes.md)
     * [Prototype](govstack-implementation-playbook/design-and-delivery/prototype.md)
+    * [GovExchange](govstack-implementation-playbook/design-and-delivery/govexchange.md)
     * [Launch the service](govstack-implementation-playbook/service-design-and-delivery/launch-the-service.md)
     * [Scaling strategy](govstack-implementation-playbook/design-and-delivery/scaling-strategy.md)
     * [Country use cases](govstack-implementation-playbook/design-and-delivery/country-use-cases/README.md)
