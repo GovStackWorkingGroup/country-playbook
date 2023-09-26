@@ -661,7 +661,11 @@ An ITU developed tool which measures collaborative digital regulation within the
 
 Flow-control elements, which are used to control how activities interact as they converge and diverge within a process. Entered (or “triggered”) by activities, a gateway acts as a function that decides which (outgoing) path to follow based on the result of the evaluation of the given set of conditions.
 
-&#x20;
+#### **Generic Workflow**
+
+Generic workflows in digital government services refer to frequently encountered, standardized processes and procedures that government agencies can use to streamline various steps as part of services. These workflows are designed to be reusable and improve efficiency, transparency, and accessibility in delivering government services to citizens, businesses, and other stakeholders.
+
+
 
 **General Data Protection Regulation (GDPR)**
 
