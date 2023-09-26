@@ -4,7 +4,7 @@ Make wireframes and/or voice command flow
 
 Within this stage we create a testable design based on a thorough understadning of users’ expectations and ''to-be'' user journey. Sketching, wireframes and/or voice command flow will help you ensure your service reflects your users’ needs. It is a reprsentation of a realistic form and functional service.&#x20;
 
-<figure><img src="../../.gitbook/assets/Use pre-baked design patterns to quickly and effectively develop wireframes to services (1).png" alt=""><figcaption><p>GovStack design patterns</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Use pre-baked design patterns to quickly and effectively develop wireframes to services (2) (1).png" alt=""><figcaption><p>GovStack design patterns</p></figcaption></figure>
 
 Wireframes and/or voice command flow enable direct examination of a design concept’s viability with users. It is helpful for gaining feedback on users’ intentions and various design elements and observing users' interaction with the product.&#x20;
 
