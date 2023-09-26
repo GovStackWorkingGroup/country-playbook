@@ -1,10 +1,10 @@
 # Wireframes
 
-## Make wireframes and/or voice command flow
+Make wireframes and/or voice command flow
 
 Within this stage we create a testable design based on a thorough understadning of users’ expectations and ''to-be'' user journey. Sketching, wireframes and/or voice command flow will help you ensure your service reflects your users’ needs. It is a reprsentation of a realistic form and functional service.&#x20;
 
-<figure><img src="../../.gitbook/assets/52.-Sketching,-wireframes,-voice-command-flow.jpg" alt=""><figcaption><p><a href="https://designnotes.blog.gov.uk/2014/05/22/gov-uk-sketching-templates/">Gov.uk sketch templates</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Use pre-baked design patterns to quickly and effectively develop wireframes to services (1).png" alt=""><figcaption><p>GovStack design patterns</p></figcaption></figure>
 
 Wireframes and/or voice command flow enable direct examination of a design concept’s viability with users. It is helpful for gaining feedback on users’ intentions and various design elements and observing users' interaction with the product.&#x20;
 
@@ -13,7 +13,7 @@ The following are the wireframes developed for the Extended Producer Responsibil
 {% tabs %}
 {% tab title="Activities / Resources" %}
 * Create a preliminary version of the service using [wireframes and/or voice command flow](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow). A good wireframe and/or voice command flow requires:
-  * Building on preliminary Lo-Fi [wireframes and/or voice command flow ](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow)that show structure, placement, and hierarchy for your service. &#x20;
+  * Using [UX/UI guidelines](https://govstack.gitbook.io/specification/v/govstack-specification-main/govstack-ui-ux-guidelines) build preliminary Lo-Fi [wireframes and/or voice command flow ](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow)that show structure, placement, and hierarchy for your service. &#x20;
   * Steering clear of font choices, color, or other elements that would distract both the researcher and the reviewer. Lightweight designs are conceptually easier to reconfigure. Use this opportunity to start listing what UX/UI patterns you will need.&#x20;
   * Reviewing [wireframes and/or voice command flows](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow) according to the specific 'To-be' user journey to ensure users accomplish their goals and their needs are met.&#x20;
   * Using the [wireframes and/or voice command flow](../learning-and-exchange/artefacts.md#wireframes-and-or-voice-command-flow) to get the team’s feedback on feasibility and structure.&#x20;
