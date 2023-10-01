@@ -16,7 +16,7 @@ Les blocs de construction TIC communs permettent des processus métier génériq
 
 L'illustration ci-dessous décrit **les économies réalisées grâce à une approche d'investissement numérique réutilisable** :
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Illustration of Savings Through Reusable Digital Investment Approach (ITU, DIAL, 2019)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Illustration of Savings Through Reusable Digital Investment Approach (ITU, DIAL, 2019)</p></figcaption></figure>
 
 ### Quels sont les avantages de l'approche BB ?
 

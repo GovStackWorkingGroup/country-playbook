@@ -27,7 +27,7 @@ L'un des principaux objectifs de ce cadre est d'aider les décideurs et les plan
 
 L'exemple ci-dessous illustre les processus métier et les technologies de support pour un **cas d'utilisation illustratif du service de conseil rural**.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Rural Advisory Service Use Case (ITU, DIAL, 2019)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Rural Advisory Service Use Case (ITU, DIAL, 2019)</p></figcaption></figure>
 
 ### Quelle est la relation entre les biens publics numériques et les blocs de construction ?
 

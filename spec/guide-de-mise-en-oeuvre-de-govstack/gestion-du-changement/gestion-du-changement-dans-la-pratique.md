@@ -138,7 +138,7 @@ C'est un outil très intéressant pour identifier et mesurer les impacts qu'un c
 {% tab title="Modèle de Burke et Litwin" %}
 Cet outil permet d'analyser et d'évaluer les dimensions organisationnelles et environnementales nécessaires à la réussite du changement : identifier les liens de cause à effet entre les différentes dimensions et permet d'apporter des ajustements visant à améliorer la performance.
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Roue des contrats à terme" %}
