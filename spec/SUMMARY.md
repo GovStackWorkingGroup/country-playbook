@@ -39,6 +39,7 @@
     * [e-Cabinet, Djibouti](govstack-implementation-playbook/design-and-delivery/country-use-cases/e-cabinet-djibouti.md)
     * [Construction Permit, Djibouti](govstack-implementation-playbook/design-and-delivery/country-use-cases/construction-permit-djibouti.md)
     * [CMS, Somalia](govstack-implementation-playbook/country-use-cases/cms-somalia.md)
+    * [High School Certificate, Somalia](govstack-implementation-playbook/country-use-cases/high-school-certificate-somalia.md)
   * [BB specifications](govstack-implementation-playbook/bb-specifications.md)
   * [Sample Digital Team Composition](govstack-implementation-playbook/annex/sample-digital-team-composition.md)
     * [GovStack user profiles taxonomy](govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy.md)
