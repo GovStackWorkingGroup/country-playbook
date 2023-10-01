@@ -1,8 +1,10 @@
 # e-Cabinet, Djibouti
 
-## About e-Cabinet
+## The problem
 
-Traditionally, cabinets have relied on physical documents, memos, and meetings to discuss and decide on various issues related to governance, policy-making, and administration. An e-cabinet system streamlines these processes by digitizing the entire workflow. Some key features of an e-cabinet system include:
+Traditionally, cabinets have relied on physical documents, memos, and meetings to discuss and decide on various issues related to governance, policy-making, and administration. An e-cabinet system streamlines these processes by digitizing the entire workflow. Djibouti wanted to implement a legally transparent, digitally supported, and e-Cabinet digital service.
+
+Some key features of an e-cabinet system include:
 
 1. Document Management: All cabinet-related documents, such as proposals, reports, and meeting agendas, are created, stored, and shared through the platform. This ensures real-time access and version control, minimizing the risk of miscommunication, information loss or duplication.
 2. Collaboration and Communication: it enables seamless communication and collaboration among cabinet members, allowing them to share feedback, comments, and ideas on specific documents or proposals.
@@ -11,9 +13,11 @@ Traditionally, cabinets have relied on physical documents, memos, and meetings t
 
 ## GovStack approach
 
-* Identify a digital product that meets the business requirements of Djibouti to integrate it with the national stack of Djibouti.
-* Identify the digital product through an [open call](https://www.leverist.de/en/app/opportunities/call-for-digital-products-to-manage-ecabinet-meetings-document-correspondence-and-policy-drafting-for-the-government-of-djibouti?force\_preview=1)&#x20;
-* Identify a service provider responsible for integrating the selected digital product within the national stack of Djibouti.
+* Perform a digital readiness assessment
+* Identify priority e-government services based on the country's context and needs.
+* Co-design the digital service based on user needs, journeys, and business life events
+* Identify a DPG/digital product that meets the business requirements of Djibouti to integrate it with the national tech stack of Djibouti through an [open call](https://www.leverist.de/en/app/opportunities/call-for-digital-products-to-manage-ecabinet-meetings-document-correspondence-and-policy-drafting-for-the-government-of-djibouti?force\_preview=1)&#x20;
+* Train the Djibouti digital team on [GovStack Building Block approach](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/2-description/building-block-approach).
 
 ## Roadmap
 
@@ -22,7 +26,6 @@ Traditionally, cabinets have relied on physical documents, memos, and meetings t
 ### Expected Results
 
 * Digital readiness assessment&#x20;
-* An operational e-Cabinet service
-* Digital product integrated with the Djibouti National Stack following the GovStack principles and approach.
-* Build and train Djibouti Digital Team&#x20;
+* An operational e-Cabinet service integrated with the Djibouti national tech stack following the GovStack principles and approach.
+* Build and train the Djibouti Digital Team&#x20;
 * Build a comprehensive capacity development and change management program

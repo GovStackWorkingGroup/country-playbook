@@ -7,7 +7,7 @@ Improper disposal of e-waste poses numerous threats to the environment, economy,
 ## GovStack approach
 
 1. Completion of EPR regulatory framework for e-waste management in Rwanda
-2. Co-design the [EPR digital service](https://govstack.gitbook.io/use-cases/readme/env-1-extended-producer-responsibility-epr) based on user needs, journeys and business life events
+2. Co-design the [EPR digital service](https://govstack.gitbook.io/use-cases/readme/env-1-extended-producer-responsibility-epr) based on user needs, journeys, and business life events
 3. Co-design the financial mechanism that producers must pay on Electrical and Electronic Equipment (EEE) that is placed on the market in Rwanda to finance the sound management of e-waste.
 
 ## Roadmap

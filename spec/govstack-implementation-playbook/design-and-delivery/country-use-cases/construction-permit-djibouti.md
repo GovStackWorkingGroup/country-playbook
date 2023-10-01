@@ -1,6 +1,6 @@
 # Construction Permit, Djibouti
 
-## About Construction Permit
+## The problem
 
 Traditionally the application for construction permits, inspections, fee payments, and approval has been "over the counter" and paper-based. This makes construction permits time-consuming, complicated to understand, and difficult to comply with.
 
@@ -9,16 +9,17 @@ Digital Construction Permit streamlines the building plan approval system with c
 * Online submission of building plans
 * Online scrutiny of building plans
 * Online fee calculation, payment & reporting
-* Site visits scheduling & reporting mechanism
+* Site visit scheduling & reporting mechanism
 * Online application tracking (pending, rejected, approved)
 * Configurable workflow and functionalities
 
 ## GovStack approach
 
-* Co-design the Construction Permit service based on user needs, journeys, and business life events
-* Identify a digital product that meets the business requirements of Djibouti to integrate it with the national stack of Djibouti.
-* Identify the digital product through an [open call](https://www.leverist.de/en/app/opportunities/call-for-digital-products-to-manage-ecabinet-meetings-document-correspondence-and-policy-drafting-for-the-government-of-djibouti?force\_preview=1)[ ](https://www.leverist.de/en/app/opportunities/call-for-digital-products-to-manage-issuance-of-construction-permits-in-djibouti-using-the-govstack-building-block-approach?force\_preview=1)
-* Identify a service provider responsible for integrating the selected digital product within the national stack of Djibouti.
+* Perform a digital readiness assessment
+* Identify priority e-government services based on the country's context and needs.
+* Co-design the service based on user needs, journeys, and business life events
+* Identify a DPG/digital product that meets the business requirements of Djibouti to integrate it with the national tech stack of Djibouti through an [open call](https://www.leverist.de/en/app/opportunities/call-for-digital-products-to-manage-ecabinet-meetings-document-correspondence-and-policy-drafting-for-the-government-of-djibouti?force\_preview=1)[ ](https://www.leverist.de/en/app/opportunities/call-for-digital-products-to-manage-issuance-of-construction-permits-in-djibouti-using-the-govstack-building-block-approach?force\_preview=1)
+* Train the Djibouti digital team on the [GovStack Building Block approach](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/2-description/building-block-approach).
 
 ## Roadmap
 
@@ -27,8 +28,7 @@ Digital Construction Permit streamlines the building plan approval system with c
 ## Expected results
 
 * Digital readiness assessment&#x20;
-* An operational construction permit service
+* An operational e-construction permit digital service integrated with the Djibouti National Stack following the GovStack principles and approach.
 * A reference[ use case ](https://govstack.gitbook.io/use-cases/readme/inf-1-construction-permit)to be demonstrated on the GovStack Sandbox
-* Digital product integrated with the Djibouti National Stack following the GovStack principles and approach.
-* Build Djibouti Digital Team
+* Build and train the Djibouti Digital Team&#x20;
 * Build a comprehensive capacity development and change management program
