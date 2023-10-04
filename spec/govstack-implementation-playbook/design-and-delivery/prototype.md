@@ -4,12 +4,6 @@
 
 Once the [wireframe ](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/design-and-delivery/wireframes)[and/or voice command flow](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/design-and-delivery/wireframes) is approved, we are ready to start developing and orchestrating a functional prototype of the service. The prototype is iteratively developed. Each successive iteration adds new functionalities and refines the prototype based on user feedback. This results in a service that meets the desired level of functionality and usability.
 
-Digital teams can refer to the GovStack sandbox to experience an interactive simulation that showcases the utilization of the Building Blocks. The GovStack Use Case Simulation is based on a real-world scenario called "[unconditional social cash transfer](https://govstack.gitbook.io/use-cases/readme/inst-1-unconditional-social-cash-transfer)" although it takes place in a fictional government setting. It is an interactive simulation that showcases the utilization of the Building Blocks. You can access the USCT use case simulation by clicking [here](https://simulation.govstack.global/).
-
-Unconditional cash transfers are payments provided to financially disadvantaged, vulnerable people or households without requiring anything in return (i.e. without conditionality). The simulation provides perspectives of the end user and a public servant as they interact with the service. It also showcases the Building Blocks, their interaction, and generic workflows involved in each step of the service.
-
-<figure><img src="../../.gitbook/assets/USCT.png" alt=""><figcaption><p>GovStack USCT Use Case Simulation</p></figcaption></figure>
-
 <details>
 
 <summary>What are the benefits of protoyping?</summary>
