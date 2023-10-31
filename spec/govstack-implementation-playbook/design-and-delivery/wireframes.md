@@ -28,11 +28,11 @@ The following are the wireframes developed for the Extended Producer Responsibil
 {% tab title="Responsabilities" %}
 Who does what:
 
-* [Service designers](../annex/govstack-user-profiles-taxonomy.md#service-designer)/ Design lead – Lead the activities within the 'Activities' Tab.
+* [Service designers](../digital-team-composition/govstack-user-profiles-taxonomy.md#service-designer)/ Design lead – Lead the activities within the 'Activities' Tab.
 * [User needs researchers](broken-reference) – Prepare & apply user interviews, and facilitate wireframe validation workshops with focus groups.&#x20;
-* [Legal policy officer](../annex/govstack-user-profiles-taxonomy.md#legal-policy-officer)– Clarify regulations that apply to the service.
+* [Legal policy officer](../digital-team-composition/govstack-user-profiles-taxonomy.md#legal-policy-officer)– Clarify regulations that apply to the service.
 * [UX/UI Designers](broken-reference) - Prepare the wireframes and iterate them as per user feedback.
-* [Product/Tech experts](../annex/govstack-user-profiles-taxonomy.md#back-end-developers) - Participate in the iteration session with users to see the reaction to the wireframes.
+* [Product/Tech experts](../digital-team-composition/govstack-user-profiles-taxonomy.md#back-end-developers) - Participate in the iteration session with users to see the reaction to the wireframes.
 {% endtab %}
 
 {% tab title="Deliverables" %}

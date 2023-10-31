@@ -33,9 +33,9 @@ The following actions are recomended when launching a service.
 {% tab title="Composition de l'équipe numérique" %}
 Who does what:
 
-* [Service designers](../../govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy.md#service-designer)/ Responsable de la conception - Dirigez les activités dans l'onglet "Activités".
+* [Service designers](../../govstack-implementation-playbook/digital-team-composition/govstack-user-profiles-taxonomy.md#service-designer)/ Responsable de la conception - Dirigez les activités dans l'onglet "Activités".
 * [Communications manager](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#communication-manager) - élaborer une stratégie de communication pour le lancement du service
-* [IT operation](../../govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy.md#back-end-developers) - Maintenir le service
+* [IT operation](../../govstack-implementation-playbook/digital-team-composition/govstack-user-profiles-taxonomy.md#back-end-developers) - Maintenir le service
 {% endtab %}
 
 {% tab title="Livrables" %}
