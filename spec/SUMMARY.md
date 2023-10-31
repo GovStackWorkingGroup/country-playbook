@@ -2,10 +2,10 @@
 
 * [GovStack Implementation Playbook](README.md)
   * [GovStack Overview](govstack-implementation-playbook/2-description/README.md)
-    * [Building block approach](govstack-implementation-playbook/2-description/building-block-approach.md)
     * [Governance model](govstack-implementation-playbook/2-description/governance-model.md)
     * [Engagement](govstack-implementation-playbook/2-description/engagement.md)
   * [Implementation framework](govstack-implementation-playbook/implementation-framework.md)
+  * [Building block approach](govstack-implementation-playbook/building-block-approach.md)
   * [GovStack design principles](govstack-implementation-playbook/govstack-design-principles.md)
   * [Context & assessment](govstack-implementation-playbook/context-and-assessment/README.md)
     * [Readiness assessment](govstack-implementation-playbook/context-and-assessment/readiness-assessment/README.md)
