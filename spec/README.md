@@ -2,89 +2,25 @@
 
 <figure><img src=".gitbook/assets/18. Govstack Playbook a tool for all (2).jpg" alt=""><figcaption></figcaption></figure>
 
-### What is the GovStack implementation playbook?
+### What is the playbook?
 
-The GovStack Implementation Playbook is an extension of the [SDG Digital Investment Framework](https://www.itu.int/pub/D-STR-DIGITAL.02-2019) that provides a step-by-step guide on incorporating a BB approach at the level of institutional governance, ICT policy, citizen-centric co-design & delivery of government digital services as referred to in the [GovStack Implementation Framework](govstack-implementation-playbook/implementation-framework.md).&#x20;
+The GovStack Implementation Playbook provides examples of how governments can incorporate a Building Block (BB) approach at the level of institutional governance, ICT policy, citizen-centric co-design & delivery of government digital services as referred to in the [GovStack Implementation Framework](govstack-implementation-playbook/implementation-framework.md).&#x20;
 
-### &#x20;Who's the GovStack Implementation Playbook for?
+### &#x20;Who's the playbook for?
 
-The Playbook is intended to be used by digital teams involved in the digitization of government services. Each section of the playbook describes which roles within a digital team are responsible for implementing each step of the GovStack Building Block approach.
+The Playbook is intended to be used by digital teams - service designers, solution architects, developers, lawyers, product managers, behavioral scientists, and user needs researchers, among others who are involved in the digitization of government services.
 
-### How is the Playbook structured?
+### How is the playbook structured?
 
-The Playbook is structured in five sections according to the GovStack implementation framework, each section can have subsections according to its content:
+Each section of the playbook suggests activities, provides examples, resources, and suggests roles within a digital team responsible for implementing the sugeste any given activity.&#x20;
 
-{% content-ref url="govstack-implementation-playbook/context-and-assessment/" %}
-[context-and-assessment](govstack-implementation-playbook/context-and-assessment/)
-{% endcontent-ref %}
+The playbook references examples from countries that participate in GovStack communities of practice like the WSIS Special Prize on Service Design, CIO Digital Leaders Forum, and countries that currently are implementing using [GovStack tools and resources](https://www.govstack.global/our-offerings/).&#x20;
 
-{% content-ref url="govstack-implementation-playbook/design-and-delivery/" %}
-[design-and-delivery](govstack-implementation-playbook/design-and-delivery/)
-{% endcontent-ref %}
+### How is the playbook developed and kept updated?
 
-{% content-ref url="govstack-implementation-playbook/reference-architecture.md" %}
-[reference-architecture.md](govstack-implementation-playbook/reference-architecture.md)
-{% endcontent-ref %}
+The playbook is a continuous co-design effort by a multidisciplinary team of experts representing GovStack founding partners ([ITU](https://www.itu.int/en/Pages/default.aspx), [EE](https://e-estonia.com/), [GIZ](https://www.giz.de/en/html/index.html), [DIAL](https://dial.global/)), implementing partners such as EstDev, FIIAAP, Taltech, and digital teams from governments that participate in TAC review.&#x20;
 
-{% content-ref url="govstack-implementation-playbook/learning-and-exchange/" %}
-[learning-and-exchange](govstack-implementation-playbook/learning-and-exchange/)
-{% endcontent-ref %}
-
-{% content-ref url="govstack-implementation-playbook/2-description/building-block-approach.md" %}
-[building-block-approach.md](govstack-implementation-playbook/2-description/building-block-approach.md)
-{% endcontent-ref %}
-
-#### Playbook navigation & iteration model:&#x20;
-
-Each section of the playbook describes the step, scope of work, activities to be done, and the digital team members that usually carry on these activities. It also provides reference documents, e.g. exemplar regulations, user journey templates, tech specs, interview guides, and workshops facilitation kanbans, to mention a few.&#x20;
-
-{% tabs %}
-{% tab title="Content Struture withing each page" %}
-Each step of the implementation journey describes activities, and deliverables and provides resources (tools, methods, & concrete examples)
-
-
-
-<figure><img src=".gitbook/assets/15.-How-to-read-the-Playbook (3).jpg" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Iterative Implementation of Playbook" %}
-GovStack implementation playbook is in continuous iteration according to country implementation feedback on its tools & methods. These resources come from different best practice documents like gov.uk service manual of the United Kingdom, 18F guides from the United States, Australia Digital Service, whose authors are the hearts and minds of the aforementioned digital teams, just to mention a few.&#x20;
-
-Resources also come from the hearts and minds of GovStack digital team and reference implementation digital teams in GovStack implementation countries, a continuous co-designed effort with the different pool experts and country digital teams.&#x20;
-
-Our aim is to constantly iterate GovStack playbook tools & methods, join us in this endeavor and contribute to the playbook, please refer the instructions provided in the page linked [here](broken-reference).&#x20;
-
-
-
-<figure><img src=".gitbook/assets/14.-Double-Diamond-iteration-country-implementation (1).jpg" alt=""><figcaption><p><em>GovStack Iteration Model</em> </p></figcaption></figure>
-{% endtab %}
-
-{% tab title="Submit Feedback" %}
-In order to provide feedback for a particular page
-
-* Open the GovStack Implementation [Playbook](https://govstack.gitbook.io/implementation-playbook/),
-* Navigate to the page you would like to provide feedback on,
-* Click the “Give Feedback” button in the upper right corner,
-
-<figure><img src=".gitbook/assets/Step 1 Navigate to the page where you wish to provide your feedback.png" alt=""><figcaption></figcaption></figure>
-
-* Upon clicking the “Give Feedback” button, a feedback form is created where you can share your name, email address, and your feedback.
-
-<figure><img src=".gitbook/assets/Step 1 Navigate to the page where you wish to provide your feedback (1).jpg" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-It is necessary to mention that the page you are interested in has been pre-filled with the link of the page you were viewing as you clicked on the “Give Feedback.”
-{% endhint %}
-{% endtab %}
-{% endtabs %}
-
-
-
-### How was the playbook developed?
-
-The GovStack Implementation Playbook is a continuous co-design effort by a multidisciplinary team of experts representing GovStack partner organizations ([ITU](https://www.itu.int/en/Pages/default.aspx), [EE](https://e-estonia.com/), [GIZ](https://www.giz.de/en/html/index.html), [DIAL](https://dial.global/)) who worked on this TAC review version. Tools and methods presented in the playbook follow best practices in government digital service co-design and delivery. They have been co-designed as part of the GovStack country implementation work.&#x20;
-
-The playbook also integrates a curated set of best practices comming from different assessment frameworks developed by International Organizations like ITU, OECD, UNDP, and World Bank, among others. It also gathers reference tools and methods from digital services manuals, and design standards developed by different digital service teams worldwide. Like but not limited to:
+The playbook also integrates a curated set of best practices coming from different assessment frameworks developed by International Organizations like ITU, OECD, UNDP, and World Bank, among others. It also gathers reference tools and methods from digital services manuals, and design standards developed by different digital service teams worldwide. Like but not limited to:
 
 * The Government Digital Service in the United Kingdom&#x20;
 * 18F in the United States
@@ -94,6 +30,26 @@ The playbook also integrates a curated set of best practices comming from differ
 * Australia Digital Government Office
 * Ireland Digital Service&#x20;
 
-### How the playbook is updated?
+The playbook is in continuous iteration according to country implementation feedback.
 
-The GovStack implementation playbook is updated every day. As GovStack moves into its initial reference implementations, the [version for TAC Review](govstack-implementation-playbook/1-version-history/release-notes.md) has been published to receive comments and inputs from TAC review panel members, and guide digital teams in pilot countries into implementing the GovStack approach to service co-design and delivery.  Please join our GovStack service co-design and delivery team by contributing tools, methods, templates, and best practices to help digital teams worldwide deliver.&#x20;
+<details>
+
+<summary>How to submit feedback?</summary>
+
+One of the cornerstones of our commitment to excellence is our unwavering dedication to listening to you, our readers. Your feedback is invaluable to us. We don't just collect it; we cherish it. Your thoughts, opinions, and suggestions are the compass guiding our journey toward continuous improvement.&#x20;
+
+In order to provide feedback for a particular page
+
+* Open the GovStack Implementation [Playbook](https://govstack.gitbook.io/implementation-playbook/),
+* Navigate to the page you would like to provide feedback on,
+* Click the “Give Feedback” button in the upper right corner,
+
+<img src=".gitbook/assets/Step 1 Navigate to the page where you wish to provide your feedback (1).png" alt="" data-size="original">
+
+* Upon clicking the “Give Feedback” button, a feedback form is created where you can share your name, email address, and your feedback.
+
+<img src=".gitbook/assets/Step 1 Navigate to the page where you wish to provide your feedback (1) (1).jpg" alt="" data-size="original">
+
+**The feedback form auto-fills the link of the page that you wish to leave feedback on.**
+
+</details>
