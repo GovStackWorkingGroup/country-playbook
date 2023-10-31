@@ -43,7 +43,6 @@
     * [Change Management in the Practice](govstack-implementation-playbook/change-management/change-management-in-the-practice.md)
     * [Skills and Competences](govstack-implementation-playbook/change-management/skills-and-competences.md)
   * [Contributors](govstack-implementation-playbook/contributors.md)
-  * [Annex](govstack-implementation-playbook/annex.md)
   * [Terminology](govstack-implementation-playbook/3-terminology.md)
   * [Version History](govstack-implementation-playbook/1-version-history/README.md)
     * [Release notes](govstack-implementation-playbook/1-version-history/release-notes.md)
