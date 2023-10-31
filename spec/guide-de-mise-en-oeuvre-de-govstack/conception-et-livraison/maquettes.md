@@ -45,11 +45,11 @@ Les actions suivantes sont recommandées pour développer un prototype.
 {% tab title="Équipe numérique" %}
 Who does what&#x20;
 
-* [Service designers](../../govstack-implementation-playbook/digital-team-composition/govstack-user-profiles-taxonomy.md#service-designer)/ Responsable de la conception - Dirigez les activités dans l'onglet "Activités".
+* [Service designers](../../govstack-implementation-playbook/digital-team-composition/user-profiles-taxonomy.md#service-designer)/ Responsable de la conception - Dirigez les activités dans l'onglet "Activités".
 * [User needs researchers](broken-reference) – Préparer et appliquer des entretiens utilisateurs, des groupes de discussion, anime des ateliers de parcours utilisateur
-* [Legal policy officer](../../govstack-implementation-playbook/digital-team-composition/govstack-user-profiles-taxonomy.md#legal-policy-officer)– Clarifier les réglementations applicables au service
+* [Legal policy officer](../../govstack-implementation-playbook/digital-team-composition/user-profiles-taxonomy.md#legal-policy-officer)– Clarifier les réglementations applicables au service
 * [UX/IU Designers](broken-reference) – Si le service en cours d'analyse est déjà en ligne, les concepteurs UX/UI peuvent rejoindre les sessions de co-conception pour avoir une interaction de première main avec les utilisateurs
-* [Product/Tech experts](../../govstack-implementation-playbook/digital-team-composition/govstack-user-profiles-taxonomy.md#back-end-developers)  -Si le service en cours d'analyse est déjà en ligne, les membres de l'équipe Produit/Tech peuvent participer à la session d'itération avec les utilisateurs pour voir la réaction au prototype de cadre blanc
+* [Product/Tech experts](../../govstack-implementation-playbook/digital-team-composition/user-profiles-taxonomy.md#back-end-developers)  -Si le service en cours d'analyse est déjà en ligne, les membres de l'équipe Produit/Tech peuvent participer à la session d'itération avec les utilisateurs pour voir la réaction au prototype de cadre blanc
 {% endtab %}
 
 {% tab title="Livrables" %}

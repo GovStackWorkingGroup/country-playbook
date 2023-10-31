@@ -282,7 +282,7 @@ The main learning outcomes to support the GovStack's approach will give &#x20;
 {% tab title="Learning Objectives" %}
 #### Learning Objectives
 
-Within GovStack approach, it is very important to educate the future leaders of the digital transformation who are able to implement the GovStack vision. As GovStack requires various knowledge in the field of transformation the academic education path should follow the [GovStack's standard users profiles](../../../govstack-implementation-playbook/digital-team-composition/govstack-user-profiles-taxonomy.md).
+Within GovStack approach, it is very important to educate the future leaders of the digital transformation who are able to implement the GovStack vision. As GovStack requires various knowledge in the field of transformation the academic education path should follow the [GovStack's standard users profiles](../../../govstack-implementation-playbook/digital-team-composition/user-profiles-taxonomy.md).
 {% endtab %}
 
 {% tab title="Learning Content" %}

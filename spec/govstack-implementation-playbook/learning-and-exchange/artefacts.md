@@ -132,7 +132,7 @@ Part of Module 6 n GovStack LMS
 
 Description of artefact: This artefact describes the various stakeholders that support capacity building during the digital transformation process. Each identified role's qualifications are described in equal detail.
 
-Link to artefact: [User Profiles taxonomy](../digital-team-composition/govstack-user-profiles-taxonomy.md)
+Link to artefact: [User Profiles taxonomy](../digital-team-composition/user-profiles-taxonomy.md)
 
 Part of Module 6 on GovStack LMS
 
