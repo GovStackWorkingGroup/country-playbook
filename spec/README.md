@@ -12,7 +12,7 @@ The Playbook is intended to be used by digital teams - service designers, soluti
 
 ### How is the playbook structured?
 
-Each section of the playbook suggests activities, provides examples, resources, and suggests roles within a digital team responsible for implementing the sugeste any given activity.&#x20;
+Each section of the playbook suggests activities, provides examples, resources, and suggests roles within a digital team responsible for implementing the suggested activity.&#x20;
 
 The playbook references examples from countries that participate in GovStack communities of practice like the WSIS Special Prize on Service Design, CIO Digital Leaders Forum, and countries that currently are implementing using [GovStack tools and resources](https://www.govstack.global/our-offerings/).&#x20;
 
