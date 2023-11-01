@@ -8,9 +8,9 @@ Reference architecture is the blueprint used to put the pieces of the organizati
 * Establishing standard systems&#x20;
 * Establishing a common way to exchange information
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-03-31 125720.png" alt=""><figcaption><p>Example: Enterprise Architecture from Abu Dabhi, Finalist of GovStack WSIS Special Prize 2023</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-03-31 125720.png" alt=""><figcaption><p>Example: Enterprise Architecture from Abu Dabhi, Finalist of GovStack WSIS Special Prize 2023</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/21.-GERA---Government-Enterprise-Reference-Architecture.jpg" alt=""><figcaption><p>Government Ecosystem Reference Architecture (GERA)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/21.-GERA---Government-Enterprise-Reference-Architecture.jpg" alt=""><figcaption><p>Government Ecosystem Reference Architecture (GERA)</p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Activities" %}
@@ -25,7 +25,7 @@ Reference architecture is the blueprint used to put the pieces of the organizati
 
 * In Australia, their [reference architecture document](https://www.architecture.dta.gov.au/sp\_aga2?id=aga2\_how\_to\_use) provides digital teams the guidance they need to align current and emerging tech into a sound orchestration of solutions to enable digital government service design and delivery
 
-<figure><img src="../.gitbook/assets/20230118 - DCM visual for web - 18 Jan &#x27;23-1.jpg" alt=""><figcaption><p>Source: Australian <a href="https://www.architecture.dta.gov.au/sys_attachment.do?sys_id=280cffba1b3ced10b46264ab274bcb2c">Reference Architecture</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/20230118 - DCM visual for web - 18 Jan &#x27;23-1.jpg" alt=""><figcaption><p>Source: Australian <a href="https://www.architecture.dta.gov.au/sys_attachment.do?sys_id=280cffba1b3ced10b46264ab274bcb2c">Reference Architecture</a></p></figcaption></figure>
 
 {% embed url="https://youtu.be/NSBtgW09mHo" %}
 Australian Whole of Government Architecture &#x20;

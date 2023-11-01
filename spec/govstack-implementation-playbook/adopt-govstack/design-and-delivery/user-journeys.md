@@ -1,8 +1,8 @@
-# User Journeys
+# User journeys
 
 Understanding who we are solving a problem for is important for creating user-centric digital services. An 'As-Is' user journey can help identify touchpoints, inefficiencies, pain points, opportunities for improvement and can inform the design of a 'To-Be' user journey that represents the desired state of the user experience after changes have been made.
 
-<figure><img src="../../.gitbook/assets/5. As-is initial-to-be user journey (1).jpg" alt=""><figcaption><p>As-Is and To-Be user journeys</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5. As-is initial-to-be user journey (1).jpg" alt=""><figcaption><p>As-Is and To-Be user journeys</p></figcaption></figure>
 
 {% hint style="info" %}
 Abu Dhabi Digital Authority aligned its digitization strategy around 80 user journeys available through TAMM, a one-stop shop for all digital government services.
@@ -33,7 +33,7 @@ The 'To-Be' user journey is created in the context of a redesign or improvement 
 Find below a translated version of the aforementioned methodology.
 {% endhint %}
 
-{% file src="../../.gitbook/assets/metodologia_privind_reingineria_serviciilor_publice (2).pdf" %}
+{% file src="../../../.gitbook/assets/metodologia_privind_reingineria_serviciilor_publice (2).pdf" %}
 
 {% tabs %}
 {% tab title="Activities / Resources" %}
@@ -42,7 +42,7 @@ Find below a translated version of the aforementioned methodology.
 * Conduct user research using [interviews](https://methods.18f.gov/stakeholder-and-user-interviews), [contextual inquiries](https://methods.18f.gov/contextual-inquiry), [heuristic evaluation](https://methods.18f.gov/heuristic-evaluation), with [consent](https://handbook.tts.gsa.gov/research-guidelines/). (Source: 18F and TTS)
 * Use GovStack [user journey template](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-5-rfi-5) to map 'As-Is' and 'To-Be' user journeys. Example of 'Initial To-Be' and 'To-Be' user journeys for [Extended Producer responsibility (EPR) in Rwanda](https://miro.com/app/board/uXjVP56Uir8=/?share\_link\_id=755323073673).
 
-<figure><img src="../../.gitbook/assets/55.-Initial-journey-to-be-journey.jpg" alt=""><figcaption><p> <a href="https://miro.com/app/board/uXjVP56Uir8=/?share_link_id=755323073673">Extended Producer responsibility (EPR) in Rwanda</a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/55.-Initial-journey-to-be-journey.jpg" alt=""><figcaption><p> <a href="https://miro.com/app/board/uXjVP56Uir8=/?share_link_id=755323073673">Extended Producer responsibility (EPR) in Rwanda</a>.</p></figcaption></figure>
 
 * [Synthesize user research](https://methods.18f.gov/): Methods provide instructions on several different ways to tell users’ stories, including[ journey maps](https://methods.18f.gov/journey-mapping),[ user scenarios](https://methods.18f.gov/user-scenarios),[ storyboards](https://methods.18f.gov/storyboarding). (Source: 18F)
 * Depending on the complexity of the service, you can request alignment from business leads on initial prioritization to focus on additional research activities.

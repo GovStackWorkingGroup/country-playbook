@@ -1,6 +1,6 @@
 # Maturity assessment
 
-<figure><img src="../.gitbook/assets/6. Digital Strategy and Governance (2) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6. Digital Strategy and Governance (2) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 A maturity assessment provides stakeholders with a good understanding of the current digitalization landscape providing clarity to identify strengths and opportunities for improvement. Based on that assessment, governments are better positioned to establish policy priorities to reach higher maturity levels.
 
@@ -22,7 +22,7 @@ The UNDP Digital Maturity Assessment can be used to evaluate the current potenti
 
 As in the case of Lao PDR, it was used to evaluate how ICT solutions in government can continue to improve operational efficiency and user satisfaction.
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-10-27 120535.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-27 120535.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="GovTech Maturity Index (GTMI)" %}
@@ -64,7 +64,7 @@ IMAPS (European Commission 2022) looks at three different service areas (see IMA
 
 </details>
 
-<figure><img src="../.gitbook/assets/GetImage(7).png" alt=""><figcaption><p><a href="https://joinup.ec.europa.eu/sites/default/files/inline-images/Picture1_13.png">IMAPS conceptual model</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GetImage(7).png" alt=""><figcaption><p><a href="https://joinup.ec.europa.eu/sites/default/files/inline-images/Picture1_13.png">IMAPS conceptual model</a></p></figcaption></figure>
 
 <details>
 
@@ -78,7 +78,7 @@ IMAPS (European Commission 2022) looks at three different service areas (see IMA
 
 </details>
 
-<figure><img src="../.gitbook/assets/iop_levels.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/iop_levels.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -146,7 +146,7 @@ Comparison of mainstream frameworks used in IT
 
 The CMMI and ITIL frameworks use a 5-point maturity scale, and COBIT adds another step to the scale, also describing the 0-level in the model. A summary of the maturity scale of the frameworks examined and the keywords corresponding to the maturity levels is given in the Table below:
 
-<figure><img src="../.gitbook/assets/GetImage(6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GetImage(6).png" alt=""><figcaption></figcaption></figure>
 
 For maturity models fod ITSM see also: [https://www.bmc.com/blogs/maturity-model-itsm/](https://www.bmc.com/blogs/maturity-model-itsm/) (based on ITIL)
 {% endtab %}
@@ -158,7 +158,7 @@ For maturity models fod ITSM see also: [https://www.bmc.com/blogs/maturity-model
 {% tab title="Comparing and Contrasting e-Government Maturity Models" %}
 [Comparing and Contrasting e-Government Maturity Models: A Qualitative-Meta Synthesis](https://bura.brunel.ac.uk/bitstream/2438/13415/1/Fulltext.pdf) (Almuftah, Weerakkody, and Sivarajah 2016) article compares 17 different e-government models. It emphasizes that most models have three main stages that capture the following dimensions: presence, communication, and integration. The table below shows the mapping of each model’s stage to the three proposed main stages (presence, communication, and integration).
 
-<figure><img src="../.gitbook/assets/GetImage(1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GetImage(1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="E-Government Maturity Model for Sustainable E-Government Service" %}
@@ -166,7 +166,7 @@ The article titled [“E-Government Maturity Model for Sustainable E-Government 
 
 The authors propose a new e-government maturity model that addresses the limitations of existing e-government maturity models and supports governments in developing countries to achieve sustainable e-government services. They have considered five determinants — a detailed process, streamlined services, agile accessibility, use of state-of-the-art technology, and trust and awareness. The proposed model was validated by employing an empirical investigation through case study and survey methods. The study finds that both the implementers (government) and adopters (users) of the e-government services benefited from the proposed model, resulting in increased sustainability of e-government services.
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-10-27 112931.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-10-27 112931.png" alt=""><figcaption></figcaption></figure>
 
 This model considered four implementation stages and emphasized the integration of e-government systems before invoking the transaction stage. The stages and the tasks under those stages were identified and are discussed below to provide a detailed plan for e-government implementation.&#x20;
 
@@ -222,7 +222,7 @@ Along with all the above activities, governments are to emphasize a program for 
 
 The maturity model emphasized streamlining e-government services for their sustainability. Streamlined services were defined as complete and integrated services, where stakeholders could acquire specific government services without having to visit relevant government offices. This would require the integration of e-government systems into various government departments. Integration is to be done along with the establishment of the electronic government infrastructure in order to save government resources, and to avoid the risk of data duplication, as shown in the figure. Without horizontal integration, governments could end up with several individual fragmented electronic government applications and data repositories. Horizontal integration would interconnect government departments that shared similar interests in order to avoid data duplication and to enhance service delivery. Furthermore, streamlined government services would eliminate the manual data processing layers from various government departments. This has high implications in the context of developing countries, where citizens have poor access to ICT tools, integrated databases, and authentication systems which would allow local government officials to better serve them. Therefore, we emphasized the integration of disparate and individual databases and applications before moving to the transaction stage.&#x20;
 
-<figure><img src="../.gitbook/assets/GetImage(4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GetImage(4).png" alt=""><figcaption></figcaption></figure>
 
 The tasks required to achieve streamlined e-government services were identified by the maturity model and are listed below.&#x20;
 

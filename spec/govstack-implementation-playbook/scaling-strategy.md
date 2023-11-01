@@ -11,7 +11,7 @@ Based on experience so far with the GovStack service design and delivery approac
 * Establish digital service teams within each government entity to:
   * Participate in the co-design sessions of the scaling strategy
   * Lead the implementation of the digitization roadmap within each entity
-* Define the structure of the catalog of services. Use RFI-II to assist in [Cataloguing the services](../3-terminology.md#service-catalog). &#x20;
+* Define the structure of the catalog of services. Use RFI-II to assist in [Cataloguing the services](3-terminology.md#service-catalog). &#x20;
 * Classify the cataloged services on the basis of their level of digitization:
   * Level 1- Informative: Information on the service is made available online yet the actual transaction happens in person.&#x20;
   * Level 2- Downloadable forms: The users can download and complete the forms while having to submit the same forms in-person or upload the documents.
@@ -32,7 +32,7 @@ Based on experience so far with the GovStack service design and delivery approac
   * Shared service policy, and
   * ICT procurement policy
 * Develop a capacity-building strategy for all public servants involved in the digitization of services and a digital inclusion strategy. [Use of Current digital capability in country (Request for Information, RFI-4)](https://govstack.gitbook.io/implementation-playbook/guide-de-mise-en-oeuvre-de-govstack/apprentissage-et-echange/artefacts#current-digital-capability-in-country-request-for-information-rfi-4) provides an understanding of the current status quo regarding digital capability in the country.
-* Implement a publicly accessible dashboard that showcases the strategy, progress made on the roadmap, performance indicators on each service and current country stack and generic workflows. Consider [list of generic workflows from Mexico](../learning-and-exchange/artefacts.md#list-of-generic-workflows).
+* Implement a publicly accessible dashboard that showcases the strategy, progress made on the roadmap, performance indicators on each service and current country stack and generic workflows. Consider [list of generic workflows from Mexico](learning-and-exchange/artefacts.md#list-of-generic-workflows).
 * Develop a thoughtful and practical digital inclusion strategy.&#x20;
 * Next Steps:
   * Public launch of  detailed digitization roadmap.

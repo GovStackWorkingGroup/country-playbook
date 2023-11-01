@@ -16,7 +16,7 @@ The exchange provides a marketplace to connect organizations to opportunities th
 GovExchange is continuously updated with new use cases, specifications, and products.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Untitled design (17).png" alt=""><figcaption><p><a href="https://exchange.dial.global/">GovExchange</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled design (17).png" alt=""><figcaption><p><a href="https://exchange.dial.global/">GovExchange</a></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Activites/resources" %}

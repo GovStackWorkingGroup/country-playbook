@@ -1,4 +1,4 @@
-# Adopt GovStack approach
+# Digital strategy
 
 ## GovStack approach in the country's digital strategy and roadmap
 
@@ -19,7 +19,7 @@ A comprehensive National Digital Agenda/Strategy:
 * Align the Strategy to the Sustainable Development Goals (SDGs)
 * Set a public dashboard to share progress in the implementation of the Agenda and its KPIs
 
-<figure><img src="../.gitbook/assets/MicrosoftTeams-image (28).png" alt=""><figcaption><p>Example of<a href="http://www.agendadigital.gob.cl/#/"> Chile Digital Agenda dashboard </a>showing progress on each action line covered in the agenda. Chile participated in GovStack WSIS Special Prize 2023.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MicrosoftTeams-image (28).png" alt=""><figcaption><p>Example of<a href="http://www.agendadigital.gob.cl/#/"> Chile Digital Agenda dashboard </a>showing progress on each action line covered in the agenda. Chile participated in GovStack WSIS Special Prize 2023.</p></figcaption></figure>
 
 * Launch  the digital agenda with the highest political support - Coordinate a presidential event to launch the agenda where all stakeholders that participated in the co-design are recognized and encouraged to follow with its implementation
 * Start the implementation mechanism right after the launch to keep the momentum&#x20;

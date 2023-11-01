@@ -75,7 +75,7 @@ It will support multiple viewpoints on the same use case being demonstrated. As 
 
 *
 
-    <figure><img src="../../.gitbook/assets/playbook sandbox.png" alt=""><figcaption><p>GovStack Sandbox overview</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/playbook sandbox.png" alt=""><figcaption><p>GovStack Sandbox overview</p></figcaption></figure>
 
 To support the uses of sandbox in the development and demonstration of the aforementioned use cases, four Building Blocks that comply with the GovStack Building Block Technical Specifications will be integrated:
 
@@ -93,7 +93,7 @@ Depending on the requirements and scope of a prototype, GovStack Sandbox could b
 * Full system prototype: This prototype covers every step and scenario within a use case and utilizes the entire stack available to demonstrate a complete e-service.&#x20;
 *
 
-    <figure><img src="../../.gitbook/assets/prototyping.png" alt=""><figcaption><p>Types of prototypes in GovStack sandbox</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/prototyping.png" alt=""><figcaption><p>Types of prototypes in GovStack sandbox</p></figcaption></figure>
 
 </details>
 
@@ -110,7 +110,7 @@ Following are the stages of prototyping a digital government service, from α ve
 * Launch version: The launch version is the first version of the service that is released to the public. It includes the core features and functionalities that meet the needs of the users and are further iterated based on future user feedback.&#x20;
 *
 
-    <figure><img src="../../.gitbook/assets/Protype (8).png" alt=""><figcaption><p>Iterative prototyping</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Protype (8).png" alt=""><figcaption><p>Iterative prototyping</p></figcaption></figure>
 
 </details>
 
