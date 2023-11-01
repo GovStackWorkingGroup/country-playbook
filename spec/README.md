@@ -4,7 +4,7 @@
 
 ### What is the playbook?
 
-The GovStack Implementation Playbook provides examples of how governments can incorporate a Building Block (BB) approach at the level of institutional governance, ICT policy, citizen-centric co-design & delivery of government digital services as referred to in the [GovStack Implementation Framework](govstack-implementation-playbook/implementation-framework.md).&#x20;
+The GovStack Implementation Playbook provides guidance and examples of how governments can incorporate a Building Block (BB) and principles to design and deliver government digital services at national, state, municipal, and local levels. Governments can get started from a variety of different points depending on their objectives, context, and needs. GovStack can be used by governments at any stage of their digital journey.
 
 ### &#x20;Who's the playbook for?
 
