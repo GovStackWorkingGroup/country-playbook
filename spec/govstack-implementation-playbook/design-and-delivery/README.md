@@ -17,3 +17,7 @@ GovStack has also developed [technical specifications](https://govstack.gitbook.
 GovStack provides a sandbox that allows its users to see the UX/UI guidelines and Building blocks in action.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-10-31 192008.png" alt=""><figcaption><p>GovStack sandbox documentation (Currently under development)</p></figcaption></figure>
+
+A real-world example of service design and delivery roadmap is found in the framework put in place by the Government of Ukraine and presented below.
+
+<figure><img src="../../.gitbook/assets/21a.-GovStack-country-engagement-journey (1) (1).jpg" alt=""><figcaption><p> Government of Ukraine - service design and delivery rodmap</p></figcaption></figure>
