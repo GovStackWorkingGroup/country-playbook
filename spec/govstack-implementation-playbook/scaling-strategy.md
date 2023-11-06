@@ -2,54 +2,50 @@
 
 ## &#x20;Co-design the scaling strategy
 
-Based on experience so far with the GovStack service design and delivery approach, digital teams can iterate and streamline the process of identifying priority services and critical Building Blocks to be added to the National stack. A digital roadmap facilitates the digitization of 100% of government services by improving current digital services as well as digitizing new services as mapped on the User/Business life event.
+The scaling strategy refers to a plan or approach (digitization roadmap) to grow the national tech-stack, infrastructure, capacity building, and the number of citizen-centric digital government services according to the [prioritization strategy](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/501/govstack-implementation-playbook/adopt-govstack/copy-of-service-prioritization) and simultaneously update legal frameworks.
 
+Countries can catalog services and identify existing software components, choose an initial prioritized service, and procure/develop/adopt additional building blocks to digitize the service.&#x20;
 
+<figure><img src="../.gitbook/assets/Kenya HoA Kick Off Workshop Nov 2022 - Mombasa  (1).jpg" alt=""><figcaption><p>Scalling the GovStack building block approach</p></figcaption></figure>
+
+As depicted in the image above, experience from the initial prioritized services digital teams can iterate, streamline, and further customize the GovStack service design and delivery approach to scale it for the remaining services on their [service catalog](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/501/govstack-implementation-playbook/adopt-govstack/service-catalog).
+
+The specific strategy for scaling can vary depending on the country's financial resources, digital talent availability, GovTech ecosystem maturity among other factors that guide the scope of the activities within a timeframe captured in a digitization roadmap.&#x20;
+
+The image below is an example of a digitization roadmap template that will be developed as part of the Horn of Africa GovStack collaboration. &#x20;
+
+<figure><img src="../.gitbook/assets/Roadmap Estdev.png" alt=""><figcaption><p>EstDev roadmap template for Horn of Africa </p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Activities /resources" %}
 * Establish digital service teams within each government entity to:
-  * Participate in the co-design sessions of the scaling strategy
-  * Lead the implementation of the digitization roadmap within each entity
-* Define the structure of the catalog of services. Use RFI-II to assist in [Cataloguing the services](3-terminology.md#service-catalog). &#x20;
-* Classify the cataloged services on the basis of their level of digitization:
-  * Level 1- Informative: Information on the service is made available online yet the actual transaction happens in person.&#x20;
-  * Level 2- Downloadable forms: The users can download and complete the forms while having to submit the same forms in-person or upload the documents.
-  * Level 3- Submission of webform: Users can validate data showcased on the web form, upload the required documents and fill out forms and submit them remotely.
-  * Level 4: 100% online
-* Map the services from the catalog on the [User/Business Life event map](https://govstack.gitbook.io/implementation-playbook/guide-de-mise-en-oeuvre-de-govstack/apprentissage-et-echange/artefacts#user-business-life-events-request-for-information-rfi-3). The user/business life event map gives an understanding of how services are related to one another.
-* Prioritise and rank the cataloged services on the basis of their impact and feasibility of digitization.
-* Agree on a detailed digitization roadmap that indicates the number of services to be digitized each year according to the user needs,[ user journeys](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/), and life events using the Building Block approach. Example of digital roadmap:&#x20;
-  * [Digitisation of Government services from Australia, ](https://www.dta.gov.au/sites/default/files/2021-12/Digital%20Government%20Strategy\_web-ready\_FA.pdf)
-  * [Peru digital government dashboard](https://indicadores.digital.gob.pe/)
-  * [Uk governemnt performance dashboard](https://webarchive.nationalarchives.gov.uk/ukgwa/20210315084926/https://www.gov.uk/performance)
-* Develop the systems catalog to identify reusable software components that can support the digitization of services.
-* Identify missing Building Blocks/ reusable software components that are critical in building the national stack.&#x20;
-* Define the approach to adding the missing Building Blocks within the national stack, either through tendering, developing indigenously or re-using existing Building Blocks listed in [DIAL's catalogue](https://solutions.dial.community/building\_blocks) or GovStack sandbox.
+  * Participate in the co-design sessions of the scaling strategy/digital roadmap
+  * Agree on a follow-up mechanism and KPIs for the implementation of the roadmap
+  * Lead the implementation of the scaling strategy/digitization roadmap within each entity
+  * Align ICT investment/procurement to scaling strategy
+* Publish the digitization roadmap as a legally binding digital norm for all government entities to follow and implement. An example of a digital roadmap is [Australia](https://www.dta.gov.au/sites/default/files/2021-12/Digital%20Government%20Strategy\_web-ready\_FA.pdf).
 * Introduce a comprehensive regulatory framework/ set of bylaws to make the roadmap of digitizing services actionable. This will include:
-  * Digital Service Standard and Delivery Protocol,
+  * Digital Service Standard and Delivery Protocol, following are a few examples: [Mexico](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/); [UK](https://www.gov.uk/service-manual), [France](https://www.systeme-de-design.gouv.fr/)
   * Enterprise architecture,&#x20;
-  * Shared service policy, and
+  * Shared service policy with a cross-cutting mandate, and
   * ICT procurement policy
-* Develop a capacity-building strategy for all public servants involved in the digitization of services and a digital inclusion strategy. [Use of Current digital capability in country (Request for Information, RFI-4)](https://govstack.gitbook.io/implementation-playbook/guide-de-mise-en-oeuvre-de-govstack/apprentissage-et-echange/artefacts#current-digital-capability-in-country-request-for-information-rfi-4) provides an understanding of the current status quo regarding digital capability in the country.
-* Implement a publicly accessible dashboard that showcases the strategy, progress made on the roadmap, performance indicators on each service and current country stack and generic workflows. Consider [list of generic workflows from Mexico](learning-and-exchange/artefacts.md#list-of-generic-workflows).
-* Develop a thoughtful and practical digital inclusion strategy.&#x20;
-* Next Steps:
-  * Public launch of  detailed digitization roadmap.
-  * Followup on the implementation of the roadmap
-  * Procurement/set-up of missing Building Blocks
-  * Maintain, update, publish and ensure digital teams across departments use only the latest versions of the:
-    * Systems catalogue
-    * Service catalog
-    * Capacity building strategy
-    * Digital inclusion strategy
-  * Publish a dashboard that showcases the strategy, progress made on the roadmap and performance indicators on each service.
+* Develop a [capacity-building strategy](learning-and-exchange/capacity-development/capacity-building-framework.md) for all public servants involved in the digitization of services and a digital inclusion strategy for the users of the digital services. [Use of Current digital capability in the country (Request for Information, RFI-4)](https://govstack.gitbook.io/implementation-playbook/guide-de-mise-en-oeuvre-de-govstack/apprentissage-et-echange/artefacts#current-digital-capability-in-country-request-for-information-rfi-4) provides an understanding of the current status quo regarding digital capability in the country.
+* Procure/set-up Building Blocks
+* Maintain, update, publish, and ensure digital teams across departments use only the latest versions of the:
+  * Reference architecture
+  * Systems catalog
+  * [Service catalog](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/501/govstack-implementation-playbook/adopt-govstack/service-catalog)
+  * [Capacity building strategy](learning-and-exchange/capacity-development/capacity-building-framework.md)
+  * Digital inclusion strategy
+* Implement a publicly accessible dashboard that showcases the strategy, progress made on the roadmap, and performance indicators. Examples of dashboards are:
+  * [Peru digital government dashboard](https://indicadores.digital.gob.pe/)
+  * [UK governemnt performance dashboard](https://webarchive.nationalarchives.gov.uk/ukgwa/20210315084926/https://www.gov.uk/performance)
 {% endtab %}
 
 {% tab title="Responsabilities" %}
 Who does what:
 
-Scaling Strategy requires the following top management:
+The Scaling Strategy requires the following top management involvement:
 
 * [Chief Information Officer](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/annex/govstack-user-profiles-taxonomy#chief-information-officer)
 * Chief of Design
@@ -61,11 +57,9 @@ Scaling Strategy requires the following top management:
 
 {% tab title="Deliverables" %}
 * Digital service teams
-* Comprehensive Service Catalog
-* &#x20;Detailed digitization roadmap&#x20;
-* &#x20;Updated systems catalog&#x20;
+* Scaling strategy/digitization roadmap
 * Comprehensive regulatory framework/ set of bylaws to make the roadmap of digitizing services actionable
 * Capacity-building strategy
-* Dashboard that showcases the strategy, progress made on the roadmap, performance indicators on each service and current country stack and generic workflows
+* A dashboard that showcases the strategy, progress made on the roadmap, performance indicators
 {% endtab %}
 {% endtabs %}

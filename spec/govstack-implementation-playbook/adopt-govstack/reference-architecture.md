@@ -1,12 +1,11 @@
-# Reference Architecture
+# Reference architecture
 
-Reference architecture is the blueprint used to put the pieces of the organizational puzzle together. Digital teams use reference architecture to promote the reuse of common assets and identify capability gaps. It does this by:&#x20;
+Reference architecture is the blueprint used to put the pieces of the organizational & systems puzzle together. Digital teams use reference architecture to promote the reuse of common assets and identify capability gaps. It:&#x20;
 
-* Creating a common language for consistent communication within the organization&#x20;
-* Outlining all capabilities needed to achieve the best outcome&#x20;
-* Improving the ability of systems or software to exchange and make use of information &#x20;
-* Establishing standard systems&#x20;
-* Establishing a common way to exchange information
+* Defines a common language for consistent communication within the organization&#x20;
+* Outlines all capabilities needed to achieve the best outcome&#x20;
+* Provides the ability of systems or software to exchange and make use of information &#x20;
+* Establishes standard systems, and a common way to exchange information
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-03-31 125720.png" alt=""><figcaption><p>Example: Enterprise Architecture from Abu Dabhi, Finalist of GovStack WSIS Special Prize 2023</p></figcaption></figure>
 
@@ -14,12 +13,9 @@ Reference architecture is the blueprint used to put the pieces of the organizati
 
 {% tabs %}
 {% tab title="Activities" %}
-* Review the GovStack Government Reference Architecture document
-* Complement current GERA policy with the features that best fit your government's needs
-* Identify learning modules within GovStack LMS to design a learning path for your digital team, as well as, digital teams in government entities &#x20;
-* Alling ICT procurement guidelines to the GERA document
-* Oficialized GERA Governance Committee as part of the CIO Council work plan, or the Inter-Ministerial Commission for the Development of Digital Government&#x20;
-* Monitor and iterate the GERA Document as needed it to keep relevant for government service design and delivery at scale&#x20;
+* Develop the systems/software/platform catalog to identify reusable software components/Building Blocks that can support the digitization of services.
+* Identify additional Building Blocks/ reusable software components that are critical in building a national stack that can facilitate the development of prioritized citizen-centric digital services.&#x20;
+* Define the approach to adding new/updated Building Blocks within the national stack, either through tendering, developing indigenously, or re-using existing Building Blocks. [GovExchange ](https://exchange.dial.global/)provides a catalog of digital public goods that can be used as a reference.
 
 **Examples of Reference Architectures:**
 

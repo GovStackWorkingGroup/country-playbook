@@ -295,6 +295,10 @@ Part of Module 8 on GovStack LMS
 {% endtab %}
 
 {% tab title="Digital Service Design Standard and Delivery Protocol" %}
+### Digital service standard from Mexico
+
+&#x20;Link to [document](https://drive.google.com/file/d/1hQNg6098758RFlJ\_nD1ETMBKgyWmxgq0/view?usp=sharing).
+
 ### User personas
 
 Description of artefact: User personas are archetypical users whose goals and characteristics represent the needs of a larger group of users.
@@ -397,11 +401,11 @@ Part of Module on GovStack LMS
 
 
 
-### List of generic workflows&#x20;
+### List of generic journeys
 
-Description of service: This document allows describes standardised, generic, reusable workflows (Example: Consultation to a registry, authorisation of a permit, renewal of a service and declining of a service) that accelerate  the design and development of digital services.
+Description of service: This document describes standardised, generic journeys (Example: Consultation to a registry, authorisation of a permit, renewal of a service and declining of a service) that accelerate the design and development of digital services in the Mexican context.
 
-Example of List of generic workflows Guide for the Digitization of Government Procedures and Services
+Example of List of generic journeys Guide for the Digitization of Government Procedures and Services
 
 {% file src="../../.gitbook/assets/Gu_a_de_procesos_de_tramitaci_n_electr_nica (1) (2).pdf" %}
 {% endtab %}
