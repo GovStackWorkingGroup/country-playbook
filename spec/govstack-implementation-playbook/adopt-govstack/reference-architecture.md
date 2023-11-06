@@ -34,9 +34,9 @@ Australian Whole of Government Architecture &#x20;
 {% tab title="Responsabilities" %}
 Who does what:
 
-* Chief government architects - Coordinate the work around the GERA document&#x20;
-* [Solutions architects](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/389/govstack-implementation-playbook/sample-digital-team-composition/govstack-user-profiles-taxonomy#solution-architect) from government entities - Actively participate in the co-design of the document, the GERA working group, and the training program&#x20;
-* [Service designers](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) - Actively participate in co-design sessions, the GERA working groups and the training program&#x20;
+* Chief government architects - Coordinate the work around the reference architecture&#x20;
+* [Solutions architects](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/389/govstack-implementation-playbook/sample-digital-team-composition/govstack-user-profiles-taxonomy#solution-architect) from government entities - Actively participate in the co-design of the document, the reference architecture working group, and the training program&#x20;
+* [Service designers](http://127.0.0.1:5000/o/pxmRWOPoaU8fUAbbcrus/s/zdXe8NbIMZIv5sydPBf6/) - Actively participate in co-design sessions, the reference architecture working groups, and the training program&#x20;
 {% endtab %}
 
 {% tab title="Deliverables" %}
