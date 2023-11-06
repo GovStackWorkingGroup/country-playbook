@@ -1,6 +1,8 @@
 # Service catalog
 
-No process, service, or product lives in a vacuum, thus it is important to understand how these fit together to impact the overall user experience. This interplay of services based on the life events that trigger their need can be mapped using the [User/Business Life event map](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-3-rfi-3). Once the services are mapped, they can be further analyzed to understand the level of their digital maturity and potential for simplification.
+A government digital service catalog is an online platform or database that provides information about various digital services and resources offered by a government to its citizens, businesses, and other stakeholders. The service catalog can be made available to users with a consistent/unified user experience.&#x20;
+
+No service lives in a vacuum, thus it is important to understand how they fit together to impact the overall user experience. This interplay of services based on the life events that trigger their need can be mapped using the [User/Business Life event map](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#request-for-information-3-rfi-3). Once the services are mapped, they can be further analyzed to understand the level of their digital maturity and potential for simplification.
 
 <figure><img src="../../.gitbook/assets/life events.png" alt=""><figcaption><p>Go to <a href="https://miro.com/app/board/uXjVOiQif00=/?share_link_id=431542248103">User/Business life events template</a></p></figcaption></figure>
 
