@@ -26,4 +26,4 @@ The digitization of priority services will allow digital teams to gain valuable 
 
 
 
-<figure><img src="../../.gitbook/assets/Kenya HoA Kick Off Workshop Nov 2022 - Mombasa  (1) (1).jpg" alt=""><figcaption><p>Approach to build technology stacks sustainably</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Use pre-.png" alt=""><figcaption><p>Approach to build technology stacks sustainably</p></figcaption></figure>
