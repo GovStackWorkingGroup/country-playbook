@@ -271,7 +271,7 @@ It covers all kinds of competencies and is not limited to IT capabilities only. 
 
 ### Study Programs Structure
 
-GovStack uses a descriptive and e-learning approach, that is the [GovStack Learning Management System](../../../govstack-implementation-playbook/learning-and-exchange/govlearn.md) to train the stakeholders.&#x20;
+GovStack uses a descriptive and e-learning approach, that is the [GovStack Learning Management System](broken-reference) to train the stakeholders.&#x20;
 
 The main learning outcomes to support the GovStack's approach will give &#x20;
 

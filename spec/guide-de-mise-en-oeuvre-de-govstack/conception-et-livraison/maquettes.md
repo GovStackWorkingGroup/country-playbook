@@ -74,7 +74,7 @@ Que faire ensuite&#x20;
 {% endtab %}
 
 {% tab title="Resources" %}
-* LMS Modules: [1](../../govstack-implementation-playbook/learning-and-exchange/govlearn.md#awareness-building-and-expression-of-interest),[2](../../govstack-implementation-playbook/learning-and-exchange/govlearn.md#agreement-of-cooperation),[3](../../govstack-implementation-playbook/learning-and-exchange/govlearn.md#govstack-internal-kick-off) &#x20;
+* LMS Modules: [1](broken-reference),[2](broken-reference),[3](broken-reference) &#x20;
 * [Gov.uk Design system](https://design-system.service.gov.uk/community/resources-and-tools/)&#x20;
 * [Be creative and think out of the box. Feel free to use Gov.uk sketches template](https://designnotes.blog.gov.uk/2014/05/22/gov-uk-sketching-templates/)&#x20;
 * [Beginner's Guide | Mockitt Tutorial](https://www.youtube.com/watch?v=X5HVZQ9Nii4)&#x20;

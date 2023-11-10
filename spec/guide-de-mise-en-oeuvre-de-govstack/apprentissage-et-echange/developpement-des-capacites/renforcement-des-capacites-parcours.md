@@ -35,7 +35,7 @@ The process of these activities and main tools used can be found in the Capacity
 
 <figure><img src="../../../.gitbook/assets/Capacity Building Framework (4).png" alt=""><figcaption><p> <a href="https://miro.com/app/board/uXjVPfe_-C4=/">Capacity Building Framework Journey</a>. </p></figcaption></figure>
 
-Additionally, GovStack has created a supportive environment for capacity building by creating various training materials collected in [GovStack LMS](../../../govstack-implementation-playbook/learning-and-exchange/govlearn.md). It consists of different modules which are aimed towards supporting capacity building phases during the whole [GovStack implementation Journey](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B5E3EDC8E-BC41-478D-9FF7-F6A701D3D8E1%7D\&file=version0.7Country%20Engagement%20Journey.pptx\&action=edit\&mobileredirect=true\&cid=83986c72-9b1b-46c0-99b3-4b4a30a6c1f7).
+Additionally, GovStack has created a supportive environment for capacity building by creating various training materials collected in [GovStack LMS](broken-reference). It consists of different modules which are aimed towards supporting capacity building phases during the whole [GovStack implementation Journey](https://gizonline.sharepoint.com/:p:/r/sites/ICTBuildingBlocks-CommondigitalSDGplatformwithguests/\_layouts/15/Doc.aspx?sourcedoc=%7B5E3EDC8E-BC41-478D-9FF7-F6A701D3D8E1%7D\&file=version0.7Country%20Engagement%20Journey.pptx\&action=edit\&mobileredirect=true\&cid=83986c72-9b1b-46c0-99b3-4b4a30a6c1f7).
 
 ### Development and Customization of Capacity Building
 

@@ -36,7 +36,6 @@
       * [Digital skills](govstack-implementation-playbook/learning-and-exchange/capacity-building/digital-skills.md)
       * [Capacity assessment](govstack-implementation-playbook/learning-and-exchange/capacity-building/capacity-assessment.md)
       * [Academic support](govstack-implementation-playbook/learning-and-exchange/capacity-development/academic-support-to-capacity-development.md)
-    * [GovLearn](govstack-implementation-playbook/learning-and-exchange/govlearn.md)
     * [Artefacts](govstack-implementation-playbook/learning-and-exchange/artefacts.md)
   * [Change management](govstack-implementation-playbook/change-management/README.md)
     * [Approach](govstack-implementation-playbook/change-management/approach.md)
