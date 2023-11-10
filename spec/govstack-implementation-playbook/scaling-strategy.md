@@ -6,7 +6,7 @@ The scaling strategy refers to a plan or approach (digitization roadmap) to grow
 
 Countries can catalog services and identify existing software components, choose an initial prioritized service, and procure/develop/adopt additional building blocks to digitize the service.&#x20;
 
-<figure><img src="../.gitbook/assets/Kenya HoA Kick Off Workshop Nov 2022 - Mombasa  (1).jpg" alt=""><figcaption><p>Scalling the GovStack building block approach</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Use pre-.png" alt=""><figcaption><p>Scalling the GovStack building block approach</p></figcaption></figure>
 
 As depicted in the image above, experience from the initial prioritized services digital teams can iterate, streamline, and further customize the GovStack service design and delivery approach to scale it for the remaining services on their [service catalog](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/501/govstack-implementation-playbook/adopt-govstack/service-catalog).
 
