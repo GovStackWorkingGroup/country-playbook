@@ -1,4 +1,4 @@
-# CB framework
+# Framework
 
 ## Capacity building Framework
 
@@ -158,7 +158,7 @@ _**The primary objectives of the training are as follows**_
 
 Seminar/workshop, Instructor Led Training (ILT), Virtual Classroom (VC), e-Learning, Blended mode of learning.
 
-Subsequently, the National eGovernance Division (NeGD) under the Ministry of Electronics and Information Technology (MeitY), has extensively conducted a research with various key stakeholders and has developed[ “eGovernance Competency Framework (eGCF)](academic-support-to-capacity-development.md#skills-and-competences-to-support-academic-programmes) for Digital India with Implementation Toolkit” in the year 2014. This is a crucial document for conducting all the eGovernance Capacity Building initiatives for the civil servants of federal/state/union territory ministries/departments in India.&#x20;
+Subsequently, the National eGovernance Division (NeGD) under the Ministry of Electronics and Information Technology (MeitY), has extensively conducted a research with various key stakeholders and has developed[ “eGovernance Competency Framework (eGCF)](../capacity-development/academic-support-to-capacity-development.md#skills-and-competences-to-support-academic-programmes) for Digital India with Implementation Toolkit” in the year 2014. This is a crucial document for conducting all the eGovernance Capacity Building initiatives for the civil servants of federal/state/union territory ministries/departments in India.&#x20;
 
 </details>
 

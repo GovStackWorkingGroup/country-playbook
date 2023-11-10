@@ -29,13 +29,13 @@ The image below is an example of a digitization roadmap template that will be de
   * Enterprise architecture,&#x20;
   * Shared service policy with a cross-cutting mandate, and
   * ICT procurement policy
-* Develop a [capacity-building strategy](learning-and-exchange/capacity-development/capacity-building-framework.md) for all public servants involved in the digitization of services and a digital inclusion strategy for the users of the digital services. [Use of Current digital capability in the country (Request for Information, RFI-4)](https://govstack.gitbook.io/implementation-playbook/guide-de-mise-en-oeuvre-de-govstack/apprentissage-et-echange/artefacts#current-digital-capability-in-country-request-for-information-rfi-4) provides an understanding of the current status quo regarding digital capability in the country.
+* Develop a [capacity-building strategy](learning-and-exchange/capacity-building/framework.md) for all public servants involved in the digitization of services and a digital inclusion strategy for the users of the digital services. [Use of Current digital capability in the country (Request for Information, RFI-4)](https://govstack.gitbook.io/implementation-playbook/guide-de-mise-en-oeuvre-de-govstack/apprentissage-et-echange/artefacts#current-digital-capability-in-country-request-for-information-rfi-4) provides an understanding of the current status quo regarding digital capability in the country.
 * Procure/set-up Building Blocks
 * Maintain, update, publish, and ensure digital teams across departments use only the latest versions of the:
   * Reference architecture
   * Systems catalog
   * [Service catalog](https://app.gitbook.com/o/pxmRWOPoaU8fUAbbcrus/s/4D3oEcPGpYoKnwkQmCzJ/\~/changes/501/govstack-implementation-playbook/adopt-govstack/service-catalog)
-  * [Capacity building strategy](learning-and-exchange/capacity-development/capacity-building-framework.md)
+  * [Capacity building strategy](learning-and-exchange/capacity-building/framework.md)
   * Digital inclusion strategy
 * Implement a publicly accessible dashboard that showcases the strategy, progress made on the roadmap, and performance indicators. Examples of dashboards are:
   * [Peru digital government dashboard](https://indicadores.digital.gob.pe/)
