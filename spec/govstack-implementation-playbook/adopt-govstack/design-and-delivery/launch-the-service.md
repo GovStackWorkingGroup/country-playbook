@@ -2,6 +2,8 @@
 
 The service is ready to be launched in a production environment once the functional prototype is tested and QA steps are followed. Migration process is dependent on the sandbox used to develop, test and iterate the service.&#x20;
 
+<figure><img src="../../../.gitbook/assets/AS.png" alt=""><figcaption><p><a href="https://www.mygov.in/aarogya-setu-app/">Lauch page for Aarogya Setu in India</a>, 2020 (Covid-19 response)</p></figcaption></figure>
+
 {% tabs %}
 {% tab title="Activities / Resources" %}
 * Release the newly digitized service on the country's production environment.

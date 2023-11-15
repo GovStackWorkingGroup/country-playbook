@@ -1,4 +1,4 @@
-# CB journey
+# Journey
 
 ### Capacity Building Journey&#x20;
 
