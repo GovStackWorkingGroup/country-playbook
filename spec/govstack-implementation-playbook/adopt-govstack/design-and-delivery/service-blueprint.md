@@ -7,12 +7,9 @@ Service blueprints are created using To-Be [user journeys](https://govstack.gitb
 * Actions and goals of service stakeholders and users
 * Different service users and entities involved in providing the service
 * Generic workflows
-* [Building Blocks](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/3-terminology#building-block)\
+* [Building Blocks](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/3-terminology#building-block)
 
-
-{% embed url="https://www.figma.com/file/v7rPzabWWEhGQcMfrsS4cM?fuid=1031671042446937934&prev-org-id=external-teams&prev-selected-view=recentsAndSharing&prev-tab=recently-viewed" %}
-Service Blueprint of Construction Permit
-{% endembed %}
+{% embed url="https://www.figma.com/file/v7rPzabWWEhGQcMfrsS4cM/Construction-Permit-Review-08%2F23%2F2023?node-id=0:1&t=R4ezQEsgDq1MDX92-1&type=whiteboard" %}
 
 <details>
 
