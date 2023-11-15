@@ -1,13 +1,8 @@
 # Service blueprint
 
-Service blueprints are companions to user journeys. They help organizations see the big picture of how a service is implemented and used. They pinpoint dependencies between user journeys of the service providers/government entities and users in the same visualization. They are instrumental in identifying and optimizing complex interactions, ultimately saving money for the organization and improving the experience for its users.
+Service Blueprints are a continuum of “to-be” journeys which are a series of diagrams that visualize the relationship between different components such as user action/goals, Building Blocks, and Data Input/output.
 
-Service blueprints are created using To-Be [user journeys](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/learning-and-exchange/artefacts#user-journey-request-for-information-rfi-5) developed in the previous step. They comprise a series of diagrams that visualize the relationship between:
-
-* Actions and goals of service stakeholders and users
-* Different service users and entities involved in providing the service
-* Generic workflows
-* [Building Blocks](https://govstack.gitbook.io/implementation-playbook/govstack-implementation-playbook/3-terminology#building-block)
+A service blueprint is a diagram that visualizes the relationships between different service components - people, properties (physical or digital evidence), and processes - that are directly tied to touchpoints in a specific customer journey.
 
 {% embed url="https://www.figma.com/file/v7rPzabWWEhGQcMfrsS4cM/Construction-Permit-Review-08%2F23%2F2023?node-id=0:1&t=R4ezQEsgDq1MDX92-1&type=whiteboard" %}
 
